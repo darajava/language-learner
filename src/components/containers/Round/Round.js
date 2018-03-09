@@ -30,7 +30,7 @@ class Round extends Component {
     }
 
     componentDidMount() {
-      document.addEventListener("keyup", this.handleKeyDown.bind(this));
+      document.addEventListener("input", this.handleKeyDown.bind(this));
     }
 
 
