@@ -11,7 +11,7 @@ class App extends Component {
           target.focus();
           target.click();
       }
-    })
+    });
 
     target.focus();
     target.click();

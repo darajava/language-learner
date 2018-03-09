@@ -2,6 +2,7 @@ import React from 'react';
 import CSSModules from 'react-css-modules';
 
 import styles from './styles.css';
+import Timer from '../Timer/Timer';
 
 const Question = (props) => {
   
@@ -14,10 +15,23 @@ const Question = (props) => {
   }
 
   return (
-    <div styleName={styleName}>
-      <div styleName='question'>{props.question}</div>
-      <div styleName='answer'>{props.answer}
+    <div styleName={styleName} onClick={props.error || props.correct ? () => props.reset() : undefined}>
+      <div styleName='question'>
+        <div>{props.question}</div>
+        <div styleName='name'>({props.name})</div>
+      </div>
+      
+
+      <div styleName='answer'>
+        {props.error ? props.answer : props.currentAnswer}
         <span styleName='underscore'>_</span>
+        <div styleName='wrong-answer'>
+          {props.error ? props.currentAnswer : ' '}
+        </div>
+      </div>
+      
+      <div styleName="timer" onClick={props.loseRound}>
+        <Timer progress={props.progress}/>
       </div>
     </div>
   );

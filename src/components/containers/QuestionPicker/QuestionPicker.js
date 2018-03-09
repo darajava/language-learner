@@ -29,8 +29,10 @@ class QuestionPicker extends Component {
       return (
         <div>
           <Round
-            question={this.state.word.en}
-            answer={this.state.word.de}
+            answer={this.state.word.en}
+            question={this.state.word.de}
+            name={this.state.word.name}
+            newQuestion={this.selectQuestion}
           />
         </div>
       );
