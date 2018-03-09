@@ -23,14 +23,14 @@ class Round extends Component {
         return;
       }
 
-      // let isPrintableKey = event.key.length === 1;
-      // if (!isPrintableKey) return;
+      let isPrintableKey = event.key.length === 1;
+      if (!isPrintableKey) return;
 
-      this.setState({currentAnswer: this.state.currentAnswer + event.data})
+      this.setState({currentAnswer: this.state.currentAnswer + event.key})
     }
 
     componentDidMount() {
-      document.addEventListener("textInput", this.handleKeyDown.bind(this));
+      document.addEventListener("keyup", this.handleKeyDown.bind(this));
     }
 
 
