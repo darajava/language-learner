@@ -12,27 +12,21 @@ class Round extends Component {
         error: Math.random() > 0.5,
         currentAnswer: "",
       }
+
+      document.querySelector('input[id="hidden-field"]').oninput = (event) => {
+        this.setState({
+          currentAnswer: event.target.value,
+        })
+      };
+
+      this.changeEventHandler = this.changeEventHandler.bind(this);
     }
 
-
-    handleKeyDown (event) {
-      console.log(this.state.currentAnswer);
-
-      if (event.keyCode === 8) { // backspace
-        this.setState({currentAnswer: this.state.currentAnswer.substring(0, this.state.currentAnswer.length - 1)})
-        return;
-      }
-
-      let isPrintableKey = event.key.length === 1;
-      if (!isPrintableKey) return;
-
-      this.setState({currentAnswer: this.state.currentAnswer + event.key})
+    changeEventHandler(event) {
+      console.log(event)
+      // You can use “this” to refer to the selected element.
+      
     }
-
-    componentDidMount() {
-      document.addEventListener("input", this.handleKeyDown.bind(this));
-    }
-
 
     render() {
       return (
