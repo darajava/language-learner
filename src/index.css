@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bebas Neue'), url('/bebas.ttf') format('truetype');
+}
+
+
+body {
+  margin: 0;
+  font-size: 30px;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
