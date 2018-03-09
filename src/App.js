@@ -4,12 +4,17 @@ import QuestionPicker from './components/containers/QuestionPicker/QuestionPicke
 
 class App extends Component {
   componentDidMount() {
-  	document.body.addEventListener('click', () => {
-  	  document.getElementById('hidden-field').focus()
-  	})
-  	
-  	document.getElementById('hidden-field').focus()
+    let target = document.getElementsByTagName("input")[0];
 
+    document.body.addEventListener('click', (event) => {
+      if (event.target !== target) {
+          target.focus();
+          target.click();
+      }
+    })
+
+    target.focus();
+    target.click();
   }
 
   render() {
