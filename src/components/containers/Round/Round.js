@@ -83,6 +83,7 @@ class Round extends Component {
 
     loseRound() {
       this.lose.play();
+      window.navigator.vibrate(200);
       this.setState({
         error: true,
       })
