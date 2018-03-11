@@ -16,6 +16,8 @@ const Question = (props) => {
 
   return (
     <div styleName={styleName} onClick={props.error || props.correct ? () => props.startNextRound() : undefined}>
+      <span styleName='total'>Words: {props.words}</span>
+
       <div styleName='question'>
         <div>{props.question}</div>
         <div styleName='name'>({props.name})</div>
@@ -34,7 +36,6 @@ const Question = (props) => {
         <Timer progress={props.timeProgress}/>
       </div>
 
-      <u>{props.progress.score}</u>
     </div>
   );
         

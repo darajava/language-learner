@@ -12,6 +12,10 @@ class QuestionPicker extends Component {
         word: [],
       }
 
+      this.knownQuestions = [];
+      this.almostQuestions = [];
+      this.iffyQuestions = [];
+
       let progress = localStorage.getItem('progress');
       if (progress === null) {
         progress = [];
@@ -43,9 +47,12 @@ class QuestionPicker extends Component {
         if (progress[i] && progress[i].score >= 5) {
           this.knownQuestions.push(words[i]);
         }
+        console.log(progress[i])
       }
+      console.log('this')
+      console.log(this.knownQuestions)
 
-      let almostQuestionsPercentage = Math.floor(this.knownQuestions.length / 5)
+      let almostQuestionsPercentage = Math.max(Math.floor(this.knownQuestions.length / 5), 5)
 
       for (let i = 0; i < words.length; i++) {
         if (this.almostQuestions.length >= almostQuestionsPercentage) break;
@@ -75,37 +82,39 @@ class QuestionPicker extends Component {
     selectQuestion() {
       this.groupQuestions();
 
-      let questionPool = [];
+      let questionPool;
 
-      if (Math.random() < 0.6) {
-        if (this.almostQuestions.length) {
-          questionPool = this.almostQuestions;
-          console.log('choosing almost')
+      // for (let i = 0; i< 100; i++) {
+        questionPool = [];
+        if (Math.random() < 0.5) {
+          if (this.almostQuestions.length) {
+            questionPool = this.almostQuestions;
+            console.log('choosing almost')
+          }
+        } else if (Math.random() < 0.7) {
+          if (this.iffyQuestions.length) {
+            questionPool = this.iffyQuestions;
+            console.log('choosing bad')
+          }
         }
-      } else if (Math.random() < 0.7) {
-        if (this.iffyQuestions.length) {
+
+        if (questionPool.length === 0) {
+          questionPool = this.knownQuestions;
+          console.log('choosing good')
+        }
+
+        if (questionPool.length === 0) {
           questionPool = this.iffyQuestions;
           console.log('choosing bad')
         }
-      }
+      // }
 
-      if (questionPool.length === 0) {
-        questionPool = this.knownQuestions;
-          console.log('choosing good')
-      }
-
-      if (questionPool.length === 0) {
-        questionPool = this.iffyQuestions;
-          console.log('choosing bad')
-      }
       console.log('bad')
-      console.log(this.iffyQuestions);
+      console.log(this.iffyQuestions.map((i) => " - " + i.en));
       console.log('good')
-      console.log(this.knownQuestions);
+      console.log(this.knownQuestions.map((i) => " - " + i.en + i.score));
       console.log('middle')
-      console.log(this.almostQuestions);
-      console.log('kkk');
-      console.log(questionPool);
+      console.log(this.almostQuestions.map((i) => " - " + i.en + i.score));
 
       let word = questionPool[Math.floor(Math.random() * questionPool.length)];
       this.setState({word});
@@ -134,6 +143,7 @@ class QuestionPicker extends Component {
             question={question}
             name={this.state.word.name}
             newQuestion={this.selectQuestion}
+            words={this.knownQuestions.length}
           />
         </div>
       );

@@ -112,6 +112,7 @@ class Round extends Component {
             loseRound={this.loseRound}
             startNextRound={this.startNextRound}
             progress={progress[this.props.index]}
+            words={this.props.words}
           />
         </div>
       );
