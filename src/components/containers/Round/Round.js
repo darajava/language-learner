@@ -19,17 +19,33 @@ class Round extends Component {
       this.progress = JSON.parse(localStorage.getItem('progress'));
 
       setInterval(() => {
-        let timeLimit = 20;
+        let timeLimit = 17;
         this.setState({
           timeProgress: ((Date.now() - this.state.time) / 1000) * 100 / timeLimit,
         }, () => {
-          if (this.state.timeProgress >= 99) {
+          if (this.state.timeProgress >= 99 && !this.state.correct && !this.state.error) {
             this.loseRound();
           }
         })
       }, 100);
 
+      this.audio = [
+        new Audio('sounds/1.wav'),
+        new Audio('sounds/2.wav'),
+        new Audio('sounds/3.wav'),
+        new Audio('sounds/4.wav'),
+      ]
+
+      this.win = new Audio('sounds/win.wav');
+      this.lose = new Audio('sounds/lose.wav');
+      this.levelup = new Audio('sounds/levelup.wav');
+      this.lose.volume = 0.3;
+
+      this.audio.map((audio) => {audio.volume = 0.3});
+
       document.querySelector('input[id="hidden-field"]').oninput = (event) => {
+        this.audio[Math.floor(Math.random() * 4)].play();
+        console.log(this.audio[Math.floor(Math.random() * 4)])
         this.setState({
           currentAnswer: event.target.value,
         }, () => { this.checkAnswer() })
@@ -47,13 +63,26 @@ class Round extends Component {
       this.startNextRound = this.startNextRound.bind(this);
     }
 
+    componentWillUpdate(nextprops) {
+      if (this.props.words < nextprops.words) {
+        this.levelup.play();
+        this.newAnimation = Math.random();
+      }
+    }
+
     checkAnswer() {
+      let correct = this.state.currentAnswer.toLowerCase() === this.props.answer.toLowerCase();
       this.setState({
-        correct: this.state.currentAnswer.toLowerCase() === this.props.answer.toLowerCase(),
+        correct,
       });
+
+      if (correct) {
+        this.win.play();
+      }
     }
 
     loseRound() {
+      this.lose.play();
       this.setState({
         error: true,
       })
@@ -113,6 +142,7 @@ class Round extends Component {
             startNextRound={this.startNextRound}
             progress={progress[this.props.index]}
             words={this.props.words}
+            newAnimation={this.newAnimation}
           />
         </div>
       );

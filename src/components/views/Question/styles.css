@@ -47,6 +47,7 @@
 
 .container-error .total, .container-correct .total {
   color: black;
+  opacity: 0.5;
 }
 
 .total {
@@ -56,6 +57,35 @@
   color: #b97840;
   opacity: 0.7;
   font-size: 5vw;
+}
+
+.animate {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: #b97840;
+  opacity: 0.5;
+  font-size: 5vw;
+
+  animation-name: fadeInOpacity;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-duration: 1s;
+}
+
+@keyframes fadeInOpacity {
+  0% {
+    opacity: 0.5;
+    font-size: 5vw;
+  }
+  100% {
+    opacity: 0;
+    font-size: 15vw;
+  }
+}
+
+.hidden {
+  display: none;
 }
 
 .container-error .wrong-answer {
