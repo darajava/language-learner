@@ -1,27 +1,33 @@
-en,de,type,name,level
-I,ich,pronoun,pronoun,1
+en,de,type,name,index
+I,ich,pronoun,pronoun,0
 you,du,pronoun,pronoun,1
-he,er,pronoun,pronoun,1
-it,es,pronoun,pronoun,1
-we,wir,pronoun,pronoun,1
-you guys,irh,pronoun,pronoun,1
-they/she,sie,pronoun,pronoun,1
-to be/be,Sein,regverb,verb,1
-I am,ich bin,conjugate,Indicitive present,2
-you are,du bist,conjugate,Indicitive present,2
-he/she/it is,er/sie/es ist,conjugate,Indicitive present,2
-we are,wir sind,conjugate,Indicitive present,2
-they are,sie sind,conjugate,Indicitive present,2
-you guys are,ihr seid,conjugate,Indicitive present,2
-I was,ich war,conjugate,Indicitive past,3
-you were,du warst,conjugate,Indicitive past,3
-he/she/it was,er/sie/es war,conjugate,Indicitive past,3
-we were,wir waren,conjugate,Indicitive past,3
-they were,sie waren,conjugate,Indicitive past,3
-you guys were,ihr wart,conjugate,Indicitive past,3
-I will be,ich werde sein,conjugate,Indicitive future,4
-you will be,du wirst dein,conjugate,Indicitive future,4
-he/she/it will be,er/sie/es wird sein,conjugate,Indicitive future,4
-we will be,wir werden sein,conjugate,Indicitive future,4
-they will be,sie werden sein,conjugate,Indicitive future,4
-you guys will be,ihr werdet sein,conjugate,Indicitive future,4
+he,er,pronoun,pronoun,2
+it,es,pronoun,pronoun,3
+we,wir,pronoun,pronoun,4
+you guys,ihr,pronoun,pronoun,5
+they/she,sie,pronoun,pronoun,6
+to be/be,Sein,irregverb,verb,7
+I am,ich bin,conjugate,Indicitive present,8
+you are,du bist,conjugate,Indicitive present,9
+he is,er ist,conjugate,Indicitive present,10
+she is,sie ist,conjugate,Indicitive present,11
+it is,es ist,conjugate,Indicitive present,12
+we are,wir sind,conjugate,Indicitive present,13
+they are,sie sind,conjugate,Indicitive present,14
+you guys are,ihr seid,conjugate,Indicitive present,15
+I was,ich war,conjugate,Indicitive past,16
+you were,du warst,conjugate,Indicitive past,17
+he was,er war,conjugate,Indicitive past,18
+she was,sie war,conjugate,Indicitive past,19
+it was,es war,conjugate,Indicitive past,20
+we were,wir waren,conjugate,Indicitive past,21
+they were,sie waren,conjugate,Indicitive past,22
+you guys were,ihr wart,conjugate,Indicitive past,23
+I will be,ich werde sein,conjugate,Indicitive future,24
+you will be,du wirst dein,conjugate,Indicitive future,25
+he will be,er wird sein,conjugate,Indicitive future,26
+she will be,sie wird sein,conjugate,Indicitive future,27
+it will be,es wird sein,conjugate,Indicitive future,28
+we will be,wir werden sein,conjugate,Indicitive future,29
+they will be,sie werden sein,conjugate,Indicitive future,30
+you guys will be,ihr werdet sein,conjugate,Indicitive future,31

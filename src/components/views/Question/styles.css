@@ -48,7 +48,7 @@
 .container-error .wrong-answer {
   font-size: 5vw;
   opacity: 1;
-  color: #777;
+  color: #00000038;
   text-decoration: line-through;
 
 }

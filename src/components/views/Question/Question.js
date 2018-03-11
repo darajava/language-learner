@@ -15,7 +15,7 @@ const Question = (props) => {
   }
 
   return (
-    <div styleName={styleName} onClick={props.error || props.correct ? () => props.reset() : undefined}>
+    <div styleName={styleName} onClick={props.error || props.correct ? () => props.startNextRound() : undefined}>
       <div styleName='question'>
         <div>{props.question}</div>
         <div styleName='name'>({props.name})</div>
@@ -31,8 +31,10 @@ const Question = (props) => {
       </div>
       
       <div styleName="timer" onClick={props.loseRound}>
-        <Timer progress={props.progress}/>
+        <Timer progress={props.timeProgress}/>
       </div>
+
+      <u>{props.progress.score}</u>
     </div>
   );
         

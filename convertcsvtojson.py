@@ -20,5 +20,5 @@ with open('words.csv', 'rb') as csvfile:
           j = j + 1
         jsona.append(mylist)
 
-    print json.dumps(jsona, indent=True)
-            
+    print "const words = JSON.parse(`" +  json.dumps(jsona, indent=True)
+    print "`); export default words;"
