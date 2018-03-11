@@ -37,21 +37,21 @@ const words = JSON.parse(`[
  {
   "index": "5", 
   "de": "ihr", 
-  "en": "you guys", 
+  "en": "you(pl.)|you", 
   "type": "pronoun", 
   "name": "pronoun"
  }, 
  {
   "index": "6", 
   "de": "sie", 
-  "en": "they/she", 
+  "en": "they/she|they|she", 
   "type": "pronoun", 
   "name": "pronoun"
  }, 
  {
   "index": "7", 
   "de": "Sein", 
-  "en": "to be/be", 
+  "en": "to be/be|to be|be", 
   "type": "irregverb", 
   "name": "verb"
  }, 
@@ -107,7 +107,7 @@ const words = JSON.parse(`[
  {
   "index": "15", 
   "de": "ihr seid", 
-  "en": "you guys are", 
+  "en": "you(pl.) are|you are", 
   "type": "conjugate", 
   "name": "Indicitive present"
  }, 
@@ -163,7 +163,7 @@ const words = JSON.parse(`[
  {
   "index": "23", 
   "de": "ihr wart", 
-  "en": "you guys were", 
+  "en": "you(pl.) were|you were", 
   "type": "conjugate", 
   "name": "Indicitive past"
  }, 
@@ -219,7 +219,7 @@ const words = JSON.parse(`[
  {
   "index": "31", 
   "de": "ihr werdet sein", 
-  "en": "you guys will be", 
+  "en": "you(pl.) will be|you will be", 
   "type": "conjugate", 
   "name": "Indicitive future"
  }

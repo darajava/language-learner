@@ -70,8 +70,23 @@ class Round extends Component {
       }
     }
 
+    isCorrect() {
+      let answers = this.props.answer.split('|');
+
+      console.log(answers);
+
+      for (let i = 0; i < answers.length; i++) {
+        if (this.state.currentAnswer.toLowerCase() === answers[i].toLowerCase()) {
+          return true;
+        }
+      }
+
+      return false;
+    }
+
     checkAnswer() {
-      let correct = this.state.currentAnswer.toLowerCase() === this.props.answer.toLowerCase();
+      let correct = this.isCorrect();
+
       this.setState({
         correct,
       });
@@ -109,6 +124,9 @@ class Round extends Component {
         progress[this.props.index].score++;        
       } else if (this.state.error) {
         progress[this.props.index].score--;
+        if (progress[this.props.index].score < 0) {
+          progress[this.props.index].score = 0;
+        }
       }
 
       this.setState(this.initialState);
