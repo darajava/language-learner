@@ -7,7 +7,7 @@ import Timer from '../Timer/Timer';
 function resetAnimation() {
   var el = document.getElementById('animated');
   el.style.animation = 'none';
-  el.offsetHeight; /* trigger reflow */
+  el.offsetHeight;
   el.style.animation = null; 
 }
 

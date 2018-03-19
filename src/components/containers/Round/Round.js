@@ -41,9 +41,11 @@ class Round extends Component {
       this.levelup = new Audio('sounds/levelup.wav');
       this.lose.volume = 0.3;
 
-      this.audio.map((audio) => {audio.volume = 0.3});
+      this.audio.map((audio) => audio.volume = 0.3);
 
       document.querySelector('input[id="hidden-field"]').oninput = (event) => {
+        if (this.state.error || this.state.correct) return;
+        
         this.audio[Math.floor(Math.random() * 4)].play();
         console.log(this.audio[Math.floor(Math.random() * 4)])
         this.setState({
@@ -123,10 +125,10 @@ class Round extends Component {
       if (this.state.correct) {
         progress[this.props.index].score++;        
       } else if (this.state.error) {
-        progress[this.props.index].score--;
-        if (progress[this.props.index].score < 0) {
+        // progress[this.props.index].score--;
+        // if (progress[this.props.index].score < 0) {
           progress[this.props.index].score = 0;
-        }
+        // }
       }
 
       this.setState(this.initialState);

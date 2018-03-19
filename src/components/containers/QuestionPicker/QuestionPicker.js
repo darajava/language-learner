@@ -10,10 +10,11 @@ class QuestionPicker extends Component {
 
       this.state = {
         word: [],
+        recentWords: [],
       }
 
       this.knownQuestions = [];
-      this.almostQuestions = [];
+      this.badQuestions = [];
       this.iffyQuestions = [];
 
       let progress = localStorage.getItem('progress');
@@ -36,88 +37,71 @@ class QuestionPicker extends Component {
 
     groupQuestions() {
       this.knownQuestions = [];
-      this.almostQuestions = [];
-      this.iffyQuestions = [];
+      this.badQuestions = [];
 
       let progress = JSON.parse(localStorage.getItem('progress'));
 
 
       for (let i = 0; i < words.length; i++) {
         // If we have seen it recently, and the score is high
-        if (progress[i] && progress[i].score >= 5) {
+        if (progress[i] && progress[i].score >= 3) {
           this.knownQuestions.push(words[i]);
         }
-        console.log(progress[i])
       }
-      console.log('this')
-      console.log(this.knownQuestions)
 
-      let almostQuestionsPercentage = Math.max(Math.floor(this.knownQuestions.length / 5), 5)
+      let badQuestionsPercentage = Math.max(Math.floor(this.knownQuestions.length / 5), 5)
 
       for (let i = 0; i < words.length; i++) {
-        if (this.almostQuestions.length >= almostQuestionsPercentage) break;
+        if (this.badQuestions.length >= badQuestionsPercentage) break;
 
-        // If the score is middling
-        if (progress[i] && progress[i].score < 5 && progress[i].score >= 2) {
-          this.almostQuestions.push(words[i]);
+        // If the score is low
+        if ((progress[i] && progress[i].score <= 2) || !progress[i]) {
+          this.badQuestions.push(words[i]);
         }
       }
+    }
 
-      let iffyQuestionsPercentage = Math.max(Math.floor(this.knownQuestions.length / 3), 8);
-
-      for (let i = 0; i < words.length; i++) {
-        if (this.iffyQuestions.length >= iffyQuestionsPercentage) break;
-
-        // If we have seen it recently, and the score is high
-        if (progress[i] && progress[i].score < 2) {
-          this.iffyQuestions.push(words[i]);
-        } else if (!progress[i]) {
-          this.iffyQuestions.push(words[i]);
+    inArray(arr, needle) {
+      for (var i = 0; i < arr.length; i++) {
+        if (arr[i].en === needle.en) {
+          return true;
         }
       }
-
-
+      return false;
     }
 
     selectQuestion() {
       this.groupQuestions();
 
-      let questionPool;
+      let questionPool, word;
 
-      // for (let i = 0; i< 100; i++) {
-        questionPool = [];
-        if (Math.random() < 0.5) {
-          if (this.almostQuestions.length) {
-            questionPool = this.almostQuestions;
+      do {
+        questionPool = this.knownQuestions;
+        if (Math.random() < 0.8) {
+          if (this.badQuestions.length) {
+            questionPool = this.badQuestions;
             console.log('choosing almost')
           }
-        } else if (Math.random() < 0.7) {
-          if (this.iffyQuestions.length) {
-            questionPool = this.iffyQuestions;
-            console.log('choosing bad')
-          }
         }
 
-        if (questionPool.length === 0) {
-          questionPool = this.knownQuestions;
-          console.log('choosing good')
-        }
+        console.log('good')
+        console.log(this.knownQuestions.map((i) => " - " + i.en));
+        console.log('bad')
+        console.log(this.badQuestions.map((i) => " - " + i.en));
 
-        if (questionPool.length === 0) {
-          questionPool = this.iffyQuestions;
-          console.log('choosing bad')
-        }
-      // }
+        word = questionPool[Math.floor(Math.random() * questionPool.length)];
 
-      console.log('bad')
-      console.log(this.iffyQuestions.map((i) => " - " + i.en));
-      console.log('good')
-      console.log(this.knownQuestions.map((i) => " - " + i.en + i.score));
-      console.log('middle')
-      console.log(this.almostQuestions.map((i) => " - " + i.en + i.score));
+      } while (!word || this.inArray(this.state.recentWords, word));
 
-      let word = questionPool[Math.floor(Math.random() * questionPool.length)];
-      this.setState({word});
+      console.log('a', this.state.recentWords);
+
+      let recentWords = this.state.recentWords.slice(0, 3);
+      recentWords.push(word);
+
+      this.setState({
+        word,
+        recentWords,
+      });
     }
 
 
@@ -128,7 +112,6 @@ class QuestionPicker extends Component {
       let question = this.state.word.de;
 
       if (this.state.word.index && progress[this.state.word.index]) {
-        console.log(this.state.word.index);
         if (progress[this.state.word.index].score >= 2) {
           question = this.state.word.en;
           answer = this.state.word.de;
