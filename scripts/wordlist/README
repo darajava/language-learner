@@ -1,0 +1,4 @@
+To generate json
+
+First run generatejson.js which takes commonwordsshort.txt and saves a file en_only.json
+then run add_lang.js [langcode], which copies en_only.json to noun_map.json, if it does not exist, and adds translations to noun_map.json
