@@ -83,7 +83,7 @@ class Round extends Component {
       let answers = this.props.answer.split('|');
 
       for (let i = 0; i < answers.length; i++) {
-        if (this.state.currentAnswer.toLowerCase() === answers[i].toLowerCase()) {
+        if (this.state.currentAnswer.toLowerCase().replace('the ', '') === answers[i].toLowerCase()) {
           return true;
         }
       }
@@ -170,11 +170,14 @@ class Round extends Component {
 
       setTimeout(() => {
         knows.play()
+        knows.onended = () => {
+          setTimeout(() => {
+            learning.play()
+          }, 320);
+        }
       }, 120);
 
-      setTimeout(() => {
-        learning.play()
-      }, 1120);
+      
     }
 
     startNextRound() {
