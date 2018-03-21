@@ -16,10 +16,17 @@ class Round extends Component {
       };
 
       this.state = this.initialState;
-      this.progress = JSON.parse(localStorage.getItem('progress'));
+
+      this.progress = localStorage.getItem('progress');
+
+      if (this.progress === null) {
+        this.progress = {};
+      } else {
+        this.progress = JSON.parse(this.progress);
+      }
 
       setInterval(() => {
-        let timeLimit = 17;
+        let timeLimit = 25;
         this.setState({
           timeProgress: ((Date.now() - this.state.time) / 1000) * 100 / timeLimit,
         }, () => {
@@ -47,7 +54,7 @@ class Round extends Component {
         if (this.state.error || this.state.correct) return;
         
         this.audio[Math.floor(Math.random() * 4)].play();
-        console.log(this.audio[Math.floor(Math.random() * 4)])
+
         this.setState({
           currentAnswer: event.target.value,
         }, () => { this.checkAnswer() })
@@ -75,8 +82,6 @@ class Round extends Component {
     isCorrect() {
       let answers = this.props.answer.split('|');
 
-      console.log(answers);
-
       for (let i = 0; i < answers.length; i++) {
         if (this.state.currentAnswer.toLowerCase() === answers[i].toLowerCase()) {
           return true;
@@ -94,13 +99,56 @@ class Round extends Component {
       });
 
       if (correct) {
-        this.win.play();
+        this.winRound();
       }
+    }
+
+    winRound() {
+      this.win.play();
+
+      let progress = this.progress;
+
+      if (progress === null) {
+        progress = {};
+      }
+
+      if (typeof progress[this.props.hash] === 'undefined') {
+        progress[this.props.hash] = {
+          date: Date.now(),
+          score: 1,
+        };
+      } else {
+        progress[this.props.hash] = {
+          date: Date.now(),
+          score: progress[this.props.hash].score + 1,
+        };
+      }
+
+      localStorage.setItem('progress', JSON.stringify(progress));
+
     }
 
     loseRound() {
       this.lose.play();
-      window.navigator.vibrate(200);
+
+      if (window.navigator) {
+        window.navigator.vibrate(20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20);
+      }
+
+      // this.progress = JSON.parse(localStorage.getItem('progress'));
+      let progress = this.progress;
+
+      progress[this.props.hash] = {
+        date: Date.now(),
+        score: 0,
+      };
+
+      console.log('fdd');
+      console.log(progress);
+      console.log(this.props.hash);
+
+      localStorage.setItem('progress', JSON.stringify(progress));
+
       this.setState({
         error: true,
       })
@@ -108,47 +156,14 @@ class Round extends Component {
 
     startNextRound() {
       document.querySelector('input[id="hidden-field"]').value = '';
-      this.initialState.time = Date.now();
       this.props.newQuestion();
 
-      this.progress = JSON.parse(localStorage.getItem('progress'));
-      let progress = this.progress;
-
-      if (typeof progress[this.props.index] === 'undefined' || progress[this.props.index] === null) {
-        progress[this.props.index] = {
-          date: Date.now(),
-          score: 0,
-        };
-      }
-      progress[this.props.index].date = Date.now();
-      
-      if (this.state.correct) {
-        progress[this.props.index].score++;        
-      } else if (this.state.error) {
-        // progress[this.props.index].score--;
-        // if (progress[this.props.index].score < 0) {
-          progress[this.props.index].score = 0;
-        // }
-      }
-
+      this.initialState.time = Date.now();
       this.setState(this.initialState);
-
-      localStorage.setItem('progress', JSON.stringify(progress));
-
     }
 
 
     render() {
-      let progress = this.progress;
-
-      if (typeof progress[this.props.index] === 'undefined' || progress[this.props.index] === null) {
-        progress[this.props.index] = {
-          date: Date.now(),
-          score: 0,
-        };
-      }
-
-
       return (
         <div>
           <Question
@@ -161,7 +176,6 @@ class Round extends Component {
             currentAnswer={this.state.currentAnswer}
             loseRound={this.loseRound}
             startNextRound={this.startNextRound}
-            progress={progress[this.props.index]}
             words={this.props.words}
             newAnimation={this.newAnimation}
           />

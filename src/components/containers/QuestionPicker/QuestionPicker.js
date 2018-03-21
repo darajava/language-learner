@@ -1,7 +1,7 @@
 import React , { Component } from 'react';
 
 import Round from '../Round/Round';
-import words from './words';
+import words from './noun_map.json';
 
 class QuestionPicker extends Component {
 
@@ -15,32 +15,32 @@ class QuestionPicker extends Component {
 
       this.knownQuestions = [];
       this.badQuestions = [];
-      this.iffyQuestions = [];
 
-      let progress = localStorage.getItem('progress');
-      if (progress === null) {
-        progress = [];
-      } else {
-        progress = JSON.parse(progress);
-      }
-      console.log(progress);
-
-      localStorage.setItem('progress', JSON.stringify(progress));
+      this.updateProgress();
 
       this.groupQuestions = this.groupQuestions.bind(this);
       this.selectQuestion = this.selectQuestion.bind(this);
+      this.updateProgress = this.updateProgress.bind(this);
     }
 
     componentDidMount() {
       this.selectQuestion();
     }
 
+    updateProgress() {
+      this.progress = localStorage.getItem('progress');
+      if (this.progress === null) {
+        this.progress = {};
+      } else {
+        this.progress = JSON.parse(this.progress);
+      }
+    }
+
     groupQuestions() {
       this.knownQuestions = [];
       this.badQuestions = [];
 
-      let progress = JSON.parse(localStorage.getItem('progress'));
-
+      let progress = this.progress;
 
       for (let i = 0; i < words.length; i++) {
         // If we have seen it recently, and the score is high
@@ -59,6 +59,10 @@ class QuestionPicker extends Component {
           this.badQuestions.push(words[i]);
         }
       }
+
+      console.log(this.knownQuestions)
+      console.log(this.badQuestions)
+      console.log(this.progress);
     }
 
     inArray(arr, needle) {
@@ -71,6 +75,7 @@ class QuestionPicker extends Component {
     }
 
     selectQuestion() {
+      this.updateProgress();
       this.groupQuestions();
 
       let questionPool, word;
@@ -80,20 +85,12 @@ class QuestionPicker extends Component {
         if (Math.random() < 0.8) {
           if (this.badQuestions.length) {
             questionPool = this.badQuestions;
-            console.log('choosing almost')
           }
         }
-
-        console.log('good')
-        console.log(this.knownQuestions.map((i) => " - " + i.en));
-        console.log('bad')
-        console.log(this.badQuestions.map((i) => " - " + i.en));
 
         word = questionPool[Math.floor(Math.random() * questionPool.length)];
 
       } while (!word || this.inArray(this.state.recentWords, word));
-
-      console.log('a', this.state.recentWords);
 
       let recentWords = this.state.recentWords.slice(0, 3);
       recentWords.push(word);
@@ -106,7 +103,7 @@ class QuestionPicker extends Component {
 
 
     render() {
-      let progress = JSON.parse(localStorage.getItem('progress'));
+      let progress = this.progress;
 
       let answer = this.state.word.en;
       let question = this.state.word.de;
@@ -124,6 +121,7 @@ class QuestionPicker extends Component {
             index={this.state.word.index}
             answer={answer}
             question={question}
+            hash={this.state.word.en}
             name={this.state.word.name}
             newQuestion={this.selectQuestion}
             words={this.knownQuestions.length}
