@@ -68,6 +68,12 @@ class Round extends Component {
         }
       });
 
+      // NO IDEA WHY I NEED THIS
+      setTimeout(() => {
+        this.loadSounds();
+      }, 50);
+
+      this.loadSounds = this.loadSounds.bind(this);
       this.loseRound = this.loseRound.bind(this);
       this.startNextRound = this.startNextRound.bind(this);
     }
@@ -160,29 +166,33 @@ class Round extends Component {
     playSounds() {
       console.log(`sounds/words/${this.props.learning}/${encodeURIComponent(encodeURIComponent(this.props.word[this.props.learning]))}.mp3`);
 
-      let learning = new Audio(
-        `sounds/words/${this.props.learning}/${encodeURIComponent(encodeURIComponent(this.props.word[this.props.learning]))}.mp3`
-      );
-
-      let knows = new Audio(
-        `sounds/words/${this.props.knows}/${encodeURIComponent(this.props.word[this.props.knows])}.mp3`
-      );
-
       setTimeout(() => {
-        knows.play()
-        knows.onended = () => {
+        this.knows.play()
+        this.knows.onended = () => {
           setTimeout(() => {
-            learning.play()
-          }, 320);
+            this.learning.play()
+          }, 120);
         }
       }, 120);
 
       
     }
 
+    loadSounds() {
+      this.learning = new Audio(
+        `sounds/words/${this.props.learning}/${encodeURIComponent(encodeURIComponent(this.props.word[this.props.learning]))}.mp3`
+      );
+
+      this.knows = new Audio(
+        `sounds/words/${this.props.knows}/${encodeURIComponent(encodeURIComponent(this.props.word[this.props.knows]))}.mp3`
+      );
+    }
+
     startNextRound() {
       document.querySelector('input[id="hidden-field"]').value = '';
       this.props.newQuestion();
+
+      this.loadSounds();
 
       this.initialState.time = Date.now();
       this.setState(this.initialState);
