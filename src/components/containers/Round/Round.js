@@ -172,9 +172,10 @@ class Round extends Component {
           setTimeout(() => {
             try {
             this.learning.play()
+            alert(this.learning)
+            alert(`sounds/words/${this.props.learning}/${encodeURIComponent(encodeURIComponent(this.props.word[this.props.learning]))}.mp3`)
 
           } catch (e) {
-            alert(e)
           }
           }, 120);
         }
