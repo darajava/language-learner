@@ -130,7 +130,7 @@ class QuestionPicker extends Component {
             newQuestion={this.selectQuestion}
             words={this.knownQuestions.length}
             knows={'en'}
-            learning={'es'}
+            learning={'zh-cn'}
             word={this.state.word}
           />
         </div>
