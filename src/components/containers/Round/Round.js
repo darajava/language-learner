@@ -144,7 +144,7 @@ class Round extends Component {
       this.lose.play();
 
       if (window.navigator) {
-        window.navigator.vibrate(20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20);
+        window.navigator.vibrate(200);
       }
 
       // this.progress = JSON.parse(localStorage.getItem('progress'));
