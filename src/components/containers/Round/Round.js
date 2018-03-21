@@ -172,7 +172,7 @@ class Round extends Component {
           setTimeout(() => {
             this.learning.play()
             this.learning.onerror = function() {
-  alert("Error " + videoElement.error.code + "; details: " + videoElement.error.message);
+  alert("Error " + this.learning.error.code + "; details: " + this.learning.error.message);
 }
           }, 120);
         }
