@@ -44,18 +44,18 @@ class QuestionPicker extends Component {
 
       for (let i = 0; i < words.length; i++) {
         // If we have seen it recently, and the score is high
-        if (progress[i] && progress[i].score >= 3) {
+        if (progress[words[i].en] && progress[words[i].en] >= 3) {
           this.knownQuestions.push(words[i]);
         }
       }
 
-      let badQuestionsPercentage = Math.max(Math.floor(this.knownQuestions.length / 5), 5)
+      let badQuestionsMax = Math.max(Math.floor(this.knownQuestions.length / 5), 5)
 
       for (let i = 0; i < words.length; i++) {
         if (this.badQuestions.length >= badQuestionsPercentage) break;
 
         // If the score is low
-        if ((progress[i] && progress[i].score <= 2) || !progress[i]) {
+        if ((progress[words[i].en] && progress[words[i].en].score <= 2) || !progress[words[i].en]) {
           this.badQuestions.push(words[i]);
         }
       }
