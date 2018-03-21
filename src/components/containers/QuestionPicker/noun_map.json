@@ -1,0 +1,9862 @@
+[
+  {
+    "en": "time",
+    "index": 0,
+    "de": "die Zeit",
+    "fr": "le temps",
+    "zh-cn": "时间",
+    "es": "el tiempo",
+    "ar": "زمن",
+    "ja": "時間"
+  },
+  {
+    "en": "year",
+    "index": 1,
+    "de": "das Jahr",
+    "fr": "l'année",
+    "zh-cn": "年",
+    "es": "el año",
+    "ar": "عام",
+    "ja": "年"
+  },
+  {
+    "en": "people",
+    "index": 2,
+    "de": "die Menschen",
+    "fr": "les gens",
+    "zh-cn": "人",
+    "es": "la gente",
+    "ar": "اشخاص",
+    "ja": "人"
+  },
+  {
+    "en": "way",
+    "index": 3,
+    "de": "der Weg",
+    "fr": "le chemin",
+    "zh-cn": "办法",
+    "es": "la manera",
+    "ar": "طريق",
+    "ja": "方法"
+  },
+  {
+    "en": "day",
+    "index": 4,
+    "de": "der Tag",
+    "fr": "le jour",
+    "zh-cn": "天",
+    "es": "El dia",
+    "ar": "يوم",
+    "ja": "日"
+  },
+  {
+    "en": "man",
+    "index": 5,
+    "de": "der Mann",
+    "fr": "l'homme",
+    "zh-cn": "人",
+    "es": "el hombre",
+    "ar": "رجل",
+    "ja": "おとこ"
+  },
+  {
+    "en": "thing",
+    "index": 6,
+    "de": "die Sache",
+    "fr": "la chose",
+    "zh-cn": "事情",
+    "es": "la cosa",
+    "ar": "شيء",
+    "ja": "もの"
+  },
+  {
+    "en": "woman",
+    "index": 7,
+    "de": "die Frau",
+    "fr": "la femme",
+    "zh-cn": "女人",
+    "es": "la mujer",
+    "ar": "النساء",
+    "ja": "女性"
+  },
+  {
+    "en": "life",
+    "index": 8,
+    "de": "das Leben",
+    "fr": "la vie",
+    "zh-cn": "生活",
+    "es": "la vida",
+    "ar": "حياة",
+    "ja": "生活"
+  },
+  {
+    "en": "child",
+    "index": 9,
+    "de": "das Kind",
+    "fr": "l'enfant",
+    "zh-cn": "儿童",
+    "es": "el niño",
+    "ar": "طفل",
+    "ja": "子"
+  },
+  {
+    "en": "world",
+    "index": 10,
+    "de": "die Welt",
+    "fr": "le monde",
+    "zh-cn": "世界",
+    "es": "el mundo",
+    "ar": "العالمية",
+    "ja": "世界"
+  },
+  {
+    "en": "school",
+    "index": 11,
+    "de": "die Schule",
+    "fr": "l'école",
+    "zh-cn": "学校",
+    "es": "la escuela",
+    "ar": "مدرسة",
+    "ja": "学校"
+  },
+  {
+    "en": "state",
+    "index": 12,
+    "de": "der Staat",
+    "fr": "l'état",
+    "zh-cn": "州",
+    "es": "el estado",
+    "ar": "حالة",
+    "ja": "状態"
+  },
+  {
+    "en": "family",
+    "index": 13,
+    "de": "die Familie",
+    "fr": "la famille",
+    "zh-cn": "家庭",
+    "es": "la familia",
+    "ar": "أسرة",
+    "ja": "家族"
+  },
+  {
+    "en": "student",
+    "index": 14,
+    "de": "der Student",
+    "fr": "l'étudiant",
+    "zh-cn": "学生",
+    "es": "el estudiante",
+    "ar": "طالب علم",
+    "ja": "学生"
+  },
+  {
+    "en": "group",
+    "index": 15,
+    "de": "die Gruppe",
+    "fr": "le groupe",
+    "zh-cn": "组",
+    "es": "el grupo",
+    "ar": "مجموعة",
+    "ja": "グループ"
+  },
+  {
+    "en": "country",
+    "index": 16,
+    "de": "das Land",
+    "fr": "le pays",
+    "zh-cn": "国家",
+    "es": "el país",
+    "ar": "بلد",
+    "ja": "国"
+  },
+  {
+    "en": "problem",
+    "index": 17,
+    "de": "das Problem",
+    "fr": "le problème",
+    "zh-cn": "问题",
+    "es": "el problema",
+    "ar": "مشكلة",
+    "ja": "問題"
+  },
+  {
+    "en": "hand",
+    "index": 18,
+    "de": "die Hand",
+    "fr": "la main",
+    "zh-cn": "手",
+    "es": "la mano",
+    "ar": "يد",
+    "ja": "ハンド"
+  },
+  {
+    "en": "part",
+    "index": 19,
+    "de": "der Teil",
+    "fr": "la partie",
+    "zh-cn": "部分",
+    "es": "la parte",
+    "ar": "جزء",
+    "ja": "部"
+  },
+  {
+    "en": "place",
+    "index": 20,
+    "de": "der Ort",
+    "fr": "le lieu",
+    "zh-cn": "地点",
+    "es": "el lugar",
+    "ar": "مكان",
+    "ja": "場所"
+  },
+  {
+    "en": "case",
+    "index": 21,
+    "de": "der Fall",
+    "fr": "l'affaire",
+    "zh-cn": "案件",
+    "es": "el caso",
+    "ar": "قضية",
+    "ja": "場合"
+  },
+  {
+    "en": "week",
+    "index": 22,
+    "de": "die Woche",
+    "fr": "la semaine",
+    "zh-cn": "周",
+    "es": "la semana",
+    "ar": "أسبوع",
+    "ja": "週間"
+  },
+  {
+    "en": "company",
+    "index": 23,
+    "de": "das Unternehmen",
+    "fr": "l'entreprise",
+    "zh-cn": "公司",
+    "es": "la compañia",
+    "ar": "شركة",
+    "ja": "会社"
+  },
+  {
+    "en": "system",
+    "index": 24,
+    "de": "das System",
+    "fr": "le système",
+    "zh-cn": "系统",
+    "es": "el sistema",
+    "ar": "النظام",
+    "ja": "システム"
+  },
+  {
+    "en": "program",
+    "index": 25,
+    "de": "das Programm",
+    "fr": "le programme",
+    "zh-cn": "程序",
+    "es": "el programa",
+    "ar": "برنامج",
+    "ja": "プログラム"
+  },
+  {
+    "en": "question",
+    "index": 26,
+    "de": "die Frage",
+    "fr": "la question",
+    "zh-cn": "题",
+    "es": "la pregunta",
+    "ar": "سؤال",
+    "ja": "質問"
+  },
+  {
+    "en": "work",
+    "index": 27,
+    "de": "die Arbeit",
+    "fr": "l'oeuvre",
+    "zh-cn": "工作",
+    "es": "la obra",
+    "ar": "عمل",
+    "ja": "作業"
+  },
+  {
+    "en": "government",
+    "index": 28,
+    "de": "die Regierung",
+    "fr": "le gouvernement",
+    "zh-cn": "政府",
+    "es": "el Gobierno",
+    "ar": "الحكومي",
+    "ja": "政府"
+  },
+  {
+    "en": "number",
+    "index": 29,
+    "de": "die Nummer",
+    "fr": "le nombre",
+    "zh-cn": "数",
+    "es": "el número",
+    "ar": "رقم",
+    "ja": "数"
+  },
+  {
+    "en": "night",
+    "index": 30,
+    "de": "die Nacht",
+    "fr": "la nuit",
+    "zh-cn": "晚",
+    "es": "la noche",
+    "ar": "ليل",
+    "ja": "夜"
+  },
+  {
+    "en": "point",
+    "index": 31,
+    "de": "die Stelle",
+    "fr": "le point",
+    "zh-cn": "点",
+    "es": "el punto",
+    "ar": "نقطة",
+    "ja": "ポイント"
+  },
+  {
+    "en": "home",
+    "index": 32,
+    "de": "das Zuhause",
+    "fr": "la maison",
+    "zh-cn": "家",
+    "es": "el hogar",
+    "ar": "الصفحة الرئيسية",
+    "ja": "自宅"
+  },
+  {
+    "en": "water",
+    "index": 33,
+    "de": "das Wasser",
+    "fr": "l'eau",
+    "zh-cn": "水",
+    "es": "el agua",
+    "ar": "ماء",
+    "ja": "水"
+  },
+  {
+    "en": "room",
+    "index": 34,
+    "de": "das Zimmer",
+    "fr": "la chambre",
+    "zh-cn": "房间",
+    "es": "el cuarto",
+    "ar": "مجال",
+    "ja": "ルーム"
+  },
+  {
+    "en": "mother",
+    "index": 35,
+    "de": "die Mutter",
+    "fr": "la mère",
+    "zh-cn": "母亲",
+    "es": "La madre",
+    "ar": "أم",
+    "ja": "母"
+  },
+  {
+    "en": "area",
+    "index": 36,
+    "de": "das Gebiet",
+    "fr": "la zone",
+    "zh-cn": "区",
+    "es": "la zona",
+    "ar": "منطقة",
+    "ja": "エリア"
+  },
+  {
+    "en": "money",
+    "index": 37,
+    "de": "das Geld",
+    "fr": "l'argent",
+    "zh-cn": "钱",
+    "es": "el dinero",
+    "ar": "مال",
+    "ja": "お金"
+  },
+  {
+    "en": "story",
+    "index": 38,
+    "de": "die Geschichte",
+    "fr": "l'histoire",
+    "zh-cn": "故事",
+    "es": "la historia",
+    "ar": "قصة",
+    "ja": "ストーリー"
+  },
+  {
+    "en": "fact",
+    "index": 39,
+    "de": "die Tatsache",
+    "fr": "le fait",
+    "zh-cn": "事实",
+    "es": "el hecho",
+    "ar": "حقيقة",
+    "ja": "事実"
+  },
+  {
+    "en": "month",
+    "index": 40,
+    "de": "der Monat",
+    "fr": "le mois",
+    "zh-cn": "月",
+    "es": "el mes",
+    "ar": "شهر",
+    "ja": "月"
+  },
+  {
+    "en": "lot",
+    "index": 41,
+    "de": "das Ganze",
+    "fr": "le lot",
+    "zh-cn": "批量",
+    "es": "la parcela",
+    "ar": "قطعة أرض",
+    "ja": "ロット"
+  },
+  {
+    "en": "right",
+    "index": 42,
+    "de": "das Recht",
+    "fr": "la droite",
+    "zh-cn": "对",
+    "es": "el derecho",
+    "ar": "حق",
+    "ja": "右"
+  },
+  {
+    "en": "study",
+    "index": 43,
+    "de": "die Studium",
+    "fr": "l'étude",
+    "zh-cn": "研究",
+    "es": "el estudio",
+    "ar": "دراسة",
+    "ja": "調査"
+  },
+  {
+    "en": "book",
+    "index": 44,
+    "de": "das Buch",
+    "fr": "le livre",
+    "zh-cn": "书",
+    "es": "el libro",
+    "ar": "كتاب",
+    "ja": "本"
+  },
+  {
+    "en": "eye",
+    "index": 45,
+    "de": "das Auge",
+    "fr": "l'oeil",
+    "zh-cn": "眼",
+    "es": "el ojo",
+    "ar": "عين",
+    "ja": "眼"
+  },
+  {
+    "en": "job",
+    "index": 46,
+    "de": "die Arbeit",
+    "fr": "le travail",
+    "zh-cn": "工作",
+    "es": "el trabajo",
+    "ar": "وظيفة",
+    "ja": "ジョブ"
+  },
+  {
+    "en": "word",
+    "index": 47,
+    "de": "das Wort",
+    "fr": "le mot",
+    "zh-cn": "字",
+    "es": "la palabra",
+    "ar": "كلمة",
+    "ja": "ワード"
+  },
+  {
+    "en": "business",
+    "index": 48,
+    "de": "das Geschäft",
+    "fr": "les affaires",
+    "zh-cn": "商业",
+    "es": "el negocio",
+    "ar": "اعمال",
+    "ja": "ビジネス"
+  },
+  {
+    "en": "issue",
+    "index": 49,
+    "de": "Das Thema",
+    "fr": "le problème",
+    "zh-cn": "问题",
+    "es": "la cuestión",
+    "ar": "القضية",
+    "ja": "問題"
+  },
+  {
+    "en": "side",
+    "index": 50,
+    "de": "die Seite",
+    "fr": "le côté",
+    "zh-cn": "侧",
+    "es": "el lado",
+    "ar": "جانب",
+    "ja": "側"
+  },
+  {
+    "en": "kind",
+    "index": 51,
+    "de": "die Art",
+    "fr": "le genre",
+    "zh-cn": "类",
+    "es": "el tipo",
+    "ar": "طيب القلب",
+    "ja": "種類"
+  },
+  {
+    "en": "head",
+    "index": 52,
+    "de": "der Kopf",
+    "fr": "la tête",
+    "zh-cn": "头",
+    "es": "la cabeza",
+    "ar": "رئيس",
+    "ja": "頭"
+  },
+  {
+    "en": "house",
+    "index": 53,
+    "de": "das Haus",
+    "fr": "la maison",
+    "zh-cn": "屋",
+    "es": "la casa",
+    "ar": "منزل",
+    "ja": "家"
+  },
+  {
+    "en": "service",
+    "index": 54,
+    "de": "der Service",
+    "fr": "le service",
+    "zh-cn": "服务",
+    "es": "el servicio",
+    "ar": "الخدمات",
+    "ja": "サービス"
+  },
+  {
+    "en": "friend",
+    "index": 55,
+    "de": "der Freund",
+    "fr": "l'ami",
+    "zh-cn": "朋友",
+    "es": "el amigo",
+    "ar": "صديق",
+    "ja": "友人"
+  },
+  {
+    "en": "father",
+    "index": 56,
+    "de": "der Vater",
+    "fr": "le père",
+    "zh-cn": "父亲",
+    "es": "el padre",
+    "ar": "الآب",
+    "ja": "お父さん"
+  },
+  {
+    "en": "power",
+    "index": 57,
+    "de": "die Macht",
+    "fr": "la puissance",
+    "zh-cn": "功率",
+    "es": "el poder",
+    "ar": "قوة",
+    "ja": "パワー"
+  },
+  {
+    "en": "hour",
+    "index": 58,
+    "de": "die Stunde",
+    "fr": "l'heure",
+    "zh-cn": "小时",
+    "es": "la hora",
+    "ar": "ساعة",
+    "ja": "時間"
+  },
+  {
+    "en": "game",
+    "index": 59,
+    "de": "das Spiel",
+    "fr": "le jeu",
+    "zh-cn": "游戏",
+    "es": "el juego",
+    "ar": "لعبه",
+    "ja": "ゲーム"
+  },
+  {
+    "en": "line",
+    "index": 60,
+    "de": "die Linie",
+    "fr": "la ligne",
+    "zh-cn": "线",
+    "es": "la línea",
+    "ar": "خط",
+    "ja": "ライン"
+  },
+  {
+    "en": "end",
+    "index": 61,
+    "de": "das Ende",
+    "fr": "la fin",
+    "zh-cn": "结束",
+    "es": "el fin",
+    "ar": "النهاية",
+    "ja": "終わり"
+  },
+  {
+    "en": "member",
+    "index": 62,
+    "de": "das Mitglied",
+    "fr": "le membre",
+    "zh-cn": "会员",
+    "es": "el miembro",
+    "ar": "عضو",
+    "ja": "メンバー"
+  },
+  {
+    "en": "law",
+    "index": 63,
+    "de": "das Gesetz",
+    "fr": "la loi",
+    "zh-cn": "法",
+    "es": "la Ley",
+    "ar": "القانون",
+    "ja": "法律"
+  },
+  {
+    "en": "car",
+    "index": 64,
+    "de": "das Auto",
+    "fr": "la voiture",
+    "zh-cn": "汽车",
+    "es": "el coche",
+    "ar": "سيارة",
+    "ja": "車"
+  },
+  {
+    "en": "city",
+    "index": 65,
+    "de": "die Stadt",
+    "fr": "la ville",
+    "zh-cn": "市",
+    "es": "la ciudad",
+    "ar": "مدينة",
+    "ja": "シティ"
+  },
+  {
+    "en": "community",
+    "index": 66,
+    "de": "die Gemeinde",
+    "fr": "la communauté",
+    "zh-cn": "社区",
+    "es": "la comunidad",
+    "ar": "تواصل اجتماعي",
+    "ja": "コミュニティ"
+  },
+  {
+    "en": "name",
+    "index": 67,
+    "de": "der Name",
+    "fr": "le nom",
+    "zh-cn": "名称",
+    "es": "el nombre",
+    "ar": "اسم",
+    "ja": "名"
+  },
+  {
+    "en": "president",
+    "index": 68,
+    "de": "der Präsident",
+    "fr": "Le président",
+    "zh-cn": "主席",
+    "es": "el presidente",
+    "ar": "رئيس",
+    "ja": "大統領"
+  },
+  {
+    "en": "team",
+    "index": 69,
+    "de": "Das Team",
+    "fr": "l'équipe",
+    "zh-cn": "球队",
+    "es": "el equipo",
+    "ar": "الفريق",
+    "ja": "チーム"
+  },
+  {
+    "en": "minute",
+    "index": 70,
+    "de": "die Minute",
+    "fr": "la minute",
+    "zh-cn": "分钟",
+    "es": "el minuto",
+    "ar": "اللحظة",
+    "ja": "分"
+  },
+  {
+    "en": "idea",
+    "index": 71,
+    "de": "die Idee",
+    "fr": "l'idée",
+    "zh-cn": "理念",
+    "es": "la idea",
+    "ar": "فكرة",
+    "ja": "アイディア"
+  },
+  {
+    "en": "kid",
+    "index": 72,
+    "de": "Das Kind",
+    "fr": "l'enfant",
+    "zh-cn": "孩子",
+    "es": "el niño",
+    "ar": "طفل",
+    "ja": "キッド"
+  },
+  {
+    "en": "body",
+    "index": 73,
+    "de": "der Körper",
+    "fr": "le corps",
+    "zh-cn": "身体",
+    "es": "el cuerpo",
+    "ar": "الجسم",
+    "ja": "体"
+  },
+  {
+    "en": "information",
+    "index": 74,
+    "de": "die Information",
+    "fr": "l'information",
+    "zh-cn": "信息",
+    "es": "la información",
+    "ar": "معلومات",
+    "ja": "情報"
+  },
+  {
+    "en": "back",
+    "index": 75,
+    "de": "der Rücken",
+    "fr": "l'arrière",
+    "zh-cn": "背部",
+    "es": "la parte de atrás",
+    "ar": "الى الخلف",
+    "ja": "バック"
+  },
+  {
+    "en": "parent",
+    "index": 76,
+    "de": "das Elternteil",
+    "fr": "le parent",
+    "zh-cn": "亲",
+    "es": "el padre",
+    "ar": "الأبوين",
+    "ja": "親"
+  },
+  {
+    "en": "face",
+    "index": 77,
+    "de": "das Gesicht",
+    "fr": "la face",
+    "zh-cn": "面对",
+    "es": "la cara",
+    "ar": "وجه",
+    "ja": "面"
+  },
+  {
+    "en": "others",
+    "index": 78,
+    "de": "die Anderen",
+    "fr": "les autres",
+    "zh-cn": "其他",
+    "es": "los demás",
+    "ar": "الآخرين",
+    "ja": "その他"
+  },
+  {
+    "en": "level",
+    "index": 79,
+    "de": "die Ebene",
+    "fr": "le niveau",
+    "zh-cn": "水平",
+    "es": "el nivel",
+    "ar": "مستوى",
+    "ja": "レベル"
+  },
+  {
+    "en": "office",
+    "index": 80,
+    "de": "das Büro",
+    "fr": "le bureau",
+    "zh-cn": "办公室",
+    "es": "la oficina",
+    "ar": "مكتب. مقر. مركز",
+    "ja": "事務所"
+  },
+  {
+    "en": "door",
+    "index": 81,
+    "de": "die Tür",
+    "fr": "la porte",
+    "zh-cn": "门",
+    "es": "la puerta",
+    "ar": "باب",
+    "ja": "ドア"
+  },
+  {
+    "en": "health",
+    "index": 82,
+    "de": "die Gesundheit",
+    "fr": "la santé",
+    "zh-cn": "健康",
+    "es": "la salud",
+    "ar": "الصحة",
+    "ja": "健康"
+  },
+  {
+    "en": "person",
+    "index": 83,
+    "de": "die Person",
+    "fr": "la personne",
+    "zh-cn": "人",
+    "es": "la persona",
+    "ar": "شخص",
+    "ja": "人"
+  },
+  {
+    "en": "art",
+    "index": 84,
+    "de": "die Kunst",
+    "fr": "L'art",
+    "zh-cn": "艺术",
+    "es": "el arte",
+    "ar": "فن",
+    "ja": "アート"
+  },
+  {
+    "en": "war",
+    "index": 85,
+    "de": "der Krieg",
+    "fr": "la guerre",
+    "zh-cn": "战争",
+    "es": "la guerra",
+    "ar": "حرب",
+    "ja": "戦争"
+  },
+  {
+    "en": "history",
+    "index": 86,
+    "de": "die Geschichte",
+    "fr": "l'histoire",
+    "zh-cn": "历史",
+    "es": "la historia",
+    "ar": "التاريخ",
+    "ja": "歴史"
+  },
+  {
+    "en": "party",
+    "index": 87,
+    "de": "die Party",
+    "fr": "la fête",
+    "zh-cn": "派对",
+    "es": "La fiesta",
+    "ar": "حفل",
+    "ja": "パーティー"
+  },
+  {
+    "en": "result",
+    "index": 88,
+    "de": "das Ergebnis",
+    "fr": "le résultat",
+    "zh-cn": "结果",
+    "es": "el resultado",
+    "ar": "نتيجة",
+    "ja": "結果"
+  },
+  {
+    "en": "change",
+    "index": 89,
+    "de": "der Wechsel",
+    "fr": "le changement",
+    "zh-cn": "更改",
+    "es": "el cambio",
+    "ar": "يتغيرون",
+    "ja": "変化する"
+  },
+  {
+    "en": "morning",
+    "index": 90,
+    "de": "der Morgen",
+    "fr": "le matin",
+    "zh-cn": "早上",
+    "es": "la mañana",
+    "ar": "صباح",
+    "ja": "朝"
+  },
+  {
+    "en": "reason",
+    "index": 91,
+    "de": "der Grund",
+    "fr": "la raison",
+    "zh-cn": "原因",
+    "es": "la razón",
+    "ar": "السبب",
+    "ja": "理由"
+  },
+  {
+    "en": "research",
+    "index": 92,
+    "de": "die Forschung",
+    "fr": "la recherche",
+    "zh-cn": "研究",
+    "es": "la investigación",
+    "ar": "ابحاث",
+    "ja": "研究"
+  },
+  {
+    "en": "girl",
+    "index": 93,
+    "de": "das Mädchen",
+    "fr": "la fille",
+    "zh-cn": "女孩",
+    "es": "la mujer",
+    "ar": "فتاة",
+    "ja": "女の子"
+  },
+  {
+    "en": "guy",
+    "index": 94,
+    "de": "der Kerl",
+    "fr": "le mec",
+    "zh-cn": "家伙",
+    "es": "el tipo",
+    "ar": "شاب",
+    "ja": "男"
+  },
+  {
+    "en": "food",
+    "index": 95,
+    "de": "das Essen",
+    "fr": "la nourriture",
+    "zh-cn": "餐饮",
+    "es": "la comida",
+    "ar": "طعام",
+    "ja": "フード"
+  },
+  {
+    "en": "moment",
+    "index": 96,
+    "de": "der Moment",
+    "fr": "le moment",
+    "zh-cn": "时刻",
+    "es": "el momento",
+    "ar": "لحظة",
+    "ja": "瞬間"
+  },
+  {
+    "en": "air",
+    "index": 97,
+    "de": "die Luft",
+    "fr": "l'air",
+    "zh-cn": "空气",
+    "es": "El aire",
+    "ar": "هواء",
+    "ja": "空気"
+  },
+  {
+    "en": "teacher",
+    "index": 98,
+    "de": "der Lehrer",
+    "fr": "l'enseignant",
+    "zh-cn": "老师",
+    "es": "el maestro",
+    "ar": "مدرس",
+    "ja": "先生"
+  },
+  {
+    "en": "force",
+    "index": 99,
+    "de": "die Kraft",
+    "fr": "la force",
+    "zh-cn": "力",
+    "es": "la fuerza",
+    "ar": "فرض",
+    "ja": "力"
+  },
+  {
+    "en": "education",
+    "index": 100,
+    "de": "die Erziehung",
+    "fr": "l'éducation",
+    "zh-cn": "教育",
+    "es": "la educación",
+    "ar": "التعليم",
+    "ja": "教育"
+  },
+  {
+    "en": "foot",
+    "index": 101,
+    "de": "der Fuß",
+    "fr": "le pied",
+    "zh-cn": "脚丫子",
+    "es": "el pie",
+    "ar": "قدم",
+    "ja": "足"
+  },
+  {
+    "en": "boy",
+    "index": 102,
+    "de": "der Junge",
+    "fr": "le garçon",
+    "zh-cn": "男孩",
+    "es": "el chico",
+    "ar": "صبي",
+    "ja": "男の子"
+  },
+  {
+    "en": "age",
+    "index": 103,
+    "de": "das Alter",
+    "fr": "l'âge",
+    "zh-cn": "年龄",
+    "es": "la edad",
+    "ar": "عمر",
+    "ja": "年齢"
+  },
+  {
+    "en": "policy",
+    "index": 104,
+    "de": "die Richtlinie",
+    "fr": "la politique",
+    "zh-cn": "政策",
+    "es": "La política",
+    "ar": "سياسات",
+    "ja": "ポリシー"
+  },
+  {
+    "en": "process",
+    "index": 105,
+    "de": "der Prozess",
+    "fr": "le processus",
+    "zh-cn": "处理",
+    "es": "el proceso",
+    "ar": "معالجة",
+    "ja": "プロセス"
+  },
+  {
+    "en": "music",
+    "index": 106,
+    "de": "die Musik",
+    "fr": "la musique",
+    "zh-cn": "音乐",
+    "es": "la música",
+    "ar": "موسيقى",
+    "ja": "音楽"
+  },
+  {
+    "en": "market",
+    "index": 107,
+    "de": "der Markt",
+    "fr": "le marché",
+    "zh-cn": "市场",
+    "es": "El mercado",
+    "ar": "سوق",
+    "ja": "市場"
+  },
+  {
+    "en": "sense",
+    "index": 108,
+    "de": "der Sinn",
+    "fr": "le sens",
+    "zh-cn": "感",
+    "es": "el sentido",
+    "ar": "إحساس",
+    "ja": "センス"
+  },
+  {
+    "en": "nation",
+    "index": 109,
+    "de": "die Nation",
+    "fr": "la nation",
+    "zh-cn": "国家",
+    "es": "la Nación",
+    "ar": "الأمة",
+    "ja": "国家"
+  },
+  {
+    "en": "plan",
+    "index": 110,
+    "de": "der Plan",
+    "fr": "le plan",
+    "zh-cn": "计划",
+    "es": "El plan",
+    "ar": "خطة",
+    "ja": "計画"
+  },
+  {
+    "en": "college",
+    "index": 111,
+    "de": "die Hochschule",
+    "fr": "le collège",
+    "zh-cn": "学院",
+    "es": "la Universidad",
+    "ar": "كلية",
+    "ja": "カレッジ"
+  },
+  {
+    "en": "interest",
+    "index": 112,
+    "de": "die Interesse",
+    "fr": "l'interêt",
+    "zh-cn": "利益",
+    "es": "el interés",
+    "ar": "فائدة",
+    "ja": "利子"
+  },
+  {
+    "en": "death",
+    "index": 113,
+    "de": "der Tod",
+    "fr": "la mort",
+    "zh-cn": "死亡",
+    "es": "la muerte",
+    "ar": "الموت",
+    "ja": "死"
+  },
+  {
+    "en": "experience",
+    "index": 114,
+    "de": "die Erfahrung",
+    "fr": "l'expérience",
+    "zh-cn": "经验",
+    "es": "la experiencia",
+    "ar": "تجربة",
+    "ja": "経験"
+  },
+  {
+    "en": "effect",
+    "index": 115,
+    "de": "der Effekt",
+    "fr": "l'effet",
+    "zh-cn": "影响",
+    "es": "el efecto",
+    "ar": "تأثير",
+    "ja": "効果"
+  },
+  {
+    "en": "use",
+    "index": 116,
+    "de": "die Verwendung",
+    "fr": "l'utilisation",
+    "zh-cn": "使用",
+    "es": "el uso",
+    "ar": "استعمال",
+    "ja": "つかいます"
+  },
+  {
+    "en": "class",
+    "index": 117,
+    "de": "die Klasse",
+    "fr": "la classe",
+    "zh-cn": "类",
+    "es": "la clase",
+    "ar": "صف دراسي",
+    "ja": "クラス"
+  },
+  {
+    "en": "control",
+    "index": 118,
+    "de": "die Kontrolle",
+    "fr": "le contrôle",
+    "zh-cn": "控制",
+    "es": "el control",
+    "ar": "مراقبة",
+    "ja": "コントロール"
+  },
+  {
+    "en": "care",
+    "index": 119,
+    "de": "die Pflege",
+    "fr": "le soin",
+    "zh-cn": "关心",
+    "es": "el cuidado",
+    "ar": "رعاية",
+    "ja": "お手入れ"
+  },
+  {
+    "en": "field",
+    "index": 120,
+    "de": "das Feld",
+    "fr": "le champ",
+    "zh-cn": "领域",
+    "es": "el campo",
+    "ar": "حقل",
+    "ja": "フィールド"
+  },
+  {
+    "en": "development",
+    "index": 121,
+    "de": "die Entwicklung",
+    "fr": "le développement",
+    "zh-cn": "发展",
+    "es": "el desarrollo",
+    "ar": "تطوير",
+    "ja": "開発"
+  },
+  {
+    "en": "role",
+    "index": 122,
+    "de": "die Rolle",
+    "fr": "le rôle",
+    "zh-cn": "角色",
+    "es": "el papel",
+    "ar": "وظيفة",
+    "ja": "役割"
+  },
+  {
+    "en": "effort",
+    "index": 123,
+    "de": "der Aufwand",
+    "fr": "l'effort",
+    "zh-cn": "功夫",
+    "es": "el esfuerzo",
+    "ar": "مجهود",
+    "ja": "努力"
+  },
+  {
+    "en": "rate",
+    "index": 124,
+    "de": "die Rate",
+    "fr": "Le taux",
+    "zh-cn": "率",
+    "es": "la tasa",
+    "ar": "معدل",
+    "ja": "レート"
+  },
+  {
+    "en": "heart",
+    "index": 125,
+    "de": "das Herz",
+    "fr": "le cœur",
+    "zh-cn": "心",
+    "es": "el corazón",
+    "ar": "قلب",
+    "ja": "ハート"
+  },
+  {
+    "en": "drug",
+    "index": 126,
+    "de": "das Medikament",
+    "fr": "la drogue",
+    "zh-cn": "药物",
+    "es": "la droga",
+    "ar": "المخدرات",
+    "ja": "ドラッグ"
+  },
+  {
+    "en": "show",
+    "index": 127,
+    "de": "die Show",
+    "fr": "le spectacle",
+    "zh-cn": "显示",
+    "es": "el espectáculo",
+    "ar": "تبين",
+    "ja": "ショー"
+  },
+  {
+    "en": "leader",
+    "index": 128,
+    "de": "der Leiter",
+    "fr": "le meneur",
+    "zh-cn": "领导",
+    "es": "el líder",
+    "ar": "زعيم",
+    "ja": "リーダー"
+  },
+  {
+    "en": "light",
+    "index": 129,
+    "de": "das Licht",
+    "fr": "la lumière",
+    "zh-cn": "光",
+    "es": "la luz",
+    "ar": "ضوء",
+    "ja": "光"
+  },
+  {
+    "en": "voice",
+    "index": 130,
+    "de": "die Stimme",
+    "fr": "la voix",
+    "zh-cn": "语音",
+    "es": "la voz",
+    "ar": "صوت",
+    "ja": "音声"
+  },
+  {
+    "en": "wife",
+    "index": 131,
+    "de": "die Frau",
+    "fr": "la femme",
+    "zh-cn": "妻子",
+    "es": "La esposa",
+    "ar": "زوجة",
+    "ja": "妻"
+  },
+  {
+    "en": "police",
+    "index": 132,
+    "de": "die Polizei",
+    "fr": "la police",
+    "zh-cn": "警察",
+    "es": "la policía",
+    "ar": "شرطة",
+    "ja": "警察"
+  },
+  {
+    "en": "mind",
+    "index": 133,
+    "de": "der Verstand",
+    "fr": "l'esprit",
+    "zh-cn": "心神",
+    "es": "la mente",
+    "ar": "عقل",
+    "ja": "マインド"
+  },
+  {
+    "en": "price",
+    "index": 134,
+    "de": "der Preis",
+    "fr": "le prix",
+    "zh-cn": "价钱",
+    "es": "el precio",
+    "ar": "السعر",
+    "ja": "価格"
+  },
+  {
+    "en": "report",
+    "index": 135,
+    "de": "der Bericht",
+    "fr": "le rapport",
+    "zh-cn": "报告",
+    "es": "el informe",
+    "ar": "أبلغ عن",
+    "ja": "報告する"
+  },
+  {
+    "en": "decision",
+    "index": 136,
+    "de": "die Entscheidung",
+    "fr": "la décision",
+    "zh-cn": "决定",
+    "es": "la decisión",
+    "ar": "قرار",
+    "ja": "決定"
+  },
+  {
+    "en": "son",
+    "index": 137,
+    "de": "der Sohn",
+    "fr": "le fils",
+    "zh-cn": "儿子",
+    "es": "el hijo",
+    "ar": "ابن",
+    "ja": "息子"
+  },
+  {
+    "en": "view",
+    "index": 138,
+    "de": "die Aussicht",
+    "fr": "la vue",
+    "zh-cn": "视图",
+    "es": "la vista",
+    "ar": "رأي",
+    "ja": "見る"
+  },
+  {
+    "en": "relationship",
+    "index": 139,
+    "de": "die Beziehung",
+    "fr": "la relation",
+    "zh-cn": "关系",
+    "es": "la relación",
+    "ar": "صلة",
+    "ja": "関係"
+  },
+  {
+    "en": "town",
+    "index": 140,
+    "de": "die Stadt",
+    "fr": "la ville",
+    "zh-cn": "镇",
+    "es": "la ciudad",
+    "ar": "مدينة",
+    "ja": "タウン"
+  },
+  {
+    "en": "road",
+    "index": 141,
+    "de": "die Straße",
+    "fr": "la route",
+    "zh-cn": "路",
+    "es": "El camino",
+    "ar": "طريق",
+    "ja": "道路"
+  },
+  {
+    "en": "arm",
+    "index": 142,
+    "de": "der Arm",
+    "fr": "le bras",
+    "zh-cn": "臂",
+    "es": "el brazo",
+    "ar": "ذراع",
+    "ja": "腕"
+  },
+  {
+    "en": "difference",
+    "index": 143,
+    "de": "der Unterschied",
+    "fr": "la différence",
+    "zh-cn": "区别",
+    "es": "la diferencia",
+    "ar": "فرق",
+    "ja": "差"
+  },
+  {
+    "en": "value",
+    "index": 144,
+    "de": "der Wert",
+    "fr": "la valeur",
+    "zh-cn": "值",
+    "es": "el valor",
+    "ar": "القيمة",
+    "ja": "値"
+  },
+  {
+    "en": "building",
+    "index": 145,
+    "de": "Gebäude",
+    "fr": "le bâtiment",
+    "zh-cn": "建造",
+    "es": "el edificio",
+    "ar": "بناء",
+    "ja": "建物"
+  },
+  {
+    "en": "action",
+    "index": 146,
+    "de": "die Aktion",
+    "fr": "l'action",
+    "zh-cn": "行动",
+    "es": "la acción",
+    "ar": "عمل",
+    "ja": "アクション"
+  },
+  {
+    "en": "model",
+    "index": 147,
+    "de": "das Model",
+    "fr": "le modèle",
+    "zh-cn": "模型",
+    "es": "el modelo",
+    "ar": "نموذج",
+    "ja": "モデル"
+  },
+  {
+    "en": "season",
+    "index": 148,
+    "de": "die Saison",
+    "fr": "la saison",
+    "zh-cn": "季节",
+    "es": "la temporada",
+    "ar": "الموسم",
+    "ja": "シーズン"
+  },
+  {
+    "en": "society",
+    "index": 149,
+    "de": "die Gesellschaft",
+    "fr": "la société",
+    "zh-cn": "社会",
+    "es": "la sociedad",
+    "ar": "المجتمع",
+    "ja": "社会"
+  },
+  {
+    "en": "tax",
+    "index": 150,
+    "de": "Die Steuer",
+    "fr": "La taxe",
+    "zh-cn": "税",
+    "es": "el impuesto",
+    "ar": "ضريبة",
+    "ja": "税金"
+  },
+  {
+    "en": "director",
+    "index": 151,
+    "de": "der Direktor",
+    "fr": "le directeur",
+    "zh-cn": "导向器",
+    "es": "el director",
+    "ar": "مدير",
+    "ja": "ディレクター"
+  },
+  {
+    "en": "position",
+    "index": 152,
+    "de": "die Position",
+    "fr": "la position",
+    "zh-cn": "位置",
+    "es": "la posición",
+    "ar": "موضع",
+    "ja": "ポジション"
+  },
+  {
+    "en": "player",
+    "index": 153,
+    "de": "der Spieler",
+    "fr": "le joueur",
+    "zh-cn": "播放机",
+    "es": "el jugador",
+    "ar": "لاعب",
+    "ja": "プレーヤー"
+  },
+  {
+    "en": "record",
+    "index": 154,
+    "de": "der Datensatz",
+    "fr": "l'enregistrement",
+    "zh-cn": "记录",
+    "es": "el record",
+    "ar": "سجل",
+    "ja": "記録"
+  },
+  {
+    "en": "paper",
+    "index": 155,
+    "de": "das Papier",
+    "fr": "le papier",
+    "zh-cn": "纸",
+    "es": "el papel",
+    "ar": "ورقة",
+    "ja": "紙"
+  },
+  {
+    "en": "space",
+    "index": 156,
+    "de": "der Raum",
+    "fr": "l'espace",
+    "zh-cn": "空间",
+    "es": "el espacio",
+    "ar": "الفراغ",
+    "ja": "スペース"
+  },
+  {
+    "en": "ground",
+    "index": 157,
+    "de": "der Boden",
+    "fr": "le sol",
+    "zh-cn": "地面",
+    "es": "el terreno",
+    "ar": "أرض",
+    "ja": "接地"
+  },
+  {
+    "en": "form",
+    "index": 158,
+    "de": "die Form",
+    "fr": "la forme",
+    "zh-cn": "形成",
+    "es": "la forma",
+    "ar": "شكل",
+    "ja": "形"
+  },
+  {
+    "en": "event",
+    "index": 159,
+    "de": "das Ereignis",
+    "fr": "l'événement",
+    "zh-cn": "事件",
+    "es": "el evento",
+    "ar": "هدف",
+    "ja": "イベント"
+  },
+  {
+    "en": "official",
+    "index": 160,
+    "de": "das offizielle",
+    "fr": "l'officiel",
+    "zh-cn": "官方",
+    "es": "el oficial",
+    "ar": "الرسمية",
+    "ja": "公式"
+  },
+  {
+    "en": "matter",
+    "index": 161,
+    "de": "Der Grund",
+    "fr": "la question",
+    "zh-cn": "物",
+    "es": "el asunto",
+    "ar": "شيء",
+    "ja": "問題"
+  },
+  {
+    "en": "center",
+    "index": 162,
+    "de": "das Zentrum",
+    "fr": "le centre",
+    "zh-cn": "中央",
+    "es": "el centro",
+    "ar": "مركز",
+    "ja": "センター"
+  },
+  {
+    "en": "couple",
+    "index": 163,
+    "de": "das Ehepaar",
+    "fr": "le couple",
+    "zh-cn": "一对",
+    "es": "la pareja",
+    "ar": "زوجان",
+    "ja": "カップル"
+  },
+  {
+    "en": "site",
+    "index": 164,
+    "de": "der Standort",
+    "fr": "le site",
+    "zh-cn": "现场",
+    "es": "el sitio",
+    "ar": "موقع",
+    "ja": "サイト"
+  },
+  {
+    "en": "project",
+    "index": 165,
+    "de": "das Projekt",
+    "fr": "le projet",
+    "zh-cn": "项目",
+    "es": "el proyecto",
+    "ar": "مشروع",
+    "ja": "プロジェクト"
+  },
+  {
+    "en": "activity",
+    "index": 166,
+    "de": "die Aktivität",
+    "fr": "l'activité",
+    "zh-cn": "活动",
+    "es": "la actividad",
+    "ar": "نشاط",
+    "ja": "アクティビティ"
+  },
+  {
+    "en": "star",
+    "index": 167,
+    "de": "der Stern",
+    "fr": "l'étoile",
+    "zh-cn": "星",
+    "es": "la estrella",
+    "ar": "نجمة",
+    "ja": "星"
+  },
+  {
+    "en": "table",
+    "index": 168,
+    "de": "Der Tisch",
+    "fr": "la table",
+    "zh-cn": "表",
+    "es": "la mesa",
+    "ar": "الطاولة",
+    "ja": "表"
+  },
+  {
+    "en": "need",
+    "index": 169,
+    "de": "das Bedürfnis",
+    "fr": "le besoin",
+    "zh-cn": "需要",
+    "es": "la necesidad",
+    "ar": "بحاجة إلى",
+    "ja": "必要"
+  },
+  {
+    "en": "court",
+    "index": 170,
+    "de": "das Gericht",
+    "fr": "le tribunal",
+    "zh-cn": "法庭",
+    "es": "La corte",
+    "ar": "محكمة",
+    "ja": "裁判所"
+  },
+  {
+    "en": "oil",
+    "index": 171,
+    "de": "das Öl",
+    "fr": "l'huile",
+    "zh-cn": "油",
+    "es": "el aceite",
+    "ar": "نفط",
+    "ja": "油"
+  },
+  {
+    "en": "situation",
+    "index": 172,
+    "de": "die Situation",
+    "fr": "la situation",
+    "zh-cn": "情况",
+    "es": "la situación",
+    "ar": "موقف",
+    "ja": "状況"
+  },
+  {
+    "en": "cost",
+    "index": 173,
+    "de": "die Kosten",
+    "fr": "le coût",
+    "zh-cn": "成本",
+    "es": "el costo",
+    "ar": "كلفة",
+    "ja": "コスト"
+  },
+  {
+    "en": "industry",
+    "index": 174,
+    "de": "die Branche",
+    "fr": "L'industrie",
+    "zh-cn": "行业",
+    "es": "La industria",
+    "ar": "صناعة",
+    "ja": "業界"
+  },
+  {
+    "en": "figure",
+    "index": 175,
+    "de": "die Figur",
+    "fr": "la figure",
+    "zh-cn": "数字",
+    "es": "la figura",
+    "ar": "الشكل",
+    "ja": "数字"
+  },
+  {
+    "en": "street",
+    "index": 176,
+    "de": "die Straße",
+    "fr": "la rue",
+    "zh-cn": "街",
+    "es": "la calle",
+    "ar": "شارع",
+    "ja": "通り"
+  },
+  {
+    "en": "image",
+    "index": 177,
+    "de": "das Bild",
+    "fr": "l'image",
+    "zh-cn": "图片",
+    "es": "la imagen",
+    "ar": "صورة",
+    "ja": "画像"
+  },
+  {
+    "en": "phone",
+    "index": 178,
+    "de": "das Telefon",
+    "fr": "le téléphone",
+    "zh-cn": "电话",
+    "es": "el teléfono",
+    "ar": "هاتف",
+    "ja": "電話"
+  },
+  {
+    "en": "data",
+    "index": 179,
+    "de": "die Daten",
+    "fr": "les données",
+    "zh-cn": "数据",
+    "es": "los datos",
+    "ar": "البيانات",
+    "ja": "データ"
+  },
+  {
+    "en": "picture",
+    "index": 180,
+    "de": "das Bild",
+    "fr": "l'image",
+    "zh-cn": "图片",
+    "es": "la imagen",
+    "ar": "صورة",
+    "ja": "画像"
+  },
+  {
+    "en": "practice",
+    "index": 181,
+    "de": "Die Übung",
+    "fr": "la pratique",
+    "zh-cn": "实践",
+    "es": "la práctica",
+    "ar": "ممارسة",
+    "ja": "練習"
+  },
+  {
+    "en": "piece",
+    "index": 182,
+    "de": "das Stück",
+    "fr": "la pièce",
+    "zh-cn": "片",
+    "es": "la pieza",
+    "ar": "قطعة",
+    "ja": "ピース"
+  },
+  {
+    "en": "land",
+    "index": 183,
+    "de": "das Land",
+    "fr": "la terre",
+    "zh-cn": "土地",
+    "es": "la tierra",
+    "ar": "أرض",
+    "ja": "土地"
+  },
+  {
+    "en": "product",
+    "index": 184,
+    "de": "das Produkt",
+    "fr": "le produit",
+    "zh-cn": "产品",
+    "es": "el producto",
+    "ar": "المنتج",
+    "ja": "製品"
+  },
+  {
+    "en": "doctor",
+    "index": 185,
+    "de": "Der Doktor",
+    "fr": "le docteur",
+    "zh-cn": "医生",
+    "es": "el doctor",
+    "ar": "طبيب",
+    "ja": "医師"
+  },
+  {
+    "en": "wall",
+    "index": 186,
+    "de": "die Mauer",
+    "fr": "le mur",
+    "zh-cn": "壁",
+    "es": "la pared",
+    "ar": "حائط",
+    "ja": "壁"
+  },
+  {
+    "en": "patient",
+    "index": 187,
+    "de": "der Patient",
+    "fr": "le patient",
+    "zh-cn": "患者",
+    "es": "el paciente",
+    "ar": "صبور",
+    "ja": "患者"
+  },
+  {
+    "en": "worker",
+    "index": 188,
+    "de": "der Arbeiter",
+    "fr": "le travailleur",
+    "zh-cn": "工人",
+    "es": "el trabajador",
+    "ar": "عامل",
+    "ja": "ワーカー"
+  },
+  {
+    "en": "news",
+    "index": 189,
+    "de": "die Nachrichten",
+    "fr": "les nouvelles",
+    "zh-cn": "新闻",
+    "es": "las noticias",
+    "ar": "أخبار",
+    "ja": "ニュース"
+  },
+  {
+    "en": "test",
+    "index": 190,
+    "de": "der Test",
+    "fr": "le test",
+    "zh-cn": "测试",
+    "es": "la prueba",
+    "ar": "اختبار",
+    "ja": "テスト"
+  },
+  {
+    "en": "movie",
+    "index": 191,
+    "de": "der Film",
+    "fr": "le film",
+    "zh-cn": "电影",
+    "es": "la película",
+    "ar": "فيلم",
+    "ja": "映画"
+  },
+  {
+    "en": "north",
+    "index": 192,
+    "de": "der Norden",
+    "fr": "le nord",
+    "zh-cn": "北",
+    "es": "el norte",
+    "ar": "شمال",
+    "ja": "北"
+  },
+  {
+    "en": "love",
+    "index": 193,
+    "de": "die Liebe",
+    "fr": "l'amour",
+    "zh-cn": "爱",
+    "es": "el amor",
+    "ar": "حب",
+    "ja": "愛"
+  },
+  {
+    "en": "support",
+    "index": 194,
+    "de": "die Unterstützung",
+    "fr": "le soutien",
+    "zh-cn": "支持",
+    "es": "el apoyo",
+    "ar": "الدعم",
+    "ja": "サポート"
+  },
+  {
+    "en": "technology",
+    "index": 195,
+    "de": "Die Technologie",
+    "fr": "la technologie",
+    "zh-cn": "技术",
+    "es": "La tecnología",
+    "ar": "تقنية",
+    "ja": "技術"
+  },
+  {
+    "en": "step",
+    "index": 196,
+    "de": "der Schritt",
+    "fr": "La marche",
+    "zh-cn": "步",
+    "es": "el paso",
+    "ar": "خطوة",
+    "ja": "ステップ"
+  },
+  {
+    "en": "baby",
+    "index": 197,
+    "de": "das Baby",
+    "fr": "le bébé",
+    "zh-cn": "宝宝",
+    "es": "el bebé",
+    "ar": "طفل",
+    "ja": "赤ちゃん"
+  },
+  {
+    "en": "computer",
+    "index": 198,
+    "de": "der Computer",
+    "fr": "l'ordinateur",
+    "zh-cn": "电脑",
+    "es": "el ordenador",
+    "ar": "الحاسوب",
+    "ja": "コンピューター"
+  },
+  {
+    "en": "type",
+    "index": 199,
+    "de": "der Typ",
+    "fr": "le type",
+    "zh-cn": "类型",
+    "es": "el tipo",
+    "ar": "اكتب",
+    "ja": "タイプ"
+  },
+  {
+    "en": "attention",
+    "index": 200,
+    "de": "die Aufmerksamkeit",
+    "fr": "l'attention",
+    "zh-cn": "注意",
+    "es": "la atencion",
+    "ar": "انتباه",
+    "ja": "注意"
+  },
+  {
+    "en": "film",
+    "index": 201,
+    "de": "Der Film",
+    "fr": "le film",
+    "zh-cn": "电影",
+    "es": "la película",
+    "ar": "فيلم",
+    "ja": "膜"
+  },
+  {
+    "en": "tree",
+    "index": 202,
+    "de": "der Baum",
+    "fr": "l'arbre",
+    "zh-cn": "树",
+    "es": "el árbol",
+    "ar": "شجرة",
+    "ja": "木"
+  },
+  {
+    "en": "source",
+    "index": 203,
+    "de": "die Quelle",
+    "fr": "la source",
+    "zh-cn": "资源",
+    "es": "la fuente",
+    "ar": "مصدر",
+    "ja": "ソース"
+  },
+  {
+    "en": "hair",
+    "index": 204,
+    "de": "das Haar",
+    "fr": "les cheveux",
+    "zh-cn": "头发",
+    "es": "el cabello",
+    "ar": "شعر",
+    "ja": "ヘア"
+  },
+  {
+    "en": "look",
+    "index": 205,
+    "de": "das Aussehen",
+    "fr": "le regard",
+    "zh-cn": "看",
+    "es": "la mirada",
+    "ar": "نظرة",
+    "ja": "見える"
+  },
+  {
+    "en": "century",
+    "index": 206,
+    "de": "das Jahrhundert",
+    "fr": "le siècle",
+    "zh-cn": "世纪",
+    "es": "el siglo",
+    "ar": "مئة عام",
+    "ja": "世紀"
+  },
+  {
+    "en": "evidence",
+    "index": 207,
+    "de": "der Beweis",
+    "fr": "la preuve",
+    "zh-cn": "证据",
+    "es": "la evidencia",
+    "ar": "دليل",
+    "ja": "証拠"
+  },
+  {
+    "en": "window",
+    "index": 208,
+    "de": "das Fenster",
+    "fr": "la fenêtre",
+    "zh-cn": "窗口",
+    "es": "la ventana",
+    "ar": "نافذة او شباك",
+    "ja": "窓"
+  },
+  {
+    "en": "culture",
+    "index": 209,
+    "de": "die Kultur",
+    "fr": "la culture",
+    "zh-cn": "文化",
+    "es": "la cultura",
+    "ar": "حضاره",
+    "ja": "文化"
+  },
+  {
+    "en": "chance",
+    "index": 210,
+    "de": "die Chance",
+    "fr": "la chance",
+    "zh-cn": "机会",
+    "es": "la oportunidad",
+    "ar": "فرصة",
+    "ja": "チャンス"
+  },
+  {
+    "en": "brother",
+    "index": 211,
+    "de": "der Bruder",
+    "fr": "le frère",
+    "zh-cn": "哥哥",
+    "es": "el hermano",
+    "ar": "شقيق",
+    "ja": "兄"
+  },
+  {
+    "en": "energy",
+    "index": 212,
+    "de": "die Energie",
+    "fr": "l'énergie",
+    "zh-cn": "能源",
+    "es": "la energía",
+    "ar": "طاقة",
+    "ja": "エネルギー"
+  },
+  {
+    "en": "period",
+    "index": 213,
+    "de": "die Periode",
+    "fr": "la période",
+    "zh-cn": "期",
+    "es": "el período",
+    "ar": "فترة",
+    "ja": "期間"
+  },
+  {
+    "en": "course",
+    "index": 214,
+    "de": "der Kurs",
+    "fr": "le cours",
+    "zh-cn": "课程",
+    "es": "el curso",
+    "ar": "دورة",
+    "ja": "コース"
+  },
+  {
+    "en": "summer",
+    "index": 215,
+    "de": "der Sommer",
+    "fr": "L'été",
+    "zh-cn": "夏季",
+    "es": "el verano",
+    "ar": "الصيف",
+    "ja": "夏"
+  },
+  {
+    "en": "plant",
+    "index": 216,
+    "de": "die Pflanze",
+    "fr": "la plante",
+    "zh-cn": "厂",
+    "es": "la planta",
+    "ar": "نبات",
+    "ja": "工場"
+  },
+  {
+    "en": "opportunity",
+    "index": 217,
+    "de": "die Gelegenheit",
+    "fr": "l'opportunité",
+    "zh-cn": "机会",
+    "es": "la oportunidad",
+    "ar": "فرصة",
+    "ja": "機会"
+  },
+  {
+    "en": "term",
+    "index": 218,
+    "de": "der Begriff",
+    "fr": "le terme",
+    "zh-cn": "术语",
+    "es": "el termino",
+    "ar": "مصطلح",
+    "ja": "期間"
+  },
+  {
+    "en": "letter",
+    "index": 219,
+    "de": "der Buchstabe",
+    "fr": "la lettre",
+    "zh-cn": "信",
+    "es": "la carta",
+    "ar": "رسالة",
+    "ja": "文字"
+  },
+  {
+    "en": "condition",
+    "index": 220,
+    "de": "die Bedingung",
+    "fr": "la condition",
+    "zh-cn": "条件",
+    "es": "la condición",
+    "ar": "شرط",
+    "ja": "調子"
+  },
+  {
+    "en": "choice",
+    "index": 221,
+    "de": "die Wahl",
+    "fr": "le choix",
+    "zh-cn": "选择",
+    "es": "la elección",
+    "ar": "خيار",
+    "ja": "選択"
+  },
+  {
+    "en": "rule",
+    "index": 222,
+    "de": "die Regel",
+    "fr": "la règle",
+    "zh-cn": "规则",
+    "es": "la regla",
+    "ar": "قاعدة",
+    "ja": "ルール"
+  },
+  {
+    "en": "daughter",
+    "index": 223,
+    "de": "die Tochter",
+    "fr": "la fille",
+    "zh-cn": "女儿",
+    "es": "la hija",
+    "ar": "ابنة",
+    "ja": "娘"
+  },
+  {
+    "en": "administration",
+    "index": 224,
+    "de": "die Verwaltung",
+    "fr": "l'administration",
+    "zh-cn": "行政",
+    "es": "la administracion",
+    "ar": "الادارة",
+    "ja": "投与"
+  },
+  {
+    "en": "south",
+    "index": 225,
+    "de": "der Süden",
+    "fr": "le sud",
+    "zh-cn": "南",
+    "es": "el sur",
+    "ar": "جنوب",
+    "ja": "南"
+  },
+  {
+    "en": "husband",
+    "index": 226,
+    "de": "der Ehemann",
+    "fr": "le mari",
+    "zh-cn": "丈夫",
+    "es": "el esposo",
+    "ar": "الزوج",
+    "ja": "夫"
+  },
+  {
+    "en": "floor",
+    "index": 227,
+    "de": "der Boden",
+    "fr": "le plancher",
+    "zh-cn": "地板",
+    "es": "el piso",
+    "ar": "أرضية",
+    "ja": "床"
+  },
+  {
+    "en": "campaign",
+    "index": 228,
+    "de": "die Kampagne",
+    "fr": "la campagne",
+    "zh-cn": "运动",
+    "es": "la campaña",
+    "ar": "حملة",
+    "ja": "キャンペーン"
+  },
+  {
+    "en": "material",
+    "index": 229,
+    "de": "das Material",
+    "fr": "le matériel",
+    "zh-cn": "材料",
+    "es": "el material",
+    "ar": "مواد",
+    "ja": "材料"
+  },
+  {
+    "en": "population",
+    "index": 230,
+    "de": "die Bevölkerung",
+    "fr": "la population",
+    "zh-cn": "人口",
+    "es": "la población",
+    "ar": "تعداد السكان",
+    "ja": "人口"
+  },
+  {
+    "en": "call",
+    "index": 231,
+    "de": "der Anruf",
+    "fr": "l'appel",
+    "zh-cn": "呼叫",
+    "es": "la llamada",
+    "ar": "مكالمة",
+    "ja": "コール"
+  },
+  {
+    "en": "economy",
+    "index": 232,
+    "de": "die Wirtschaft",
+    "fr": "l'économie",
+    "zh-cn": "经济",
+    "es": "la economía",
+    "ar": "اقتصاد",
+    "ja": "経済"
+  },
+  {
+    "en": "hospital",
+    "index": 233,
+    "de": "das Krankenhaus",
+    "fr": "l'hôpital",
+    "zh-cn": "醫院",
+    "es": "el hospital",
+    "ar": "مستشفى",
+    "ja": "病院"
+  },
+  {
+    "en": "church",
+    "index": 234,
+    "de": "die Kirche",
+    "fr": "l'église",
+    "zh-cn": "教会",
+    "es": "la Iglesia",
+    "ar": "كنيسة",
+    "ja": "教会"
+  },
+  {
+    "en": "risk",
+    "index": 235,
+    "de": "das Risiko",
+    "fr": "le risque",
+    "zh-cn": "风险",
+    "es": "el riesgo",
+    "ar": "خطر",
+    "ja": "リスク"
+  },
+  {
+    "en": "fire",
+    "index": 236,
+    "de": "das Feuer",
+    "fr": "le feu",
+    "zh-cn": "火",
+    "es": "el fuego",
+    "ar": "نار",
+    "ja": "火災"
+  },
+  {
+    "en": "future",
+    "index": 237,
+    "de": "die Zukunft",
+    "fr": "l'avenir",
+    "zh-cn": "未来",
+    "es": "el futuro",
+    "ar": "مستقبل",
+    "ja": "未来"
+  },
+  {
+    "en": "defense",
+    "index": 238,
+    "de": "die Verteidigung",
+    "fr": "La défense",
+    "zh-cn": "防御",
+    "es": "la defensa",
+    "ar": "دفاع",
+    "ja": "防衛"
+  },
+  {
+    "en": "security",
+    "index": 239,
+    "de": "die Sicherheit",
+    "fr": "La sécurité",
+    "zh-cn": "安全",
+    "es": "la seguridad",
+    "ar": "الأمان",
+    "ja": "セキュリティ"
+  },
+  {
+    "en": "bank",
+    "index": 240,
+    "de": "die Bank",
+    "fr": "la Banque",
+    "zh-cn": "银行",
+    "es": "el Banco",
+    "ar": "بنك",
+    "ja": "バンク"
+  },
+  {
+    "en": "west",
+    "index": 241,
+    "de": "der Westen",
+    "fr": "l'ouest",
+    "zh-cn": "西",
+    "es": "el oeste",
+    "ar": "غرب",
+    "ja": "西"
+  },
+  {
+    "en": "sport",
+    "index": 242,
+    "de": "der Sport",
+    "fr": "le sport",
+    "zh-cn": "运动",
+    "es": "el deporte",
+    "ar": "رياضة",
+    "ja": "スポーツ"
+  },
+  {
+    "en": "board",
+    "index": 243,
+    "de": "Die Tafel",
+    "fr": "le tableau",
+    "zh-cn": "板",
+    "es": "el tablero",
+    "ar": "مجلس",
+    "ja": "ボード"
+  },
+  {
+    "en": "subject",
+    "index": 244,
+    "de": "das Thema",
+    "fr": "l'objet",
+    "zh-cn": "学科",
+    "es": "el tema",
+    "ar": "موضوع",
+    "ja": "主題"
+  },
+  {
+    "en": "officer",
+    "index": 245,
+    "de": "der Beamte",
+    "fr": "l'officier",
+    "zh-cn": "官",
+    "es": "el oficial",
+    "ar": "ضابط",
+    "ja": "役員"
+  },
+  {
+    "en": "rest",
+    "index": 246,
+    "de": "der Rest",
+    "fr": "le reste",
+    "zh-cn": "休息",
+    "es": "el resto",
+    "ar": "راحة",
+    "ja": "残り"
+  },
+  {
+    "en": "behavior",
+    "index": 247,
+    "de": "das Verhalten",
+    "fr": "le comportement",
+    "zh-cn": "行为",
+    "es": "el comportamiento",
+    "ar": "سلوك",
+    "ja": "動作"
+  },
+  {
+    "en": "performance",
+    "index": 248,
+    "de": "die Performance",
+    "fr": "la performance",
+    "zh-cn": "性能",
+    "es": "el desempeño",
+    "ar": "أداء",
+    "ja": "パフォーマンス"
+  },
+  {
+    "en": "top",
+    "index": 249,
+    "de": "die Spitze",
+    "fr": "haut",
+    "zh-cn": "最佳",
+    "es": "la parte superior",
+    "ar": "أعلى",
+    "ja": "上"
+  },
+  {
+    "en": "goal",
+    "index": 250,
+    "de": "das Ziel",
+    "fr": "le but",
+    "zh-cn": "目标",
+    "es": "la meta",
+    "ar": "هدف",
+    "ja": "ゴール"
+  },
+  {
+    "en": "second",
+    "index": 251,
+    "de": "der Zweite",
+    "fr": "la deuxième",
+    "zh-cn": "第二",
+    "es": "el segundo",
+    "ar": "ثانيا",
+    "ja": "二番目"
+  },
+  {
+    "en": "bed",
+    "index": 252,
+    "de": "das Bett",
+    "fr": "le lit",
+    "zh-cn": "床",
+    "es": "la cama",
+    "ar": "السرير",
+    "ja": "ベッド"
+  },
+  {
+    "en": "order",
+    "index": 253,
+    "de": "die Bestellung",
+    "fr": "l'ordre",
+    "zh-cn": "订购",
+    "es": "el orden",
+    "ar": "طلب",
+    "ja": "注文"
+  },
+  {
+    "en": "author",
+    "index": 254,
+    "de": "der Autor",
+    "fr": "l'auteur",
+    "zh-cn": "作者",
+    "es": "el autor",
+    "ar": "مؤلف",
+    "ja": "著者"
+  },
+  {
+    "en": "blood",
+    "index": 255,
+    "de": "das Blut",
+    "fr": "le sang",
+    "zh-cn": "血液",
+    "es": "la sangre",
+    "ar": "دم",
+    "ja": "血液"
+  },
+  {
+    "en": "agency",
+    "index": 256,
+    "de": "die Agentur",
+    "fr": "l'agence",
+    "zh-cn": "机构",
+    "es": "La agencia",
+    "ar": "وكالة",
+    "ja": "代理店"
+  },
+  {
+    "en": "nature",
+    "index": 257,
+    "de": "die Natur",
+    "fr": "la nature",
+    "zh-cn": "性质",
+    "es": "la naturaleza",
+    "ar": "طبيعة",
+    "ja": "自然"
+  },
+  {
+    "en": "color",
+    "index": 258,
+    "de": "die Farbe",
+    "fr": "la couleur",
+    "zh-cn": "颜色",
+    "es": "el color",
+    "ar": "اللون",
+    "ja": "色"
+  },
+  {
+    "en": "store",
+    "index": 259,
+    "de": "das Geschäft",
+    "fr": "le magasin",
+    "zh-cn": "商店",
+    "es": "la tienda",
+    "ar": "متجر",
+    "ja": "格納"
+  },
+  {
+    "en": "sound",
+    "index": 260,
+    "de": "der Klang",
+    "fr": "le son",
+    "zh-cn": "声音",
+    "es": "El sonido",
+    "ar": "صوت",
+    "ja": "音"
+  },
+  {
+    "en": "movement",
+    "index": 261,
+    "de": "die Bewegung",
+    "fr": "le mouvement",
+    "zh-cn": "运动",
+    "es": "el movimiento",
+    "ar": "حركة",
+    "ja": "移動"
+  },
+  {
+    "en": "page",
+    "index": 262,
+    "de": "Die Seite",
+    "fr": "la page",
+    "zh-cn": "页",
+    "es": "la página",
+    "ar": "صفحة",
+    "ja": "ページ"
+  },
+  {
+    "en": "race",
+    "index": 263,
+    "de": "das Rennen",
+    "fr": "la course",
+    "zh-cn": "种族",
+    "es": "la raza",
+    "ar": "سباق",
+    "ja": "レース"
+  },
+  {
+    "en": "concern",
+    "index": 264,
+    "de": "die Sorge",
+    "fr": "la préoccupation",
+    "zh-cn": "关心",
+    "es": "La preocupación",
+    "ar": "الاهتمام",
+    "ja": "懸念"
+  },
+  {
+    "en": "series",
+    "index": 265,
+    "de": "die Serie",
+    "fr": "les séries",
+    "zh-cn": "系列",
+    "es": "las series",
+    "ar": "سلسلة",
+    "ja": "シリーズ"
+  },
+  {
+    "en": "language",
+    "index": 266,
+    "de": "die Sprache",
+    "fr": "la langue",
+    "zh-cn": "语言",
+    "es": "el idioma",
+    "ar": "لغة",
+    "ja": "言語"
+  },
+  {
+    "en": "response",
+    "index": 267,
+    "de": "die Antwort",
+    "fr": "la réponse",
+    "zh-cn": "响应",
+    "es": "la respuesta",
+    "ar": "استجابة",
+    "ja": "応答"
+  },
+  {
+    "en": "animal",
+    "index": 268,
+    "de": "das Tier",
+    "fr": "l'animal",
+    "zh-cn": "动物",
+    "es": "el animal",
+    "ar": "حيوان",
+    "ja": "動物"
+  },
+  {
+    "en": "factor",
+    "index": 269,
+    "de": "der Faktor",
+    "fr": "le facteur",
+    "zh-cn": "因子",
+    "es": "el factor",
+    "ar": "عامل",
+    "ja": "因子"
+  },
+  {
+    "en": "decade",
+    "index": 270,
+    "de": "das Jahrzehnt",
+    "fr": "la décennie",
+    "zh-cn": "十",
+    "es": "la década",
+    "ar": "عقد",
+    "ja": "10年"
+  },
+  {
+    "en": "article",
+    "index": 271,
+    "de": "der Artikel",
+    "fr": "l'article",
+    "zh-cn": "文章",
+    "es": "el artículo",
+    "ar": "مقالة - سلعة",
+    "ja": "記事"
+  },
+  {
+    "en": "east",
+    "index": 272,
+    "de": "der Osten",
+    "fr": "l'est",
+    "zh-cn": "东",
+    "es": "el este",
+    "ar": "الشرق",
+    "ja": "東"
+  },
+  {
+    "en": "artist",
+    "index": 273,
+    "de": "der Künstler",
+    "fr": "l'artiste",
+    "zh-cn": "艺术家",
+    "es": "el artista",
+    "ar": "فنان",
+    "ja": "アーティスト"
+  },
+  {
+    "en": "scene",
+    "index": 274,
+    "de": "die Szene",
+    "fr": "la scène",
+    "zh-cn": "现场",
+    "es": "la escena",
+    "ar": "مشهد",
+    "ja": "シーン"
+  },
+  {
+    "en": "stock",
+    "index": 275,
+    "de": "der Vorrat",
+    "fr": "le stock",
+    "zh-cn": "股票",
+    "es": "la acción",
+    "ar": "مخزون",
+    "ja": "株式"
+  },
+  {
+    "en": "career",
+    "index": 276,
+    "de": "die Karriere",
+    "fr": "la carrière",
+    "zh-cn": "事业",
+    "es": "la carrera",
+    "ar": "مهنة",
+    "ja": "キャリア"
+  },
+  {
+    "en": "treatment",
+    "index": 277,
+    "de": "die Behandlung",
+    "fr": "le traitement",
+    "zh-cn": "治疗",
+    "es": "el tratamiento",
+    "ar": "علاج او معاملة",
+    "ja": "処理"
+  },
+  {
+    "en": "approach",
+    "index": 278,
+    "de": "die Vorgehensweise",
+    "fr": "l'approche",
+    "zh-cn": "途径",
+    "es": "el enfoque",
+    "ar": "مقاربة",
+    "ja": "アプローチ"
+  },
+  {
+    "en": "size",
+    "index": 279,
+    "de": "die Größe",
+    "fr": "la taille",
+    "zh-cn": "尺寸",
+    "es": "el tamaño",
+    "ar": "بحجم",
+    "ja": "サイズ"
+  },
+  {
+    "en": "dog",
+    "index": 280,
+    "de": "der Hund",
+    "fr": "le chien",
+    "zh-cn": "狗",
+    "es": "el perro",
+    "ar": "الكلب",
+    "ja": "犬"
+  },
+  {
+    "en": "fund",
+    "index": 281,
+    "de": "die Kaution",
+    "fr": "le fonds",
+    "zh-cn": "基金",
+    "es": "el fondo",
+    "ar": "الأموال",
+    "ja": "基金"
+  },
+  {
+    "en": "media",
+    "index": 282,
+    "de": "die Medien",
+    "fr": "les média",
+    "zh-cn": "媒体",
+    "es": "los medios de comunicación",
+    "ar": "وسائل الإعلام",
+    "ja": "メディア"
+  },
+  {
+    "en": "sign",
+    "index": 283,
+    "de": "das Schild",
+    "fr": "le signe",
+    "zh-cn": "标志",
+    "es": "la señal",
+    "ar": "إشارة",
+    "ja": "符号"
+  },
+  {
+    "en": "thought",
+    "index": 284,
+    "de": "der Gedanke",
+    "fr": "la pensée",
+    "zh-cn": "思想",
+    "es": "el pensamiento",
+    "ar": "فكر",
+    "ja": "思想"
+  },
+  {
+    "en": "list",
+    "index": 285,
+    "de": "Die Liste",
+    "fr": "la liste",
+    "zh-cn": "名单",
+    "es": "la lista",
+    "ar": "قائمة",
+    "ja": "リスト"
+  },
+  {
+    "en": "individual",
+    "index": 286,
+    "de": "der Einzelne",
+    "fr": "l'individu",
+    "zh-cn": "个人",
+    "es": "el individuo",
+    "ar": "فرد",
+    "ja": "個人"
+  },
+  {
+    "en": "quality",
+    "index": 287,
+    "de": "die Qualität",
+    "fr": "la qualité",
+    "zh-cn": "质量",
+    "es": "la calidad",
+    "ar": "جودة",
+    "ja": "品質"
+  },
+  {
+    "en": "pressure",
+    "index": 288,
+    "de": "der Druck",
+    "fr": "la pression",
+    "zh-cn": "压力",
+    "es": "la presión",
+    "ar": "الضغط",
+    "ja": "圧力"
+  },
+  {
+    "en": "answer",
+    "index": 289,
+    "de": "die Antwort",
+    "fr": "la réponse",
+    "zh-cn": "回答",
+    "es": "la respuesta",
+    "ar": "إجابة",
+    "ja": "回答"
+  },
+  {
+    "en": "resource",
+    "index": 290,
+    "de": "die Ressource",
+    "fr": "la ressource",
+    "zh-cn": "资源",
+    "es": "el recurso",
+    "ar": "مورد",
+    "ja": "リソース"
+  },
+  {
+    "en": "meeting",
+    "index": 291,
+    "de": "das Treffen",
+    "fr": "la réunion",
+    "zh-cn": "会议",
+    "es": "la reunión",
+    "ar": "لقاء",
+    "ja": "会議"
+  },
+  {
+    "en": "disease",
+    "index": 292,
+    "de": "die Krankheit",
+    "fr": "la maladie",
+    "zh-cn": "疾病",
+    "es": "la enfermedad",
+    "ar": "مرض",
+    "ja": "疾患"
+  },
+  {
+    "en": "success",
+    "index": 293,
+    "de": "der Erfolg",
+    "fr": "le succès",
+    "zh-cn": "成功",
+    "es": "el éxito",
+    "ar": "نجاح",
+    "ja": "成功"
+  },
+  {
+    "en": "cup",
+    "index": 294,
+    "de": "die Tasse",
+    "fr": "la tasse",
+    "zh-cn": "杯子",
+    "es": "la Copa",
+    "ar": "كوب",
+    "ja": "カップ"
+  },
+  {
+    "en": "amount",
+    "index": 295,
+    "de": "die Summe",
+    "fr": "le montant",
+    "zh-cn": "量",
+    "es": "la cantidad",
+    "ar": "كمية",
+    "ja": "量"
+  },
+  {
+    "en": "ability",
+    "index": 296,
+    "de": "die Fähigkeit",
+    "fr": "la capacité",
+    "zh-cn": "能力",
+    "es": "la habilidad",
+    "ar": "القدرة",
+    "ja": "能力"
+  },
+  {
+    "en": "staff",
+    "index": 297,
+    "de": "das Personal",
+    "fr": "le personnel",
+    "zh-cn": "员工",
+    "es": "el personal",
+    "ar": "العاملين",
+    "ja": "スタッフ"
+  },
+  {
+    "en": "character",
+    "index": 298,
+    "de": "der Charakter",
+    "fr": "le personnage",
+    "zh-cn": "字符",
+    "es": "el personaje",
+    "ar": "حرف",
+    "ja": "キャラクター"
+  },
+  {
+    "en": "growth",
+    "index": 299,
+    "de": "das Wachstum",
+    "fr": "la croissance",
+    "zh-cn": "发展",
+    "es": "el crecimiento",
+    "ar": "نمو",
+    "ja": "成長"
+  },
+  {
+    "en": "loss",
+    "index": 300,
+    "de": "der Verlust",
+    "fr": "la perte",
+    "zh-cn": "失利",
+    "es": "la pérdida",
+    "ar": "خسارة",
+    "ja": "損失"
+  },
+  {
+    "en": "degree",
+    "index": 301,
+    "de": "das Grad",
+    "fr": "le degré",
+    "zh-cn": "度",
+    "es": "el grado",
+    "ar": "الدرجة العلمية",
+    "ja": "度"
+  },
+  {
+    "en": "attack",
+    "index": 302,
+    "de": "der Angriff",
+    "fr": "l'attaque",
+    "zh-cn": "攻击",
+    "es": "el ataque",
+    "ar": "هجوم",
+    "ja": "攻撃"
+  },
+  {
+    "en": "region",
+    "index": 303,
+    "de": "die Region",
+    "fr": "la région",
+    "zh-cn": "地区",
+    "es": "la región",
+    "ar": "منطقة",
+    "ja": "領域"
+  },
+  {
+    "en": "box",
+    "index": 305,
+    "de": "die Kiste",
+    "fr": "la boîte",
+    "zh-cn": "框",
+    "es": "la caja",
+    "ar": "صندوق",
+    "ja": "ボックス"
+  },
+  {
+    "en": "television",
+    "index": 306,
+    "de": "das Fernsehen",
+    "fr": "la télévision",
+    "zh-cn": "电视",
+    "es": "la televisión",
+    "ar": "التلفاز",
+    "ja": "テレビ"
+  },
+  {
+    "en": "training",
+    "index": 307,
+    "de": "Das Training",
+    "fr": "la formation",
+    "zh-cn": "训练",
+    "es": "el entrenamiento",
+    "ar": "تدريب",
+    "ja": "トレーニング"
+  },
+  {
+    "en": "trade",
+    "index": 308,
+    "de": "der Handel",
+    "fr": "l'échange",
+    "zh-cn": "贸易",
+    "es": "el comercio",
+    "ar": "تجارة",
+    "ja": "トレード"
+  },
+  {
+    "en": "deal",
+    "index": 309,
+    "de": "der Deal",
+    "fr": "l'accord",
+    "zh-cn": "合同",
+    "es": "el trato",
+    "ar": "صفقة",
+    "ja": "対処"
+  },
+  {
+    "en": "election",
+    "index": 310,
+    "de": "Die Wahl",
+    "fr": "l'élection",
+    "zh-cn": "选举",
+    "es": "la elección",
+    "ar": "انتخاب",
+    "ja": "選挙"
+  },
+  {
+    "en": "feeling",
+    "index": 311,
+    "de": "das Gefühl",
+    "fr": "le sentiment",
+    "zh-cn": "感觉",
+    "es": "la sensación",
+    "ar": "شعور",
+    "ja": "感じ"
+  },
+  {
+    "en": "standard",
+    "index": 312,
+    "de": "Der Standard",
+    "fr": "le standard",
+    "zh-cn": "标准",
+    "es": "el estandar",
+    "ar": "اساسي",
+    "ja": "標準"
+  },
+  {
+    "en": "bill",
+    "index": 313,
+    "de": "die Rechnung",
+    "fr": "le projet de loi",
+    "zh-cn": "法案",
+    "es": "la factura",
+    "ar": "مشروع قانون",
+    "ja": "ビル"
+  },
+  {
+    "en": "message",
+    "index": 314,
+    "de": "die Nachricht",
+    "fr": "le message",
+    "zh-cn": "信息",
+    "es": "el mensaje",
+    "ar": "رسالة",
+    "ja": "メッセージ"
+  },
+  {
+    "en": "analysis",
+    "index": 315,
+    "de": "Die Analyse",
+    "fr": "l'analyse",
+    "zh-cn": "分析",
+    "es": "el analisis",
+    "ar": "تحليل",
+    "ja": "分析"
+  },
+  {
+    "en": "benefit",
+    "index": 316,
+    "de": "der Vorteil",
+    "fr": "le bénéfice",
+    "zh-cn": "效益",
+    "es": "el beneficio",
+    "ar": "فائدة",
+    "ja": "利益"
+  },
+  {
+    "en": "lawyer",
+    "index": 317,
+    "de": "der Rechtsanwalt",
+    "fr": "l'avocat",
+    "zh-cn": "律师",
+    "es": "El abogado",
+    "ar": "المحامية",
+    "ja": "弁護士"
+  },
+  {
+    "en": "section",
+    "index": 318,
+    "de": "die Sektion",
+    "fr": "la section",
+    "zh-cn": "部分",
+    "es": "la sección",
+    "ar": "الجزء",
+    "ja": "セクション"
+  },
+  {
+    "en": "glass",
+    "index": 319,
+    "de": "das Glas",
+    "fr": "le verre",
+    "zh-cn": "玻璃",
+    "es": "el cristal",
+    "ar": "زجاج",
+    "ja": "ガラス"
+  },
+  {
+    "en": "skill",
+    "index": 320,
+    "de": "das Können",
+    "fr": "la compétence",
+    "zh-cn": "技能",
+    "es": "La habilidad",
+    "ar": "مهارة",
+    "ja": "スキル"
+  },
+  {
+    "en": "sister",
+    "index": 321,
+    "de": "die Schwester",
+    "fr": "la soeur",
+    "zh-cn": "妹妹",
+    "es": "la hermana",
+    "ar": "أخت",
+    "ja": "シスター"
+  },
+  {
+    "en": "professor",
+    "index": 322,
+    "de": "der Professor",
+    "fr": "le professeur",
+    "zh-cn": "教授",
+    "es": "el profesor",
+    "ar": "دكتور جامعى",
+    "ja": "教授"
+  },
+  {
+    "en": "operation",
+    "index": 323,
+    "de": "die Operation",
+    "fr": "l'opération",
+    "zh-cn": "手术",
+    "es": "la operacion",
+    "ar": "عملية",
+    "ja": "操作"
+  },
+  {
+    "en": "crime",
+    "index": 324,
+    "de": "das Verbrechen",
+    "fr": "le crime",
+    "zh-cn": "犯罪",
+    "es": "el crimen",
+    "ar": "جريمة",
+    "ja": "犯罪"
+  },
+  {
+    "en": "stage",
+    "index": 325,
+    "de": "die Bühne",
+    "fr": "La scène",
+    "zh-cn": "阶段",
+    "es": "el escenario",
+    "ar": "المسرح",
+    "ja": "ステージ"
+  },
+  {
+    "en": "authority",
+    "index": 326,
+    "de": "die Autorität",
+    "fr": "l'autorité",
+    "zh-cn": "权威",
+    "es": "la autoridad",
+    "ar": "السلطة",
+    "ja": "権限"
+  },
+  {
+    "en": "design",
+    "index": 327,
+    "de": "das Design",
+    "fr": "la conception",
+    "zh-cn": "设计",
+    "es": "el diseño",
+    "ar": "التصميم",
+    "ja": "設計"
+  },
+  {
+    "en": "sort",
+    "index": 328,
+    "de": "die Art",
+    "fr": "le genre",
+    "zh-cn": "分类",
+    "es": "el género",
+    "ar": "فرز",
+    "ja": "ソート"
+  },
+  {
+    "en": "one",
+    "index": 329,
+    "de": "der Eine",
+    "fr": "celui",
+    "zh-cn": "一",
+    "es": "el único",
+    "ar": "واحد",
+    "ja": "1"
+  },
+  {
+    "en": "knowledge",
+    "index": 330,
+    "de": "das Wissen",
+    "fr": "la connaissance",
+    "zh-cn": "知识",
+    "es": "el conocimiento",
+    "ar": "المعرفه",
+    "ja": "知識"
+  },
+  {
+    "en": "gun",
+    "index": 331,
+    "de": "die Waffe",
+    "fr": "le pistolet",
+    "zh-cn": "枪",
+    "es": "el arma",
+    "ar": "بندقية",
+    "ja": "銃"
+  },
+  {
+    "en": "station",
+    "index": 332,
+    "de": "der Bahnhof",
+    "fr": "la gare",
+    "zh-cn": "站",
+    "es": "la estación",
+    "ar": "محطة",
+    "ja": "駅"
+  },
+  {
+    "en": "strategy",
+    "index": 333,
+    "de": "die Strategie",
+    "fr": "la stratégie",
+    "zh-cn": "战略",
+    "es": "la estrategia",
+    "ar": "إستراتيجية",
+    "ja": "戦略"
+  },
+  {
+    "en": "truth",
+    "index": 334,
+    "de": "die Wahrheit",
+    "fr": "la vérité",
+    "zh-cn": "真相",
+    "es": "la verdad",
+    "ar": "حقيقة",
+    "ja": "真実"
+  },
+  {
+    "en": "song",
+    "index": 335,
+    "de": "das Lied",
+    "fr": "la chanson",
+    "zh-cn": "歌曲",
+    "es": "la canción",
+    "ar": "أغنية",
+    "ja": "歌"
+  },
+  {
+    "en": "example",
+    "index": 336,
+    "de": "das Beispiel",
+    "fr": "l'exemple",
+    "zh-cn": "例",
+    "es": "el ejemplo",
+    "ar": "مثال",
+    "ja": "例"
+  },
+  {
+    "en": "environment",
+    "index": 337,
+    "de": "die Umgebung",
+    "fr": "l'environnement",
+    "zh-cn": "环境",
+    "es": "el entorno",
+    "ar": "بيئة",
+    "ja": "環境"
+  },
+  {
+    "en": "leg",
+    "index": 338,
+    "de": "das Bein",
+    "fr": "la jambe",
+    "zh-cn": "腿",
+    "es": "la pierna",
+    "ar": "رجل",
+    "ja": "脚"
+  },
+  {
+    "en": "public",
+    "index": 339,
+    "de": "die Öffentlichkeit",
+    "fr": "le public",
+    "zh-cn": "上市",
+    "es": "el público",
+    "ar": "عامة",
+    "ja": "パブリック"
+  },
+  {
+    "en": "executive",
+    "index": 340,
+    "de": "Die Exekutive",
+    "fr": "l'exécutif",
+    "zh-cn": "行政人员",
+    "es": "el Ejecutivo",
+    "ar": "تنفيذي",
+    "ja": "エグゼクティブ"
+  },
+  {
+    "en": "set",
+    "index": 341,
+    "de": "der Satz",
+    "fr": "l'ensemble",
+    "zh-cn": "组",
+    "es": "el conjunto",
+    "ar": "جلس",
+    "ja": "セット"
+  },
+  {
+    "en": "rock",
+    "index": 342,
+    "de": "der Stein",
+    "fr": "la roche",
+    "zh-cn": "岩",
+    "es": "la roca",
+    "ar": "صخرة",
+    "ja": "岩"
+  },
+  {
+    "en": "note",
+    "index": 343,
+    "de": "die Notiz",
+    "fr": "la note",
+    "zh-cn": "注意",
+    "es": "la nota",
+    "ar": "ملحوظة",
+    "ja": "注意"
+  },
+  {
+    "en": "manager",
+    "index": 344,
+    "de": "der Geschäftsführer",
+    "fr": "le directeur",
+    "zh-cn": "经理",
+    "es": "el gerente",
+    "ar": "مدير",
+    "ja": "マネージャー"
+  },
+  {
+    "en": "help",
+    "index": 345,
+    "de": "die Hilfe",
+    "fr": "l'aide",
+    "zh-cn": "帮帮我",
+    "es": "la ayuda",
+    "ar": "مساعدة",
+    "ja": "助けて"
+  },
+  {
+    "en": "network",
+    "index": 346,
+    "de": "das Netzwerk",
+    "fr": "le réseau",
+    "zh-cn": "网络",
+    "es": "la red",
+    "ar": "شبكة الاتصال",
+    "ja": "ネットワーク"
+  },
+  {
+    "en": "science",
+    "index": 347,
+    "de": "die Wissenschaft",
+    "fr": "la science",
+    "zh-cn": "科学",
+    "es": "la ciencia",
+    "ar": "علم",
+    "ja": "科学"
+  },
+  {
+    "en": "memory",
+    "index": 348,
+    "de": "die Erinnerung",
+    "fr": "la mémoire",
+    "zh-cn": "记忆",
+    "es": "la memoria",
+    "ar": "ذاكرة",
+    "ja": "記憶"
+  },
+  {
+    "en": "card",
+    "index": 349,
+    "de": "die Karte",
+    "fr": "la carte",
+    "zh-cn": "卡",
+    "es": "la tarjeta",
+    "ar": "بطاقة",
+    "ja": "カード"
+  },
+  {
+    "en": "seat",
+    "index": 350,
+    "de": "der Sitz",
+    "fr": "le siège",
+    "zh-cn": "座位",
+    "es": "el asiento",
+    "ar": "مقعد",
+    "ja": "シート"
+  },
+  {
+    "en": "cell",
+    "index": 351,
+    "de": "die Zelle",
+    "fr": "la cellule",
+    "zh-cn": "细胞",
+    "es": "la célula",
+    "ar": "زنزانة",
+    "ja": "細胞"
+  },
+  {
+    "en": "trial",
+    "index": 352,
+    "de": "der Prozess",
+    "fr": "le procès",
+    "zh-cn": "审讯",
+    "es": "la prueba",
+    "ar": "التجربة",
+    "ja": "試行"
+  },
+  {
+    "en": "expert",
+    "index": 353,
+    "de": "der Experte",
+    "fr": "l'expert",
+    "zh-cn": "专家",
+    "es": "el experto",
+    "ar": "خبير",
+    "ja": "専門家"
+  },
+  {
+    "en": "spring",
+    "index": 354,
+    "de": "der Frühling",
+    "fr": "le printemps",
+    "zh-cn": "弹簧",
+    "es": "la primavera",
+    "ar": "ربيع",
+    "ja": "春"
+  },
+  {
+    "en": "firm",
+    "index": 355,
+    "de": "die Firma",
+    "fr": "l'entreprise",
+    "zh-cn": "公司",
+    "es": "La firma",
+    "ar": "مؤسسة",
+    "ja": "当社"
+  },
+  {
+    "en": "radio",
+    "index": 356,
+    "de": "das Radio",
+    "fr": "la radio",
+    "zh-cn": "无线电",
+    "es": "la radio",
+    "ar": "راديو",
+    "ja": "無線"
+  },
+  {
+    "en": "management",
+    "index": 357,
+    "de": "Das Management",
+    "fr": "la gestion",
+    "zh-cn": "管理",
+    "es": "la gestión",
+    "ar": "إدارة",
+    "ja": "管理"
+  },
+  {
+    "en": "ball",
+    "index": 358,
+    "de": "der Ball",
+    "fr": "le ballon",
+    "zh-cn": "球",
+    "es": "la pelota",
+    "ar": "كرة",
+    "ja": "玉"
+  },
+  {
+    "en": "talk",
+    "index": 359,
+    "de": "das Gespräch",
+    "fr": "le discours",
+    "zh-cn": "谈论",
+    "es": "la conversación",
+    "ar": "حديث",
+    "ja": "トーク"
+  },
+  {
+    "en": "theory",
+    "index": 360,
+    "de": "die Theorie",
+    "fr": "la théorie",
+    "zh-cn": "理论",
+    "es": "la teoría",
+    "ar": "نظرية",
+    "ja": "理論"
+  },
+  {
+    "en": "impact",
+    "index": 361,
+    "de": "der Aufprall",
+    "fr": "l'impact",
+    "zh-cn": "碰撞",
+    "es": "el impacto",
+    "ar": "تأثير",
+    "ja": "影響"
+  },
+  {
+    "en": "statement",
+    "index": 362,
+    "de": "die Aussage",
+    "fr": "la déclaration",
+    "zh-cn": "声明",
+    "es": "la declaración",
+    "ar": "بيان",
+    "ja": "ステートメント"
+  },
+  {
+    "en": "charge",
+    "index": 363,
+    "de": "die Ladung",
+    "fr": "la charge",
+    "zh-cn": "收费",
+    "es": "la carga",
+    "ar": "الشحنة",
+    "ja": "電荷"
+  },
+  {
+    "en": "direction",
+    "index": 364,
+    "de": "die Richtung",
+    "fr": "la direction",
+    "zh-cn": "方向",
+    "es": "la dirección",
+    "ar": "اتجاه",
+    "ja": "方向"
+  },
+  {
+    "en": "weapon",
+    "index": 365,
+    "de": "die Waffe",
+    "fr": "l'arme",
+    "zh-cn": "武器",
+    "es": "El arma",
+    "ar": "سلاح",
+    "ja": "武器"
+  },
+  {
+    "en": "employee",
+    "index": 366,
+    "de": "der Arbeitnehmer",
+    "fr": "l'employé",
+    "zh-cn": "雇员",
+    "es": "el empleado",
+    "ar": "موظف",
+    "ja": "従業員"
+  },
+  {
+    "en": "peace",
+    "index": 367,
+    "de": "der Frieden",
+    "fr": "la paix",
+    "zh-cn": "和平",
+    "es": "la paz",
+    "ar": "سلام",
+    "ja": "平和"
+  },
+  {
+    "en": "base",
+    "index": 368,
+    "de": "die Basis",
+    "fr": "la base",
+    "zh-cn": "基础",
+    "es": "la base",
+    "ar": "قاعدة",
+    "ja": "ベース"
+  },
+  {
+    "en": "pain",
+    "index": 369,
+    "de": "der Schmerz",
+    "fr": "la douleur",
+    "zh-cn": "疼痛",
+    "es": "el dolor",
+    "ar": "الم",
+    "ja": "痛み"
+  },
+  {
+    "en": "play",
+    "index": 370,
+    "de": "das Spiel",
+    "fr": "le jeu",
+    "zh-cn": "玩",
+    "es": "el juego",
+    "ar": "لعب",
+    "ja": "遊びます"
+  },
+  {
+    "en": "measure",
+    "index": 371,
+    "de": "die Maßnahme",
+    "fr": "la mesure",
+    "zh-cn": "测量",
+    "es": "la medida",
+    "ar": "قياس",
+    "ja": "測定"
+  },
+  {
+    "en": "interview",
+    "index": 372,
+    "de": "das Interview",
+    "fr": "l'interview",
+    "zh-cn": "访问",
+    "es": "la entrevista",
+    "ar": "مقابلة",
+    "ja": "インタビュー"
+  },
+  {
+    "en": "chair",
+    "index": 373,
+    "de": "der Stuhl",
+    "fr": "la chaise",
+    "zh-cn": "椅子",
+    "es": "la silla",
+    "ar": "كرسي",
+    "ja": "椅子"
+  },
+  {
+    "en": "fish",
+    "index": 374,
+    "de": "der Fisch",
+    "fr": "le poisson",
+    "zh-cn": "鱼",
+    "es": "el pescado",
+    "ar": "سمك",
+    "ja": "魚"
+  },
+  {
+    "en": "camera",
+    "index": 375,
+    "de": "die Kamera",
+    "fr": "l'appareil photo",
+    "zh-cn": "相机",
+    "es": "la Cámara",
+    "ar": "الة تصوير",
+    "ja": "カメラ"
+  },
+  {
+    "en": "structure",
+    "index": 376,
+    "de": "die Struktur",
+    "fr": "la structure",
+    "zh-cn": "结构体",
+    "es": "la estructura",
+    "ar": "بناء",
+    "ja": "構造"
+  },
+  {
+    "en": "politics",
+    "index": 377,
+    "de": "Die Politiker",
+    "fr": "la politique",
+    "zh-cn": "政治",
+    "es": "las políticas",
+    "ar": "سياسة",
+    "ja": "政治"
+  },
+  {
+    "en": "bit",
+    "index": 378,
+    "de": "das bisschen",
+    "fr": "le BIT",
+    "zh-cn": "位",
+    "es": "el bit",
+    "ar": "قليلا",
+    "ja": "ビット"
+  },
+  {
+    "en": "weight",
+    "index": 379,
+    "de": "das Gewicht",
+    "fr": "le poids",
+    "zh-cn": "重量",
+    "es": "el peso",
+    "ar": "وزن",
+    "ja": "重量"
+  },
+  {
+    "en": "candidate",
+    "index": 380,
+    "de": "der Kandidat",
+    "fr": "le candidat",
+    "zh-cn": "候选人",
+    "es": "el candidato",
+    "ar": "مرشح",
+    "ja": "候補者"
+  },
+  {
+    "en": "production",
+    "index": 381,
+    "de": "die Produktion",
+    "fr": "la production",
+    "zh-cn": "生产",
+    "es": "la producción",
+    "ar": "إنتاج",
+    "ja": "製造"
+  },
+  {
+    "en": "trip",
+    "index": 382,
+    "de": "die Reise",
+    "fr": "le voyage",
+    "zh-cn": "旅",
+    "es": "el viaje",
+    "ar": "رحلة قصيرة",
+    "ja": "旅行"
+  },
+  {
+    "en": "evening",
+    "index": 383,
+    "de": "der Abend",
+    "fr": "le soir",
+    "zh-cn": "晚间",
+    "es": "la noche",
+    "ar": "مساء",
+    "ja": "イブニング"
+  },
+  {
+    "en": "conference",
+    "index": 384,
+    "de": "Die Konferenz",
+    "fr": "la conférence",
+    "zh-cn": "会议",
+    "es": "la Conferencia",
+    "ar": "مؤتمر",
+    "ja": "会議"
+  },
+  {
+    "en": "unit",
+    "index": 385,
+    "de": "die Einheit",
+    "fr": "l'unité",
+    "zh-cn": "单元",
+    "es": "la unidad",
+    "ar": "وحدة",
+    "ja": "単位"
+  },
+  {
+    "en": "style",
+    "index": 386,
+    "de": "der Style",
+    "fr": "le style",
+    "zh-cn": "样式",
+    "es": "el estilo",
+    "ar": "قلم المدقة",
+    "ja": "スタイル"
+  },
+  {
+    "en": "adult",
+    "index": 387,
+    "de": "der Erwachsene",
+    "fr": "l'adulte",
+    "zh-cn": "成人",
+    "es": "el adulto",
+    "ar": "بالغ",
+    "ja": "大人"
+  },
+  {
+    "en": "range",
+    "index": 388,
+    "de": "die Reichweite",
+    "fr": "la gamme",
+    "zh-cn": "范围",
+    "es": "el rango",
+    "ar": "نطاق",
+    "ja": "範囲"
+  },
+  {
+    "en": "past",
+    "index": 389,
+    "de": "die Vergangenheit",
+    "fr": "le passé",
+    "zh-cn": "过去",
+    "es": "el pasado",
+    "ar": "الماضي",
+    "ja": "過去"
+  },
+  {
+    "en": "edge",
+    "index": 390,
+    "de": "die Kante",
+    "fr": "le bord",
+    "zh-cn": "边缘",
+    "es": "el borde",
+    "ar": "حافة",
+    "ja": "エッジ"
+  },
+  {
+    "en": "writer",
+    "index": 391,
+    "de": "Der Schriftsteller",
+    "fr": "l'écrivain",
+    "zh-cn": "作家",
+    "es": "el escritor",
+    "ar": "كاتب",
+    "ja": "ライター"
+  },
+  {
+    "en": "trouble",
+    "index": 392,
+    "de": "die Schwierigkeiten",
+    "fr": "le problème",
+    "zh-cn": "麻烦",
+    "es": "el problema",
+    "ar": "مشكلة",
+    "ja": "トラブル"
+  },
+  {
+    "en": "challenge",
+    "index": 393,
+    "de": "Die Herausforderung",
+    "fr": "le défi",
+    "zh-cn": "挑战",
+    "es": "el reto",
+    "ar": "التحدي",
+    "ja": "チャレンジ"
+  },
+  {
+    "en": "fear",
+    "index": 394,
+    "de": "die Angst",
+    "fr": "la peur",
+    "zh-cn": "恐惧",
+    "es": "el miedo",
+    "ar": "خوف",
+    "ja": "恐れ"
+  },
+  {
+    "en": "shoulder",
+    "index": 395,
+    "de": "die Schulter",
+    "fr": "L'épaule",
+    "zh-cn": "肩",
+    "es": "el hombro",
+    "ar": "كتف",
+    "ja": "ショルダー"
+  },
+  {
+    "en": "institution",
+    "index": 396,
+    "de": "die Institution",
+    "fr": "l'institution",
+    "zh-cn": "机构",
+    "es": "La institución",
+    "ar": "المعهد",
+    "ja": "機関"
+  },
+  {
+    "en": "sea",
+    "index": 397,
+    "de": "das Meer",
+    "fr": "la mer",
+    "zh-cn": "海",
+    "es": "el mar",
+    "ar": "بحر",
+    "ja": "海"
+  },
+  {
+    "en": "dream",
+    "index": 398,
+    "de": "der Traum",
+    "fr": "le rêve",
+    "zh-cn": "梦想",
+    "es": "el sueño",
+    "ar": "حلم",
+    "ja": "夢"
+  },
+  {
+    "en": "bar",
+    "index": 399,
+    "de": "die Bar",
+    "fr": "le bar",
+    "zh-cn": "酒吧",
+    "es": "el bar",
+    "ar": "شريط",
+    "ja": "バー"
+  },
+  {
+    "en": "property",
+    "index": 400,
+    "de": "die Eigenschaft",
+    "fr": "la propriété",
+    "zh-cn": "属性",
+    "es": "la propiedad",
+    "ar": "خاصية",
+    "ja": "プロパティ"
+  },
+  {
+    "en": "stuff",
+    "index": 401,
+    "de": "das Zeug",
+    "fr": "le truc",
+    "zh-cn": "东东",
+    "es": "las cosas",
+    "ar": "أمور",
+    "ja": "もの"
+  },
+  {
+    "en": "detail",
+    "index": 402,
+    "de": "das Detail",
+    "fr": "le détail",
+    "zh-cn": "详情",
+    "es": "el detalle",
+    "ar": "التفاصيل",
+    "ja": "詳細"
+  },
+  {
+    "en": "method",
+    "index": 403,
+    "de": "die Methode",
+    "fr": "la méthode",
+    "zh-cn": "方法",
+    "es": "el método",
+    "ar": "طريقة",
+    "ja": "方法"
+  },
+  {
+    "en": "magazine",
+    "index": 404,
+    "de": "die Zeitschrift",
+    "fr": "le magazine",
+    "zh-cn": "杂志",
+    "es": "la revista",
+    "ar": "مجلة",
+    "ja": "マガジン"
+  },
+  {
+    "en": "hotel",
+    "index": 405,
+    "de": "das Hotel",
+    "fr": "l'hôtel",
+    "zh-cn": "旅馆",
+    "es": "el hotel",
+    "ar": "الفندق",
+    "ja": "ホテル"
+  },
+  {
+    "en": "soldier",
+    "index": 406,
+    "de": "der Soldat",
+    "fr": "le soldat",
+    "zh-cn": "士兵",
+    "es": "el soldado",
+    "ar": "جندي",
+    "ja": "兵士"
+  },
+  {
+    "en": "cause",
+    "index": 407,
+    "de": "die Ursache",
+    "fr": "la cause",
+    "zh-cn": "原因",
+    "es": "la causa",
+    "ar": "سبب",
+    "ja": "原因"
+  },
+  {
+    "en": "bag",
+    "index": 408,
+    "de": "die Tasche",
+    "fr": "le sac",
+    "zh-cn": "袋",
+    "es": "el bolso",
+    "ar": "حقيبة",
+    "ja": "バッグ"
+  },
+  {
+    "en": "heat",
+    "index": 409,
+    "de": "die Hitze",
+    "fr": "la chaleur",
+    "zh-cn": "热",
+    "es": "el calor",
+    "ar": "الحرارة",
+    "ja": "熱"
+  },
+  {
+    "en": "fall",
+    "index": 410,
+    "de": "der Herbst",
+    "fr": "la chute",
+    "zh-cn": "秋季",
+    "es": "la caída",
+    "ar": "خريف",
+    "ja": "秋"
+  },
+  {
+    "en": "marriage",
+    "index": 411,
+    "de": "die Ehe",
+    "fr": "le mariage",
+    "zh-cn": "婚姻",
+    "es": "el matrimonio",
+    "ar": "زواج",
+    "ja": "結婚"
+  },
+  {
+    "en": "surface",
+    "index": 412,
+    "de": "die Oberfläche",
+    "fr": "la surface",
+    "zh-cn": "表面",
+    "es": "la superficie",
+    "ar": "سطح - المظهر الخارجي",
+    "ja": "表面"
+  },
+  {
+    "en": "purpose",
+    "index": 413,
+    "de": "die Absicht",
+    "fr": "le but",
+    "zh-cn": "目的",
+    "es": "el propósito",
+    "ar": "غرض",
+    "ja": "目的"
+  },
+  {
+    "en": "pattern",
+    "index": 414,
+    "de": "das Muster",
+    "fr": "le motif",
+    "zh-cn": "模式",
+    "es": "el patrón",
+    "ar": "نمط",
+    "ja": "パターン"
+  },
+  {
+    "en": "skin",
+    "index": 415,
+    "de": "die Haut",
+    "fr": "la peau",
+    "zh-cn": "皮肤",
+    "es": "la piel",
+    "ar": "بشرة",
+    "ja": "肌"
+  },
+  {
+    "en": "agent",
+    "index": 416,
+    "de": "Der Agent",
+    "fr": "l'agent",
+    "zh-cn": "代理人",
+    "es": "el agente",
+    "ar": "وكيل",
+    "ja": "エージェント"
+  },
+  {
+    "en": "owner",
+    "index": 417,
+    "de": "der Besitzer",
+    "fr": "le propriétaire",
+    "zh-cn": "所有者",
+    "es": "el propietario",
+    "ar": "صاحب",
+    "ja": "オーナー"
+  },
+  {
+    "en": "machine",
+    "index": 418,
+    "de": "Die Maschine",
+    "fr": "la machine",
+    "zh-cn": "机",
+    "es": "la máquina",
+    "ar": "آلة",
+    "ja": "機械"
+  },
+  {
+    "en": "gas",
+    "index": 419,
+    "de": "das Gas",
+    "fr": "le gaz",
+    "zh-cn": "加油站",
+    "es": "el gas",
+    "ar": "غاز",
+    "ja": "ガス"
+  },
+  {
+    "en": "generation",
+    "index": 420,
+    "de": "die Generation",
+    "fr": "la génération",
+    "zh-cn": "代",
+    "es": "la generación",
+    "ar": "توليد",
+    "ja": "世代"
+  },
+  {
+    "en": "cancer",
+    "index": 421,
+    "de": "der Krebs",
+    "fr": "le cancer",
+    "zh-cn": "癌症",
+    "es": "el cancer",
+    "ar": "سرطان",
+    "ja": "癌"
+  },
+  {
+    "en": "item",
+    "index": 422,
+    "de": "der Gegenstand",
+    "fr": "l'article",
+    "zh-cn": "项目",
+    "es": "el objeto",
+    "ar": "بند",
+    "ja": "項目"
+  },
+  {
+    "en": "reality",
+    "index": 423,
+    "de": "Die Realität",
+    "fr": "la réalité",
+    "zh-cn": "现实",
+    "es": "la realidad",
+    "ar": "واقع",
+    "ja": "現実"
+  },
+  {
+    "en": "coach",
+    "index": 424,
+    "de": "der Trainer",
+    "fr": "l'entraîneur",
+    "zh-cn": "教练",
+    "es": "el entrenador",
+    "ar": "مدرب حافلة ركاب",
+    "ja": "コーチ"
+  },
+  {
+    "en": "yard",
+    "index": 425,
+    "de": "der Hof",
+    "fr": "la Cour",
+    "zh-cn": "码",
+    "es": "el patio",
+    "ar": "حديقة منزل",
+    "ja": "ヤード"
+  },
+  {
+    "en": "violence",
+    "index": 426,
+    "de": "die Gewalt",
+    "fr": "la violence",
+    "zh-cn": "暴力",
+    "es": "la violencia",
+    "ar": "عنف",
+    "ja": "暴力"
+  },
+  {
+    "en": "investment",
+    "index": 427,
+    "de": "die Investition",
+    "fr": "l'investissement",
+    "zh-cn": "投资",
+    "es": "la inversión",
+    "ar": "استثمار",
+    "ja": "投資"
+  },
+  {
+    "en": "discussion",
+    "index": 428,
+    "de": "die Diskussion",
+    "fr": "la discussion",
+    "zh-cn": "讨论",
+    "es": "La discusión",
+    "ar": "نقاش",
+    "ja": "討論"
+  },
+  {
+    "en": "finger",
+    "index": 429,
+    "de": "der Finger",
+    "fr": "le doigt",
+    "zh-cn": "手指",
+    "es": "el dedo",
+    "ar": "اصبع اليد",
+    "ja": "指"
+  },
+  {
+    "en": "garden",
+    "index": 430,
+    "de": "der Garten",
+    "fr": "le jardin",
+    "zh-cn": "花园",
+    "es": "el jardín",
+    "ar": "حديقة",
+    "ja": "庭園"
+  },
+  {
+    "en": "collection",
+    "index": 431,
+    "de": "die Sammlung",
+    "fr": "la collection",
+    "zh-cn": "采集",
+    "es": "la colección",
+    "ar": "مجموعة",
+    "ja": "コレクション"
+  },
+  {
+    "en": "task",
+    "index": 432,
+    "de": "die Aufgabe",
+    "fr": "la tâche",
+    "zh-cn": "任务",
+    "es": "la tarea",
+    "ar": "مهمة",
+    "ja": "仕事"
+  },
+  {
+    "en": "partner",
+    "index": 433,
+    "de": "der Partner",
+    "fr": "le partenaire",
+    "zh-cn": "伙伴",
+    "es": "el compañero",
+    "ar": "شريك",
+    "ja": "パートナー"
+  },
+  {
+    "en": "kitchen",
+    "index": 434,
+    "de": "die Küche",
+    "fr": "la cuisine",
+    "zh-cn": "厨房",
+    "es": "La cocina",
+    "ar": "مطبخ",
+    "ja": "キッチン"
+  },
+  {
+    "en": "consumer",
+    "index": 435,
+    "de": "der Verbraucher",
+    "fr": "le consommateur",
+    "zh-cn": "消费者",
+    "es": "el consumidor",
+    "ar": "مستهلك",
+    "ja": "消費者"
+  },
+  {
+    "en": "shot",
+    "index": 436,
+    "de": "der Schuss",
+    "fr": "le tir",
+    "zh-cn": "射击",
+    "es": "el disparo",
+    "ar": "اطلاق النار",
+    "ja": "ショット"
+  },
+  {
+    "en": "budget",
+    "index": 437,
+    "de": "das Budget",
+    "fr": "le budget",
+    "zh-cn": "预算",
+    "es": "el presupuesto",
+    "ar": "ميزانية",
+    "ja": "予算"
+  },
+  {
+    "en": "painting",
+    "index": 438,
+    "de": "Das Gemälde",
+    "fr": "la peinture",
+    "zh-cn": "绘画",
+    "es": "la pintura",
+    "ar": "لوحة",
+    "ja": "ペインティング"
+  },
+  {
+    "en": "scientist",
+    "index": 439,
+    "de": "der Wissenschaftler",
+    "fr": "le scientifique",
+    "zh-cn": "科学家",
+    "es": "El Científico",
+    "ar": "امن",
+    "ja": "科学者"
+  },
+  {
+    "en": "agreement",
+    "index": 440,
+    "de": "die Vereinbarung",
+    "fr": "l'accord",
+    "zh-cn": "协议",
+    "es": "el acuerdo",
+    "ar": "اتفاقية",
+    "ja": "契約"
+  },
+  {
+    "en": "capital",
+    "index": 441,
+    "de": "die Hauptstadt",
+    "fr": "la capitale",
+    "zh-cn": "首都",
+    "es": "la capital",
+    "ar": "رأس المال",
+    "ja": "資本"
+  },
+  {
+    "en": "mouth",
+    "index": 442,
+    "de": "der Mund",
+    "fr": "la bouche",
+    "zh-cn": "口",
+    "es": "la boca",
+    "ar": "فم",
+    "ja": "口"
+  },
+  {
+    "en": "victim",
+    "index": 443,
+    "de": "das Opfer",
+    "fr": "la victime",
+    "zh-cn": "受害者",
+    "es": "la víctima",
+    "ar": "ضحية",
+    "ja": "犠牲者"
+  },
+  {
+    "en": "newspaper",
+    "index": 444,
+    "de": "die Zeitung",
+    "fr": "le journal",
+    "zh-cn": "报纸",
+    "es": "el periódico",
+    "ar": "جريدة",
+    "ja": "新聞"
+  },
+  {
+    "en": "threat",
+    "index": 445,
+    "de": "die Drohung",
+    "fr": "la menace",
+    "zh-cn": "威胁",
+    "es": "la amenaza",
+    "ar": "التهديد",
+    "ja": "脅威"
+  },
+  {
+    "en": "responsibility",
+    "index": 446,
+    "de": "die Verantwortung",
+    "fr": "la responsabilité",
+    "zh-cn": "责任",
+    "es": "la responsabilidad",
+    "ar": "المسئولية",
+    "ja": "責任"
+  },
+  {
+    "en": "attorney",
+    "index": 447,
+    "de": "der Anwalt",
+    "fr": "l'avocat",
+    "zh-cn": "律师",
+    "es": "el abogado",
+    "ar": "محامي",
+    "ja": "弁護士"
+  },
+  {
+    "en": "score",
+    "index": 448,
+    "de": "Die Punktzahl",
+    "fr": "le score",
+    "zh-cn": "得分了",
+    "es": "el marcador",
+    "ar": "أحرز هدفاً",
+    "ja": "スコア"
+  },
+  {
+    "en": "account",
+    "index": 449,
+    "de": "das Konto",
+    "fr": "le compte",
+    "zh-cn": "帐户",
+    "es": "la cuenta",
+    "ar": "الحساب",
+    "ja": "アカウント"
+  },
+  {
+    "en": "break",
+    "index": 450,
+    "de": "die Pause",
+    "fr": "la pause",
+    "zh-cn": "打破",
+    "es": "el descanso",
+    "ar": "استراحة",
+    "ja": "ブレーク"
+  },
+  {
+    "en": "audience",
+    "index": 451,
+    "de": "die Zuschauer",
+    "fr": "l'auditoire",
+    "zh-cn": "听众",
+    "es": "la audiencia",
+    "ar": "جمهور",
+    "ja": "聴衆"
+  },
+  {
+    "en": "dinner",
+    "index": 452,
+    "de": "das Abendessen",
+    "fr": "le dîner",
+    "zh-cn": "晚餐",
+    "es": "la cena",
+    "ar": "وجبة عشاء",
+    "ja": "ディナー"
+  },
+  {
+    "en": "vote",
+    "index": 453,
+    "de": "Die Wahl",
+    "fr": "le vote",
+    "zh-cn": "投票",
+    "es": "el voto",
+    "ar": "تصويت",
+    "ja": "投票"
+  },
+  {
+    "en": "debate",
+    "index": 454,
+    "de": "die Debatte",
+    "fr": "le débat",
+    "zh-cn": "辩论",
+    "es": "el debate",
+    "ar": "النقاش",
+    "ja": "ディベート"
+  },
+  {
+    "en": "citizen",
+    "index": 455,
+    "de": "der Bürger",
+    "fr": "le citoyen",
+    "zh-cn": "公民",
+    "es": "el ciudadano",
+    "ar": "مواطن",
+    "ja": "市民"
+  },
+  {
+    "en": "majority",
+    "index": 456,
+    "de": "die Mehrheit",
+    "fr": "la majorité",
+    "zh-cn": "多数",
+    "es": "la mayoría",
+    "ar": "أغلبية",
+    "ja": "多数"
+  },
+  {
+    "en": "wind",
+    "index": 457,
+    "de": "der Wind",
+    "fr": "le vent",
+    "zh-cn": "风",
+    "es": "el viento",
+    "ar": "ينفخ",
+    "ja": "風"
+  },
+  {
+    "en": "mission",
+    "index": 458,
+    "de": "die Mission",
+    "fr": "la mission",
+    "zh-cn": "任务",
+    "es": "la misión",
+    "ar": "مهمة",
+    "ja": "ミッション"
+  },
+  {
+    "en": "customer",
+    "index": 459,
+    "de": "der Kunde",
+    "fr": "le consommateur",
+    "zh-cn": "顾客",
+    "es": "el cliente",
+    "ar": "زبون",
+    "ja": "顧客"
+  },
+  {
+    "en": "speech",
+    "index": 460,
+    "de": "die Rede",
+    "fr": "le discours",
+    "zh-cn": "言语",
+    "es": "el discurso",
+    "ar": "خطاب",
+    "ja": "スピーチ"
+  },
+  {
+    "en": "option",
+    "index": 461,
+    "de": "die Option",
+    "fr": "l'option",
+    "zh-cn": "选项",
+    "es": "la opción",
+    "ar": "اختيار",
+    "ja": "オプション"
+  },
+  {
+    "en": "participant",
+    "index": 462,
+    "de": "der Teilnehmer",
+    "fr": "le participant",
+    "zh-cn": "参加者",
+    "es": "el participante",
+    "ar": "مشارك",
+    "ja": "参加者"
+  },
+  {
+    "en": "forest",
+    "index": 463,
+    "de": "Der Wald",
+    "fr": "la forêt",
+    "zh-cn": "森林",
+    "es": "el bosque",
+    "ar": "غابة",
+    "ja": "森林"
+  },
+  {
+    "en": "video",
+    "index": 464,
+    "de": "das Video",
+    "fr": "la vidéo",
+    "zh-cn": "视频",
+    "es": "el video",
+    "ar": "فيديو",
+    "ja": "ビデオ"
+  },
+  {
+    "en": "access",
+    "index": 465,
+    "de": "Der Zugang",
+    "fr": "l'accès",
+    "zh-cn": "访问",
+    "es": "el acceso",
+    "ar": "التمكن من",
+    "ja": "アクセス"
+  },
+  {
+    "en": "restaurant",
+    "index": 466,
+    "de": "das Restaurant",
+    "fr": "le restaurant",
+    "zh-cn": "餐厅",
+    "es": "el restaurante",
+    "ar": "مطعم",
+    "ja": "レストラン"
+  },
+  {
+    "en": "judge",
+    "index": 467,
+    "de": "der Richter",
+    "fr": "le juge",
+    "zh-cn": "法官",
+    "es": "el juez",
+    "ar": "القاضي",
+    "ja": "裁判官"
+  },
+  {
+    "en": "relation",
+    "index": 468,
+    "de": "die Beziehung",
+    "fr": "la relation",
+    "zh-cn": "关系",
+    "es": "la relación",
+    "ar": "علاقة",
+    "ja": "関係"
+  },
+  {
+    "en": "bird",
+    "index": 469,
+    "de": "der Vogel",
+    "fr": "l'oiseau",
+    "zh-cn": "鸟",
+    "es": "el pájaro",
+    "ar": "طائر",
+    "ja": "鳥"
+  },
+  {
+    "en": "opinion",
+    "index": 470,
+    "de": "die Meinung",
+    "fr": "l'opinion",
+    "zh-cn": "意见",
+    "es": "la opinión",
+    "ar": "رأي",
+    "ja": "意見"
+  },
+  {
+    "en": "credit",
+    "index": 471,
+    "de": "der Kredit",
+    "fr": "le crédit",
+    "zh-cn": "信用",
+    "es": "el credito",
+    "ar": "ائتمان",
+    "ja": "クレジット"
+  },
+  {
+    "en": "corner",
+    "index": 472,
+    "de": "die Ecke",
+    "fr": "le coin",
+    "zh-cn": "角",
+    "es": "la esquina",
+    "ar": "ركن",
+    "ja": "コーナー"
+  },
+  {
+    "en": "version",
+    "index": 473,
+    "de": "die Version",
+    "fr": "la version",
+    "zh-cn": "版",
+    "es": "la versión",
+    "ar": "الإصدار",
+    "ja": "バージョン"
+  },
+  {
+    "en": "safety",
+    "index": 474,
+    "de": "die Sicherheit",
+    "fr": "la sécurité",
+    "zh-cn": "安全",
+    "es": "la seguridad",
+    "ar": "سلامة",
+    "ja": "安全性"
+  },
+  {
+    "en": "neighborhood",
+    "index": 475,
+    "de": "die Nachbarschaft",
+    "fr": "le quartier",
+    "zh-cn": "邻里",
+    "es": "el vecindario",
+    "ar": "حي",
+    "ja": "ご近所"
+  },
+  {
+    "en": "act",
+    "index": 476,
+    "de": "Der Akt",
+    "fr": "l'acte",
+    "zh-cn": "法案",
+    "es": "el acto",
+    "ar": "فعل",
+    "ja": "行為"
+  },
+  {
+    "en": "troop",
+    "index": 477,
+    "de": "die Truppe",
+    "fr": "la troupe",
+    "zh-cn": "部队",
+    "es": "la tropa",
+    "ar": "قوات",
+    "ja": "部隊"
+  },
+  {
+    "en": "income",
+    "index": 478,
+    "de": "das Einkommen",
+    "fr": "le revenu",
+    "zh-cn": "收入",
+    "es": "el ingreso",
+    "ar": "الإيرادات",
+    "ja": "所得"
+  },
+  {
+    "en": "species",
+    "index": 479,
+    "de": "die Arten",
+    "fr": "les espèces",
+    "zh-cn": "种类",
+    "es": "las especies",
+    "ar": "محيط",
+    "ja": "種"
+  },
+  {
+    "en": "track",
+    "index": 480,
+    "de": "die Strecke",
+    "fr": "la piste",
+    "zh-cn": "跟踪",
+    "es": "la pista",
+    "ar": "مسار",
+    "ja": "トラック"
+  },
+  {
+    "en": "hope",
+    "index": 481,
+    "de": "die Hoffnung",
+    "fr": "l'espoir",
+    "zh-cn": "希望",
+    "es": "la esperanza",
+    "ar": "أمل",
+    "ja": "希望"
+  },
+  {
+    "en": "sky",
+    "index": 482,
+    "de": "der Himmel",
+    "fr": "Le ciel",
+    "zh-cn": "天空",
+    "es": "el cielo",
+    "ar": "سماء",
+    "ja": "空"
+  },
+  {
+    "en": "freedom",
+    "index": 483,
+    "de": "die Freiheit",
+    "fr": "la liberté",
+    "zh-cn": "自由",
+    "es": "la libertad",
+    "ar": "حرية",
+    "ja": "自由"
+  },
+  {
+    "en": "plane",
+    "index": 484,
+    "de": "das Flugzeug",
+    "fr": "l'avion",
+    "zh-cn": "平面",
+    "es": "el avión",
+    "ar": "طائرة",
+    "ja": "飛行機"
+  },
+  {
+    "en": "object",
+    "index": 485,
+    "de": "das Objekt",
+    "fr": "L'object",
+    "zh-cn": "目的",
+    "es": "el objeto",
+    "ar": "موضوع",
+    "ja": "オブジェクト"
+  },
+  {
+    "en": "attitude",
+    "index": 486,
+    "de": "die Attitüde",
+    "fr": "l'attitude",
+    "zh-cn": "态度",
+    "es": "la actitud",
+    "ar": "موقف سلوك",
+    "ja": "姿勢"
+  },
+  {
+    "en": "labor",
+    "index": 487,
+    "de": "die Arbeit",
+    "fr": "le travail",
+    "zh-cn": "劳动",
+    "es": "el trabajo",
+    "ar": "العمل",
+    "ja": "労働"
+  },
+  {
+    "en": "concept",
+    "index": 488,
+    "de": "das Konzept",
+    "fr": "le concept",
+    "zh-cn": "概念",
+    "es": "el concepto",
+    "ar": "مفهوم",
+    "ja": "概念"
+  },
+  {
+    "en": "client",
+    "index": 489,
+    "de": "der Kunde",
+    "fr": "le client",
+    "zh-cn": "客户",
+    "es": "el cliente",
+    "ar": "زبون",
+    "ja": "クライアント"
+  },
+  {
+    "en": "conversation",
+    "index": 490,
+    "de": "Die Unterhaltung",
+    "fr": "la conversation",
+    "zh-cn": "会话",
+    "es": "la conversación",
+    "ar": "محادثة",
+    "ja": "会話"
+  },
+  {
+    "en": "variety",
+    "index": 491,
+    "de": "die Vielfalt",
+    "fr": "la variété",
+    "zh-cn": "品种",
+    "es": "la variedad",
+    "ar": "تشكيلة",
+    "ja": "品種"
+  },
+  {
+    "en": "turn",
+    "index": 492,
+    "de": "die Wende",
+    "fr": "le tour",
+    "zh-cn": "转",
+    "es": "el turno",
+    "ar": "منعطف أو دور",
+    "ja": "順番"
+  },
+  {
+    "en": "investigation",
+    "index": 493,
+    "de": "die Ermittlung",
+    "fr": "l'enquête",
+    "zh-cn": "调查",
+    "es": "la investigación",
+    "ar": "تحقيق",
+    "ja": "調査"
+  },
+  {
+    "en": "researcher",
+    "index": 494,
+    "de": "Der Forscher",
+    "fr": "le chercheur",
+    "zh-cn": "研究员",
+    "es": "el investigador",
+    "ar": "الباحث",
+    "ja": "研究者"
+  },
+  {
+    "en": "press",
+    "index": 495,
+    "de": "die Presse",
+    "fr": "la presse",
+    "zh-cn": "按",
+    "es": "la prensa",
+    "ar": "صحافة",
+    "ja": "押す"
+  },
+  {
+    "en": "conflict",
+    "index": 496,
+    "de": "Der Konflikt",
+    "fr": "le conflit",
+    "zh-cn": "冲突",
+    "es": "el conflicto",
+    "ar": "نزاع",
+    "ja": "紛争"
+  },
+  {
+    "en": "spirit",
+    "index": 497,
+    "de": "der Geist",
+    "fr": "l'esprit",
+    "zh-cn": "精神",
+    "es": "el espíritu",
+    "ar": "روح",
+    "ja": "精神"
+  },
+  {
+    "en": "argument",
+    "index": 498,
+    "de": "das Argument",
+    "fr": "l'argument",
+    "zh-cn": "论据",
+    "es": "el argumento",
+    "ar": "جدال",
+    "ja": "引数"
+  },
+  {
+    "en": "camp",
+    "index": 499,
+    "de": "das Lager",
+    "fr": "le camp",
+    "zh-cn": "营",
+    "es": "el campamento",
+    "ar": "معسكر",
+    "ja": "キャンプ"
+  },
+  {
+    "en": "brain",
+    "index": 500,
+    "de": "das Gehirn",
+    "fr": "le cerveau",
+    "zh-cn": "脑",
+    "es": "el cerebro",
+    "ar": "دماغ",
+    "ja": "脳"
+  },
+  {
+    "en": "feature",
+    "index": 501,
+    "de": "das Merkmal",
+    "fr": "la caractéristique",
+    "zh-cn": "特征",
+    "es": "la característica",
+    "ar": "خاصية",
+    "ja": "特徴"
+  },
+  {
+    "en": "afternoon",
+    "index": 502,
+    "de": "der Nachmittag",
+    "fr": "l'après-midi",
+    "zh-cn": "下午",
+    "es": "la tarde",
+    "ar": "بعد الظهر",
+    "ja": "午後"
+  },
+  {
+    "en": "weekend",
+    "index": 503,
+    "de": "das Wochenende",
+    "fr": "le week-end",
+    "zh-cn": "周末",
+    "es": "el fin de semana",
+    "ar": "عطلة نهاية الاسبوع",
+    "ja": "週末"
+  },
+  {
+    "en": "possibility",
+    "index": 504,
+    "de": "die Möglichkeit",
+    "fr": "la possibilité",
+    "zh-cn": "可能性",
+    "es": "la posibilidad",
+    "ar": "إمكانية",
+    "ja": "可能性"
+  },
+  {
+    "en": "insurance",
+    "index": 505,
+    "de": "die Versicherung",
+    "fr": "l'assurance",
+    "zh-cn": "保险",
+    "es": "el seguro",
+    "ar": "تأمين",
+    "ja": "保険"
+  },
+  {
+    "en": "department",
+    "index": 506,
+    "de": "die Abteilung",
+    "fr": "le département",
+    "zh-cn": "部",
+    "es": "el Departamento",
+    "ar": " قسم، أقسام",
+    "ja": "部門"
+  },
+  {
+    "en": "battle",
+    "index": 507,
+    "de": "der Kampf",
+    "fr": "la bataille",
+    "zh-cn": "战斗",
+    "es": "la batalla",
+    "ar": "معركة",
+    "ja": "戦い"
+  },
+  {
+    "en": "beginning",
+    "index": 508,
+    "de": "der Anfang",
+    "fr": "le début",
+    "zh-cn": "开始",
+    "es": "el principio",
+    "ar": "البداية",
+    "ja": "始まり"
+  },
+  {
+    "en": "date",
+    "index": 509,
+    "de": "das Datum",
+    "fr": "la date",
+    "zh-cn": "日期",
+    "es": "la fecha",
+    "ar": "تاريخ",
+    "ja": "日付"
+  },
+  {
+    "en": "crisis",
+    "index": 510,
+    "de": "die Krise",
+    "fr": "la crise",
+    "zh-cn": "危机",
+    "es": "la crisis",
+    "ar": "أزمة",
+    "ja": "危機"
+  },
+  {
+    "en": "fan",
+    "index": 511,
+    "de": "der Fan",
+    "fr": "le fan",
+    "zh-cn": "风扇",
+    "es": "el admirador",
+    "ar": "معجب",
+    "ja": "ファン"
+  },
+  {
+    "en": "hole",
+    "index": 512,
+    "de": "das Loch",
+    "fr": "Le trou",
+    "zh-cn": "孔",
+    "es": "el agujero",
+    "ar": "الفجوة",
+    "ja": "穴"
+  },
+  {
+    "en": "element",
+    "index": 513,
+    "de": "das Element",
+    "fr": "l'élément",
+    "zh-cn": "元件",
+    "es": "el elemento",
+    "ar": "جزء",
+    "ja": "素子"
+  },
+  {
+    "en": "vision",
+    "index": 514,
+    "de": "die Vision",
+    "fr": "la vision",
+    "zh-cn": "视力",
+    "es": "la visión",
+    "ar": "رؤية",
+    "ja": "ビジョン"
+  },
+  {
+    "en": "status",
+    "index": 515,
+    "de": "der Status",
+    "fr": "le statut",
+    "zh-cn": "状态",
+    "es": "El estado",
+    "ar": "الحالة",
+    "ja": "状態"
+  },
+  {
+    "en": "ship",
+    "index": 516,
+    "de": "das Schiff",
+    "fr": "Le bateau",
+    "zh-cn": "船",
+    "es": "el barco",
+    "ar": "سفينة",
+    "ja": "船"
+  },
+  {
+    "en": "solution",
+    "index": 517,
+    "de": "die Lösung",
+    "fr": "la solution",
+    "zh-cn": "解",
+    "es": "la solución",
+    "ar": "حل",
+    "ja": "溶液"
+  },
+  {
+    "en": "stone",
+    "index": 518,
+    "de": "der Stein",
+    "fr": "la pierre",
+    "zh-cn": "石",
+    "es": "la piedra",
+    "ar": "حجر",
+    "ja": "石"
+  },
+  {
+    "en": "scale",
+    "index": 519,
+    "de": "die Skala",
+    "fr": "la balance",
+    "zh-cn": "规模",
+    "es": "la escala",
+    "ar": "مقياس",
+    "ja": "規模"
+  },
+  {
+    "en": "university",
+    "index": 520,
+    "de": "die Universität",
+    "fr": "l'Université",
+    "zh-cn": "大学",
+    "es": "la Universidad",
+    "ar": "جامعة",
+    "ja": "大学"
+  },
+  {
+    "en": "driver",
+    "index": 521,
+    "de": "der Fahrer",
+    "fr": "le conducteur",
+    "zh-cn": "司机",
+    "es": "el conductor",
+    "ar": "سائق",
+    "ja": "ドライバ"
+  },
+  {
+    "en": "attempt",
+    "index": 522,
+    "de": "der Versuch",
+    "fr": "la tentative",
+    "zh-cn": "尝试",
+    "es": "el intento",
+    "ar": "محاولة",
+    "ja": "試みる"
+  },
+  {
+    "en": "park",
+    "index": 523,
+    "de": "der Park",
+    "fr": "le parc",
+    "zh-cn": "公园",
+    "es": "el parque",
+    "ar": "منتزه",
+    "ja": "パーク"
+  },
+  {
+    "en": "spot",
+    "index": 524,
+    "de": "die Stelle",
+    "fr": "l'endroit",
+    "zh-cn": "点",
+    "es": "el punto",
+    "ar": "بقعة",
+    "ja": "スポット"
+  },
+  {
+    "en": "lack",
+    "index": 525,
+    "de": "der Mangel",
+    "fr": "le manque",
+    "zh-cn": "缺乏",
+    "es": "la falta",
+    "ar": "قلة",
+    "ja": "欠如"
+  },
+  {
+    "en": "ice",
+    "index": 526,
+    "de": "das Eis",
+    "fr": "la glace",
+    "zh-cn": "冰",
+    "es": "el hielo",
+    "ar": "جليد",
+    "ja": "氷"
+  },
+  {
+    "en": "boat",
+    "index": 527,
+    "de": "das Boot",
+    "fr": "le bateau",
+    "zh-cn": "船",
+    "es": "el barco",
+    "ar": "قارب",
+    "ja": "ボート"
+  },
+  {
+    "en": "sun",
+    "index": 528,
+    "de": "Die Sonne",
+    "fr": "le soleil",
+    "zh-cn": "太阳",
+    "es": "el sol",
+    "ar": "شمس",
+    "ja": "太陽"
+  },
+  {
+    "en": "distance",
+    "index": 529,
+    "de": "die Distanz",
+    "fr": "la distance",
+    "zh-cn": "距离",
+    "es": "la distancia",
+    "ar": "مسافه: بعد",
+    "ja": "距離"
+  },
+  {
+    "en": "wood",
+    "index": 530,
+    "de": "Das Holz",
+    "fr": "le bois",
+    "zh-cn": "木",
+    "es": "la madera",
+    "ar": "خشب",
+    "ja": "木材"
+  },
+  {
+    "en": "truck",
+    "index": 531,
+    "de": "der LKW",
+    "fr": "le camion",
+    "zh-cn": "卡车",
+    "es": "el camión",
+    "ar": "شاحنة",
+    "ja": "トラック"
+  },
+  {
+    "en": "return",
+    "index": 532,
+    "de": "die Rückkehr",
+    "fr": "le retour",
+    "zh-cn": "返回",
+    "es": "el regreso",
+    "ar": "إرجاع",
+    "ja": "リターン"
+  },
+  {
+    "en": "mountain",
+    "index": 533,
+    "de": "der Berg",
+    "fr": "la montagne",
+    "zh-cn": "山",
+    "es": "la montaña",
+    "ar": "جبل",
+    "ja": "山"
+  },
+  {
+    "en": "survey",
+    "index": 534,
+    "de": "die Umfrage",
+    "fr": "le sondage",
+    "zh-cn": "调查",
+    "es": "la encuesta",
+    "ar": "الدراسة الاستقصائية",
+    "ja": "調査"
+  },
+  {
+    "en": "tradition",
+    "index": 535,
+    "de": "Die Tradition",
+    "fr": "la tradition",
+    "zh-cn": "传统",
+    "es": "la tradición",
+    "ar": "التقليد",
+    "ja": "伝統"
+  },
+  {
+    "en": "winter",
+    "index": 536,
+    "de": "der Winter",
+    "fr": "l'hiver",
+    "zh-cn": "冬季",
+    "es": "el invierno",
+    "ar": "شتاء",
+    "ja": "冬"
+  },
+  {
+    "en": "village",
+    "index": 537,
+    "de": "das Dorf",
+    "fr": "le village",
+    "zh-cn": "村",
+    "es": "el pueblo",
+    "ar": "قرية",
+    "ja": "村"
+  },
+  {
+    "en": "sales",
+    "index": 538,
+    "de": "die Verkäufe",
+    "fr": "les ventes",
+    "zh-cn": "销售",
+    "es": "Las ventas",
+    "ar": "مبيعات",
+    "ja": "販売"
+  },
+  {
+    "en": "communication",
+    "index": 539,
+    "de": "die Kommunikation",
+    "fr": "la communication",
+    "zh-cn": "通讯",
+    "es": "La comunicación",
+    "ar": "الاتصالات",
+    "ja": "コミュニケーション"
+  },
+  {
+    "en": "run",
+    "index": 540,
+    "de": "der Lauf",
+    "fr": "la course",
+    "zh-cn": "跑",
+    "es": "la carrera",
+    "ar": "يركض",
+    "ja": "走る"
+  },
+  {
+    "en": "screen",
+    "index": 541,
+    "de": "der Bildschirm",
+    "fr": "l'écran",
+    "zh-cn": "屏幕",
+    "es": "la pantalla",
+    "ar": "شاشة",
+    "ja": "画面"
+  },
+  {
+    "en": "resident",
+    "index": 542,
+    "de": "der Bewohner",
+    "fr": "le résident",
+    "zh-cn": "居民",
+    "es": "el residente",
+    "ar": "مقيم",
+    "ja": "居住者"
+  },
+  {
+    "en": "gold",
+    "index": 543,
+    "de": "das Gold",
+    "fr": "l'or",
+    "zh-cn": "金",
+    "es": "el oro",
+    "ar": "ذهب",
+    "ja": "ゴールド"
+  },
+  {
+    "en": "club",
+    "index": 544,
+    "de": "der Klub",
+    "fr": "le club",
+    "zh-cn": "俱乐部",
+    "es": "el club",
+    "ar": "النادي",
+    "ja": "クラブ"
+  },
+  {
+    "en": "farm",
+    "index": 545,
+    "de": "der Bauernhof",
+    "fr": "la ferme",
+    "zh-cn": "农场",
+    "es": "la granja",
+    "ar": "مزرعة",
+    "ja": "ファーム"
+  },
+  {
+    "en": "increase",
+    "index": 546,
+    "de": "der Anstieg",
+    "fr": "l'augmentation",
+    "zh-cn": "增加",
+    "es": "El aumento",
+    "ar": "زيادة",
+    "ja": "増加する"
+  },
+  {
+    "en": "middle",
+    "index": 547,
+    "de": "die Mitte",
+    "fr": "le milieu",
+    "zh-cn": "中间",
+    "es": "la mitad",
+    "ar": "وسط",
+    "ja": "中間"
+  },
+  {
+    "en": "presence",
+    "index": 548,
+    "de": "die Präsenz",
+    "fr": "la présence",
+    "zh-cn": "存在",
+    "es": "la presencia",
+    "ar": "حضور",
+    "ja": "存在"
+  },
+  {
+    "en": "district",
+    "index": 549,
+    "de": "das Viertel",
+    "fr": "le quartier",
+    "zh-cn": "区",
+    "es": "el distrito",
+    "ar": "منطقة",
+    "ja": "地区"
+  },
+  {
+    "en": "shape",
+    "index": 550,
+    "de": "die Form",
+    "fr": "la forme",
+    "zh-cn": "形状",
+    "es": "la forma",
+    "ar": "شكل",
+    "ja": "形状"
+  },
+  {
+    "en": "reader",
+    "index": 551,
+    "de": "der Leser",
+    "fr": "le lecteur",
+    "zh-cn": "读者",
+    "es": "el lector",
+    "ar": "قارئ",
+    "ja": "リーダー"
+  },
+  {
+    "en": "contract",
+    "index": 552,
+    "de": "der Vertrag",
+    "fr": "le contrat",
+    "zh-cn": "合同",
+    "es": "el contrato",
+    "ar": "عقد",
+    "ja": "契約する"
+  },
+  {
+    "en": "crowd",
+    "index": 553,
+    "de": "die Menge",
+    "fr": "la foule",
+    "zh-cn": "人群",
+    "es": "la multitud",
+    "ar": "يحشد",
+    "ja": "群集"
+  },
+  {
+    "en": "apartment",
+    "index": 554,
+    "de": "das Apartment",
+    "fr": "l'appartement",
+    "zh-cn": "公寓",
+    "es": "el apartamento",
+    "ar": "شقة",
+    "ja": "アパート"
+  },
+  {
+    "en": "strength",
+    "index": 555,
+    "de": "die Stärke",
+    "fr": "la force",
+    "zh-cn": "强度",
+    "es": "la fuerza",
+    "ar": "قوة",
+    "ja": "力"
+  },
+  {
+    "en": "band",
+    "index": 556,
+    "de": "die Band",
+    "fr": "Le groupe",
+    "zh-cn": "带",
+    "es": "la banda",
+    "ar": "فرقة",
+    "ja": "バンド"
+  },
+  {
+    "en": "horse",
+    "index": 557,
+    "de": "das Pferd",
+    "fr": "le cheval",
+    "zh-cn": "马",
+    "es": "el caballo",
+    "ar": "حصان",
+    "ja": "うま"
+  },
+  {
+    "en": "target",
+    "index": 558,
+    "de": "das Ziel",
+    "fr": "la cible",
+    "zh-cn": "目标",
+    "es": "el objetivo",
+    "ar": "استهداف",
+    "ja": "ターゲット"
+  },
+  {
+    "en": "prison",
+    "index": 559,
+    "de": "das Gefängnis",
+    "fr": "la prison",
+    "zh-cn": "监狱",
+    "es": "La prisión",
+    "ar": "السجن",
+    "ja": "刑務所"
+  },
+  {
+    "en": "guard",
+    "index": 560,
+    "de": "die Wache",
+    "fr": "le garde",
+    "zh-cn": "守卫",
+    "es": "el guardia",
+    "ar": "حارس",
+    "ja": "ガード"
+  },
+  {
+    "en": "demand",
+    "index": 561,
+    "de": "die Nachfrage",
+    "fr": "la demande",
+    "zh-cn": "需求",
+    "es": "la demanda",
+    "ar": "الطلب",
+    "ja": "デマンド"
+  },
+  {
+    "en": "reporter",
+    "index": 562,
+    "de": "der Reporter",
+    "fr": "le journaliste",
+    "zh-cn": "记者",
+    "es": "el reportero",
+    "ar": "مراسل",
+    "ja": "レポーター"
+  },
+  {
+    "en": "text",
+    "index": 563,
+    "de": "der Text",
+    "fr": "le texte",
+    "zh-cn": "文本",
+    "es": "el texto",
+    "ar": "نص",
+    "ja": "テキスト"
+  },
+  {
+    "en": "share",
+    "index": 564,
+    "de": "das Teilen",
+    "fr": "le partage",
+    "zh-cn": "分享",
+    "es": "la cuota",
+    "ar": "شارك",
+    "ja": "シェア"
+  },
+  {
+    "en": "tool",
+    "index": 565,
+    "de": "das Werkzeug",
+    "fr": "l'outil",
+    "zh-cn": "工具",
+    "es": "la herramienta",
+    "ar": "أداة",
+    "ja": "ツール"
+  },
+  {
+    "en": "vehicle",
+    "index": 566,
+    "de": "das Fahrzeug",
+    "fr": "le véhicule",
+    "zh-cn": "车辆",
+    "es": "el vehículo",
+    "ar": "مركبة",
+    "ja": "車両"
+  },
+  {
+    "en": "flight",
+    "index": 567,
+    "de": "der Flug",
+    "fr": "le vol",
+    "zh-cn": "飞行",
+    "es": "el vuelo",
+    "ar": "طيران",
+    "ja": "フライト"
+  },
+  {
+    "en": "facility",
+    "index": 568,
+    "de": "die Einrichtung",
+    "fr": "la facilité",
+    "zh-cn": "设施",
+    "es": "la instalación",
+    "ar": "منشأة",
+    "ja": "施設"
+  },
+  {
+    "en": "understanding",
+    "index": 569,
+    "de": "Das Verständnis",
+    "fr": "la compréhension",
+    "zh-cn": "理解",
+    "es": "el entendimiento",
+    "ar": "فهم",
+    "ja": "理解"
+  },
+  {
+    "en": "advantage",
+    "index": 570,
+    "de": "der Vorteil",
+    "fr": "l'avantage",
+    "zh-cn": "优点",
+    "es": "la ventaja",
+    "ar": "أفضلية",
+    "ja": "利点"
+  },
+  {
+    "en": "leadership",
+    "index": 571,
+    "de": "die Führung",
+    "fr": "le leadership",
+    "zh-cn": "领导",
+    "es": "el liderazgo",
+    "ar": "قيادة",
+    "ja": "リーダーシップ"
+  },
+  {
+    "en": "pound",
+    "index": 572,
+    "de": "das Pfund",
+    "fr": "la livre",
+    "zh-cn": "磅",
+    "es": "la libra",
+    "ar": "جنيه",
+    "ja": "ポンド"
+  },
+  {
+    "en": "basis",
+    "index": 573,
+    "de": "die Basis",
+    "fr": "la base",
+    "zh-cn": "基础",
+    "es": "la base",
+    "ar": "أساس",
+    "ja": "基礎"
+  },
+  {
+    "en": "guest",
+    "index": 574,
+    "de": "der Gast",
+    "fr": "l'invité",
+    "zh-cn": "客人",
+    "es": "el invitado",
+    "ar": "زائر",
+    "ja": "ゲスト"
+  },
+  {
+    "en": "sample",
+    "index": 575,
+    "de": "die Probe",
+    "fr": "l'échantillon",
+    "zh-cn": "样品",
+    "es": "la muestra",
+    "ar": "عينة",
+    "ja": "サンプル"
+  },
+  {
+    "en": "block",
+    "index": 576,
+    "de": "der Block",
+    "fr": "le bloc",
+    "zh-cn": "块",
+    "es": "el bloque",
+    "ar": "منع",
+    "ja": "ブロック"
+  },
+  {
+    "en": "protection",
+    "index": 577,
+    "de": "der Schutz",
+    "fr": "la protection",
+    "zh-cn": "保护",
+    "es": "la proteccion",
+    "ar": "حماية",
+    "ja": "保護"
+  },
+  {
+    "en": "while",
+    "index": 578,
+    "de": "die Weile",
+    "fr": "le temps",
+    "zh-cn": "而",
+    "es": "el tiempo",
+    "ar": "في حين",
+    "ja": "while"
+  },
+  {
+    "en": "identity",
+    "index": 579,
+    "de": "Die Identität",
+    "fr": "l'identité",
+    "zh-cn": "身分",
+    "es": "la identidad",
+    "ar": "هوية",
+    "ja": "身元"
+  },
+  {
+    "en": "title",
+    "index": 580,
+    "de": "der Titel",
+    "fr": "le titre",
+    "zh-cn": "标题",
+    "es": "el título",
+    "ar": "عنوان",
+    "ja": "タイトル"
+  },
+  {
+    "en": "lesson",
+    "index": 581,
+    "de": "der Unterricht",
+    "fr": "la leçon",
+    "zh-cn": "课",
+    "es": "la leccion",
+    "ar": "درس",
+    "ja": "レッスン"
+  },
+  {
+    "en": "faith",
+    "index": 582,
+    "de": "der Glaube",
+    "fr": "la foi",
+    "zh-cn": "信仰",
+    "es": "la fe",
+    "ar": "إيمان",
+    "ja": "信仰"
+  },
+  {
+    "en": "river",
+    "index": 583,
+    "de": "der Fluss",
+    "fr": "la rivière",
+    "zh-cn": "河",
+    "es": "el río",
+    "ar": "نهر",
+    "ja": "川"
+  },
+  {
+    "en": "living",
+    "index": 584,
+    "de": "die Lebenden",
+    "fr": "les vivants",
+    "zh-cn": "活的",
+    "es": "los vivos",
+    "ar": "المعيشة",
+    "ja": "生活"
+  },
+  {
+    "en": "technique",
+    "index": 585,
+    "de": "die Technik",
+    "fr": "la technique",
+    "zh-cn": "技术",
+    "es": "la técnica",
+    "ar": "تقنية",
+    "ja": "技術"
+  },
+  {
+    "en": "path",
+    "index": 586,
+    "de": "der Weg",
+    "fr": "le chemin",
+    "zh-cn": "路径",
+    "es": "el camino",
+    "ar": "مسار",
+    "ja": "パス"
+  },
+  {
+    "en": "ear",
+    "index": 587,
+    "de": "das Ohr",
+    "fr": "l'oreille",
+    "zh-cn": "耳",
+    "es": "la oreja",
+    "ar": "إذن",
+    "ja": "耳"
+  },
+  {
+    "en": "shop",
+    "index": 588,
+    "de": "das Geschäft",
+    "fr": "la boutique",
+    "zh-cn": "店",
+    "es": "la tienda",
+    "ar": "متجر",
+    "ja": "ショップ"
+  },
+  {
+    "en": "folk",
+    "index": 589,
+    "de": "die Leute",
+    "fr": "le folk",
+    "zh-cn": "民间",
+    "es": "la gente",
+    "ar": "قوم",
+    "ja": "フォーク"
+  },
+  {
+    "en": "principle",
+    "index": 590,
+    "de": "das Prinzip",
+    "fr": "le principe",
+    "zh-cn": "原理",
+    "es": "el principio",
+    "ar": "المبدأ",
+    "ja": "原理"
+  },
+  {
+    "en": "border",
+    "index": 591,
+    "de": "die Grenze",
+    "fr": "la frontière",
+    "zh-cn": "边境",
+    "es": "la frontera",
+    "ar": "الحدود",
+    "ja": "境界"
+  },
+  {
+    "en": "competition",
+    "index": 592,
+    "de": "der Wettbewerb",
+    "fr": "la compétition",
+    "zh-cn": "竞争",
+    "es": "la competencia",
+    "ar": "منافسة",
+    "ja": "コンペ"
+  },
+  {
+    "en": "claim",
+    "index": 593,
+    "de": "der Anspruch",
+    "fr": "la demande",
+    "zh-cn": "要求",
+    "es": "La reclamación",
+    "ar": "يطالب",
+    "ja": "請求"
+  },
+  {
+    "en": "equipment",
+    "index": 594,
+    "de": "die Ausrüstung",
+    "fr": "l'équipement",
+    "zh-cn": "设备",
+    "es": "el equipamiento",
+    "ar": "الرجعية",
+    "ja": "装置"
+  },
+  {
+    "en": "critic",
+    "index": 595,
+    "de": "der Kritiker",
+    "fr": "le critique",
+    "zh-cn": "评论家",
+    "es": "el crítico",
+    "ar": "الناقد",
+    "ja": "評論家"
+  },
+  {
+    "en": "aspect",
+    "index": 596,
+    "de": "der Aspekt",
+    "fr": "l'aspect",
+    "zh-cn": "方面",
+    "es": "el aspecto",
+    "ar": "جانب",
+    "ja": "アスペクト"
+  },
+  {
+    "en": "failure",
+    "index": 597,
+    "de": "der Fehlschlag",
+    "fr": "l'échec",
+    "zh-cn": "失败",
+    "es": "la falla",
+    "ar": "بالفشل",
+    "ja": "失敗"
+  },
+  {
+    "en": "Christmas",
+    "index": 598,
+    "de": "Weihnachten",
+    "fr": "Noël",
+    "zh-cn": "圣诞",
+    "es": "la Navidad",
+    "ar": "عيد الميلاد",
+    "ja": "クリスマス"
+  },
+  {
+    "en": "comment",
+    "index": 599,
+    "de": "der Kommentar",
+    "fr": "le commentaire",
+    "zh-cn": "评论",
+    "es": "el comentario",
+    "ar": "تعليق",
+    "ja": "コメント"
+  },
+  {
+    "en": "affair",
+    "index": 600,
+    "de": "die Affäre",
+    "fr": "l'affaire",
+    "zh-cn": "事务",
+    "es": "el asunto",
+    "ar": "قضية",
+    "ja": "事件"
+  },
+  {
+    "en": "procedure",
+    "index": 601,
+    "de": "das Verfahren",
+    "fr": "la procédure",
+    "zh-cn": "程序",
+    "es": "el procedimiento",
+    "ar": "إجراء",
+    "ja": "手順"
+  },
+  {
+    "en": "chairman",
+    "index": 602,
+    "de": "der Vorsitzende",
+    "fr": "le président",
+    "zh-cn": "主席",
+    "es": "director",
+    "ar": "رئيس",
+    "ja": "会長"
+  },
+  {
+    "en": "baseball",
+    "index": 603,
+    "de": "der Baseball",
+    "fr": "le base-ball",
+    "zh-cn": "棒球",
+    "es": "el beisbol",
+    "ar": "البيسبول",
+    "ja": "野球"
+  },
+  {
+    "en": "egg",
+    "index": 604,
+    "de": "das Ei",
+    "fr": "l'œuf",
+    "zh-cn": "蛋",
+    "es": "el huevo",
+    "ar": "بيضة",
+    "ja": "卵"
+  },
+  {
+    "en": "belief",
+    "index": 605,
+    "de": "der Glaube",
+    "fr": "la croyance",
+    "zh-cn": "信仰",
+    "es": "la creencia",
+    "ar": "إيمان",
+    "ja": "信念"
+  },
+  {
+    "en": "murder",
+    "index": 606,
+    "de": "der Mord",
+    "fr": "le meurtrier",
+    "zh-cn": "谋杀",
+    "es": "el asesino",
+    "ar": "قتل",
+    "ja": "殺人"
+  },
+  {
+    "en": "gift",
+    "index": 607,
+    "de": "das Geschenk",
+    "fr": "le cadeau",
+    "zh-cn": "礼品",
+    "es": "el don",
+    "ar": "هدية مجانية",
+    "ja": "贈り物"
+  },
+  {
+    "en": "religion",
+    "index": 608,
+    "de": "Die Religion",
+    "fr": "la religion",
+    "zh-cn": "宗教",
+    "es": "la religion",
+    "ar": "دين",
+    "ja": "宗教"
+  },
+  {
+    "en": "review",
+    "index": 609,
+    "de": "die Überprüfung",
+    "fr": "l'article",
+    "zh-cn": "评论",
+    "es": "la revisión",
+    "ar": "إعادة النظر",
+    "ja": "レビュー"
+  },
+  {
+    "en": "editor",
+    "index": 610,
+    "de": "der Editor",
+    "fr": "l'éditeur",
+    "zh-cn": "编辑",
+    "es": "el editor",
+    "ar": "محرر",
+    "ja": "編集者"
+  },
+  {
+    "en": "coffee",
+    "index": 611,
+    "de": "der Kaffee",
+    "fr": "le café",
+    "zh-cn": "咖啡",
+    "es": "el café",
+    "ar": "قهوة",
+    "ja": "コーヒー"
+  },
+  {
+    "en": "document",
+    "index": 612,
+    "de": "das Dokument",
+    "fr": "le document",
+    "zh-cn": "文件",
+    "es": "el documento",
+    "ar": "وثيقة",
+    "ja": "資料"
+  },
+  {
+    "en": "speed",
+    "index": 613,
+    "de": "die Geschwindigkeit",
+    "fr": "la vitesse",
+    "zh-cn": "速度",
+    "es": "la velocidad",
+    "ar": "سرعة",
+    "ja": "速度"
+  },
+  {
+    "en": "influence",
+    "index": 614,
+    "de": "der Einfluss",
+    "fr": "l'influence",
+    "zh-cn": "影响",
+    "es": "La influencia",
+    "ar": "تأثير",
+    "ja": "影響"
+  },
+  {
+    "en": "youth",
+    "index": 615,
+    "de": "die Jugend",
+    "fr": "la jeunesse",
+    "zh-cn": "青年",
+    "es": "la juventud",
+    "ar": "شباب",
+    "ja": "若者"
+  },
+  {
+    "en": "wave",
+    "index": 616,
+    "de": "die Welle",
+    "fr": "la vague",
+    "zh-cn": "波",
+    "es": "la ola",
+    "ar": "موجة",
+    "ja": "波"
+  },
+  {
+    "en": "move",
+    "index": 617,
+    "de": "die Bewegung",
+    "fr": "le déménagement",
+    "zh-cn": "移动",
+    "es": "el movimiento",
+    "ar": "نقل",
+    "ja": "動く"
+  },
+  {
+    "en": "quarter",
+    "index": 618,
+    "de": "das Viertel",
+    "fr": "le quartier",
+    "zh-cn": "25美分硬币",
+    "es": "el cuarto",
+    "ar": "ربع",
+    "ja": "四半期"
+  },
+  {
+    "en": "background",
+    "index": 619,
+    "de": "der Hintergrund",
+    "fr": "l'arrière-plan",
+    "zh-cn": "背景",
+    "es": "el fondo",
+    "ar": "خلفية",
+    "ja": "バックグラウンド"
+  },
+  {
+    "en": "reaction",
+    "index": 620,
+    "de": "die Reaktion",
+    "fr": "la réaction",
+    "zh-cn": "反应",
+    "es": "la reacción",
+    "ar": "رد فعل",
+    "ja": "反応"
+  },
+  {
+    "en": "suit",
+    "index": 621,
+    "de": "der Anzug",
+    "fr": "le costume",
+    "zh-cn": "适合",
+    "es": "El traje",
+    "ar": "بدلة",
+    "ja": "スーツ"
+  },
+  {
+    "en": "perspective",
+    "index": 622,
+    "de": "die Perspektive",
+    "fr": "la perspective",
+    "zh-cn": "透视",
+    "es": "La perspectiva",
+    "ar": "إنطباع",
+    "ja": "視点"
+  },
+  {
+    "en": "construction",
+    "index": 623,
+    "de": "Die Konstruktion",
+    "fr": "la construction",
+    "zh-cn": "施工",
+    "es": "la construcción",
+    "ar": "اعمال بناء",
+    "ja": "建設"
+  },
+  {
+    "en": "intelligence",
+    "index": 624,
+    "de": "die Intelligenz",
+    "fr": "l'intelligence",
+    "zh-cn": "情报",
+    "es": "la inteligencia",
+    "ar": "المخابرات",
+    "ja": "インテリジェンス"
+  },
+  {
+    "en": "connection",
+    "index": 625,
+    "de": "die Verbindung",
+    "fr": "la connexion",
+    "zh-cn": "连接",
+    "es": "la conexión",
+    "ar": "صلة",
+    "ja": "接続"
+  },
+  {
+    "en": "shoe",
+    "index": 626,
+    "de": "der Schuh",
+    "fr": "la chaussure",
+    "zh-cn": "鞋",
+    "es": "el zapato",
+    "ar": "حذاء",
+    "ja": "靴"
+  },
+  {
+    "en": "grade",
+    "index": 627,
+    "de": "die Note",
+    "fr": "la note",
+    "zh-cn": "年级",
+    "es": "El grado",
+    "ar": "درجة",
+    "ja": "グレード"
+  },
+  {
+    "en": "context",
+    "index": 628,
+    "de": "der Kontext",
+    "fr": "le contexte",
+    "zh-cn": "上下文",
+    "es": "el contexto",
+    "ar": "سياق الكلام",
+    "ja": "コンテキスト"
+  },
+  {
+    "en": "committee",
+    "index": 629,
+    "de": "das Komitee",
+    "fr": "le Comité",
+    "zh-cn": "委员会",
+    "es": "el Comité",
+    "ar": "لجنة",
+    "ja": "委員会"
+  },
+  {
+    "en": "mistake",
+    "index": 630,
+    "de": "der Fehler",
+    "fr": "l'erreur",
+    "zh-cn": "错误",
+    "es": "el error",
+    "ar": "خطأ",
+    "ja": "間違い"
+  },
+  {
+    "en": "focus",
+    "index": 631,
+    "de": "der Fokus",
+    "fr": "la mise au point",
+    "zh-cn": "焦点",
+    "es": "el foco",
+    "ar": "التركيز",
+    "ja": "フォーカス"
+  },
+  {
+    "en": "smile",
+    "index": 632,
+    "de": "das Lächeln",
+    "fr": "le sourire",
+    "zh-cn": "微笑",
+    "es": "la sonrisa",
+    "ar": "ابتسامة",
+    "ja": "スマイル"
+  },
+  {
+    "en": "location",
+    "index": 633,
+    "de": "der Standort",
+    "fr": "l'emplacement",
+    "zh-cn": "位置",
+    "es": "La locación",
+    "ar": "موقعك",
+    "ja": "ロケーション"
+  },
+  {
+    "en": "clothes",
+    "index": 634,
+    "de": "die Kleidung",
+    "fr": "les vetements",
+    "zh-cn": "衣服",
+    "es": "la ropa",
+    "ar": "ملابس",
+    "ja": "服"
+  },
+  {
+    "en": "neighbor",
+    "index": 635,
+    "de": "der Nachbar",
+    "fr": "le voisin",
+    "zh-cn": "邻居",
+    "es": "El vecino",
+    "ar": "الجيران",
+    "ja": "隣人"
+  },
+  {
+    "en": "drive",
+    "index": 636,
+    "de": "die Fahrt",
+    "fr": "le lecteur",
+    "zh-cn": "驾驶",
+    "es": "la unidad",
+    "ar": "قيادة",
+    "ja": "ドライブ"
+  },
+  {
+    "en": "function",
+    "index": 637,
+    "de": "die Funktion",
+    "fr": "la fonction",
+    "zh-cn": "功能",
+    "es": "la función",
+    "ar": "وظيفة",
+    "ja": "関数"
+  },
+  {
+    "en": "bone",
+    "index": 638,
+    "de": "der Knochen",
+    "fr": "l'os",
+    "zh-cn": "骨",
+    "es": "el hueso",
+    "ar": "عظم",
+    "ja": "骨"
+  },
+  {
+    "en": "average",
+    "index": 639,
+    "de": "der Durchschnitt",
+    "fr": "la moyenne",
+    "zh-cn": "平均",
+    "es": "la media",
+    "ar": "معدل",
+    "ja": "平均"
+  },
+  {
+    "en": "wine",
+    "index": 640,
+    "de": "der Wein",
+    "fr": "le vin",
+    "zh-cn": "红酒",
+    "es": "el vino",
+    "ar": "نبيذ",
+    "ja": "ワイン"
+  },
+  {
+    "en": "voter",
+    "index": 641,
+    "de": "der Wähler",
+    "fr": "l'électeur",
+    "zh-cn": "选民",
+    "es": "el votante",
+    "ar": "ناخب",
+    "ja": "有権者"
+  },
+  {
+    "en": "mean",
+    "index": 642,
+    "de": "der Durchschnitt",
+    "fr": "la moyenne",
+    "zh-cn": "意思",
+    "es": "el significado",
+    "ar": "تعني",
+    "ja": "平均"
+  },
+  {
+    "en": "learning",
+    "index": 643,
+    "de": "Das Lernen",
+    "fr": "l'apprentissage",
+    "zh-cn": "学习",
+    "es": "el aprendizaje",
+    "ar": "تعلم",
+    "ja": "学習"
+  },
+  {
+    "en": "bus",
+    "index": 644,
+    "de": "der Bus",
+    "fr": "Le bus",
+    "zh-cn": "总线",
+    "es": "el autobús",
+    "ar": "حافلة",
+    "ja": "バス"
+  },
+  {
+    "en": "hell",
+    "index": 645,
+    "de": "die Hölle",
+    "fr": "l'enfer",
+    "zh-cn": "地狱",
+    "es": "el infierno",
+    "ar": "الجحيم",
+    "ja": "地獄"
+  },
+  {
+    "en": "category",
+    "index": 646,
+    "de": "die Kategorie",
+    "fr": "la catégorie",
+    "zh-cn": "类别",
+    "es": "la categoría",
+    "ar": "الفئة",
+    "ja": "カテゴリー"
+  },
+  {
+    "en": "victory",
+    "index": 647,
+    "de": "der Sieg",
+    "fr": "la victoire",
+    "zh-cn": "胜利",
+    "es": "la victoria",
+    "ar": "فوز",
+    "ja": "勝利"
+  },
+  {
+    "en": "key",
+    "index": 648,
+    "de": "der Schlüssel",
+    "fr": "la clé",
+    "zh-cn": "键",
+    "es": "la clave",
+    "ar": "مفتاح",
+    "ja": "キー"
+  },
+  {
+    "en": "visit",
+    "index": 649,
+    "de": "Der Besuch",
+    "fr": "la visite",
+    "zh-cn": "访问",
+    "es": "la visita",
+    "ar": "يزور",
+    "ja": "訪問"
+  },
+  {
+    "en": "Internet",
+    "index": 650,
+    "de": "das Internet",
+    "fr": "l'Internet",
+    "zh-cn": "互联网",
+    "es": "La Internet",
+    "ar": "الإنترنت",
+    "ja": "インターネット"
+  },
+  {
+    "en": "medicine",
+    "index": 651,
+    "de": "die Medizin",
+    "fr": "la médecine",
+    "zh-cn": "医学",
+    "es": "la medicina",
+    "ar": "دواء",
+    "ja": "医学"
+  },
+  {
+    "en": "tour",
+    "index": 652,
+    "de": "die Reise",
+    "fr": "le tour",
+    "zh-cn": "游览",
+    "es": "el Tour",
+    "ar": "جولة",
+    "ja": "ツアー"
+  },
+  {
+    "en": "photo",
+    "index": 653,
+    "de": "das Foto",
+    "fr": "la photo",
+    "zh-cn": "照片",
+    "es": "la foto",
+    "ar": "صورة فوتوغرافية",
+    "ja": "写真"
+  },
+  {
+    "en": "finding",
+    "index": 654,
+    "de": "Die Entdeckung",
+    "fr": "la découverte",
+    "zh-cn": "发现",
+    "es": "el hallazgo",
+    "ar": "العثور على",
+    "ja": "所見"
+  },
+  {
+    "en": "classroom",
+    "index": 655,
+    "de": "das Klassenzimmer",
+    "fr": "la salle de classe",
+    "zh-cn": "课堂",
+    "es": "el salón de clases",
+    "ar": "قاعة الدراسة",
+    "ja": "教室"
+  },
+  {
+    "en": "contact",
+    "index": 656,
+    "de": "der Kontakt",
+    "fr": "le contact",
+    "zh-cn": "联系",
+    "es": "el contacto",
+    "ar": "اتصل",
+    "ja": "接触"
+  },
+  {
+    "en": "justice",
+    "index": 657,
+    "de": "die Gerechtigkeit",
+    "fr": "la justice",
+    "zh-cn": "正义",
+    "es": "la justicia",
+    "ar": "عدالة",
+    "ja": "正義"
+  },
+  {
+    "en": "pair",
+    "index": 658,
+    "de": "das Paar",
+    "fr": "la paire",
+    "zh-cn": "对",
+    "es": "el par",
+    "ar": "زوج",
+    "ja": "ペア"
+  },
+  {
+    "en": "exercise",
+    "index": 659,
+    "de": "die Übung",
+    "fr": "l'exercice",
+    "zh-cn": "行使",
+    "es": "el ejercicio",
+    "ar": "ممارسه الرياضه",
+    "ja": "運動"
+  },
+  {
+    "en": "knee",
+    "index": 660,
+    "de": "das Knie",
+    "fr": "le genou",
+    "zh-cn": "膝盖",
+    "es": "la rodilla",
+    "ar": "ركبة",
+    "ja": "膝"
+  },
+  {
+    "en": "flower",
+    "index": 661,
+    "de": "die Blume",
+    "fr": "la fleur",
+    "zh-cn": "花",
+    "es": "la flor",
+    "ar": "زهرة",
+    "ja": "花"
+  },
+  {
+    "en": "tape",
+    "index": 662,
+    "de": "das Band",
+    "fr": "Le ruban",
+    "zh-cn": "胶带",
+    "es": "La cinta",
+    "ar": "شريط",
+    "ja": "テープ"
+  },
+  {
+    "en": "supply",
+    "index": 663,
+    "de": "die Versorgung",
+    "fr": "la provision",
+    "zh-cn": "供应",
+    "es": "el suministro",
+    "ar": "يتبرع",
+    "ja": "供給"
+  },
+  {
+    "en": "cut",
+    "index": 664,
+    "de": "der Schnitt",
+    "fr": "la Coupe",
+    "zh-cn": "切",
+    "es": "el corte",
+    "ar": "يقطع",
+    "ja": "カット"
+  },
+  {
+    "en": "will",
+    "index": 665,
+    "de": "der Wille",
+    "fr": "la volonté",
+    "zh-cn": "将",
+    "es": "la voluntad",
+    "ar": "سوف",
+    "ja": "意志"
+  },
+  {
+    "en": "actor",
+    "index": 666,
+    "de": "der Schauspieler",
+    "fr": "l'acteur",
+    "zh-cn": "演员",
+    "es": "el actor",
+    "ar": "الممثل",
+    "ja": "俳優"
+  },
+  {
+    "en": "birth",
+    "index": 667,
+    "de": "die Geburt",
+    "fr": "la naissance",
+    "zh-cn": "分娩",
+    "es": "el nacimiento",
+    "ar": "ولادة",
+    "ja": "誕生"
+  },
+  {
+    "en": "search",
+    "index": 668,
+    "de": "die Suche",
+    "fr": "la recherche",
+    "zh-cn": "搜索",
+    "es": "la búsqueda",
+    "ar": "بحث",
+    "ja": "サーチ"
+  },
+  {
+    "en": "democracy",
+    "index": 669,
+    "de": "die Demokratie",
+    "fr": "la démocratie",
+    "zh-cn": "民主",
+    "es": "la democracia",
+    "ar": "ديمقراطية",
+    "ja": "民主主義"
+  },
+  {
+    "en": "circle",
+    "index": 670,
+    "de": "Der Kreis",
+    "fr": "le cercle",
+    "zh-cn": "圈",
+    "es": "el círculo",
+    "ar": "دائرة",
+    "ja": "サークル"
+  },
+  {
+    "en": "device",
+    "index": 671,
+    "de": "das Gerät",
+    "fr": "le dispositif",
+    "zh-cn": "设备",
+    "es": "el dispositivo",
+    "ar": "جهاز",
+    "ja": "デバイス"
+  },
+  {
+    "en": "progress",
+    "index": 672,
+    "de": "der Fortschritt",
+    "fr": "le progrès",
+    "zh-cn": "进展",
+    "es": "el progreso",
+    "ar": "تقدم",
+    "ja": "進捗"
+  },
+  {
+    "en": "front",
+    "index": 673,
+    "de": "die Front",
+    "fr": "le devant",
+    "zh-cn": "面前",
+    "es": "El frente",
+    "ar": "أمامي",
+    "ja": "フロント"
+  },
+  {
+    "en": "bottom",
+    "index": 674,
+    "de": "der Boden",
+    "fr": "le fond",
+    "zh-cn": "底部",
+    "es": "El fondo",
+    "ar": "الأسفل",
+    "ja": "下"
+  },
+  {
+    "en": "island",
+    "index": 675,
+    "de": "die Insel",
+    "fr": "l'Ile",
+    "zh-cn": "岛",
+    "es": "la isla",
+    "ar": "جزيرة",
+    "ja": "島"
+  },
+  {
+    "en": "exchange",
+    "index": 676,
+    "de": "der Austausch",
+    "fr": "l'échange",
+    "zh-cn": "交换",
+    "es": "el intercambio",
+    "ar": "تبادل",
+    "ja": "交換"
+  },
+  {
+    "en": "studio",
+    "index": 677,
+    "de": "das Studio",
+    "fr": "le studio",
+    "zh-cn": "工作室",
+    "es": "el estudio",
+    "ar": "ستوديو",
+    "ja": "スタジオ"
+  },
+  {
+    "en": "lady",
+    "index": 678,
+    "de": "die Dame",
+    "fr": "la dame",
+    "zh-cn": "淑女",
+    "es": "la dama",
+    "ar": "سيدة",
+    "ja": "レディ"
+  },
+  {
+    "en": "colleague",
+    "index": 679,
+    "de": "Der Kollege",
+    "fr": "le collègue",
+    "zh-cn": "同事",
+    "es": "el colega",
+    "ar": "زميل",
+    "ja": "同僚"
+  },
+  {
+    "en": "application",
+    "index": 680,
+    "de": "die Anwendung",
+    "fr": "L'application",
+    "zh-cn": "应用",
+    "es": "la aplicación",
+    "ar": "الوضعية",
+    "ja": "応用"
+  },
+  {
+    "en": "neck",
+    "index": 681,
+    "de": "der Hals",
+    "fr": "le cou",
+    "zh-cn": "颈部",
+    "es": "el cuello",
+    "ar": "العنق",
+    "ja": "ネック"
+  },
+  {
+    "en": "damage",
+    "index": 682,
+    "de": "der Schaden",
+    "fr": "les dégâts",
+    "zh-cn": "损伤",
+    "es": "el daño",
+    "ar": "ضرر",
+    "ja": "損傷"
+  },
+  {
+    "en": "plastic",
+    "index": 683,
+    "de": "der Kunststoff",
+    "fr": "le plastique",
+    "zh-cn": "塑料",
+    "es": "el plástico",
+    "ar": "بلاستيك",
+    "ja": "プラスチック"
+  },
+  {
+    "en": "plate",
+    "index": 684,
+    "de": "der Teller",
+    "fr": "la plaque",
+    "zh-cn": "盘子",
+    "es": "el plato",
+    "ar": "طبق",
+    "ja": "プレート"
+  },
+  {
+    "en": "writing",
+    "index": 685,
+    "de": "das Schreiben",
+    "fr": "l'écriture",
+    "zh-cn": "写作",
+    "es": "el escrito",
+    "ar": "جاري الكتابة",
+    "ja": "書き込み"
+  },
+  {
+    "en": "start",
+    "index": 686,
+    "de": "der Anfang",
+    "fr": "le début",
+    "zh-cn": "开始",
+    "es": "el comienzo",
+    "ar": "بداية",
+    "ja": "開始"
+  },
+  {
+    "en": "expression",
+    "index": 687,
+    "de": "der Ausdruck",
+    "fr": "l'expression",
+    "zh-cn": "表达",
+    "es": "la expresion",
+    "ar": "التعبير",
+    "ja": "表現"
+  },
+  {
+    "en": "football",
+    "index": 688,
+    "de": "der Fußball",
+    "fr": "le football",
+    "zh-cn": "足球",
+    "es": "El fútbol",
+    "ar": "كرة القدم",
+    "ja": "フットボール"
+  },
+  {
+    "en": "chicken",
+    "index": 689,
+    "de": "das Huhn",
+    "fr": "le poulet",
+    "zh-cn": "鸡",
+    "es": "el pollo",
+    "ar": "دجاج",
+    "ja": "チキン"
+  },
+  {
+    "en": "army",
+    "index": 690,
+    "de": "die Armee",
+    "fr": "l'armée",
+    "zh-cn": "军队",
+    "es": "El ejercito",
+    "ar": "جيش",
+    "ja": "軍"
+  },
+  {
+    "en": "abuse",
+    "index": 691,
+    "de": "der Missbrauch",
+    "fr": "l'abus",
+    "zh-cn": "滥用",
+    "es": "el abuso",
+    "ar": "إساءة",
+    "ja": "乱用"
+  },
+  {
+    "en": "theater",
+    "index": 692,
+    "de": "das Theater",
+    "fr": "théâtre",
+    "zh-cn": "剧院",
+    "es": "el teatro",
+    "ar": "مسرح",
+    "ja": "劇場"
+  },
+  {
+    "en": "map",
+    "index": 693,
+    "de": "die Karte",
+    "fr": "la carte",
+    "zh-cn": "地图",
+    "es": "el mapa",
+    "ar": "خريطة",
+    "ja": "地図"
+  },
+  {
+    "en": "session",
+    "index": 694,
+    "de": "die Sitzung",
+    "fr": "la session",
+    "zh-cn": "会议",
+    "es": "La sesión",
+    "ar": "جلسة",
+    "ja": "セッション"
+  },
+  {
+    "en": "danger",
+    "index": 695,
+    "de": "Die Gefahr",
+    "fr": "le danger",
+    "zh-cn": "危险",
+    "es": "El peligro",
+    "ar": "خطر",
+    "ja": "危険"
+  },
+  {
+    "en": "literature",
+    "index": 696,
+    "de": "die Literatur",
+    "fr": "la littérature",
+    "zh-cn": "文学",
+    "es": "la literatura",
+    "ar": "الأدب",
+    "ja": "文献"
+  },
+  {
+    "en": "rain",
+    "index": 697,
+    "de": "der Regen",
+    "fr": "la pluie",
+    "zh-cn": "雨",
+    "es": "la lluvia",
+    "ar": "تمطر",
+    "ja": "雨"
+  },
+  {
+    "en": "desire",
+    "index": 698,
+    "de": "das Verlangen",
+    "fr": "le désir",
+    "zh-cn": "欲望",
+    "es": "el deseo",
+    "ar": "رغبة",
+    "ja": "慾望"
+  },
+  {
+    "en": "assessment",
+    "index": 699,
+    "de": "die Beurteilung",
+    "fr": "l'évaluation",
+    "zh-cn": "评定",
+    "es": "la evaluacion",
+    "ar": "تقدير",
+    "ja": "評価"
+  },
+  {
+    "en": "injury",
+    "index": 700,
+    "de": "die Verletzung",
+    "fr": "la blessure",
+    "zh-cn": "伤",
+    "es": "la lesión",
+    "ar": "إصابه",
+    "ja": "損傷"
+  },
+  {
+    "en": "respect",
+    "index": 701,
+    "de": "der Respekt",
+    "fr": "le respect",
+    "zh-cn": "尊重",
+    "es": "el respeto",
+    "ar": "احترام",
+    "ja": "尊敬"
+  },
+  {
+    "en": "fuel",
+    "index": 702,
+    "de": "der Treibstoff",
+    "fr": "le carburant",
+    "zh-cn": "汽油",
+    "es": "el combustible",
+    "ar": "وقود",
+    "ja": "燃料"
+  },
+  {
+    "en": "leaf",
+    "index": 703,
+    "de": "das Blatt",
+    "fr": "la feuille",
+    "zh-cn": "叶",
+    "es": "la hoja",
+    "ar": "ورقة الشجر",
+    "ja": "葉"
+  },
+  {
+    "en": "instruction",
+    "index": 704,
+    "de": "die Anleitung",
+    "fr": "l'instruction",
+    "zh-cn": "指令",
+    "es": "la instrucción",
+    "ar": "تعليمات",
+    "ja": "命令"
+  },
+  {
+    "en": "fight",
+    "index": 705,
+    "de": "der Kampf",
+    "fr": "le combat",
+    "zh-cn": "斗争",
+    "es": "la pelea",
+    "ar": "يقاتل",
+    "ja": "戦い"
+  },
+  {
+    "en": "pool",
+    "index": 706,
+    "de": "der Pool",
+    "fr": "la piscine",
+    "zh-cn": "池",
+    "es": "la piscina",
+    "ar": "حوض السباحة",
+    "ja": "プール"
+  },
+  {
+    "en": "lead",
+    "index": 707,
+    "de": "die Führung",
+    "fr": "la tête",
+    "zh-cn": "铅",
+    "es": "el plomo",
+    "ar": "قيادة",
+    "ja": "鉛"
+  },
+  {
+    "en": "engine",
+    "index": 708,
+    "de": "der Motor",
+    "fr": "le moteur",
+    "zh-cn": "发动机",
+    "es": "el motor",
+    "ar": "محرك",
+    "ja": "エンジン"
+  },
+  {
+    "en": "salt",
+    "index": 709,
+    "de": "das Salz",
+    "fr": "le sel",
+    "zh-cn": "盐",
+    "es": "la sal",
+    "ar": "ملح",
+    "ja": "塩"
+  },
+  {
+    "en": "importance",
+    "index": 710,
+    "de": "die Wichtigkeit",
+    "fr": "l'importance",
+    "zh-cn": "重要性",
+    "es": "la importancia",
+    "ar": "أهمية",
+    "ja": "重要度"
+  },
+  {
+    "en": "metal",
+    "index": 711,
+    "de": "das Metall",
+    "fr": "le métal",
+    "zh-cn": "金属",
+    "es": "el metal",
+    "ar": "فلز",
+    "ja": "金属"
+  },
+  {
+    "en": "fat",
+    "index": 712,
+    "de": "das Fett",
+    "fr": "la graisse",
+    "zh-cn": "脂肪",
+    "es": "la grasa",
+    "ar": "سمين",
+    "ja": "脂肪"
+  },
+  {
+    "en": "ticket",
+    "index": 713,
+    "de": "das Ticket",
+    "fr": "le billet",
+    "zh-cn": "票",
+    "es": "La entrada",
+    "ar": "تذكرة",
+    "ja": "チケット"
+  },
+  {
+    "en": "software",
+    "index": 714,
+    "de": "die Software",
+    "fr": "les logiciels",
+    "zh-cn": "软件",
+    "es": "El software",
+    "ar": "البرمجيات",
+    "ja": "ソフトウェア"
+  },
+  {
+    "en": "lip",
+    "index": 715,
+    "de": "die Lippe",
+    "fr": "la lèvre",
+    "zh-cn": "唇",
+    "es": "el labio",
+    "ar": "شفة",
+    "ja": "リップ"
+  },
+  {
+    "en": "reading",
+    "index": 716,
+    "de": "das Lesen",
+    "fr": "la lecture",
+    "zh-cn": "读",
+    "es": "la lectura",
+    "ar": "قراءة",
+    "ja": "読書"
+  },
+  {
+    "en": "lunch",
+    "index": 717,
+    "de": "Das Mittagessen",
+    "fr": "le déjeuner",
+    "zh-cn": "午餐",
+    "es": "el almuerzo",
+    "ar": "غداء",
+    "ja": "ランチ"
+  },
+  {
+    "en": "farmer",
+    "index": 718,
+    "de": "der Bauer",
+    "fr": "l'agriculteur",
+    "zh-cn": "农民",
+    "es": "el granjero",
+    "ar": "مزارع",
+    "ja": "農家"
+  },
+  {
+    "en": "sugar",
+    "index": 719,
+    "de": "der Zucker",
+    "fr": "le sucre",
+    "zh-cn": "糖",
+    "es": "el azúcar",
+    "ar": "السكر",
+    "ja": "シュガー"
+  },
+  {
+    "en": "planet",
+    "index": 720,
+    "de": "der Planet",
+    "fr": "la planète",
+    "zh-cn": "行星",
+    "es": "el planeta",
+    "ar": "كوكب",
+    "ja": "惑星"
+  },
+  {
+    "en": "enemy",
+    "index": 721,
+    "de": "der Feind",
+    "fr": "l'ennemi",
+    "zh-cn": "敌人",
+    "es": "el enemigo",
+    "ar": "العدو",
+    "ja": "敵"
+  },
+  {
+    "en": "athlete",
+    "index": 722,
+    "de": "der Athlet",
+    "fr": "l'athlète",
+    "zh-cn": "运动员",
+    "es": "el atleta",
+    "ar": "رياضي",
+    "ja": "アスリート"
+  },
+  {
+    "en": "soul",
+    "index": 723,
+    "de": "die Seele",
+    "fr": "l'âme",
+    "zh-cn": "灵魂",
+    "es": "el alma",
+    "ar": "روح",
+    "ja": "魂"
+  },
+  {
+    "en": "panel",
+    "index": 724,
+    "de": "das Panel",
+    "fr": "le panel",
+    "zh-cn": "面板",
+    "es": "el panel",
+    "ar": "فريق",
+    "ja": "パネル"
+  },
+  {
+    "en": "meaning",
+    "index": 725,
+    "de": "Die Bedeutung",
+    "fr": "le sens",
+    "zh-cn": "含义",
+    "es": "el significado",
+    "ar": "المعنى",
+    "ja": "意味"
+  },
+  {
+    "en": "mom",
+    "index": 726,
+    "de": "die Mutter",
+    "fr": "la mère",
+    "zh-cn": "妈妈",
+    "es": "la madre",
+    "ar": "أمي",
+    "ja": "ママ"
+  },
+  {
+    "en": "instrument",
+    "index": 727,
+    "de": "das Instrument",
+    "fr": "L'instrument",
+    "zh-cn": "仪器",
+    "es": "el instrumento",
+    "ar": "صك",
+    "ja": "計器"
+  },
+  {
+    "en": "weather",
+    "index": 728,
+    "de": "das Wetter",
+    "fr": "la météo",
+    "zh-cn": "天气",
+    "es": "el clima",
+    "ar": "طقس",
+    "ja": "天気"
+  },
+  {
+    "en": "commitment",
+    "index": 729,
+    "de": "die Verpflichtung",
+    "fr": "l'engagement",
+    "zh-cn": "承诺",
+    "es": "el compromiso",
+    "ar": "التزام",
+    "ja": "コミットメント"
+  },
+  {
+    "en": "pocket",
+    "index": 730,
+    "de": "die Tasche",
+    "fr": "la poche",
+    "zh-cn": "口袋",
+    "es": "el bolsillo",
+    "ar": "جيب",
+    "ja": "ポケット"
+  },
+  {
+    "en": "temperature",
+    "index": 731,
+    "de": "die Temperatur",
+    "fr": "la température",
+    "zh-cn": "温度",
+    "es": "la temperatura",
+    "ar": "درجة الحرارة",
+    "ja": "温度"
+  },
+  {
+    "en": "surprise",
+    "index": 732,
+    "de": "die Überraschung",
+    "fr": "la surprise",
+    "zh-cn": "惊",
+    "es": "la sorpresa",
+    "ar": "مفاجأة",
+    "ja": "驚き"
+  },
+  {
+    "en": "poll",
+    "index": 733,
+    "de": "die Umfrage",
+    "fr": "le sondage",
+    "zh-cn": "轮询",
+    "es": "la encuesta",
+    "ar": "تصويت",
+    "ja": "投票"
+  },
+  {
+    "en": "proposal",
+    "index": 734,
+    "de": "der Antrag",
+    "fr": "La proposition",
+    "zh-cn": "提案",
+    "es": "la propuesta",
+    "ar": "اقتراح",
+    "ja": "提案"
+  },
+  {
+    "en": "consequence",
+    "index": 735,
+    "de": "Die Konsequenz",
+    "fr": "la conséquence",
+    "zh-cn": "后果",
+    "es": "la consecuencia",
+    "ar": "نتيجة",
+    "ja": "結果"
+  },
+  {
+    "en": "half",
+    "index": 736,
+    "de": "die Hälfte",
+    "fr": "la demi",
+    "zh-cn": "半",
+    "es": "la mitad",
+    "ar": "نصف",
+    "ja": "ハーフ"
+  },
+  {
+    "en": "breath",
+    "index": 737,
+    "de": "der Atem",
+    "fr": "le souffle",
+    "zh-cn": "呼吸",
+    "es": "El aliento",
+    "ar": "نفس",
+    "ja": "呼吸"
+  },
+  {
+    "en": "sight",
+    "index": 738,
+    "de": "die Sicht",
+    "fr": "la vue",
+    "zh-cn": "视力",
+    "es": "la vista",
+    "ar": "مشهد",
+    "ja": "視力"
+  },
+  {
+    "en": "cover",
+    "index": 739,
+    "de": "Die Titelseite",
+    "fr": "la couverture",
+    "zh-cn": "盖",
+    "es": "la cubierta",
+    "ar": "التغطية",
+    "ja": "カバー"
+  },
+  {
+    "en": "balance",
+    "index": 740,
+    "de": "die Balance",
+    "fr": "l'équilibre",
+    "zh-cn": "平衡",
+    "es": "el balance",
+    "ar": "توازن",
+    "ja": "バランス"
+  },
+  {
+    "en": "minority",
+    "index": 741,
+    "de": "die Minderheit",
+    "fr": "la minorité",
+    "zh-cn": "少数民族",
+    "es": "la minoría",
+    "ar": "أقلية",
+    "ja": "少数"
+  },
+  {
+    "en": "works",
+    "index": 742,
+    "de": "die Werke",
+    "fr": "les travaux",
+    "zh-cn": "作品",
+    "es": "los trabajos",
+    "ar": "أعمال",
+    "ja": "作品"
+  },
+  {
+    "en": "teaching",
+    "index": 743,
+    "de": "das Lehren",
+    "fr": "l'enseignement",
+    "zh-cn": "教学",
+    "es": "la enseñanza",
+    "ar": "تعليم",
+    "ja": "教える"
+  },
+  {
+    "en": "aid",
+    "index": 744,
+    "de": "die Hilfe",
+    "fr": "l'aide",
+    "zh-cn": "援助",
+    "es": "la ayuda",
+    "ar": "مساعدة",
+    "ja": "援助"
+  },
+  {
+    "en": "advice",
+    "index": 745,
+    "de": "der Ratschlag",
+    "fr": "le Conseil",
+    "zh-cn": "忠告",
+    "es": "el Consejo",
+    "ar": "النصيحة",
+    "ja": "助言"
+  },
+  {
+    "en": "photograph",
+    "index": 746,
+    "de": "die Fotografie",
+    "fr": "le photographe",
+    "zh-cn": "照片",
+    "es": "la fotografía",
+    "ar": "تصوير",
+    "ja": "写真"
+  },
+  {
+    "en": "trail",
+    "index": 747,
+    "de": "Der Pfad",
+    "fr": "le sentier",
+    "zh-cn": "落后",
+    "es": "el sendero",
+    "ar": "ممر المشاة",
+    "ja": "トレイル"
+  },
+  {
+    "en": "novel",
+    "index": 748,
+    "de": "der Roman",
+    "fr": "le roman",
+    "zh-cn": "小说",
+    "es": "la novela",
+    "ar": "رواية",
+    "ja": "小説"
+  },
+  {
+    "en": "code",
+    "index": 749,
+    "de": "der Code",
+    "fr": "le code",
+    "zh-cn": "码",
+    "es": "el código",
+    "ar": "الشفرة",
+    "ja": "コード"
+  },
+  {
+    "en": "jury",
+    "index": 750,
+    "de": "die Jury",
+    "fr": "le jury",
+    "zh-cn": "陪审团",
+    "es": "el jurado",
+    "ar": "هيئة المحلفين",
+    "ja": "陪審"
+  },
+  {
+    "en": "breast",
+    "index": 751,
+    "de": "die Brust",
+    "fr": "la poitrine",
+    "zh-cn": "乳房",
+    "es": "la mama",
+    "ar": "ثدي",
+    "ja": "乳"
+  },
+  {
+    "en": "human",
+    "index": 752,
+    "de": "der Mensch",
+    "fr": "l'humain",
+    "zh-cn": "人的",
+    "es": "el humano",
+    "ar": "بشري",
+    "ja": "人間"
+  },
+  {
+    "en": "theme",
+    "index": 753,
+    "de": "das Thema",
+    "fr": "le thème",
+    "zh-cn": "主题",
+    "es": "el tema",
+    "ar": "موضوع",
+    "ja": "テーマ"
+  },
+  {
+    "en": "storm",
+    "index": 754,
+    "de": "der Sturm",
+    "fr": "la tempête",
+    "zh-cn": "风暴",
+    "es": "la tormenta",
+    "ar": "عاصفة",
+    "ja": "嵐"
+  },
+  {
+    "en": "union",
+    "index": 755,
+    "de": "Die Union",
+    "fr": "l'Union",
+    "zh-cn": "联盟",
+    "es": "la Union",
+    "ar": "الاتحاد",
+    "ja": "連合"
+  },
+  {
+    "en": "desk",
+    "index": 756,
+    "de": "der Schreibtisch",
+    "fr": "le bureau",
+    "zh-cn": "台",
+    "es": "el escritorio",
+    "ar": "مكتب",
+    "ja": "机"
+  },
+  {
+    "en": "thanks",
+    "index": 757,
+    "de": "Danke",
+    "fr": "merci",
+    "zh-cn": "谢谢",
+    "es": "gracias",
+    "ar": "شكر",
+    "ja": "ありがとう"
+  },
+  {
+    "en": "fruit",
+    "index": 758,
+    "de": "das Obst",
+    "fr": "le fruit",
+    "zh-cn": "水果",
+    "es": "el fruto",
+    "ar": "فاكهة",
+    "ja": "フルーツ"
+  },
+  {
+    "en": "conclusion",
+    "index": 759,
+    "de": "das Fazit",
+    "fr": "la conclusion",
+    "zh-cn": "结论",
+    "es": "la conclusión",
+    "ar": "استنتاج",
+    "ja": "結論"
+  },
+  {
+    "en": "shadow",
+    "index": 760,
+    "de": "der Schatten",
+    "fr": "l'ombre",
+    "zh-cn": "阴影",
+    "es": "la sombra",
+    "ar": "ظل",
+    "ja": "影"
+  },
+  {
+    "en": "analyst",
+    "index": 761,
+    "de": "der Analytiker",
+    "fr": "l'analyste",
+    "zh-cn": "分析人士",
+    "es": "el analista",
+    "ar": "المحلل",
+    "ja": "アナリスト"
+  },
+  {
+    "en": "dance",
+    "index": 762,
+    "de": "der Tanz",
+    "fr": "la danse",
+    "zh-cn": "舞蹈",
+    "es": "el baile",
+    "ar": "رقص",
+    "ja": "ダンス"
+  },
+  {
+    "en": "limit",
+    "index": 763,
+    "de": "das Limit",
+    "fr": "la limite",
+    "zh-cn": "限制",
+    "es": "el límite",
+    "ar": "حد",
+    "ja": "限界"
+  },
+  {
+    "en": "regulation",
+    "index": 764,
+    "de": "die Regulation",
+    "fr": "la réglementation",
+    "zh-cn": "规",
+    "es": "la regulación",
+    "ar": "اللائحة",
+    "ja": "規制"
+  },
+  {
+    "en": "being",
+    "index": 765,
+    "de": "das Sein",
+    "fr": "l'être",
+    "zh-cn": "存在",
+    "es": "el ser",
+    "ar": "يجرى",
+    "ja": "であること"
+  },
+  {
+    "en": "ring",
+    "index": 766,
+    "de": "der Ring",
+    "fr": "l'anneau",
+    "zh-cn": "环",
+    "es": "el anillo",
+    "ar": "حلقة",
+    "ja": "リング"
+  },
+  {
+    "en": "revenue",
+    "index": 767,
+    "de": "die Einnahmen",
+    "fr": "le revenu",
+    "zh-cn": "收入",
+    "es": "los ingresos",
+    "ar": "إيرادات",
+    "ja": "収入"
+  },
+  {
+    "en": "county",
+    "index": 768,
+    "de": "die Grafschaft",
+    "fr": "le comté",
+    "zh-cn": "县",
+    "es": "el condado",
+    "ar": "مقاطعة",
+    "ja": "郡"
+  },
+  {
+    "en": "appearance",
+    "index": 769,
+    "de": "die Erscheinung",
+    "fr": "l'apparence",
+    "zh-cn": "出现",
+    "es": "la apariencia",
+    "ar": "مظهر خارجي",
+    "ja": "外観"
+  },
+  {
+    "en": "package",
+    "index": 770,
+    "de": "das Paket",
+    "fr": "le paquet",
+    "zh-cn": "包",
+    "es": "el paquete",
+    "ar": "صفقة",
+    "ja": "パッケージ"
+  },
+  {
+    "en": "difficulty",
+    "index": 771,
+    "de": "Die Schwierigkeit",
+    "fr": "la difficulté",
+    "zh-cn": "困难",
+    "es": "la dificultad",
+    "ar": "صعوبة",
+    "ja": "困難"
+  },
+  {
+    "en": "bridge",
+    "index": 772,
+    "de": "die Brücke",
+    "fr": "le pont",
+    "zh-cn": "桥",
+    "es": "el puente",
+    "ar": "جسر",
+    "ja": "ブリッジ"
+  },
+  {
+    "en": "train",
+    "index": 773,
+    "de": "der Zug",
+    "fr": "le train",
+    "zh-cn": "培养",
+    "es": "el tren",
+    "ar": "قطار",
+    "ja": "列車"
+  },
+  {
+    "en": "e-mail",
+    "index": 774,
+    "de": "die Email",
+    "fr": "le courriel",
+    "zh-cn": "电子邮件",
+    "es": "el correo electrónico",
+    "ar": "البريد الإلكتروني",
+    "ja": "Eメール"
+  },
+  {
+    "en": "thinking",
+    "index": 775,
+    "de": "das Denken",
+    "fr": "la pensée",
+    "zh-cn": "思维",
+    "es": "el pensamiento",
+    "ar": "تفكير",
+    "ja": "考え"
+  },
+  {
+    "en": "trend",
+    "index": 776,
+    "de": "die Tendenz",
+    "fr": "la tendance",
+    "zh-cn": "趋势",
+    "es": "la tendencia",
+    "ar": "اتجاه",
+    "ja": "傾向"
+  },
+  {
+    "en": "visitor",
+    "index": 777,
+    "de": "der Besucher",
+    "fr": "le visiteur",
+    "zh-cn": "游客",
+    "es": "el visitante",
+    "ar": "زائر",
+    "ja": "ビジター"
+  },
+  {
+    "en": "loan",
+    "index": 778,
+    "de": "das Darlehen",
+    "fr": "un emprunt",
+    "zh-cn": "贷款",
+    "es": "el préstamo",
+    "ar": "قرض",
+    "ja": "ローン"
+  },
+  {
+    "en": "investor",
+    "index": 779,
+    "de": "der Investor",
+    "fr": "l'investisseur",
+    "zh-cn": "投资者",
+    "es": "el inversionista",
+    "ar": "مستثمر",
+    "ja": "投資家"
+  },
+  {
+    "en": "profit",
+    "index": 780,
+    "de": "der Profit",
+    "fr": "le profit",
+    "zh-cn": "利润",
+    "es": "la ganancia",
+    "ar": "ربح",
+    "ja": "利益"
+  },
+  {
+    "en": "crew",
+    "index": 781,
+    "de": "die Besatzung",
+    "fr": "l'équipage",
+    "zh-cn": "船员",
+    "es": "la pandilla",
+    "ar": "طاقم",
+    "ja": "クルー"
+  },
+  {
+    "en": "accident",
+    "index": 782,
+    "de": "der Unfall",
+    "fr": "l'accident",
+    "zh-cn": "事故",
+    "es": "El accidente",
+    "ar": "حادث",
+    "ja": "事故"
+  },
+  {
+    "en": "male",
+    "index": 783,
+    "de": "der männliche",
+    "fr": "le mâle",
+    "zh-cn": "男",
+    "es": "El hombre",
+    "ar": "الذكر",
+    "ja": "男性"
+  },
+  {
+    "en": "meal",
+    "index": 784,
+    "de": "die Mahlzeit",
+    "fr": "le repas",
+    "zh-cn": "膳食",
+    "es": "la comida",
+    "ar": "وجبة",
+    "ja": "お食事"
+  },
+  {
+    "en": "hearing",
+    "index": 785,
+    "de": "die Anhörung",
+    "fr": "l'audience",
+    "zh-cn": "听力",
+    "es": "el oir",
+    "ar": "سمع",
+    "ja": "聴覚"
+  },
+  {
+    "en": "traffic",
+    "index": 786,
+    "de": "der Verkehr",
+    "fr": "le trafic",
+    "zh-cn": "交通",
+    "es": "el tráfico",
+    "ar": "حركة المرور",
+    "ja": "トラフィック"
+  },
+  {
+    "en": "muscle",
+    "index": 787,
+    "de": "der Muskel",
+    "fr": "le muscle",
+    "zh-cn": "肌肉",
+    "es": "el músculo",
+    "ar": "عضلة",
+    "ja": "筋"
+  },
+  {
+    "en": "notion",
+    "index": 788,
+    "de": "die Vorstellung",
+    "fr": "la notion",
+    "zh-cn": "概念",
+    "es": "la noción",
+    "ar": "خيالى",
+    "ja": "概念"
+  },
+  {
+    "en": "earth",
+    "index": 789,
+    "de": "die Erde",
+    "fr": "La terre",
+    "zh-cn": "地球",
+    "es": "la tierra",
+    "ar": "أرض",
+    "ja": "地球"
+  },
+  {
+    "en": "chest",
+    "index": 790,
+    "de": "die Brust",
+    "fr": "la poitrine",
+    "zh-cn": "胸部",
+    "es": "el pecho",
+    "ar": "صدر",
+    "ja": "胸"
+  },
+  {
+    "en": "cash",
+    "index": 791,
+    "de": "das Geld",
+    "fr": "l'argent",
+    "zh-cn": "现金",
+    "es": "el dinero en efectivo",
+    "ar": "السيولة النقدية",
+    "ja": "現金"
+  },
+  {
+    "en": "museum",
+    "index": 792,
+    "de": "das Museum",
+    "fr": "le musée",
+    "zh-cn": "博物馆",
+    "es": "el Museo",
+    "ar": "متحف",
+    "ja": "博物館"
+  },
+  {
+    "en": "beauty",
+    "index": 793,
+    "de": "die Schönheit",
+    "fr": "la beauté",
+    "zh-cn": "美女",
+    "es": "la belleza",
+    "ar": "جمال",
+    "ja": "美しさ"
+  },
+  {
+    "en": "emergency",
+    "index": 794,
+    "de": "der Notfall",
+    "fr": "l'urgence",
+    "zh-cn": "急",
+    "es": "la emergencia",
+    "ar": "حالة طوارئ",
+    "ja": "緊急"
+  },
+  {
+    "en": "stress",
+    "index": 795,
+    "de": "der Stress",
+    "fr": "stress",
+    "zh-cn": "强调",
+    "es": "el estrés",
+    "ar": "ضغط عصبى",
+    "ja": "応力"
+  },
+  {
+    "en": "content",
+    "index": 796,
+    "de": "der Inhalt",
+    "fr": "le contenu",
+    "zh-cn": "内容",
+    "es": "el contenido",
+    "ar": "يحتوى",
+    "ja": "コンテンツ"
+  },
+  {
+    "en": "root",
+    "index": 797,
+    "de": "der Ursprung",
+    "fr": "la racine",
+    "zh-cn": "根",
+    "es": "la raíz",
+    "ar": "جذر",
+    "ja": "ルート"
+  },
+  {
+    "en": "nose",
+    "index": 798,
+    "de": "die Nase",
+    "fr": "le nez",
+    "zh-cn": "鼻子",
+    "es": "la nariz",
+    "ar": "أنف",
+    "ja": "鼻"
+  },
+  {
+    "en": "bottle",
+    "index": 799,
+    "de": "die Flasche",
+    "fr": "la bouteille",
+    "zh-cn": "瓶子",
+    "es": "la botella",
+    "ar": "زجاجة",
+    "ja": "ボトル"
+  },
+  {
+    "en": "setting",
+    "index": 800,
+    "de": "die Einstellung",
+    "fr": "le réglage",
+    "zh-cn": "设置",
+    "es": "el ajuste",
+    "ar": "ضبط",
+    "ja": "設定"
+  },
+  {
+    "en": "dress",
+    "index": 801,
+    "de": "das Kleid",
+    "fr": "la robe",
+    "zh-cn": "连衣裙",
+    "es": "el vestido",
+    "ar": "فستان",
+    "ja": "ドレス"
+  },
+  {
+    "en": "file",
+    "index": 802,
+    "de": "die Datei",
+    "fr": "le fichier",
+    "zh-cn": "文件",
+    "es": "el archivo",
+    "ar": "ملف",
+    "ja": "ファイル"
+  },
+  {
+    "en": "outcome",
+    "index": 803,
+    "de": "das Ergebnis",
+    "fr": "le résultat",
+    "zh-cn": "结果",
+    "es": "el resultado",
+    "ar": "نتيجة",
+    "ja": "結果"
+  },
+  {
+    "en": "ad",
+    "index": 804,
+    "de": "die Anzeige",
+    "fr": "l'annonce",
+    "zh-cn": "广告",
+    "es": "el anuncio",
+    "ar": "ميلادي",
+    "ja": "広告"
+  },
+  {
+    "en": "duty",
+    "index": 805,
+    "de": "die Pflicht",
+    "fr": "le devoir",
+    "zh-cn": "义务",
+    "es": "el deber",
+    "ar": "مهمة",
+    "ja": "義務"
+  },
+  {
+    "en": "sheet",
+    "index": 806,
+    "de": "Das Blatt",
+    "fr": "la feuille",
+    "zh-cn": "片",
+    "es": "la sábana",
+    "ar": "ورقة",
+    "ja": "シート"
+  },
+  {
+    "en": "extent",
+    "index": 807,
+    "de": "das Ausmaß",
+    "fr": "l'ampleur",
+    "zh-cn": "程度",
+    "es": "el grado",
+    "ar": "مدى",
+    "ja": "エクステント"
+  },
+  {
+    "en": "component",
+    "index": 808,
+    "de": "die Komponente",
+    "fr": "le composant",
+    "zh-cn": "零件",
+    "es": "el componente",
+    "ar": "مكون",
+    "ja": "成分"
+  },
+  {
+    "en": "contrast",
+    "index": 809,
+    "de": "Der Kontrast",
+    "fr": "le contraste",
+    "zh-cn": "对比",
+    "es": "el contraste",
+    "ar": "تناقض",
+    "ja": "コントラスト"
+  },
+  {
+    "en": "zone",
+    "index": 810,
+    "de": "die Zone",
+    "fr": "la zone",
+    "zh-cn": "区",
+    "es": "la zona",
+    "ar": "منطقة",
+    "ja": "ゾーン"
+  },
+  {
+    "en": "airport",
+    "index": 811,
+    "de": "Der Flughafen",
+    "fr": "l'aéroport",
+    "zh-cn": "飞机场",
+    "es": "el aeropuerto",
+    "ar": "مطار",
+    "ja": "空港"
+  },
+  {
+    "en": "chief",
+    "index": 812,
+    "de": "der Chef",
+    "fr": "le chef",
+    "zh-cn": "首席",
+    "es": "el jefe",
+    "ar": "رئيس",
+    "ja": "チーフ"
+  },
+  {
+    "en": "shirt",
+    "index": 813,
+    "de": "das Hemd",
+    "fr": "la chemise",
+    "zh-cn": "衬衫",
+    "es": "la camisa",
+    "ar": "قميص",
+    "ja": "シャツ"
+  },
+  {
+    "en": "pilot",
+    "index": 814,
+    "de": "der Pilot",
+    "fr": "le pilote",
+    "zh-cn": "飞行员",
+    "es": "El piloto",
+    "ar": "طيار",
+    "ja": "パイロット"
+  },
+  {
+    "en": "cat",
+    "index": 815,
+    "de": "die Katze",
+    "fr": "le chat",
+    "zh-cn": "猫",
+    "es": "el gato",
+    "ar": "قط",
+    "ja": "ネコ"
+  },
+  {
+    "en": "contribution",
+    "index": 816,
+    "de": "der Beitrag",
+    "fr": "la contribution",
+    "zh-cn": "贡献",
+    "es": "la contribución",
+    "ar": "إسهام",
+    "ja": "貢献"
+  },
+  {
+    "en": "capacity",
+    "index": 817,
+    "de": "Die Kapazität",
+    "fr": "la capacité",
+    "zh-cn": "容量",
+    "es": "la capacidad",
+    "ar": "سعة",
+    "ja": "容量"
+  },
+  {
+    "en": "estate",
+    "index": 818,
+    "de": "das Anwesen",
+    "fr": "le domaine",
+    "zh-cn": "房地产",
+    "es": "el estado",
+    "ar": "ملكية",
+    "ja": "エステート"
+  },
+  {
+    "en": "guide",
+    "index": 819,
+    "de": "der Führer",
+    "fr": "le guide",
+    "zh-cn": "指南",
+    "es": "la guía",
+    "ar": "يرشد",
+    "ja": "ガイド"
+  },
+  {
+    "en": "circumstance",
+    "index": 820,
+    "de": "der Umstand",
+    "fr": "la circonstance",
+    "zh-cn": "环境",
+    "es": "la circunstancia",
+    "ar": "ظرف",
+    "ja": "状況"
+  },
+  {
+    "en": "snow",
+    "index": 821,
+    "de": "der Schnee",
+    "fr": "la neige",
+    "zh-cn": "雪",
+    "es": "la nieve",
+    "ar": "ثلج",
+    "ja": "雪"
+  },
+  {
+    "en": "politician",
+    "index": 822,
+    "de": "der Politiker",
+    "fr": "le politicien",
+    "zh-cn": "政治家",
+    "es": "el político",
+    "ar": "سياسي",
+    "ja": "政治家"
+  },
+  {
+    "en": "percentage",
+    "index": 823,
+    "de": "Der Prozentanteil",
+    "fr": "le pourcentage",
+    "zh-cn": "百分比",
+    "es": "el porcentaje",
+    "ar": "النسبة المئوية",
+    "ja": "パーセンテージ"
+  },
+  {
+    "en": "meat",
+    "index": 824,
+    "de": "das Fleisch",
+    "fr": "la viande",
+    "zh-cn": "肉",
+    "es": "la carne",
+    "ar": "لحم",
+    "ja": "お肉"
+  },
+  {
+    "en": "soil",
+    "index": 825,
+    "de": "die Erde",
+    "fr": "le sol",
+    "zh-cn": "泥",
+    "es": "la tierra",
+    "ar": "تربة",
+    "ja": "土壌"
+  },
+  {
+    "en": "surgery",
+    "index": 826,
+    "de": "die Operation",
+    "fr": "la chirurgie",
+    "zh-cn": "手术",
+    "es": "la cirugía",
+    "ar": "العملية الجراحية",
+    "ja": "手術"
+  },
+  {
+    "en": "basketball",
+    "index": 827,
+    "de": "der Basketball",
+    "fr": "le basketball",
+    "zh-cn": "篮球",
+    "es": "el baloncesto",
+    "ar": "كرة سلة",
+    "ja": "バスケットボール"
+  },
+  {
+    "en": "golf",
+    "index": 828,
+    "de": "der Golf",
+    "fr": "le golf",
+    "zh-cn": "高尔夫球",
+    "es": "el golf",
+    "ar": "جولف",
+    "ja": "ゴルフ"
+  },
+  {
+    "en": "chain",
+    "index": 829,
+    "de": "Die Kette",
+    "fr": "la chaine",
+    "zh-cn": "链",
+    "es": "La cadena",
+    "ar": "سلسلة",
+    "ja": "鎖"
+  },
+  {
+    "en": "address",
+    "index": 830,
+    "de": "die Adresse",
+    "fr": "l'adresse",
+    "zh-cn": "地址",
+    "es": "la dirección",
+    "ar": "عنوان",
+    "ja": "住所"
+  },
+  {
+    "en": "branch",
+    "index": 831,
+    "de": "die Branche",
+    "fr": "la branche",
+    "zh-cn": "科",
+    "es": "la rama",
+    "ar": "فرع شجرة",
+    "ja": "ブランチ"
+  },
+  {
+    "en": "combination",
+    "index": 832,
+    "de": "die Kombination",
+    "fr": "la combinaison",
+    "zh-cn": "组合",
+    "es": "la combinación",
+    "ar": "مزيج",
+    "ja": "組み合わせ"
+  },
+  {
+    "en": "governor",
+    "index": 833,
+    "de": "der Gouverneur",
+    "fr": "le gouverneur",
+    "zh-cn": "州长",
+    "es": "el gobernador",
+    "ar": "محافظ حاكم",
+    "ja": "知事"
+  },
+  {
+    "en": "relief",
+    "index": 834,
+    "de": "das Relief",
+    "fr": "le soulagement",
+    "zh-cn": "浮雕",
+    "es": "el alivio",
+    "ar": "ارتياح",
+    "ja": "救済"
+  },
+  {
+    "en": "user",
+    "index": 835,
+    "de": "der Benutzer",
+    "fr": "l'utilisateur",
+    "zh-cn": "用户",
+    "es": "el usuario",
+    "ar": "المستعمل",
+    "ja": "ユーザー"
+  },
+  {
+    "en": "dad",
+    "index": 836,
+    "de": "der Vater",
+    "fr": "le papa",
+    "zh-cn": "爸",
+    "es": "el padre",
+    "ar": "أب",
+    "ja": "パパ"
+  },
+  {
+    "en": "manner",
+    "index": 837,
+    "de": "Die Methode",
+    "fr": "la manière",
+    "zh-cn": "方式",
+    "es": "la manera",
+    "ar": "أسلوب",
+    "ja": "方法"
+  },
+  {
+    "en": "silence",
+    "index": 838,
+    "de": "die Stille",
+    "fr": "le silence",
+    "zh-cn": "安静",
+    "es": "el silencio",
+    "ar": "الصمت",
+    "ja": "沈黙"
+  },
+  {
+    "en": "rating",
+    "index": 839,
+    "de": "Das Rating",
+    "fr": "la note",
+    "zh-cn": "评分",
+    "es": "la calificación",
+    "ar": "تقييم",
+    "ja": "評価"
+  },
+  {
+    "en": "motion",
+    "index": 840,
+    "de": "die Bewegung",
+    "fr": "le mouvement",
+    "zh-cn": "运动",
+    "es": "el movimiento",
+    "ar": "اقتراح",
+    "ja": "モーション"
+  },
+  {
+    "en": "gender",
+    "index": 841,
+    "de": "das Geschlecht",
+    "fr": "le genre",
+    "zh-cn": "性别",
+    "es": "el género",
+    "ar": "جنس",
+    "ja": "性別"
+  },
+  {
+    "en": "fee",
+    "index": 842,
+    "de": "die Gebühr",
+    "fr": "les frais",
+    "zh-cn": "费用",
+    "es": "La cuota",
+    "ar": "رسوم",
+    "ja": "費用"
+  },
+  {
+    "en": "landscape",
+    "index": 843,
+    "de": "die Landschaft",
+    "fr": "le paysage",
+    "zh-cn": "景观",
+    "es": "el paisaje",
+    "ar": "المناظر الطبيعيه",
+    "ja": "風景"
+  },
+  {
+    "en": "bowl",
+    "index": 844,
+    "de": "die Schale",
+    "fr": "le bol",
+    "zh-cn": "碗",
+    "es": "el cuenco",
+    "ar": "عاء",
+    "ja": "ボウル"
+  },
+  {
+    "en": "frame",
+    "index": 845,
+    "de": "der Rahmen",
+    "fr": "le cadre",
+    "zh-cn": "帧",
+    "es": "el marco",
+    "ar": "الإطار",
+    "ja": "フレーム"
+  },
+  {
+    "en": "host",
+    "index": 846,
+    "de": "der Gastgeber",
+    "fr": "l'hôte",
+    "zh-cn": "主办",
+    "es": "el anfitrión",
+    "ar": "مضيف",
+    "ja": "ホスト"
+  },
+  {
+    "en": "hall",
+    "index": 847,
+    "de": "die Halle",
+    "fr": "le hall",
+    "zh-cn": "大厅",
+    "es": "el salon",
+    "ar": "صالة",
+    "ja": "ホール"
+  },
+  {
+    "en": "ocean",
+    "index": 848,
+    "de": "der Ozean",
+    "fr": "l'océan",
+    "zh-cn": "海洋",
+    "es": "el océano",
+    "ar": "محيط",
+    "ja": "海洋"
+  },
+  {
+    "en": "row",
+    "index": 849,
+    "de": "die Reihe",
+    "fr": "la ligne",
+    "zh-cn": "行",
+    "es": "La fila",
+    "ar": "صف",
+    "ja": "行"
+  },
+  {
+    "en": "producer",
+    "index": 850,
+    "de": "der Produzent",
+    "fr": "le producteur",
+    "zh-cn": "制片人",
+    "es": "el productor",
+    "ar": "منتج",
+    "ja": "プロデューサー"
+  },
+  {
+    "en": "regime",
+    "index": 851,
+    "de": "das Regime",
+    "fr": "le régime",
+    "zh-cn": "政权",
+    "es": "el régimen",
+    "ar": "النظام الحاكم",
+    "ja": "体制"
+  },
+  {
+    "en": "division",
+    "index": 852,
+    "de": "der Unternehmensbereich",
+    "fr": "la division",
+    "zh-cn": "师",
+    "es": "La división",
+    "ar": "قطاع",
+    "ja": "分割"
+  },
+  {
+    "en": "appeal",
+    "index": 853,
+    "de": "die Beschwerde",
+    "fr": "l'appel",
+    "zh-cn": "上诉",
+    "es": "la apelación",
+    "ar": "مناشدة",
+    "ja": "アピール"
+  },
+  {
+    "en": "mirror",
+    "index": 854,
+    "de": "der Spiegel",
+    "fr": "le miroir",
+    "zh-cn": "镜子",
+    "es": "el espejo",
+    "ar": "مرآة",
+    "ja": "鏡"
+  },
+  {
+    "en": "tooth",
+    "index": 855,
+    "de": "der Zahn",
+    "fr": "la dent",
+    "zh-cn": "齿",
+    "es": "el diente",
+    "ar": "سن",
+    "ja": "歯"
+  },
+  {
+    "en": "length",
+    "index": 856,
+    "de": "die Länge",
+    "fr": "la durée",
+    "zh-cn": "长度",
+    "es": "la longitud",
+    "ar": "الطول",
+    "ja": "長さ"
+  },
+  {
+    "en": "topic",
+    "index": 857,
+    "de": "das Thema",
+    "fr": "le sujet",
+    "zh-cn": "话题",
+    "es": "El tema",
+    "ar": "موضوع",
+    "ja": "トピック"
+  },
+  {
+    "en": "variable",
+    "index": 858,
+    "de": "Die Variable",
+    "fr": "la variable",
+    "zh-cn": "变量",
+    "es": "La variable",
+    "ar": "متغير",
+    "ja": "変数"
+  },
+  {
+    "en": "telephone",
+    "index": 859,
+    "de": "das Telefon",
+    "fr": "le téléphone",
+    "zh-cn": "电话",
+    "es": "el telefono",
+    "ar": "هاتف",
+    "ja": "電話"
+  },
+  {
+    "en": "perception",
+    "index": 860,
+    "de": "die Wahrnehmung",
+    "fr": "la perception",
+    "zh-cn": "知觉",
+    "es": "la percepción",
+    "ar": "المعرفة",
+    "ja": "知覚"
+  },
+  {
+    "en": "confidence",
+    "index": 861,
+    "de": "das Vertrauen",
+    "fr": "la confiance",
+    "zh-cn": "置信度",
+    "es": "la confianza",
+    "ar": "الثقة",
+    "ja": "信頼"
+  },
+  {
+    "en": "bedroom",
+    "index": 862,
+    "de": "das Schlafzimmer",
+    "fr": "la chambre",
+    "zh-cn": "卧室",
+    "es": "el dormitorio",
+    "ar": "غرفة نوم",
+    "ja": "寝室"
+  },
+  {
+    "en": "secret",
+    "index": 863,
+    "de": "das Geheimnis",
+    "fr": "le secret",
+    "zh-cn": "秘密",
+    "es": "el secreto",
+    "ar": "سر",
+    "ja": "秘密"
+  },
+  {
+    "en": "debt",
+    "index": 864,
+    "de": "die Schuld",
+    "fr": "la dette",
+    "zh-cn": "债务",
+    "es": "la deuda",
+    "ar": "دين",
+    "ja": "債務"
+  },
+  {
+    "en": "tank",
+    "index": 865,
+    "de": "der Panzer",
+    "fr": "le tank",
+    "zh-cn": "坦克",
+    "es": "el tanque",
+    "ar": "خزان",
+    "ja": "タンク"
+  },
+  {
+    "en": "nurse",
+    "index": 866,
+    "de": "die Krankenschwester",
+    "fr": "l'infirmière",
+    "zh-cn": "护士",
+    "es": "la enfermera",
+    "ar": "ممرضة",
+    "ja": "ナース"
+  },
+  {
+    "en": "coverage",
+    "index": 867,
+    "de": "die Abdeckung",
+    "fr": "la couverture",
+    "zh-cn": "覆盖",
+    "es": "la cobertura",
+    "ar": "تغطية",
+    "ja": "カバレッジ"
+  },
+  {
+    "en": "opposition",
+    "index": 868,
+    "de": "Die Opposition",
+    "fr": "l'opposition",
+    "zh-cn": "反对",
+    "es": "la oposición",
+    "ar": "معارضة",
+    "ja": "反対"
+  },
+  {
+    "en": "bond",
+    "index": 869,
+    "de": "die Bindung",
+    "fr": "le lien",
+    "zh-cn": "键",
+    "es": "el vínculo",
+    "ar": "كفالة",
+    "ja": "ボンド"
+  },
+  {
+    "en": "pleasure",
+    "index": 870,
+    "de": "die Freude",
+    "fr": "le plaisir",
+    "zh-cn": "乐趣",
+    "es": "el placer",
+    "ar": "بكل سرور",
+    "ja": "喜び"
+  },
+  {
+    "en": "master",
+    "index": 871,
+    "de": "der Meister",
+    "fr": "le maître",
+    "zh-cn": "主",
+    "es": "el maestro",
+    "ar": "رئيس",
+    "ja": "マスター"
+  },
+  {
+    "en": "era",
+    "index": 872,
+    "de": "die Ära",
+    "fr": "L'ère",
+    "zh-cn": "时代",
+    "es": "la era",
+    "ar": "عصر",
+    "ja": "時代"
+  },
+  {
+    "en": "requirement",
+    "index": 873,
+    "de": "die Anforderung",
+    "fr": "l'exigence",
+    "zh-cn": "需求",
+    "es": "el requerimiento",
+    "ar": "المتطلبات",
+    "ja": "要件"
+  },
+  {
+    "en": "check",
+    "index": 874,
+    "de": "die Prüfung",
+    "fr": "le cheque",
+    "zh-cn": "查",
+    "es": "el cheque",
+    "ar": "التحقق من",
+    "ja": "チェック"
+  },
+  {
+    "en": "stand",
+    "index": 875,
+    "de": "der Stand",
+    "fr": "le stand",
+    "zh-cn": "站",
+    "es": "el soporte",
+    "ar": "يفهم",
+    "ja": "スタンド"
+  },
+  {
+    "en": "fun",
+    "index": 876,
+    "de": "der Spaß",
+    "fr": "le plaisir",
+    "zh-cn": "开玩笑",
+    "es": "la diversión",
+    "ar": "مرح",
+    "ja": "楽しい"
+  },
+  {
+    "en": "expectation",
+    "index": 877,
+    "de": "die Erwartung",
+    "fr": "l'attente",
+    "zh-cn": "期望",
+    "es": "la expectativa",
+    "ar": "توقع",
+    "ja": "期待"
+  },
+  {
+    "en": "wing",
+    "index": 878,
+    "de": "der Flügel",
+    "fr": "l'aile",
+    "zh-cn": "翅膀",
+    "es": "el ala",
+    "ar": "جناح",
+    "ja": "翼"
+  },
+  {
+    "en": "struggle",
+    "index": 879,
+    "de": "der Kampf",
+    "fr": "la lutte",
+    "zh-cn": "斗争",
+    "es": "la lucha",
+    "ar": "صراع",
+    "ja": "闘争"
+  },
+  {
+    "en": "judgment",
+    "index": 880,
+    "de": "das Urteil",
+    "fr": "le jugement",
+    "zh-cn": "判断",
+    "es": "el juicio",
+    "ar": "حكم",
+    "ja": "判定"
+  },
+  {
+    "en": "beer",
+    "index": 881,
+    "de": "das Bier",
+    "fr": "la bière",
+    "zh-cn": "啤酒",
+    "es": "la cerveza",
+    "ar": "بيرة",
+    "ja": "ビール"
+  },
+  {
+    "en": "English",
+    "index": 882,
+    "de": "das Englisch",
+    "fr": "l'anglais",
+    "zh-cn": "英语",
+    "es": "el inglés",
+    "ar": "الإنجليزية",
+    "ja": "英語"
+  },
+  {
+    "en": "reference",
+    "index": 883,
+    "de": "die Referenz",
+    "fr": "le référence",
+    "zh-cn": "参考",
+    "es": "la referencia",
+    "ar": "مرجع",
+    "ja": "参照"
+  },
+  {
+    "en": "tear",
+    "index": 884,
+    "de": "die Träne",
+    "fr": "la larme",
+    "zh-cn": "眼泪",
+    "es": "la lagrima",
+    "ar": "دمعه",
+    "ja": "涙"
+  },
+  {
+    "en": "doubt",
+    "index": 885,
+    "de": "der Zweifel",
+    "fr": "le doute",
+    "zh-cn": "怀疑",
+    "es": "la duda",
+    "ar": "شك",
+    "ja": "疑問に思う"
+  },
+  {
+    "en": "minister",
+    "index": 886,
+    "de": "Der Minister",
+    "fr": "le ministre",
+    "zh-cn": "部长",
+    "es": "el ministro",
+    "ar": "وزير",
+    "ja": "大臣"
+  },
+  {
+    "en": "hero",
+    "index": 887,
+    "de": "der Held",
+    "fr": "le héros",
+    "zh-cn": "英雄",
+    "es": "el héroe",
+    "ar": "بطل",
+    "ja": "ヒーロー"
+  },
+  {
+    "en": "cloud",
+    "index": 888,
+    "de": "die Wolke",
+    "fr": "le nuage",
+    "zh-cn": "云",
+    "es": "la nube",
+    "ar": "غيم",
+    "ja": "雲"
+  },
+  {
+    "en": "winner",
+    "index": 889,
+    "de": "der Gewinner",
+    "fr": "le gagnant",
+    "zh-cn": "优胜者",
+    "es": "el ganador",
+    "ar": "الفائز",
+    "ja": "勝者"
+  },
+  {
+    "en": "volume",
+    "index": 890,
+    "de": "die Lautstärke",
+    "fr": "le volume",
+    "zh-cn": "卷",
+    "es": "El volumen",
+    "ar": "الصوت",
+    "ja": "ボリューム"
+  },
+  {
+    "en": "travel",
+    "index": 891,
+    "de": "die Reise",
+    "fr": "le voyage",
+    "zh-cn": "旅行",
+    "es": "el viaje",
+    "ar": "السفر",
+    "ja": "旅行"
+  },
+  {
+    "en": "seed",
+    "index": 892,
+    "de": "der Samen",
+    "fr": "la graine",
+    "zh-cn": "种子",
+    "es": "la semilla",
+    "ar": "بذرة",
+    "ja": "シード"
+  },
+  {
+    "en": "fashion",
+    "index": 893,
+    "de": "die Mode",
+    "fr": "la mode",
+    "zh-cn": "时尚",
+    "es": "la moda",
+    "ar": "موضه",
+    "ja": "ファッション"
+  },
+  {
+    "en": "pepper",
+    "index": 894,
+    "de": "der Pfeffer",
+    "fr": "le poivre",
+    "zh-cn": "胡椒",
+    "es": "el chile",
+    "ar": "فلفل",
+    "ja": "コショウ"
+  },
+  {
+    "en": "intervention",
+    "index": 895,
+    "de": "die Intervention",
+    "fr": "l'intervention",
+    "zh-cn": "介入",
+    "es": "la intervención",
+    "ar": "تدخل قضائي",
+    "ja": "介入"
+  },
+  {
+    "en": "copy",
+    "index": 896,
+    "de": "die Kopie",
+    "fr": "la copie",
+    "zh-cn": "复制",
+    "es": "la copia",
+    "ar": "نسخ",
+    "ja": "コピー"
+  },
+  {
+    "en": "tip",
+    "index": 897,
+    "de": "das Trinkgeld",
+    "fr": "la pointe",
+    "zh-cn": "小费",
+    "es": "la punta",
+    "ar": "تلميح",
+    "ja": "先端"
+  },
+  {
+    "en": "welfare",
+    "index": 898,
+    "de": "die Wohlfahrt",
+    "fr": "le bien-être",
+    "zh-cn": "福利",
+    "es": "el bienestar",
+    "ar": "خير",
+    "ja": "福祉"
+  },
+  {
+    "en": "vegetable",
+    "index": 899,
+    "de": "das Gemüse",
+    "fr": "le légume",
+    "zh-cn": "蔬菜",
+    "es": "el vegetal",
+    "ar": "الخضروات",
+    "ja": "野菜"
+  },
+  {
+    "en": "dish",
+    "index": 900,
+    "de": "das Gericht",
+    "fr": "le plat",
+    "zh-cn": "碟",
+    "es": "el plato",
+    "ar": "طبق",
+    "ja": "皿"
+  },
+  {
+    "en": "beach",
+    "index": 901,
+    "de": "der Strand",
+    "fr": "la plage",
+    "zh-cn": "海滩",
+    "es": "la playa",
+    "ar": "شاطئ بحر",
+    "ja": "ビーチ"
+  },
+  {
+    "en": "improvement",
+    "index": 902,
+    "de": "die Verbesserung",
+    "fr": "l'amélioration",
+    "zh-cn": "起色",
+    "es": "El mejoramiento",
+    "ar": "تحسين",
+    "ja": "改善"
+  },
+  {
+    "en": "opening",
+    "index": 903,
+    "de": "die Eröffnung",
+    "fr": "l'ouverture",
+    "zh-cn": "开盘",
+    "es": "la apertura",
+    "ar": "افتتاح",
+    "ja": "開ける"
+  },
+  {
+    "en": "route",
+    "index": 904,
+    "de": "die Route",
+    "fr": "la route",
+    "zh-cn": "路线",
+    "es": "la ruta",
+    "ar": "طريق",
+    "ja": "ルート"
+  },
+  {
+    "en": "league",
+    "index": 905,
+    "de": "die Liga",
+    "fr": "la Ligue",
+    "zh-cn": "联盟",
+    "es": "la Liga",
+    "ar": "الدوري",
+    "ja": "リーグ"
+  },
+  {
+    "en": "core",
+    "index": 906,
+    "de": "der Kern",
+    "fr": "le noyau",
+    "zh-cn": "核心",
+    "es": "el núcleo",
+    "ar": "النواة",
+    "ja": "コア"
+  },
+  {
+    "en": "rise",
+    "index": 907,
+    "de": "der Aufgang",
+    "fr": "la hausse",
+    "zh-cn": "上升",
+    "es": "el aumento",
+    "ar": "ترتفع",
+    "ja": "上昇"
+  },
+  {
+    "en": "tie",
+    "index": 908,
+    "de": "die Krawatte",
+    "fr": "la cravate",
+    "zh-cn": "领带",
+    "es": "la corbata",
+    "ar": "ربطة عنق",
+    "ja": "ネクタイ"
+  },
+  {
+    "en": "holiday",
+    "index": 909,
+    "de": "der Urlaub",
+    "fr": "les vacances",
+    "zh-cn": "假日",
+    "es": "las vacaciones",
+    "ar": "يوم الاجازة",
+    "ja": "休日"
+  },
+  {
+    "en": "resolution",
+    "index": 910,
+    "de": "die Auflösung",
+    "fr": "La résolution",
+    "zh-cn": "解析度",
+    "es": "la resolución",
+    "ar": "القرار",
+    "ja": "解決"
+  },
+  {
+    "en": "household",
+    "index": 911,
+    "de": "der Haushalt",
+    "fr": "le ménage",
+    "zh-cn": "家庭",
+    "es": "el dueño de casa",
+    "ar": "منزلي",
+    "ja": "家庭"
+  },
+  {
+    "en": "abortion",
+    "index": 912,
+    "de": "die Abtreibung",
+    "fr": "l'avortement",
+    "zh-cn": "流产",
+    "es": "el aborto",
+    "ar": "الإجهاض",
+    "ja": "中絶"
+  },
+  {
+    "en": "witness",
+    "index": 913,
+    "de": "Der Zeuge",
+    "fr": "le témoin",
+    "zh-cn": "见证",
+    "es": "el testigo",
+    "ar": "الشاهد",
+    "ja": "証人"
+  },
+  {
+    "en": "sector",
+    "index": 914,
+    "de": "der Sektor",
+    "fr": "Le secteur",
+    "zh-cn": "扇形",
+    "es": "el sector",
+    "ar": "قطاع",
+    "ja": "セクタ"
+  },
+  {
+    "en": "representative",
+    "index": 915,
+    "de": "Der Abgeordnete",
+    "fr": "le représentant",
+    "zh-cn": "代表",
+    "es": "el representante",
+    "ar": "وكيل",
+    "ja": "代表"
+  },
+  {
+    "en": "black",
+    "index": 916,
+    "de": "das Schwarze",
+    "fr": "le noir",
+    "zh-cn": "黑色",
+    "es": "el negro",
+    "ar": "أسود",
+    "ja": "黒"
+  },
+  {
+    "en": "incident",
+    "index": 917,
+    "de": "der Vorfall",
+    "fr": "L'incident",
+    "zh-cn": "事件",
+    "es": "el incidente",
+    "ar": "حادث",
+    "ja": "入射"
+  },
+  {
+    "en": "flow",
+    "index": 918,
+    "de": "der Fluss",
+    "fr": "le flux",
+    "zh-cn": "流",
+    "es": "el flujo",
+    "ar": "تدفق",
+    "ja": "フロー"
+  },
+  {
+    "en": "faculty",
+    "index": 919,
+    "de": "die Fakultät",
+    "fr": "la faculté",
+    "zh-cn": "学院",
+    "es": "la Facultad",
+    "ar": "كلية",
+    "ja": "学部"
+  },
+  {
+    "en": "waste",
+    "index": 920,
+    "de": "der Müll",
+    "fr": "les déchets",
+    "zh-cn": "浪费",
+    "es": "la pérdida",
+    "ar": "المخلفات",
+    "ja": "廃棄物"
+  },
+  {
+    "en": "mass",
+    "index": 921,
+    "de": "die Masse",
+    "fr": "la masse",
+    "zh-cn": "块",
+    "es": "la masa",
+    "ar": "كتلة",
+    "ja": "質量"
+  },
+  {
+    "en": "experiment",
+    "index": 922,
+    "de": "das Experiment",
+    "fr": "l'expérience",
+    "zh-cn": "实验",
+    "es": "el experimento",
+    "ar": "تجربة",
+    "ja": "実験"
+  },
+  {
+    "en": "bomb",
+    "index": 923,
+    "de": "die Bombe",
+    "fr": "la bombe",
+    "zh-cn": "炸弹",
+    "es": "la bomba",
+    "ar": "قنبلة",
+    "ja": "爆弾"
+  },
+  {
+    "en": "tone",
+    "index": 924,
+    "de": "Der Ton",
+    "fr": "le ton",
+    "zh-cn": "音",
+    "es": "el tono",
+    "ar": "نغمة",
+    "ja": "トーン"
+  },
+  {
+    "en": "engineer",
+    "index": 925,
+    "de": "der Ingenieur",
+    "fr": "l'ingénieur",
+    "zh-cn": "工程师",
+    "es": "el ingeniero",
+    "ar": "مهندس",
+    "ja": "エンジニア"
+  },
+  {
+    "en": "wheel",
+    "index": 926,
+    "de": "das Rad",
+    "fr": "la roue",
+    "zh-cn": "轮",
+    "es": "la rueda",
+    "ar": "عجلة",
+    "ja": "ホイール"
+  },
+  {
+    "en": "female",
+    "index": 927,
+    "de": "das Weibchen",
+    "fr": "la femelle",
+    "zh-cn": "女",
+    "es": "la hembra",
+    "ar": "إناثا",
+    "ja": "女性"
+  },
+  {
+    "en": "promise",
+    "index": 928,
+    "de": "das Versprechen",
+    "fr": "la promesse",
+    "zh-cn": "诺言",
+    "es": "la promesa",
+    "ar": "وعد",
+    "ja": "約束する"
+  },
+  {
+    "en": "cable",
+    "index": 929,
+    "de": "das Kabel",
+    "fr": "le cable",
+    "zh-cn": "电缆",
+    "es": "el cable",
+    "ar": "كابل",
+    "ja": "ケーブル"
+  },
+  {
+    "en": "cream",
+    "index": 930,
+    "de": "die Creme",
+    "fr": "la crème",
+    "zh-cn": "奶油",
+    "es": "La crema",
+    "ar": "كريم",
+    "ja": "クリーム"
+  },
+  {
+    "en": "secretary",
+    "index": 931,
+    "de": "die Sekretärin",
+    "fr": "le secrétaire",
+    "zh-cn": "秘书",
+    "es": "la secretaria",
+    "ar": "سكرتير",
+    "ja": "秘書"
+  },
+  {
+    "en": "gate",
+    "index": 932,
+    "de": "das Tor",
+    "fr": "la porte",
+    "zh-cn": "门",
+    "es": "la puerta",
+    "ar": "بوابة",
+    "ja": "ゲート"
+  },
+  {
+    "en": "hill",
+    "index": 933,
+    "de": "der Hügel",
+    "fr": "la colline",
+    "zh-cn": "爬坡道",
+    "es": "la colina",
+    "ar": "تل",
+    "ja": "丘"
+  },
+  {
+    "en": "noise",
+    "index": 934,
+    "de": "der Lärm",
+    "fr": "le bruit",
+    "zh-cn": "噪声",
+    "es": "el ruido",
+    "ar": "الضوضاء",
+    "ja": "ノイズ"
+  },
+  {
+    "en": "grass",
+    "index": 935,
+    "de": "das Gras",
+    "fr": "l'herbe",
+    "zh-cn": "草",
+    "es": "el césped",
+    "ar": "نجيل",
+    "ja": "草"
+  },
+  {
+    "en": "hat",
+    "index": 936,
+    "de": "der Hut",
+    "fr": "le chapeau",
+    "zh-cn": "帽子",
+    "es": "el sombrero",
+    "ar": "قبعة",
+    "ja": "帽子"
+  },
+  {
+    "en": "legislation",
+    "index": 937,
+    "de": "die Gesetzgebung",
+    "fr": "La législation",
+    "zh-cn": "立法",
+    "es": "la legislación",
+    "ar": "تشريع",
+    "ja": "立法"
+  },
+  {
+    "en": "achievement",
+    "index": 938,
+    "de": "die Leistung",
+    "fr": "la réalisation",
+    "zh-cn": "成就",
+    "es": "el logro",
+    "ar": "موهلات",
+    "ja": "成果"
+  },
+  {
+    "en": "fishing",
+    "index": 939,
+    "de": "Das fischen",
+    "fr": "la pêche",
+    "zh-cn": "钓鱼",
+    "es": "la pesca",
+    "ar": "صيد السمك",
+    "ja": "釣り"
+  },
+  {
+    "en": "drink",
+    "index": 940,
+    "de": "das Getränk",
+    "fr": "la boisson",
+    "zh-cn": "喝",
+    "es": "la bebida",
+    "ar": "يشرب",
+    "ja": "ドリンク"
+  },
+  {
+    "en": "talent",
+    "index": 941,
+    "de": "das Talent",
+    "fr": "Le talent",
+    "zh-cn": "天赋",
+    "es": "el talento",
+    "ar": "موهبة",
+    "ja": "才能"
+  },
+  {
+    "en": "taste",
+    "index": 942,
+    "de": "der Geschmack",
+    "fr": "le goût",
+    "zh-cn": "味道",
+    "es": "el sabor",
+    "ar": "المذاق",
+    "ja": "味"
+  },
+  {
+    "en": "characteristic",
+    "index": 943,
+    "de": "das Merkmal",
+    "fr": "La caractéristique",
+    "zh-cn": "特性",
+    "es": "la característica",
+    "ar": "صفة مميزة",
+    "ja": "特性"
+  },
+  {
+    "en": "milk",
+    "index": 944,
+    "de": "die Milch",
+    "fr": "le lait",
+    "zh-cn": "牛奶",
+    "es": "La leche",
+    "ar": "حليب",
+    "ja": "ミルク"
+  },
+  {
+    "en": "sentence",
+    "index": 945,
+    "de": "der Satz",
+    "fr": "la phrase",
+    "zh-cn": "句子",
+    "es": "la frase",
+    "ar": "جملة او حكم على",
+    "ja": "文"
+  },
+  {
+    "en": "height",
+    "index": 946,
+    "de": "die Höhe",
+    "fr": "la hauteur",
+    "zh-cn": "高度",
+    "es": "la altura",
+    "ar": "ارتفاع",
+    "ja": "高さ"
+  },
+  {
+    "en": "physician",
+    "index": 947,
+    "de": "der Physiker",
+    "fr": "le physicien",
+    "zh-cn": "医师",
+    "es": "el Físico",
+    "ar": "الطبيب المعالج",
+    "ja": "医師"
+  },
+  {
+    "en": "sleep",
+    "index": 948,
+    "de": "der Schlaf",
+    "fr": "le sommeil",
+    "zh-cn": "睡觉",
+    "es": "el sueño",
+    "ar": "ينام",
+    "ja": "睡眠"
+  },
+  {
+    "en": "ride",
+    "index": 949,
+    "de": "die Fahrt",
+    "fr": "le trajet",
+    "zh-cn": "骑",
+    "es": "el paseo",
+    "ar": "اركب",
+    "ja": "ライド"
+  },
+  {
+    "en": "explanation",
+    "index": 950,
+    "de": "die Erklärung",
+    "fr": "l'explication",
+    "zh-cn": "说明",
+    "es": "la explicación",
+    "ar": "تفسير",
+    "ja": "説明"
+  },
+  {
+    "en": "campus",
+    "index": 951,
+    "de": "der Campus",
+    "fr": "le campus",
+    "zh-cn": "校园",
+    "es": "el campus",
+    "ar": "الحرم الجامعي",
+    "ja": "キャンパス"
+  },
+  {
+    "en": "potential",
+    "index": 952,
+    "de": "das Potenzial",
+    "fr": "le potentiel",
+    "zh-cn": "潜在",
+    "es": "el potencial",
+    "ar": "محتمل",
+    "ja": "潜在的な"
+  },
+  {
+    "en": "immigrant",
+    "index": 953,
+    "de": "der Immigrant",
+    "fr": "l'immigré",
+    "zh-cn": "移民",
+    "es": "el inmigrante",
+    "ar": "المهاجر",
+    "ja": "移民"
+  },
+  {
+    "en": "alternative",
+    "index": 954,
+    "de": "die Alternative",
+    "fr": "l'alternative",
+    "zh-cn": "替代",
+    "es": "La alternativa",
+    "ar": "لبديل",
+    "ja": "代替"
+  },
+  {
+    "en": "interaction",
+    "index": 955,
+    "de": "die Interaktion",
+    "fr": "l'interaction",
+    "zh-cn": "相互作用",
+    "es": "la interacción",
+    "ar": "التفاعل",
+    "ja": "インタラクション"
+  },
+  {
+    "en": "column",
+    "index": 956,
+    "de": "die Kolumne",
+    "fr": "la colonne",
+    "zh-cn": "柱",
+    "es": "la columna",
+    "ar": "عمود",
+    "ja": "カラム"
+  },
+  {
+    "en": "personality",
+    "index": 957,
+    "de": "die Persönlichkeit",
+    "fr": "la personnalité",
+    "zh-cn": "个性",
+    "es": "la personalidad",
+    "ar": "الشخصية",
+    "ja": "人"
+  },
+  {
+    "en": "signal",
+    "index": 958,
+    "de": "das Signal",
+    "fr": "le signal",
+    "zh-cn": "信号",
+    "es": "la señal",
+    "ar": "إشارة",
+    "ja": "信号"
+  },
+  {
+    "en": "curriculum",
+    "index": 959,
+    "de": "der Lebenslauf",
+    "fr": "le cursus",
+    "zh-cn": "课程",
+    "es": "El curriculo",
+    "ar": "منهاج دراسي",
+    "ja": "カリキュラム"
+  },
+  {
+    "en": "honor",
+    "index": 960,
+    "de": "die Ehre",
+    "fr": "l'honneur",
+    "zh-cn": "荣誉",
+    "es": "el honor",
+    "ar": "شرف",
+    "ja": "名誉"
+  },
+  {
+    "en": "passenger",
+    "index": 961,
+    "de": "der Passagier",
+    "fr": "le passager",
+    "zh-cn": "乘客",
+    "es": "el pasajero",
+    "ar": "راكب",
+    "ja": "旅客"
+  },
+  {
+    "en": "assistance",
+    "index": 962,
+    "de": "die Hilfe",
+    "fr": "l'assistance",
+    "zh-cn": "帮助",
+    "es": "la asistencia",
+    "ar": "مساعدة",
+    "ja": "支援"
+  },
+  {
+    "en": "association",
+    "index": 963,
+    "de": "der Verein",
+    "fr": "l'association",
+    "zh-cn": "协会",
+    "es": "la Asociación",
+    "ar": "جمعية",
+    "ja": "協会"
+  },
+  {
+    "en": "lab",
+    "index": 964,
+    "de": "das Labor",
+    "fr": "le labo",
+    "zh-cn": "实验室",
+    "es": "el laboratorio",
+    "ar": "مختبر",
+    "ja": "研究室"
+  },
+  {
+    "en": "offer",
+    "index": 965,
+    "de": "das Angebot",
+    "fr": "l'offre",
+    "zh-cn": "提供",
+    "es": "la oferta",
+    "ar": "عرض",
+    "ja": "提供"
+  },
+  {
+    "en": "criticism",
+    "index": 966,
+    "de": "Die Kritik",
+    "fr": "la critique",
+    "zh-cn": "批评",
+    "es": "el criticismo",
+    "ar": "نقد",
+    "ja": "批判"
+  },
+  {
+    "en": "asset",
+    "index": 967,
+    "de": "das Kapital",
+    "fr": "l'atout",
+    "zh-cn": "财富",
+    "es": "el activo",
+    "ar": "الأصول",
+    "ja": "資産"
+  },
+  {
+    "en": "depression",
+    "index": 968,
+    "de": "die Depression",
+    "fr": "la dépression",
+    "zh-cn": "萧条",
+    "es": "la depresion",
+    "ar": "كآبة",
+    "ja": "うつ病"
+  },
+  {
+    "en": "journalist",
+    "index": 969,
+    "de": "der Journalist",
+    "fr": "La journaliste",
+    "zh-cn": "记者",
+    "es": "el periodista",
+    "ar": "صحافي",
+    "ja": "ジャーナリスト"
+  },
+  {
+    "en": "prayer",
+    "index": 970,
+    "de": "das Gebet",
+    "fr": "la prière",
+    "zh-cn": "祷告",
+    "es": "el orador",
+    "ar": "صلاة",
+    "ja": "祈り"
+  },
+  {
+    "en": "scholar",
+    "index": 971,
+    "de": "der Gelehrte",
+    "fr": "le savant",
+    "zh-cn": "学者",
+    "es": "El erudito",
+    "ar": "عالم",
+    "ja": "学者"
+  },
+  {
+    "en": "warning",
+    "index": 972,
+    "de": "die Warnung",
+    "fr": "l'avertissement",
+    "zh-cn": "警告",
+    "es": "la advertencia",
+    "ar": "تحذير",
+    "ja": "警告"
+  },
+  {
+    "en": "climate",
+    "index": 973,
+    "de": "das Klima",
+    "fr": "le climat",
+    "zh-cn": "气候",
+    "es": "el clima",
+    "ar": "مناخ",
+    "ja": "気候"
+  },
+  {
+    "en": "cheese",
+    "index": 974,
+    "de": "der Käse",
+    "fr": "le fromage",
+    "zh-cn": "起司",
+    "es": "el queso",
+    "ar": "جبن",
+    "ja": "チーズ"
+  },
+  {
+    "en": "observation",
+    "index": 975,
+    "de": "die Beobachtung",
+    "fr": "l'observation",
+    "zh-cn": "意见",
+    "es": "La observación",
+    "ar": "الملاحظة",
+    "ja": "観察"
+  },
+  {
+    "en": "childhood",
+    "index": 976,
+    "de": "die Kindheit",
+    "fr": "l'enfance",
+    "zh-cn": "童年",
+    "es": "la niñez",
+    "ar": "مرحلة الطفولة",
+    "ja": "子供時代"
+  },
+  {
+    "en": "payment",
+    "index": 977,
+    "de": "die Bezahlung",
+    "fr": "le paiement",
+    "zh-cn": "付款",
+    "es": "el pago",
+    "ar": "دفع",
+    "ja": "支払い"
+  },
+  {
+    "en": "sir",
+    "index": 978,
+    "de": "der Herr",
+    "fr": "le monsieur",
+    "zh-cn": "先生",
+    "es": "el señor",
+    "ar": "سيدي المحترم",
+    "ja": "サー"
+  },
+  {
+    "en": "cigarette",
+    "index": 979,
+    "de": "die Zigarette",
+    "fr": "la cigarette",
+    "zh-cn": "香烟",
+    "es": "el cigarrillo",
+    "ar": "سيجارة",
+    "ja": "シガレット"
+  },
+  {
+    "en": "definition",
+    "index": 980,
+    "de": "die Definition",
+    "fr": "la définition",
+    "zh-cn": "定义",
+    "es": "la definición",
+    "ar": "فريف",
+    "ja": "定義"
+  },
+  {
+    "en": "priority",
+    "index": 981,
+    "de": "Die Priorität",
+    "fr": "la priorité",
+    "zh-cn": "优先",
+    "es": "la prioridad",
+    "ar": "أفضلية",
+    "ja": "優先"
+  },
+  {
+    "en": "bread",
+    "index": 982,
+    "de": "das Brot",
+    "fr": "le pain",
+    "zh-cn": "面包",
+    "es": "el pan",
+    "ar": "خبز",
+    "ja": "パン"
+  },
+  {
+    "en": "creation",
+    "index": 983,
+    "de": "die Kreation",
+    "fr": "la création",
+    "zh-cn": "创建",
+    "es": "la creación",
+    "ar": "خلق",
+    "ja": "創造"
+  },
+  {
+    "en": "graduate",
+    "index": 984,
+    "de": "der Absolvent",
+    "fr": "Le diplômé",
+    "zh-cn": "毕业",
+    "es": "el graduado",
+    "ar": "تخرج",
+    "ja": "卒業"
+  },
+  {
+    "en": "request",
+    "index": 985,
+    "de": "die Anfrage",
+    "fr": "la demande",
+    "zh-cn": "请求",
+    "es": "la solicitud",
+    "ar": "طلب",
+    "ja": "要求"
+  },
+  {
+    "en": "emotion",
+    "index": 986,
+    "de": "das Gefühl",
+    "fr": "l'émotion",
+    "zh-cn": "情感",
+    "es": "la emocion",
+    "ar": "المشاعر",
+    "ja": "感情"
+  }
+]
