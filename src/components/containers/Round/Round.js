@@ -15,6 +15,11 @@ class Round extends Component {
         timeProgress: 0,
       };
 
+      window.onerror = function(msg, url, linenumber) {
+    alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber);
+    return true;
+}
+
       this.state = this.initialState;
 
       this.progress = localStorage.getItem('progress');
