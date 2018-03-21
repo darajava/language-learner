@@ -171,7 +171,7 @@ class Round extends Component {
         this.knows.onended = () => {
           setTimeout(() => {
             this.learning.play()
-            this.learning.onerror = function() {
+            this.learning.onerror = () => {
   alert("Error " + this.learning.error.code + "; details: " + this.learning.error.message);
 }
           }, 120);
