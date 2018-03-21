@@ -170,13 +170,10 @@ class Round extends Component {
         this.knows.play()
         this.knows.onended = () => {
           setTimeout(() => {
-            try {
             this.learning.play()
-            alert(this.learning)
-            alert(`sounds/words/${this.props.learning}/${encodeURIComponent(encodeURIComponent(this.props.word[this.props.learning]))}.mp3`)
-
-          } catch (e) {
-          }
+            this.learning.onerror = function() {
+  alert("Error " + videoElement.error.code + "; details: " + videoElement.error.message);
+}
           }, 120);
         }
       }, 120);
