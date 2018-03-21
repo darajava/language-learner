@@ -42,17 +42,21 @@ class QuestionPicker extends Component {
 
       let progress = this.progress;
 
+      // words.en is used as a hash, nothing to do with the language
+
       for (let i = 0; i < words.length; i++) {
         // If we have seen it recently, and the score is high
-        if (progress[words[i].en] && progress[words[i].en] >= 3) {
+        if (progress[words[i].en] && progress[words[i].en].score >= 3) {
           this.knownQuestions.push(words[i]);
         }
       }
 
-      let badQuestionsMax = Math.max(Math.floor(this.knownQuestions.length / 5), 5)
+      let badQuestionsMax = 7;
 
       for (let i = 0; i < words.length; i++) {
-        if (this.badQuestions.length >= badQuestionsPercentage) break;
+        if (this.badQuestions.length >= badQuestionsMax) break;
+
+        console.log(progress[words[i].en])
 
         // If the score is low
         if ((progress[words[i].en] && progress[words[i].en].score <= 2) || !progress[words[i].en]) {
@@ -108,8 +112,8 @@ class QuestionPicker extends Component {
       let answer = this.state.word.en;
       let question = this.state.word.de;
 
-      if (this.state.word.index && progress[this.state.word.index]) {
-        if (progress[this.state.word.index].score >= 2) {
+      if (progress[this.state.word.en]) {
+        if (progress[this.state.word.en].score >= 1) {
           question = this.state.word.en;
           answer = this.state.word.de;
         }
