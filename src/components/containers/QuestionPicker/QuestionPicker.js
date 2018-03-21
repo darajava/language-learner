@@ -129,6 +129,9 @@ class QuestionPicker extends Component {
             name={this.state.word.name}
             newQuestion={this.selectQuestion}
             words={this.knownQuestions.length}
+            knows={'en'}
+            learning={'de'}
+            word={this.state.word}
           />
         </div>
       );

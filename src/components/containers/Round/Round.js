@@ -126,6 +126,7 @@ class Round extends Component {
 
       localStorage.setItem('progress', JSON.stringify(progress));
 
+      this.playSounds();
     }
 
     loseRound() {
@@ -152,6 +153,28 @@ class Round extends Component {
       this.setState({
         error: true,
       })
+
+      this.playSounds();
+    }
+
+    playSounds() {
+      console.log(`sounds/words/${this.props.learning}/${encodeURIComponent(encodeURIComponent(this.props.word[this.props.learning]))}.mp3`);
+
+      let learning = new Audio(
+        `sounds/words/${this.props.learning}/${encodeURIComponent(encodeURIComponent(this.props.word[this.props.learning]))}.mp3`
+      );
+
+      let knows = new Audio(
+        `sounds/words/${this.props.knows}/${encodeURIComponent(this.props.word[this.props.knows])}.mp3`
+      );
+
+      setTimeout(() => {
+        knows.play()
+      }, 120);
+
+      setTimeout(() => {
+        learning.play()
+      }, 1120);
     }
 
     startNextRound() {
