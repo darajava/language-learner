@@ -1,8 +1,8 @@
 .question {
   font-weight: bold;
-  font-size: 12vw;
+  font-size: 14vw;
   line-height: 9vw;
-  color: #6B4423;
+  color: #292929;
   padding-left: 5vw;
   padding-right: 5vw;
   height: 30vh;
@@ -10,7 +10,12 @@
 }
 
 .container-error .question {
-  color: #f600474f;
+  color: #dc0040;
+}
+
+.container-close .question {
+  color: orange;
+  opacity: 0.6;
 }
 
 .name {
@@ -25,20 +30,16 @@
 }
 
 .container-correct .question {
-  color: #b6fdc1;
+  color: #56d269;
 }
 
 .answer {
   font-size: 10vw;
-  color: #C27939;
+  color: #9a9a9a;
   padding-left: 5vw;
   padding-right: 5vw;
   height: 20vh;
   align-items: center;
-}
-
-.container-error .answer {
-  color: black;
 }
 
 .wrong-answer {
@@ -54,7 +55,7 @@
   position: absolute;
   top: 10px;
   left: 10px;
-  color: #bf9d7f;
+  color: #909090;
   opacity: 1;
   font-size: 5vw;
 }
@@ -63,7 +64,7 @@
   position: absolute;
   top: 10px;
   left: 10px;
-  color: #b97840;
+  color: #444;
   opacity: 0;
   font-size: 5vw;
 
@@ -96,11 +97,7 @@
 
 }
 
-.container-correct .answer {
-  color: black;
-}
-
-.container, .container-error, .container-correct {
+.container, .container-error, .container-correct, .container-close {
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -110,11 +107,11 @@
 }
 
 .container-error {
-  background-color: #FFB1C2;
+  /*background-color: #FFB1C2;*/
 }
 
 .container-correct {
-  background-color: #70ff94;
+  /*background-color: #70ff94;*/
 }
 
 .underscore {
@@ -122,7 +119,7 @@
   animation: blinker 1s linear infinite;
 }
 
-.container-error .underscore, .container-correct .underscore {
+.container-error .underscore, .container-correct .underscore, .container-close .underscore {
   display: none;
 }
 
@@ -142,6 +139,9 @@
   display: none;
 }
 
+.container-close .timer {
+  display: none;
+}
 
 .timer {
   position: absolute;

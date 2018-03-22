@@ -19,6 +19,9 @@ const Question = (props) => {
   if (props.error) {
     styleName = 'container-error'
   }
+  if (props.close) {
+    styleName = 'container-close';
+  }
   if (props.correct) {
     styleName = 'container-correct'
   }
@@ -44,7 +47,6 @@ const Question = (props) => {
 
       <div styleName='question'>
         <div>{question}</div>
-        <div styleName='name'>({props.name})</div>
       </div>
 
       <div styleName='answer'>

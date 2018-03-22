@@ -17,7 +17,7 @@ let hundred = 100;
 
 function download(word) {
 
-  let filename = `sounds/${lang}/${encodeURIComponent(word)}.mp3`;
+  let filename = `sounds/${lang}/${word.replace(' ', '_'}.mp3`;
 
   if (!fs.existsSync(filename)) {
     let r = request({

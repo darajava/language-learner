@@ -10,6 +10,7 @@ class Round extends Component {
       this.initialState = {
         correct: false,
         error: false,
+        close: false,
         currentAnswer: "",
         time: Date.now(),
         timeProgress: 0,
@@ -86,15 +87,46 @@ class Round extends Component {
     }
 
     isCorrect() {
-      let answers = this.props.answer.split('|');
 
-      for (let i = 0; i < answers.length; i++) {
-        if (this.state.currentAnswer.toLowerCase().replace('the ', '') === answers[i].toLowerCase()) {
-          return true;
-        }
+      if (this.state.currentAnswer.toLowerCase().replace('the ', '') === this.props.answer.toLowerCase()) {
+        return true;
       }
 
       return false;
+    }
+
+    levenshteinDistance(a, b) {
+      if(a.length == 0) return b.length; 
+      if(b.length == 0) return a.length; 
+
+      var matrix = [];
+
+      // increment along the first column of each row
+      var i;
+      for(i = 0; i <= b.length; i++){
+        matrix[i] = [i];
+      }
+
+      // increment each column in the first row
+      var j;
+      for(j = 0; j <= a.length; j++){
+        matrix[0][j] = j;
+      }
+
+      // Fill in the rest of the matrix
+      for(i = 1; i <= b.length; i++){
+        for(j = 1; j <= a.length; j++){
+          if(b.charAt(i-1) == a.charAt(j-1)){
+            matrix[i][j] = matrix[i-1][j-1];
+          } else {
+            matrix[i][j] = Math.min(matrix[i-1][j-1] + 1, // substitution
+                                    Math.min(matrix[i][j-1] + 1, // insertion
+                                             matrix[i-1][j] + 1)); // deletion
+          }
+        }
+      }
+
+      return matrix[b.length][a.length];
     }
 
     checkAnswer() {
@@ -103,6 +135,24 @@ class Round extends Component {
       this.setState({
         correct,
       });
+
+      let distance = this.levenshteinDistance(
+        this.state.currentAnswer.toLowerCase().replace('the ', ''),
+        this.props.answer.toLowerCase().replace('the ', '')
+      );
+
+      if (
+        distance === 1
+        || (this.state.currentAnswer.toLowerCase().replace('the ', '').length < 2 && distance === 2)
+      ) {
+        this.setState({
+          close: true,
+        });
+      } else {
+        this.setState({
+          close: false,
+        });
+      }
 
       if (correct) {
         this.winRound();
@@ -145,10 +195,12 @@ class Round extends Component {
       // this.progress = JSON.parse(localStorage.getItem('progress'));
       let progress = this.progress;
 
-      progress[this.props.hash] = {
-        date: Date.now(),
-        score: 0,
-      };
+      if (!this.state.close) {
+        progress[this.props.hash] = {
+          date: Date.now(),
+          score: 0,
+        };
+      }
 
       console.log('fdd');
       console.log(progress);
@@ -158,22 +210,25 @@ class Round extends Component {
 
       this.setState({
         error: true,
-      })
+      });
 
       this.playSounds();
     }
 
     playSounds() {
-      console.log(`sounds/words/${this.props.learning}/${encodeURIComponent(encodeURIComponent(this.props.word[this.props.learning]))}.mp3`);
+      this.learning = new Audio(
+        `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`
+      );
 
+      this.knows = new Audio(
+        `sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`
+      );
+      
       setTimeout(() => {
         this.knows.play()
         this.knows.onended = () => {
           setTimeout(() => {
             this.learning.play()
-            this.learning.onerror = () => {
-  alert("Error " + this.learning.error.code + "; details: " + this.learning.error.message);
-}
           }, 120);
         }
       }, 120);
@@ -182,13 +237,7 @@ class Round extends Component {
     }
 
     loadSounds() {
-      this.learning = new Audio(
-        `sounds/words/${this.props.learning}/${encodeURIComponent(encodeURIComponent(this.props.word[this.props.learning]))}.mp3`
-      );
 
-      this.knows = new Audio(
-        `sounds/words/${this.props.knows}/${encodeURIComponent(encodeURIComponent(this.props.word[this.props.knows]))}.mp3`
-      );
     }
 
     startNextRound() {
@@ -208,6 +257,7 @@ class Round extends Component {
           <Question
             correct={this.state.correct}
             error={this.state.error}
+            close={this.state.close}
             question={this.props.question}
             answer={this.props.answer}
             name={this.props.name}
