@@ -110,12 +110,12 @@ class QuestionPicker extends Component {
       let progress = this.progress;
 
       let answer = this.state.word.en;
-      let question = this.state.word['zh-cn'];
+      let question = this.state.word['de'];
 
       if (progress[this.state.word.en]) {
         if (progress[this.state.word.en].score >= 1) {
           question = this.state.word.en;
-          answer = this.state.word['zh-cn'];
+          answer = this.state.word['de'];
         }
       }
       
@@ -130,7 +130,7 @@ class QuestionPicker extends Component {
             newQuestion={this.selectQuestion}
             words={this.knownQuestions.length}
             knows={'en'}
-            learning={'zh-cn'}
+            learning={'de'}
             word={this.state.word}
           />
         </div>
