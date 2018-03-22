@@ -225,10 +225,10 @@ class Round extends Component {
       );
       
       setTimeout(() => {
-        this.learning.play()
-        this.learning.onended = () => {
+        this.knows.play()
+        this.knows.onended = () => {
           setTimeout(() => {
-            this.knows.play()
+            this.learning.play()
           }, 120);
         }
       }, 120);
