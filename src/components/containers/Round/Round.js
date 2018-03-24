@@ -69,7 +69,12 @@ class Round extends Component {
         }
       });
 
-      // this.loadSounds = this.loadSounds.bind(this);
+      // NO IDEA WHY I NEED THIS
+      setTimeout(() => {
+        this.loadSounds();
+      }, 50);
+
+      this.loadSounds = this.loadSounds.bind(this);
       this.loseRound = this.loseRound.bind(this);
       this.startNextRound = this.startNextRound.bind(this);
     }
@@ -216,7 +221,9 @@ class Round extends Component {
     }
 
     playSounds() {
-
+      let learning = new Audio(
+        `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`
+      );
 
       let knows = new Audio(
         `sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`
@@ -224,16 +231,11 @@ class Round extends Component {
       
       setTimeout(() => {
         knows.play()
-
-
-        knows.onended = () => {
+        // knows.onended = () => {
           setTimeout(() => {
-            let learning = new Audio(
-              `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`
-            );
             learning.play();
-          }, 120);
-        }
+          }, 1120);
+        // }
       }, 180);
     }
 
