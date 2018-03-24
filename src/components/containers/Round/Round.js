@@ -224,7 +224,7 @@ class Round extends Component {
       let audio = new Audio();
 
       let learning = `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`;
-      let knows = `sounds/words/de/${this.props.word['de'].replace(' ', '_')}.mp3`
+      let knows = `sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`
     
       
       setTimeout(() => {
