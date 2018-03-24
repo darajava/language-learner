@@ -234,7 +234,8 @@ class Round extends Component {
           setTimeout(() => {
             audio.src = learning
             audio.play();
-          }, 120);
+            audio.onended = undefined;
+          }, 180);
         }
       }, 180);
     }
