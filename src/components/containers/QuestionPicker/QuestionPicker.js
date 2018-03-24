@@ -42,7 +42,7 @@ class QuestionPicker extends Component {
 
       let progress = this.progress;
 
-      let thresholdScore = 4;
+      let thresholdScore = 2;
 
       // words.en is used as a hash, nothing to do with the language
 
@@ -119,7 +119,7 @@ class QuestionPicker extends Component {
       let question = this.state.word[learningLang];
 
       if (progress[this.state.word.en]) {
-        if (progress[this.state.word.en].score >= 2) {
+        if (progress[this.state.word.en].score >= 1) {
           question = this.state.word[knowsLang];
           answer = this.state.word[learningLang];
         }
