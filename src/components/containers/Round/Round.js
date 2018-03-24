@@ -221,9 +221,7 @@ class Round extends Component {
     }
 
     playSounds() {
-      let learning = new Audio(
-        `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`
-      );
+
 
       let knows = new Audio(
         `sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`
@@ -231,6 +229,10 @@ class Round extends Component {
       
       setTimeout(() => {
         knows.play()
+
+        let learning = new Audio(
+          `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`
+        );
         knows.onended = () => {
           setTimeout(() => {
             learning.play();
