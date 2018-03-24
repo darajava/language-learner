@@ -69,12 +69,7 @@ class Round extends Component {
         }
       });
 
-      // NO IDEA WHY I NEED THIS
-      setTimeout(() => {
-        this.loadSounds();
-      }, 50);
-
-      this.loadSounds = this.loadSounds.bind(this);
+      // this.loadSounds = this.loadSounds.bind(this);
       this.loseRound = this.loseRound.bind(this);
       this.startNextRound = this.startNextRound.bind(this);
     }
@@ -235,6 +230,7 @@ class Round extends Component {
         );
         knows.onended = () => {
           setTimeout(() => {
+            alert(learning.src)
             learning.play();
           }, 120);
         }
