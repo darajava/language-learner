@@ -136,14 +136,18 @@ class Round extends Component {
         correct,
       });
 
+      let cleanedAnswer = this.state.currentAnswer.toLowerCase().replace('the ', '');
+      let actualAnswer = this.props.answer.toLowerCase().replace('the ', '');
+
       let distance = this.levenshteinDistance(
-        this.state.currentAnswer.toLowerCase().replace('the ', ''),
-        this.props.answer.toLowerCase().replace('the ', '')
+        cleanedAnswer,
+        actualAnswer
       );
 
       if (
-        distance === 1
-        || (this.state.currentAnswer.toLowerCase().replace('the ', '').length < 2 && distance === 2)
+        distance === 1 // if we're close
+        && cleanedAnswer.length > 2 // and we have some answer
+        && actualAnswer.indexOf(currentAnswer) !== 0 // and it's not one char from completion
       ) {
         this.setState({
           close: true,
