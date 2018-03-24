@@ -37,7 +37,7 @@ class Round extends Component {
         })
       }, 100);
 
-      this.audio = [
+      this.typingSounds = [
         new Audio('sounds/1.wav'),
         new Audio('sounds/2.wav'),
         new Audio('sounds/3.wav'),
@@ -49,12 +49,16 @@ class Round extends Component {
       this.levelup = new Audio('sounds/levelup.wav');
       this.lose.volume = 0.3;
 
-      this.audio.map((audio) => audio.volume = 0.3);
+      this.typingSounds.map((audio) => audio.volume = 0.3);
 
       document.querySelector('input[id="hidden-field"]').oninput = (event) => {
+        if (!this.audio) {
+          this.audio = new Audio();
+        }
+
         if (this.state.error || this.state.correct) return;
         
-        this.audio[Math.floor(Math.random() * 4)].play();
+        this.typingSounds[Math.floor(Math.random() * 4)].play();
 
         this.setState({
           currentAnswer: event.target.value,
@@ -221,7 +225,9 @@ class Round extends Component {
     }
 
     playSounds() {
-      let audio = new Audio();
+      let audio = this.audio;
+      console.log(audio)
+      if (!audio) audio = new Audio();
 
       let learning = `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`;
       let knows = `sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`
