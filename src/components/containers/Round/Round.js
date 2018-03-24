@@ -221,13 +221,8 @@ class Round extends Component {
     }
 
     playSounds() {
-      this.learning = new Audio(
-        `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`
-      );
-
-      this.knows = new Audio(
-        `sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`
-      );
+      // NO IDEA WHY I NEED THIS
+      this.loadSounds()
       
       setTimeout(() => {
         this.knows.play()
@@ -240,7 +235,13 @@ class Round extends Component {
     }
 
     loadSounds() {
+      this.learning = new Audio(
+        `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`
+      );
 
+      this.knows = new Audio(
+        `sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`
+      );
     }
 
     startNextRound() {
