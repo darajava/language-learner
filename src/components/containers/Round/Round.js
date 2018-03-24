@@ -42,7 +42,7 @@ class Round extends Component {
         new Audio('sounds/2.wav'),
         new Audio('sounds/3.wav'),
         new Audio('sounds/4.wav'),
-      ]
+      ];
 
       this.win = new Audio('sounds/win.wav');
       this.lose = new Audio('sounds/lose.wav');
@@ -228,8 +228,6 @@ class Round extends Component {
       this.knows = new Audio(
         `sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`
       );
-
-      alert(`sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`);
       
       setTimeout(() => {
         this.knows.play()
