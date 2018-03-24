@@ -46,7 +46,7 @@ class QuestionPicker extends Component {
 
       for (let i = 0; i < words.length; i++) {
         // If we have seen it recently, and the score is high
-        if (progress[words[i].en] && progress[words[i].en].score >= 3) {
+        if (progress[words[i].en] && progress[words[i].en].score >= 1) {
           this.knownQuestions.push(words[i]);
         }
       }
@@ -108,7 +108,7 @@ class QuestionPicker extends Component {
 
     render() {
       let learningLang = 'de';
-      let knowsLang= 'en';
+      let knowsLang= 'zh-cn';
 
       let progress = this.progress;
 
