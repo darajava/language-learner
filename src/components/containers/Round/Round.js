@@ -221,22 +221,22 @@ class Round extends Component {
     }
 
     playSounds() {
-      let learning = new Audio(
-        `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`
-      );
+      let audio = new Audio();
 
-      let knows = new Audio(
-        `sounds/words/de/${this.props.word['de'].replace(' ', '_')}.mp3`
-      );
+      let learning = `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`;
+      let knows = `sounds/words/de/${this.props.word['de'].replace(' ', '_')}.mp3`
+    
       
-      // setTimeout(() => {
-        knows.play()
-        knows.onended = () => {
+      setTimeout(() => {
+        audio.src = knows;
+        audio.play()
+        audio.onended = () => {
           setTimeout(() => {
-            learning.play();
-          }, 1120);
+            audio.src = learning
+            audio.play();
+          }, 120);
         }
-      // }, 180);
+      }, 180);
     }
 
     loadSounds() {
