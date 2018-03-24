@@ -107,15 +107,18 @@ class QuestionPicker extends Component {
 
 
     render() {
+      let learningLang = 'de';
+      let knowsLang= 'en';
+
       let progress = this.progress;
 
-      let answer = this.state.word.en;
-      let question = this.state.word['zh-cn'];
+      let answer = this.state.word[knowsLang];
+      let question = this.state.word[learningLang];
 
       if (progress[this.state.word.en]) {
         if (progress[this.state.word.en].score >= 1) {
-          question = this.state.word.en;
-          answer = this.state.word['zh-cn'];
+          question = this.state.word[knowsLang];
+          answer = this.state.word[learningLang];
         }
       }
       
@@ -129,8 +132,8 @@ class QuestionPicker extends Component {
             name={this.state.word.name}
             newQuestion={this.selectQuestion}
             words={this.knownQuestions.length}
-            knows={'en'}
-            learning={'zh-cn'}
+            knows={knowsLang}
+            learning={learningLang}
             word={this.state.word}
           />
         </div>
