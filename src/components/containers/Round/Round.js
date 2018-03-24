@@ -228,17 +228,17 @@ class Round extends Component {
       this.knows = new Audio(
         `sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`
       );
+
+      alert(`sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`);
       
       setTimeout(() => {
         this.knows.play()
         this.knows.onended = () => {
           setTimeout(() => {
-            this.learning.play()
+            this.learning.play();
           }, 120);
         }
-      }, 120);
-
-      
+      }, 180);
     }
 
     loadSounds() {
