@@ -225,15 +225,13 @@ class Round extends Component {
       setTimeout(() => {
         knows.play()
 
-        let learning = new Audio(
-          `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`
-        );
+
         knows.onended = () => {
           setTimeout(() => {
-            learning.onloadeddata = () => {
-              alert(learning.src)
-              learning.play();
-            }
+            let learning = new Audio(
+              `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`
+            );
+            learning.play();
           }, 120);
         }
       }, 180);
