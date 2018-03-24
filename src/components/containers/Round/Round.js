@@ -231,7 +231,9 @@ class Round extends Component {
         knows.onended = () => {
           setTimeout(() => {
             alert(learning.src)
-            learning.play();
+            learning.onloadeddata = () => {
+              learning.play();
+            }
           }, 120);
         }
       }, 180);
