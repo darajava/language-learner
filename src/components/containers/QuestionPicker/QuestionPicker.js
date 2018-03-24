@@ -42,11 +42,13 @@ class QuestionPicker extends Component {
 
       let progress = this.progress;
 
+      let thresholdScore = 1;
+
       // words.en is used as a hash, nothing to do with the language
 
       for (let i = 0; i < words.length; i++) {
         // If we have seen it recently, and the score is high
-        if (progress[words[i].en] && progress[words[i].en].score >= 1) {
+        if (progress[words[i].en] && progress[words[i].en].score >= thresholdScore) {
           this.knownQuestions.push(words[i]);
         }
       }
@@ -59,11 +61,12 @@ class QuestionPicker extends Component {
         console.log(progress[words[i].en])
 
         // If the score is low
-        if ((progress[words[i].en] && progress[words[i].en].score <= 2) || !progress[words[i].en]) {
+        if ((progress[words[i].en] && progress[words[i].en].score < thresholdScore) || !progress[words[i].en]) {
           this.badQuestions.push(words[i]);
         }
       }
 
+      console.log('-------')
       console.log(this.knownQuestions)
       console.log(this.badQuestions)
       console.log(this.progress);
@@ -86,7 +89,7 @@ class QuestionPicker extends Component {
 
       do {
         questionPool = this.knownQuestions;
-        if (Math.random() < 0.8) {
+        if (Math.random() < 0.7) {
           if (this.badQuestions.length) {
             questionPool = this.badQuestions;
           }
@@ -96,7 +99,7 @@ class QuestionPicker extends Component {
 
       } while (!word || this.inArray(this.state.recentWords, word));
 
-      let recentWords = this.state.recentWords.slice(0, 3);
+      let recentWords = this.state.recentWords.slice(0, 2);
       recentWords.push(word);
 
       this.setState({
@@ -107,8 +110,8 @@ class QuestionPicker extends Component {
 
 
     render() {
-      let learningLang = 'zh-cn';
-      let knowsLang= 'en';
+      let learningLang = 'en';
+      let knowsLang = 'en';
 
       let progress = this.progress;
 

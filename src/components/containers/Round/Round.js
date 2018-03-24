@@ -145,9 +145,10 @@ class Round extends Component {
       );
 
       if (
-        distance === 1 // if we're close
+        distance >= 1 // if we're close
+        && distance <= 2
         && cleanedAnswer.length > 2 // and we have some answer
-        && actualAnswer.indexOf(currentAnswer) !== 0 // and it's not one char from completion
+        && actualAnswer.indexOf(cleanedAnswer) !== 0 // and it's not one char from completion
       ) {
         this.setState({
           close: true,
