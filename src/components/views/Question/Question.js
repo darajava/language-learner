@@ -7,7 +7,7 @@ import Timer from '../Timer/Timer';
 function resetAnimation() {
   var el = document.getElementById('animated');
   el.style.animation = 'none';
-  el.offsetHeight;
+  // el.offsetHeight;
   el.style.animation = null; 
 }
 

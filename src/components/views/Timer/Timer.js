@@ -22,7 +22,7 @@ const Timer = (props) => {
         size={60}
         fillColor="white"
         trackColor="white"
-        progressColor="#6B4423"
+        progressColor="#999"
       >
     </ProgressLabel>
     </div>
