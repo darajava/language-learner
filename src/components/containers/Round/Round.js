@@ -221,8 +221,7 @@ class Round extends Component {
     }
 
     playSounds() {
-      // NO IDEA WHY I NEED THIS
-      this.loadSounds()
+
       
       setTimeout(() => {
         this.knows.play()
