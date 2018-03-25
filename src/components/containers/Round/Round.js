@@ -87,7 +87,12 @@ class Round extends Component {
     }
 
     isCorrect() {
-      if (this.state.currentAnswer.toLowerCase().replace('the ', '') === this.props.answer.toLowerCase()) {
+      let cleanedAnswer = this.state.currentAnswer.toLowerCase().replace('the ', '');
+      cleanedAnswer = cleanedAnswer.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+      let actualAnswer = this.props.answer.toLowerCase().replace('the ', '');
+      let actualAnswerNoDiacritics = actualAnswer.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+
+      if (cleanedAnswer === actualAnswerNoDiacritics) {
         return true;
       }
 
@@ -134,12 +139,6 @@ class Round extends Component {
       this.setState({
         correct,
       });
-
-      let cleanedAnswer = this.state.currentAnswer.toLowerCase().replace('the ', '');
-      cleanedAnswer = cleanedAnswer.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
-      let actualAnswer = this.props.answer.toLowerCase().replace('the ', '');
-
-      let actualAnswerNoDiacritics = actualAnswer.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
 
       let distance = this.levenshteinDistance(
         cleanedAnswer,
