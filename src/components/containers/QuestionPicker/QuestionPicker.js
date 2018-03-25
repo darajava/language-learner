@@ -112,7 +112,7 @@ class QuestionPicker extends Component {
 
 
     render() {
-      let learningLang = 'de';
+      let learningLang = 'is';
       let knowsLang = 'en';
 
       let progress = this.progress;

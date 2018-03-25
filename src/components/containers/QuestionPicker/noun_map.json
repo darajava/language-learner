@@ -7,7 +7,9 @@
     "zh-cn": "时间",
     "es": "el tiempo",
     "ar": "زمن",
-    "ja": "時間"
+    "ja": "時間",
+    "tr": "zaman",
+    "is": "tími"
   },
   {
     "en": "year",
@@ -17,7 +19,9 @@
     "zh-cn": "年",
     "es": "el año",
     "ar": "عام",
-    "ja": "年"
+    "ja": "年",
+    "tr": "yıl",
+    "is": "ár"
   },
   {
     "en": "people",
@@ -27,7 +31,9 @@
     "zh-cn": "人",
     "es": "la gente",
     "ar": "اشخاص",
-    "ja": "人"
+    "ja": "人",
+    "tr": "insanlar",
+    "is": "fólk"
   },
   {
     "en": "way",
@@ -37,7 +43,9 @@
     "zh-cn": "办法",
     "es": "la manera",
     "ar": "طريق",
-    "ja": "方法"
+    "ja": "方法",
+    "tr": "yol",
+    "is": "leið"
   },
   {
     "en": "day",
@@ -47,17 +55,21 @@
     "zh-cn": "天",
     "es": "El dia",
     "ar": "يوم",
-    "ja": "日"
+    "ja": "日",
+    "tr": "gün",
+    "is": "dagur"
   },
   {
     "en": "man",
     "index": 5,
     "de": "der Mann",
     "fr": "l'homme",
-    "zh-cn": "男",
+    "zh-cn": "人",
     "es": "el hombre",
     "ar": "رجل",
-    "ja": "おとこ"
+    "ja": "おとこ",
+    "tr": "adam",
+    "is": "maður"
   },
   {
     "en": "thing",
@@ -67,7 +79,9 @@
     "zh-cn": "事情",
     "es": "la cosa",
     "ar": "شيء",
-    "ja": "もの"
+    "ja": "もの",
+    "tr": "şey",
+    "is": "hlutur"
   },
   {
     "en": "woman",
@@ -77,7 +91,9 @@
     "zh-cn": "女人",
     "es": "la mujer",
     "ar": "النساء",
-    "ja": "女性"
+    "ja": "女性",
+    "tr": "Kadın",
+    "is": "kona"
   },
   {
     "en": "life",
@@ -87,7 +103,9 @@
     "zh-cn": "生活",
     "es": "la vida",
     "ar": "حياة",
-    "ja": "生活"
+    "ja": "生活",
+    "tr": "hayat",
+    "is": "lífið"
   },
   {
     "en": "child",
@@ -97,7 +115,9 @@
     "zh-cn": "儿童",
     "es": "el niño",
     "ar": "طفل",
-    "ja": "子"
+    "ja": "子",
+    "tr": "çocuk",
+    "is": "barn"
   },
   {
     "en": "world",
@@ -107,7 +127,9 @@
     "zh-cn": "世界",
     "es": "el mundo",
     "ar": "العالمية",
-    "ja": "世界"
+    "ja": "世界",
+    "tr": "Dünya",
+    "is": "heimurinn"
   },
   {
     "en": "school",
@@ -117,7 +139,9 @@
     "zh-cn": "学校",
     "es": "la escuela",
     "ar": "مدرسة",
-    "ja": "学校"
+    "ja": "学校",
+    "tr": "okul",
+    "is": "skóla"
   },
   {
     "en": "state",
@@ -127,7 +151,9 @@
     "zh-cn": "州",
     "es": "el estado",
     "ar": "حالة",
-    "ja": "状態"
+    "ja": "状態",
+    "tr": "belirtmek, bildirmek",
+    "is": "ríki"
   },
   {
     "en": "family",
@@ -137,7 +163,9 @@
     "zh-cn": "家庭",
     "es": "la familia",
     "ar": "أسرة",
-    "ja": "家族"
+    "ja": "家族",
+    "tr": "aile",
+    "is": "fjölskylda"
   },
   {
     "en": "student",
@@ -147,7 +175,9 @@
     "zh-cn": "学生",
     "es": "el estudiante",
     "ar": "طالب علم",
-    "ja": "学生"
+    "ja": "学生",
+    "tr": "Öğrenci",
+    "is": "nemandi"
   },
   {
     "en": "group",
@@ -157,7 +187,9 @@
     "zh-cn": "组",
     "es": "el grupo",
     "ar": "مجموعة",
-    "ja": "グループ"
+    "ja": "グループ",
+    "tr": "grup",
+    "is": "hópur"
   },
   {
     "en": "country",
@@ -167,7 +199,9 @@
     "zh-cn": "国家",
     "es": "el país",
     "ar": "بلد",
-    "ja": "国"
+    "ja": "国",
+    "tr": "ülke",
+    "is": "land"
   },
   {
     "en": "problem",
@@ -177,7 +211,9 @@
     "zh-cn": "问题",
     "es": "el problema",
     "ar": "مشكلة",
-    "ja": "問題"
+    "ja": "問題",
+    "tr": "sorun",
+    "is": "vandamál"
   },
   {
     "en": "hand",
@@ -187,7 +223,9 @@
     "zh-cn": "手",
     "es": "la mano",
     "ar": "يد",
-    "ja": "ハンド"
+    "ja": "ハンド",
+    "tr": "el",
+    "is": "hönd"
   },
   {
     "en": "part",
@@ -197,7 +235,9 @@
     "zh-cn": "部分",
     "es": "la parte",
     "ar": "جزء",
-    "ja": "部"
+    "ja": "部",
+    "tr": "Bölüm",
+    "is": "hluti"
   },
   {
     "en": "place",
@@ -207,7 +247,9 @@
     "zh-cn": "地点",
     "es": "el lugar",
     "ar": "مكان",
-    "ja": "場所"
+    "ja": "場所",
+    "tr": "yer",
+    "is": "stað"
   },
   {
     "en": "case",
@@ -217,7 +259,9 @@
     "zh-cn": "案件",
     "es": "el caso",
     "ar": "قضية",
-    "ja": "場合"
+    "ja": "場合",
+    "tr": "dava",
+    "is": "Málið"
   },
   {
     "en": "week",
@@ -227,7 +271,9 @@
     "zh-cn": "周",
     "es": "la semana",
     "ar": "أسبوع",
-    "ja": "週間"
+    "ja": "週間",
+    "tr": "hafta",
+    "is": "vika"
   },
   {
     "en": "company",
@@ -237,7 +283,9 @@
     "zh-cn": "公司",
     "es": "la compañia",
     "ar": "شركة",
-    "ja": "会社"
+    "ja": "会社",
+    "tr": "şirket",
+    "is": "fyrirtæki"
   },
   {
     "en": "system",
@@ -247,7 +295,9 @@
     "zh-cn": "系统",
     "es": "el sistema",
     "ar": "النظام",
-    "ja": "システム"
+    "ja": "システム",
+    "tr": "sistem",
+    "is": "kerfi"
   },
   {
     "en": "program",
@@ -257,7 +307,9 @@
     "zh-cn": "程序",
     "es": "el programa",
     "ar": "برنامج",
-    "ja": "プログラム"
+    "ja": "プログラム",
+    "tr": "program",
+    "is": "forrit"
   },
   {
     "en": "question",
@@ -267,7 +319,9 @@
     "zh-cn": "题",
     "es": "la pregunta",
     "ar": "سؤال",
-    "ja": "質問"
+    "ja": "質問",
+    "tr": "soru",
+    "is": "spurning"
   },
   {
     "en": "work",
@@ -277,7 +331,9 @@
     "zh-cn": "工作",
     "es": "la obra",
     "ar": "عمل",
-    "ja": "作業"
+    "ja": "作業",
+    "tr": "iş",
+    "is": "vinna"
   },
   {
     "en": "government",
@@ -287,7 +343,9 @@
     "zh-cn": "政府",
     "es": "el Gobierno",
     "ar": "الحكومي",
-    "ja": "政府"
+    "ja": "政府",
+    "tr": "hükümet",
+    "is": "ríkisstjórnin"
   },
   {
     "en": "number",
@@ -297,7 +355,9 @@
     "zh-cn": "数",
     "es": "el número",
     "ar": "رقم",
-    "ja": "数"
+    "ja": "数",
+    "tr": "numara",
+    "is": "númer"
   },
   {
     "en": "night",
@@ -307,7 +367,9 @@
     "zh-cn": "晚",
     "es": "la noche",
     "ar": "ليل",
-    "ja": "夜"
+    "ja": "夜",
+    "tr": "gece",
+    "is": "nótt"
   },
   {
     "en": "point",
@@ -317,7 +379,9 @@
     "zh-cn": "点",
     "es": "el punto",
     "ar": "نقطة",
-    "ja": "ポイント"
+    "ja": "ポイント",
+    "tr": "puan",
+    "is": "benda"
   },
   {
     "en": "home",
@@ -327,7 +391,9 @@
     "zh-cn": "家",
     "es": "el hogar",
     "ar": "الصفحة الرئيسية",
-    "ja": "自宅"
+    "ja": "自宅",
+    "tr": "ev",
+    "is": "heim"
   },
   {
     "en": "water",
@@ -337,7 +403,9 @@
     "zh-cn": "水",
     "es": "el agua",
     "ar": "ماء",
-    "ja": "水"
+    "ja": "水",
+    "tr": "Su",
+    "is": "vatn"
   },
   {
     "en": "room",
@@ -347,7 +415,9 @@
     "zh-cn": "房间",
     "es": "el cuarto",
     "ar": "مجال",
-    "ja": "ルーム"
+    "ja": "ルーム",
+    "tr": "oda",
+    "is": "herbergi"
   },
   {
     "en": "mother",
@@ -357,7 +427,9 @@
     "zh-cn": "母亲",
     "es": "La madre",
     "ar": "أم",
-    "ja": "母"
+    "ja": "母",
+    "tr": "anne",
+    "is": "móðir"
   },
   {
     "en": "area",
@@ -367,7 +439,9 @@
     "zh-cn": "区",
     "es": "la zona",
     "ar": "منطقة",
-    "ja": "エリア"
+    "ja": "エリア",
+    "tr": "alan",
+    "is": "svæði"
   },
   {
     "en": "money",
@@ -377,7 +451,9 @@
     "zh-cn": "钱",
     "es": "el dinero",
     "ar": "مال",
-    "ja": "お金"
+    "ja": "お金",
+    "tr": "para",
+    "is": "peninga"
   },
   {
     "en": "story",
@@ -387,7 +463,9 @@
     "zh-cn": "故事",
     "es": "la historia",
     "ar": "قصة",
-    "ja": "ストーリー"
+    "ja": "ストーリー",
+    "tr": "Öykü",
+    "is": "saga"
   },
   {
     "en": "fact",
@@ -397,7 +475,9 @@
     "zh-cn": "事实",
     "es": "el hecho",
     "ar": "حقيقة",
-    "ja": "事実"
+    "ja": "事実",
+    "tr": "gerçek",
+    "is": "staðreynd"
   },
   {
     "en": "month",
@@ -407,7 +487,9 @@
     "zh-cn": "月",
     "es": "el mes",
     "ar": "شهر",
-    "ja": "月"
+    "ja": "月",
+    "tr": "ay",
+    "is": "mánuði"
   },
   {
     "en": "lot",
@@ -417,7 +499,9 @@
     "zh-cn": "批量",
     "es": "la parcela",
     "ar": "قطعة أرض",
-    "ja": "ロット"
+    "ja": "ロット",
+    "tr": "çok",
+    "is": "mikið"
   },
   {
     "en": "right",
@@ -427,7 +511,9 @@
     "zh-cn": "对",
     "es": "el derecho",
     "ar": "حق",
-    "ja": "右"
+    "ja": "右",
+    "tr": "sağ",
+    "is": "rétt"
   },
   {
     "en": "study",
@@ -437,7 +523,9 @@
     "zh-cn": "研究",
     "es": "el estudio",
     "ar": "دراسة",
-    "ja": "調査"
+    "ja": "調査",
+    "tr": "ders çalışma",
+    "is": "rannsókn"
   },
   {
     "en": "book",
@@ -447,7 +535,9 @@
     "zh-cn": "书",
     "es": "el libro",
     "ar": "كتاب",
-    "ja": "本"
+    "ja": "本",
+    "tr": "kitap",
+    "is": "bók"
   },
   {
     "en": "eye",
@@ -457,7 +547,9 @@
     "zh-cn": "眼",
     "es": "el ojo",
     "ar": "عين",
-    "ja": "眼"
+    "ja": "眼",
+    "tr": "göz",
+    "is": "auga"
   },
   {
     "en": "job",
@@ -467,7 +559,9 @@
     "zh-cn": "工作",
     "es": "el trabajo",
     "ar": "وظيفة",
-    "ja": "ジョブ"
+    "ja": "ジョブ",
+    "tr": "iş",
+    "is": "starf"
   },
   {
     "en": "word",
@@ -477,7 +571,9 @@
     "zh-cn": "字",
     "es": "la palabra",
     "ar": "كلمة",
-    "ja": "ワード"
+    "ja": "ワード",
+    "tr": "sözcük",
+    "is": "orð"
   },
   {
     "en": "business",
@@ -487,7 +583,9 @@
     "zh-cn": "商业",
     "es": "el negocio",
     "ar": "اعمال",
-    "ja": "ビジネス"
+    "ja": "ビジネス",
+    "tr": "iş",
+    "is": "viðskipti"
   },
   {
     "en": "issue",
@@ -497,7 +595,9 @@
     "zh-cn": "问题",
     "es": "la cuestión",
     "ar": "القضية",
-    "ja": "問題"
+    "ja": "問題",
+    "tr": "konu",
+    "is": "mál"
   },
   {
     "en": "side",
@@ -507,7 +607,9 @@
     "zh-cn": "侧",
     "es": "el lado",
     "ar": "جانب",
-    "ja": "側"
+    "ja": "側",
+    "tr": "yan",
+    "is": "hlið"
   },
   {
     "en": "kind",
@@ -517,7 +619,9 @@
     "zh-cn": "类",
     "es": "el tipo",
     "ar": "طيب القلب",
-    "ja": "種類"
+    "ja": "種類",
+    "tr": "tür",
+    "is": "góður"
   },
   {
     "en": "head",
@@ -527,7 +631,9 @@
     "zh-cn": "头",
     "es": "la cabeza",
     "ar": "رئيس",
-    "ja": "頭"
+    "ja": "頭",
+    "tr": "kafa",
+    "is": "höfuð"
   },
   {
     "en": "house",
@@ -537,7 +643,9 @@
     "zh-cn": "屋",
     "es": "la casa",
     "ar": "منزل",
-    "ja": "家"
+    "ja": "家",
+    "tr": "ev",
+    "is": "hús"
   },
   {
     "en": "service",
@@ -547,7 +655,9 @@
     "zh-cn": "服务",
     "es": "el servicio",
     "ar": "الخدمات",
-    "ja": "サービス"
+    "ja": "サービス",
+    "tr": "hizmet",
+    "is": "þjónusta"
   },
   {
     "en": "friend",
@@ -557,7 +667,9 @@
     "zh-cn": "朋友",
     "es": "el amigo",
     "ar": "صديق",
-    "ja": "友人"
+    "ja": "友人",
+    "tr": "arkadaş",
+    "is": "vinur"
   },
   {
     "en": "father",
@@ -567,7 +679,9 @@
     "zh-cn": "父亲",
     "es": "el padre",
     "ar": "الآب",
-    "ja": "お父さん"
+    "ja": "お父さん",
+    "tr": "baba",
+    "is": "faðir"
   },
   {
     "en": "power",
@@ -577,7 +691,9 @@
     "zh-cn": "功率",
     "es": "el poder",
     "ar": "قوة",
-    "ja": "パワー"
+    "ja": "パワー",
+    "tr": "güç",
+    "is": "máttur"
   },
   {
     "en": "hour",
@@ -587,7 +703,9 @@
     "zh-cn": "小时",
     "es": "la hora",
     "ar": "ساعة",
-    "ja": "時間"
+    "ja": "時間",
+    "tr": "saat",
+    "is": "klukkustund"
   },
   {
     "en": "game",
@@ -597,7 +715,9 @@
     "zh-cn": "游戏",
     "es": "el juego",
     "ar": "لعبه",
-    "ja": "ゲーム"
+    "ja": "ゲーム",
+    "tr": "oyun",
+    "is": "leikur"
   },
   {
     "en": "line",
@@ -607,7 +727,9 @@
     "zh-cn": "线",
     "es": "la línea",
     "ar": "خط",
-    "ja": "ライン"
+    "ja": "ライン",
+    "tr": "hat",
+    "is": "lína"
   },
   {
     "en": "end",
@@ -617,7 +739,9 @@
     "zh-cn": "结束",
     "es": "el fin",
     "ar": "النهاية",
-    "ja": "終わり"
+    "ja": "終わり",
+    "tr": "son",
+    "is": "enda"
   },
   {
     "en": "member",
@@ -627,7 +751,9 @@
     "zh-cn": "会员",
     "es": "el miembro",
     "ar": "عضو",
-    "ja": "メンバー"
+    "ja": "メンバー",
+    "tr": "üye",
+    "is": "meðlimur"
   },
   {
     "en": "law",
@@ -637,7 +763,9 @@
     "zh-cn": "法",
     "es": "la Ley",
     "ar": "القانون",
-    "ja": "法律"
+    "ja": "法律",
+    "tr": "kanun",
+    "is": "lög"
   },
   {
     "en": "car",
@@ -647,7 +775,9 @@
     "zh-cn": "汽车",
     "es": "el coche",
     "ar": "سيارة",
-    "ja": "車"
+    "ja": "車",
+    "tr": "araba",
+    "is": "bíll"
   },
   {
     "en": "city",
@@ -657,7 +787,9 @@
     "zh-cn": "市",
     "es": "la ciudad",
     "ar": "مدينة",
-    "ja": "シティ"
+    "ja": "シティ",
+    "tr": "Kent",
+    "is": "borg"
   },
   {
     "en": "community",
@@ -667,7 +799,9 @@
     "zh-cn": "社区",
     "es": "la comunidad",
     "ar": "تواصل اجتماعي",
-    "ja": "コミュニティ"
+    "ja": "コミュニティ",
+    "tr": "topluluk",
+    "is": "samfélag"
   },
   {
     "en": "name",
@@ -677,7 +811,9 @@
     "zh-cn": "名称",
     "es": "el nombre",
     "ar": "اسم",
-    "ja": "名"
+    "ja": "名",
+    "tr": "isim",
+    "is": "nafn"
   },
   {
     "en": "president",
@@ -687,7 +823,9 @@
     "zh-cn": "主席",
     "es": "el presidente",
     "ar": "رئيس",
-    "ja": "大統領"
+    "ja": "大統領",
+    "tr": "Devlet Başkanı",
+    "is": "forseti"
   },
   {
     "en": "team",
@@ -697,7 +835,9 @@
     "zh-cn": "球队",
     "es": "el equipo",
     "ar": "الفريق",
-    "ja": "チーム"
+    "ja": "チーム",
+    "tr": "takım",
+    "is": "lið"
   },
   {
     "en": "minute",
@@ -707,7 +847,9 @@
     "zh-cn": "分钟",
     "es": "el minuto",
     "ar": "اللحظة",
-    "ja": "分"
+    "ja": "分",
+    "tr": "dakika",
+    "is": "mínútu"
   },
   {
     "en": "idea",
@@ -717,7 +859,9 @@
     "zh-cn": "理念",
     "es": "la idea",
     "ar": "فكرة",
-    "ja": "アイディア"
+    "ja": "アイディア",
+    "tr": "Fikir",
+    "is": "hugmynd"
   },
   {
     "en": "kid",
@@ -727,7 +871,9 @@
     "zh-cn": "孩子",
     "es": "el niño",
     "ar": "طفل",
-    "ja": "キッド"
+    "ja": "キッド",
+    "tr": "çocuk",
+    "is": "krakki"
   },
   {
     "en": "body",
@@ -737,7 +883,9 @@
     "zh-cn": "身体",
     "es": "el cuerpo",
     "ar": "الجسم",
-    "ja": "体"
+    "ja": "体",
+    "tr": "vücut",
+    "is": "líkami"
   },
   {
     "en": "information",
@@ -747,7 +895,9 @@
     "zh-cn": "信息",
     "es": "la información",
     "ar": "معلومات",
-    "ja": "情報"
+    "ja": "情報",
+    "tr": "bilgi",
+    "is": "upplýsingar"
   },
   {
     "en": "back",
@@ -757,7 +907,9 @@
     "zh-cn": "背部",
     "es": "la parte de atrás",
     "ar": "الى الخلف",
-    "ja": "バック"
+    "ja": "バック",
+    "tr": "geri",
+    "is": "aftur"
   },
   {
     "en": "parent",
@@ -767,7 +919,9 @@
     "zh-cn": "亲",
     "es": "el padre",
     "ar": "الأبوين",
-    "ja": "親"
+    "ja": "親",
+    "tr": "ebeveyn",
+    "is": "foreldri"
   },
   {
     "en": "face",
@@ -777,7 +931,9 @@
     "zh-cn": "面对",
     "es": "la cara",
     "ar": "وجه",
-    "ja": "面"
+    "ja": "面",
+    "tr": "yüz",
+    "is": "andlit"
   },
   {
     "en": "others",
@@ -787,7 +943,9 @@
     "zh-cn": "其他",
     "es": "los demás",
     "ar": "الآخرين",
-    "ja": "その他"
+    "ja": "その他",
+    "tr": "diğerleri",
+    "is": "aðrir"
   },
   {
     "en": "level",
@@ -797,7 +955,9 @@
     "zh-cn": "水平",
     "es": "el nivel",
     "ar": "مستوى",
-    "ja": "レベル"
+    "ja": "レベル",
+    "tr": "seviye",
+    "is": "stigi"
   },
   {
     "en": "office",
@@ -807,7 +967,9 @@
     "zh-cn": "办公室",
     "es": "la oficina",
     "ar": "مكتب. مقر. مركز",
-    "ja": "事務所"
+    "ja": "事務所",
+    "tr": "ofis",
+    "is": "skrifstofa"
   },
   {
     "en": "door",
@@ -817,7 +979,9 @@
     "zh-cn": "门",
     "es": "la puerta",
     "ar": "باب",
-    "ja": "ドア"
+    "ja": "ドア",
+    "tr": "kapı",
+    "is": "dyrnar"
   },
   {
     "en": "health",
@@ -827,7 +991,9 @@
     "zh-cn": "健康",
     "es": "la salud",
     "ar": "الصحة",
-    "ja": "健康"
+    "ja": "健康",
+    "tr": "sağlık",
+    "is": "heilsa"
   },
   {
     "en": "person",
@@ -837,7 +1003,9 @@
     "zh-cn": "人",
     "es": "la persona",
     "ar": "شخص",
-    "ja": "人"
+    "ja": "人",
+    "tr": "kişi",
+    "is": "manneskja"
   },
   {
     "en": "art",
@@ -847,7 +1015,9 @@
     "zh-cn": "艺术",
     "es": "el arte",
     "ar": "فن",
-    "ja": "アート"
+    "ja": "アート",
+    "tr": "Sanat",
+    "is": "list"
   },
   {
     "en": "war",
@@ -857,7 +1027,9 @@
     "zh-cn": "战争",
     "es": "la guerra",
     "ar": "حرب",
-    "ja": "戦争"
+    "ja": "戦争",
+    "tr": "savaş",
+    "is": "stríð"
   },
   {
     "en": "history",
@@ -867,7 +1039,9 @@
     "zh-cn": "历史",
     "es": "la historia",
     "ar": "التاريخ",
-    "ja": "歴史"
+    "ja": "歴史",
+    "tr": "Tarihçe",
+    "is": "saga"
   },
   {
     "en": "party",
@@ -877,7 +1051,9 @@
     "zh-cn": "派对",
     "es": "La fiesta",
     "ar": "حفل",
-    "ja": "パーティー"
+    "ja": "パーティー",
+    "tr": "Parti",
+    "is": "Partí"
   },
   {
     "en": "result",
@@ -887,7 +1063,9 @@
     "zh-cn": "结果",
     "es": "el resultado",
     "ar": "نتيجة",
-    "ja": "結果"
+    "ja": "結果",
+    "tr": "sonuç",
+    "is": "niðurstaða"
   },
   {
     "en": "change",
@@ -897,7 +1075,9 @@
     "zh-cn": "更改",
     "es": "el cambio",
     "ar": "يتغيرون",
-    "ja": "変化する"
+    "ja": "変化する",
+    "tr": "değişiklik",
+    "is": "breyting"
   },
   {
     "en": "morning",
@@ -907,7 +1087,9 @@
     "zh-cn": "早上",
     "es": "la mañana",
     "ar": "صباح",
-    "ja": "朝"
+    "ja": "朝",
+    "tr": "sabah",
+    "is": "morgunn"
   },
   {
     "en": "reason",
@@ -917,7 +1099,9 @@
     "zh-cn": "原因",
     "es": "la razón",
     "ar": "السبب",
-    "ja": "理由"
+    "ja": "理由",
+    "tr": "neden",
+    "is": "ástæða"
   },
   {
     "en": "research",
@@ -927,7 +1111,9 @@
     "zh-cn": "研究",
     "es": "la investigación",
     "ar": "ابحاث",
-    "ja": "研究"
+    "ja": "研究",
+    "tr": "Araştırma",
+    "is": "rannsóknir"
   },
   {
     "en": "girl",
@@ -937,7 +1123,9 @@
     "zh-cn": "女孩",
     "es": "la mujer",
     "ar": "فتاة",
-    "ja": "女の子"
+    "ja": "女の子",
+    "tr": "kız",
+    "is": "stelpa"
   },
   {
     "en": "guy",
@@ -947,7 +1135,9 @@
     "zh-cn": "家伙",
     "es": "el tipo",
     "ar": "شاب",
-    "ja": "男"
+    "ja": "男",
+    "tr": "adam",
+    "is": "strákur"
   },
   {
     "en": "food",
@@ -957,7 +1147,9 @@
     "zh-cn": "餐饮",
     "es": "la comida",
     "ar": "طعام",
-    "ja": "フード"
+    "ja": "フード",
+    "tr": "Gıda",
+    "is": "matur"
   },
   {
     "en": "moment",
@@ -967,7 +1159,9 @@
     "zh-cn": "时刻",
     "es": "el momento",
     "ar": "لحظة",
-    "ja": "瞬間"
+    "ja": "瞬間",
+    "tr": "an",
+    "is": "augnablik"
   },
   {
     "en": "air",
@@ -977,7 +1171,9 @@
     "zh-cn": "空气",
     "es": "El aire",
     "ar": "هواء",
-    "ja": "空気"
+    "ja": "空気",
+    "tr": "hava",
+    "is": "loft"
   },
   {
     "en": "teacher",
@@ -987,7 +1183,9 @@
     "zh-cn": "老师",
     "es": "el maestro",
     "ar": "مدرس",
-    "ja": "先生"
+    "ja": "先生",
+    "tr": "öğretmen",
+    "is": "kennari"
   },
   {
     "en": "force",
@@ -997,7 +1195,9 @@
     "zh-cn": "力",
     "es": "la fuerza",
     "ar": "فرض",
-    "ja": "力"
+    "ja": "力",
+    "tr": "Kuvvet",
+    "is": "gildi"
   },
   {
     "en": "education",
@@ -1007,7 +1207,9 @@
     "zh-cn": "教育",
     "es": "la educación",
     "ar": "التعليم",
-    "ja": "教育"
+    "ja": "教育",
+    "tr": "Eğitim",
+    "is": "menntun"
   },
   {
     "en": "foot",
@@ -1017,7 +1219,9 @@
     "zh-cn": "脚丫子",
     "es": "el pie",
     "ar": "قدم",
-    "ja": "足"
+    "ja": "足",
+    "tr": "ayak",
+    "is": "fótur"
   },
   {
     "en": "boy",
@@ -1027,7 +1231,9 @@
     "zh-cn": "男孩",
     "es": "el chico",
     "ar": "صبي",
-    "ja": "男の子"
+    "ja": "男の子",
+    "tr": "oğlan",
+    "is": "strákur"
   },
   {
     "en": "age",
@@ -1037,7 +1243,9 @@
     "zh-cn": "年龄",
     "es": "la edad",
     "ar": "عمر",
-    "ja": "年齢"
+    "ja": "年齢",
+    "tr": "yaş",
+    "is": "Aldur"
   },
   {
     "en": "policy",
@@ -1047,7 +1255,9 @@
     "zh-cn": "政策",
     "es": "La política",
     "ar": "سياسات",
-    "ja": "ポリシー"
+    "ja": "ポリシー",
+    "tr": "politika",
+    "is": "stefna"
   },
   {
     "en": "process",
@@ -1057,7 +1267,9 @@
     "zh-cn": "处理",
     "es": "el proceso",
     "ar": "معالجة",
-    "ja": "プロセス"
+    "ja": "プロセス",
+    "tr": "süreç",
+    "is": "ferli"
   },
   {
     "en": "music",
@@ -1067,7 +1279,9 @@
     "zh-cn": "音乐",
     "es": "la música",
     "ar": "موسيقى",
-    "ja": "音楽"
+    "ja": "音楽",
+    "tr": "müzik",
+    "is": "tónlist"
   },
   {
     "en": "market",
@@ -1077,7 +1291,9 @@
     "zh-cn": "市场",
     "es": "El mercado",
     "ar": "سوق",
-    "ja": "市場"
+    "ja": "市場",
+    "tr": "Market",
+    "is": "markaður"
   },
   {
     "en": "sense",
@@ -1087,7 +1303,9 @@
     "zh-cn": "感",
     "es": "el sentido",
     "ar": "إحساس",
-    "ja": "センス"
+    "ja": "センス",
+    "tr": "duyu",
+    "is": "skyn"
   },
   {
     "en": "nation",
@@ -1097,7 +1315,9 @@
     "zh-cn": "国家",
     "es": "la Nación",
     "ar": "الأمة",
-    "ja": "国家"
+    "ja": "国家",
+    "tr": "ulus",
+    "is": "þjóð"
   },
   {
     "en": "plan",
@@ -1107,7 +1327,9 @@
     "zh-cn": "计划",
     "es": "El plan",
     "ar": "خطة",
-    "ja": "計画"
+    "ja": "計画",
+    "tr": "plan",
+    "is": "áætlun"
   },
   {
     "en": "college",
@@ -1117,7 +1339,9 @@
     "zh-cn": "学院",
     "es": "la Universidad",
     "ar": "كلية",
-    "ja": "カレッジ"
+    "ja": "カレッジ",
+    "tr": "kolej",
+    "is": "háskóli"
   },
   {
     "en": "interest",
@@ -1127,7 +1351,9 @@
     "zh-cn": "利益",
     "es": "el interés",
     "ar": "فائدة",
-    "ja": "利子"
+    "ja": "利子",
+    "tr": "faiz",
+    "is": "áhuga"
   },
   {
     "en": "death",
@@ -1137,7 +1363,9 @@
     "zh-cn": "死亡",
     "es": "la muerte",
     "ar": "الموت",
-    "ja": "死"
+    "ja": "死",
+    "tr": "ölüm",
+    "is": "dauða"
   },
   {
     "en": "experience",
@@ -1147,7 +1375,9 @@
     "zh-cn": "经验",
     "es": "la experiencia",
     "ar": "تجربة",
-    "ja": "経験"
+    "ja": "経験",
+    "tr": "deneyim",
+    "is": "reynsla"
   },
   {
     "en": "effect",
@@ -1157,7 +1387,9 @@
     "zh-cn": "影响",
     "es": "el efecto",
     "ar": "تأثير",
-    "ja": "効果"
+    "ja": "効果",
+    "tr": "Efekt",
+    "is": "áhrif"
   },
   {
     "en": "use",
@@ -1167,7 +1399,9 @@
     "zh-cn": "使用",
     "es": "el uso",
     "ar": "استعمال",
-    "ja": "つかいます"
+    "ja": "つかいます",
+    "tr": "kullanım",
+    "is": "nota"
   },
   {
     "en": "class",
@@ -1177,7 +1411,9 @@
     "zh-cn": "类",
     "es": "la clase",
     "ar": "صف دراسي",
-    "ja": "クラス"
+    "ja": "クラス",
+    "tr": "sınıf",
+    "is": "bekknum"
   },
   {
     "en": "control",
@@ -1187,7 +1423,9 @@
     "zh-cn": "控制",
     "es": "el control",
     "ar": "مراقبة",
-    "ja": "コントロール"
+    "ja": "コントロール",
+    "tr": "kontrol",
+    "is": "stjórn"
   },
   {
     "en": "care",
@@ -1197,7 +1435,9 @@
     "zh-cn": "关心",
     "es": "el cuidado",
     "ar": "رعاية",
-    "ja": "お手入れ"
+    "ja": "お手入れ",
+    "tr": "bakım",
+    "is": "umönnun"
   },
   {
     "en": "field",
@@ -1207,7 +1447,9 @@
     "zh-cn": "领域",
     "es": "el campo",
     "ar": "حقل",
-    "ja": "フィールド"
+    "ja": "フィールド",
+    "tr": "alan",
+    "is": "sviði"
   },
   {
     "en": "development",
@@ -1217,7 +1459,9 @@
     "zh-cn": "发展",
     "es": "el desarrollo",
     "ar": "تطوير",
-    "ja": "開発"
+    "ja": "開発",
+    "tr": "gelişme",
+    "is": "þróun"
   },
   {
     "en": "role",
@@ -1227,7 +1471,9 @@
     "zh-cn": "角色",
     "es": "el papel",
     "ar": "وظيفة",
-    "ja": "役割"
+    "ja": "役割",
+    "tr": "rol",
+    "is": "hlutverki"
   },
   {
     "en": "effort",
@@ -1237,7 +1483,9 @@
     "zh-cn": "功夫",
     "es": "el esfuerzo",
     "ar": "مجهود",
-    "ja": "努力"
+    "ja": "努力",
+    "tr": "çaba",
+    "is": "átak"
   },
   {
     "en": "rate",
@@ -1247,7 +1495,9 @@
     "zh-cn": "率",
     "es": "la tasa",
     "ar": "معدل",
-    "ja": "レート"
+    "ja": "レート",
+    "tr": "oran",
+    "is": "hlutfall"
   },
   {
     "en": "heart",
@@ -1257,7 +1507,9 @@
     "zh-cn": "心",
     "es": "el corazón",
     "ar": "قلب",
-    "ja": "ハート"
+    "ja": "ハート",
+    "tr": "kalp",
+    "is": "hjarta"
   },
   {
     "en": "drug",
@@ -1267,7 +1519,9 @@
     "zh-cn": "药物",
     "es": "la droga",
     "ar": "المخدرات",
-    "ja": "ドラッグ"
+    "ja": "ドラッグ",
+    "tr": "ilaç",
+    "is": "lyf"
   },
   {
     "en": "show",
@@ -1277,7 +1531,9 @@
     "zh-cn": "显示",
     "es": "el espectáculo",
     "ar": "تبين",
-    "ja": "ショー"
+    "ja": "ショー",
+    "tr": "göstermek",
+    "is": "sýna"
   },
   {
     "en": "leader",
@@ -1287,7 +1543,9 @@
     "zh-cn": "领导",
     "es": "el líder",
     "ar": "زعيم",
-    "ja": "リーダー"
+    "ja": "リーダー",
+    "tr": "lider",
+    "is": "leiðtogi"
   },
   {
     "en": "light",
@@ -1297,7 +1555,9 @@
     "zh-cn": "光",
     "es": "la luz",
     "ar": "ضوء",
-    "ja": "光"
+    "ja": "光",
+    "tr": "ışık",
+    "is": "ljós"
   },
   {
     "en": "voice",
@@ -1307,7 +1567,9 @@
     "zh-cn": "语音",
     "es": "la voz",
     "ar": "صوت",
-    "ja": "音声"
+    "ja": "音声",
+    "tr": "ses",
+    "is": "rödd"
   },
   {
     "en": "wife",
@@ -1317,7 +1579,9 @@
     "zh-cn": "妻子",
     "es": "La esposa",
     "ar": "زوجة",
-    "ja": "妻"
+    "ja": "妻",
+    "tr": "kadın eş",
+    "is": "kona"
   },
   {
     "en": "police",
@@ -1327,7 +1591,9 @@
     "zh-cn": "警察",
     "es": "la policía",
     "ar": "شرطة",
-    "ja": "警察"
+    "ja": "警察",
+    "tr": "polis",
+    "is": "lögreglu"
   },
   {
     "en": "mind",
@@ -1337,7 +1603,9 @@
     "zh-cn": "心神",
     "es": "la mente",
     "ar": "عقل",
-    "ja": "マインド"
+    "ja": "マインド",
+    "tr": "us",
+    "is": "hugur"
   },
   {
     "en": "price",
@@ -1347,7 +1615,9 @@
     "zh-cn": "价钱",
     "es": "el precio",
     "ar": "السعر",
-    "ja": "価格"
+    "ja": "価格",
+    "tr": "fiyat",
+    "is": "verð"
   },
   {
     "en": "report",
@@ -1357,7 +1627,9 @@
     "zh-cn": "报告",
     "es": "el informe",
     "ar": "أبلغ عن",
-    "ja": "報告する"
+    "ja": "報告する",
+    "tr": "rapor",
+    "is": "tilkynna"
   },
   {
     "en": "decision",
@@ -1367,7 +1639,9 @@
     "zh-cn": "决定",
     "es": "la decisión",
     "ar": "قرار",
-    "ja": "決定"
+    "ja": "決定",
+    "tr": "karar",
+    "is": "ákvörðun"
   },
   {
     "en": "son",
@@ -1377,7 +1651,9 @@
     "zh-cn": "儿子",
     "es": "el hijo",
     "ar": "ابن",
-    "ja": "息子"
+    "ja": "息子",
+    "tr": "oğul",
+    "is": "sonur"
   },
   {
     "en": "view",
@@ -1387,7 +1663,9 @@
     "zh-cn": "视图",
     "es": "la vista",
     "ar": "رأي",
-    "ja": "見る"
+    "ja": "見る",
+    "tr": "görünüm",
+    "is": "útsýni"
   },
   {
     "en": "relationship",
@@ -1397,7 +1675,9 @@
     "zh-cn": "关系",
     "es": "la relación",
     "ar": "صلة",
-    "ja": "関係"
+    "ja": "関係",
+    "tr": "ilişki",
+    "is": "samband"
   },
   {
     "en": "town",
@@ -1407,7 +1687,9 @@
     "zh-cn": "镇",
     "es": "la ciudad",
     "ar": "مدينة",
-    "ja": "タウン"
+    "ja": "タウン",
+    "tr": "kasaba",
+    "is": "bænum"
   },
   {
     "en": "road",
@@ -1417,7 +1699,9 @@
     "zh-cn": "路",
     "es": "El camino",
     "ar": "طريق",
-    "ja": "道路"
+    "ja": "道路",
+    "tr": "yol",
+    "is": "vegur"
   },
   {
     "en": "arm",
@@ -1427,7 +1711,9 @@
     "zh-cn": "臂",
     "es": "el brazo",
     "ar": "ذراع",
-    "ja": "腕"
+    "ja": "腕",
+    "tr": "kol",
+    "is": "armur"
   },
   {
     "en": "difference",
@@ -1437,7 +1723,9 @@
     "zh-cn": "区别",
     "es": "la diferencia",
     "ar": "فرق",
-    "ja": "差"
+    "ja": "差",
+    "tr": "fark",
+    "is": "munur"
   },
   {
     "en": "value",
@@ -1447,7 +1735,9 @@
     "zh-cn": "值",
     "es": "el valor",
     "ar": "القيمة",
-    "ja": "値"
+    "ja": "値",
+    "tr": "değer",
+    "is": "gildi"
   },
   {
     "en": "building",
@@ -1457,7 +1747,9 @@
     "zh-cn": "建造",
     "es": "el edificio",
     "ar": "بناء",
-    "ja": "建物"
+    "ja": "建物",
+    "tr": "bina",
+    "is": "bygging"
   },
   {
     "en": "action",
@@ -1467,7 +1759,9 @@
     "zh-cn": "行动",
     "es": "la acción",
     "ar": "عمل",
-    "ja": "アクション"
+    "ja": "アクション",
+    "tr": "aksiyon",
+    "is": "aðgerð"
   },
   {
     "en": "model",
@@ -1477,7 +1771,9 @@
     "zh-cn": "模型",
     "es": "el modelo",
     "ar": "نموذج",
-    "ja": "モデル"
+    "ja": "モデル",
+    "tr": "model",
+    "is": "líkan"
   },
   {
     "en": "season",
@@ -1487,7 +1783,9 @@
     "zh-cn": "季节",
     "es": "la temporada",
     "ar": "الموسم",
-    "ja": "シーズン"
+    "ja": "シーズン",
+    "tr": "sezon",
+    "is": "árstíð"
   },
   {
     "en": "society",
@@ -1497,7 +1795,9 @@
     "zh-cn": "社会",
     "es": "la sociedad",
     "ar": "المجتمع",
-    "ja": "社会"
+    "ja": "社会",
+    "tr": "toplum",
+    "is": "samfélag"
   },
   {
     "en": "tax",
@@ -1507,7 +1807,9 @@
     "zh-cn": "税",
     "es": "el impuesto",
     "ar": "ضريبة",
-    "ja": "税金"
+    "ja": "税金",
+    "tr": "vergi",
+    "is": "skattur"
   },
   {
     "en": "director",
@@ -1517,7 +1819,9 @@
     "zh-cn": "导向器",
     "es": "el director",
     "ar": "مدير",
-    "ja": "ディレクター"
+    "ja": "ディレクター",
+    "tr": "yönetmen",
+    "is": "leikstjóri"
   },
   {
     "en": "position",
@@ -1527,7 +1831,9 @@
     "zh-cn": "位置",
     "es": "la posición",
     "ar": "موضع",
-    "ja": "ポジション"
+    "ja": "ポジション",
+    "tr": "pozisyon",
+    "is": "staða"
   },
   {
     "en": "player",
@@ -1537,7 +1843,9 @@
     "zh-cn": "播放机",
     "es": "el jugador",
     "ar": "لاعب",
-    "ja": "プレーヤー"
+    "ja": "プレーヤー",
+    "tr": "oyuncu",
+    "is": "leikmaður"
   },
   {
     "en": "record",
@@ -1547,7 +1855,9 @@
     "zh-cn": "记录",
     "es": "el record",
     "ar": "سجل",
-    "ja": "記録"
+    "ja": "記録",
+    "tr": "kayıt",
+    "is": "met"
   },
   {
     "en": "paper",
@@ -1557,7 +1867,9 @@
     "zh-cn": "纸",
     "es": "el papel",
     "ar": "ورقة",
-    "ja": "紙"
+    "ja": "紙",
+    "tr": "kâğıt",
+    "is": "pappír"
   },
   {
     "en": "space",
@@ -1567,7 +1879,9 @@
     "zh-cn": "空间",
     "es": "el espacio",
     "ar": "الفراغ",
-    "ja": "スペース"
+    "ja": "スペース",
+    "tr": "uzay",
+    "is": "pláss"
   },
   {
     "en": "ground",
@@ -1577,7 +1891,9 @@
     "zh-cn": "地面",
     "es": "el terreno",
     "ar": "أرض",
-    "ja": "接地"
+    "ja": "接地",
+    "tr": "zemin",
+    "is": "jörð"
   },
   {
     "en": "form",
@@ -1587,7 +1903,9 @@
     "zh-cn": "形成",
     "es": "la forma",
     "ar": "شكل",
-    "ja": "形"
+    "ja": "形",
+    "tr": "form",
+    "is": "formi"
   },
   {
     "en": "event",
@@ -1597,7 +1915,9 @@
     "zh-cn": "事件",
     "es": "el evento",
     "ar": "هدف",
-    "ja": "イベント"
+    "ja": "イベント",
+    "tr": "Etkinlik",
+    "is": "atburður"
   },
   {
     "en": "official",
@@ -1607,7 +1927,9 @@
     "zh-cn": "官方",
     "es": "el oficial",
     "ar": "الرسمية",
-    "ja": "公式"
+    "ja": "公式",
+    "tr": "resmi",
+    "is": "opinber"
   },
   {
     "en": "matter",
@@ -1617,7 +1939,9 @@
     "zh-cn": "物",
     "es": "el asunto",
     "ar": "شيء",
-    "ja": "問題"
+    "ja": "問題",
+    "tr": "madde",
+    "is": "efni"
   },
   {
     "en": "center",
@@ -1627,7 +1951,9 @@
     "zh-cn": "中央",
     "es": "el centro",
     "ar": "مركز",
-    "ja": "センター"
+    "ja": "センター",
+    "tr": "merkez",
+    "is": "miðstöð"
   },
   {
     "en": "couple",
@@ -1637,7 +1963,9 @@
     "zh-cn": "一对",
     "es": "la pareja",
     "ar": "زوجان",
-    "ja": "カップル"
+    "ja": "カップル",
+    "tr": "çift",
+    "is": "par"
   },
   {
     "en": "site",
@@ -1647,7 +1975,9 @@
     "zh-cn": "现场",
     "es": "el sitio",
     "ar": "موقع",
-    "ja": "サイト"
+    "ja": "サイト",
+    "tr": "yer",
+    "is": "staður"
   },
   {
     "en": "project",
@@ -1657,7 +1987,9 @@
     "zh-cn": "项目",
     "es": "el proyecto",
     "ar": "مشروع",
-    "ja": "プロジェクト"
+    "ja": "プロジェクト",
+    "tr": "proje",
+    "is": "verkefni"
   },
   {
     "en": "activity",
@@ -1667,7 +1999,9 @@
     "zh-cn": "活动",
     "es": "la actividad",
     "ar": "نشاط",
-    "ja": "アクティビティ"
+    "ja": "アクティビティ",
+    "tr": "aktivite",
+    "is": "virkni"
   },
   {
     "en": "star",
@@ -1677,7 +2011,9 @@
     "zh-cn": "星",
     "es": "la estrella",
     "ar": "نجمة",
-    "ja": "星"
+    "ja": "星",
+    "tr": "star",
+    "is": "stjörnu"
   },
   {
     "en": "table",
@@ -1687,7 +2023,9 @@
     "zh-cn": "表",
     "es": "la mesa",
     "ar": "الطاولة",
-    "ja": "表"
+    "ja": "表",
+    "tr": "tablo",
+    "is": "borð"
   },
   {
     "en": "need",
@@ -1697,7 +2035,9 @@
     "zh-cn": "需要",
     "es": "la necesidad",
     "ar": "بحاجة إلى",
-    "ja": "必要"
+    "ja": "必要",
+    "tr": "gerek",
+    "is": "þörf"
   },
   {
     "en": "court",
@@ -1707,7 +2047,9 @@
     "zh-cn": "法庭",
     "es": "La corte",
     "ar": "محكمة",
-    "ja": "裁判所"
+    "ja": "裁判所",
+    "tr": "mahkeme",
+    "is": "dómi"
   },
   {
     "en": "oil",
@@ -1717,7 +2059,9 @@
     "zh-cn": "油",
     "es": "el aceite",
     "ar": "نفط",
-    "ja": "油"
+    "ja": "油",
+    "tr": "sıvı yağ",
+    "is": "olía"
   },
   {
     "en": "situation",
@@ -1727,7 +2071,9 @@
     "zh-cn": "情况",
     "es": "la situación",
     "ar": "موقف",
-    "ja": "状況"
+    "ja": "状況",
+    "tr": "durum",
+    "is": "ástandið"
   },
   {
     "en": "cost",
@@ -1737,7 +2083,9 @@
     "zh-cn": "成本",
     "es": "el costo",
     "ar": "كلفة",
-    "ja": "コスト"
+    "ja": "コスト",
+    "tr": "maliyet",
+    "is": "kostnaður"
   },
   {
     "en": "industry",
@@ -1747,7 +2095,9 @@
     "zh-cn": "行业",
     "es": "La industria",
     "ar": "صناعة",
-    "ja": "業界"
+    "ja": "業界",
+    "tr": "sanayi",
+    "is": "iðnaður"
   },
   {
     "en": "figure",
@@ -1757,7 +2107,9 @@
     "zh-cn": "数字",
     "es": "la figura",
     "ar": "الشكل",
-    "ja": "数字"
+    "ja": "数字",
+    "tr": "şekil",
+    "is": "mynd"
   },
   {
     "en": "street",
@@ -1767,7 +2119,9 @@
     "zh-cn": "街",
     "es": "la calle",
     "ar": "شارع",
-    "ja": "通り"
+    "ja": "通り",
+    "tr": "sokak",
+    "is": "götu"
   },
   {
     "en": "image",
@@ -1777,7 +2131,9 @@
     "zh-cn": "图片",
     "es": "la imagen",
     "ar": "صورة",
-    "ja": "画像"
+    "ja": "画像",
+    "tr": "görüntü",
+    "is": "mynd"
   },
   {
     "en": "phone",
@@ -1787,7 +2143,9 @@
     "zh-cn": "电话",
     "es": "el teléfono",
     "ar": "هاتف",
-    "ja": "電話"
+    "ja": "電話",
+    "tr": "telefon",
+    "is": "sími"
   },
   {
     "en": "data",
@@ -1797,7 +2155,9 @@
     "zh-cn": "数据",
     "es": "los datos",
     "ar": "البيانات",
-    "ja": "データ"
+    "ja": "データ",
+    "tr": "veri",
+    "is": "gögn"
   },
   {
     "en": "picture",
@@ -1807,7 +2167,9 @@
     "zh-cn": "图片",
     "es": "la imagen",
     "ar": "صورة",
-    "ja": "画像"
+    "ja": "画像",
+    "tr": "resim",
+    "is": "mynd"
   },
   {
     "en": "practice",
@@ -1817,7 +2179,9 @@
     "zh-cn": "实践",
     "es": "la práctica",
     "ar": "ممارسة",
-    "ja": "練習"
+    "ja": "練習",
+    "tr": "uygulama",
+    "is": "æfa sig"
   },
   {
     "en": "piece",
@@ -1827,7 +2191,9 @@
     "zh-cn": "片",
     "es": "la pieza",
     "ar": "قطعة",
-    "ja": "ピース"
+    "ja": "ピース",
+    "tr": "parça",
+    "is": "stykki"
   },
   {
     "en": "land",
@@ -1837,7 +2203,9 @@
     "zh-cn": "土地",
     "es": "la tierra",
     "ar": "أرض",
-    "ja": "土地"
+    "ja": "土地",
+    "tr": "arazi",
+    "is": "land"
   },
   {
     "en": "product",
@@ -1847,7 +2215,9 @@
     "zh-cn": "产品",
     "es": "el producto",
     "ar": "المنتج",
-    "ja": "製品"
+    "ja": "製品",
+    "tr": "ürün",
+    "is": "vara"
   },
   {
     "en": "doctor",
@@ -1857,7 +2227,9 @@
     "zh-cn": "医生",
     "es": "el doctor",
     "ar": "طبيب",
-    "ja": "医師"
+    "ja": "医師",
+    "tr": "doktor",
+    "is": "læknir"
   },
   {
     "en": "wall",
@@ -1867,7 +2239,9 @@
     "zh-cn": "壁",
     "es": "la pared",
     "ar": "حائط",
-    "ja": "壁"
+    "ja": "壁",
+    "tr": "duvar",
+    "is": "veggur"
   },
   {
     "en": "patient",
@@ -1877,7 +2251,9 @@
     "zh-cn": "患者",
     "es": "el paciente",
     "ar": "صبور",
-    "ja": "患者"
+    "ja": "患者",
+    "tr": "hasta",
+    "is": "sjúklingur"
   },
   {
     "en": "worker",
@@ -1887,7 +2263,9 @@
     "zh-cn": "工人",
     "es": "el trabajador",
     "ar": "عامل",
-    "ja": "ワーカー"
+    "ja": "ワーカー",
+    "tr": "işçi",
+    "is": "starfsmaður"
   },
   {
     "en": "news",
@@ -1897,7 +2275,9 @@
     "zh-cn": "新闻",
     "es": "las noticias",
     "ar": "أخبار",
-    "ja": "ニュース"
+    "ja": "ニュース",
+    "tr": "haber",
+    "is": "fréttir"
   },
   {
     "en": "test",
@@ -1907,7 +2287,9 @@
     "zh-cn": "测试",
     "es": "la prueba",
     "ar": "اختبار",
-    "ja": "テスト"
+    "ja": "テスト",
+    "tr": "Ölçek",
+    "is": "próf"
   },
   {
     "en": "movie",
@@ -1917,7 +2299,9 @@
     "zh-cn": "电影",
     "es": "la película",
     "ar": "فيلم",
-    "ja": "映画"
+    "ja": "映画",
+    "tr": "film",
+    "is": "bíómynd"
   },
   {
     "en": "north",
@@ -1927,7 +2311,9 @@
     "zh-cn": "北",
     "es": "el norte",
     "ar": "شمال",
-    "ja": "北"
+    "ja": "北",
+    "tr": "kuzeyinde",
+    "is": "norður"
   },
   {
     "en": "love",
@@ -1937,7 +2323,9 @@
     "zh-cn": "爱",
     "es": "el amor",
     "ar": "حب",
-    "ja": "愛"
+    "ja": "愛",
+    "tr": "Aşk",
+    "is": "ást"
   },
   {
     "en": "support",
@@ -1947,7 +2335,9 @@
     "zh-cn": "支持",
     "es": "el apoyo",
     "ar": "الدعم",
-    "ja": "サポート"
+    "ja": "サポート",
+    "tr": "destek",
+    "is": "stuðningur"
   },
   {
     "en": "technology",
@@ -1957,7 +2347,9 @@
     "zh-cn": "技术",
     "es": "La tecnología",
     "ar": "تقنية",
-    "ja": "技術"
+    "ja": "技術",
+    "tr": "teknoloji",
+    "is": "tækni"
   },
   {
     "en": "step",
@@ -1967,7 +2359,9 @@
     "zh-cn": "步",
     "es": "el paso",
     "ar": "خطوة",
-    "ja": "ステップ"
+    "ja": "ステップ",
+    "tr": "adım",
+    "is": "skref"
   },
   {
     "en": "baby",
@@ -1977,7 +2371,9 @@
     "zh-cn": "宝宝",
     "es": "el bebé",
     "ar": "طفل",
-    "ja": "赤ちゃん"
+    "ja": "赤ちゃん",
+    "tr": "bebek",
+    "is": "elskan"
   },
   {
     "en": "computer",
@@ -1987,7 +2383,9 @@
     "zh-cn": "电脑",
     "es": "el ordenador",
     "ar": "الحاسوب",
-    "ja": "コンピューター"
+    "ja": "コンピューター",
+    "tr": "bilgisayar",
+    "is": "tölva"
   },
   {
     "en": "type",
@@ -1997,7 +2395,9 @@
     "zh-cn": "类型",
     "es": "el tipo",
     "ar": "اكتب",
-    "ja": "タイプ"
+    "ja": "タイプ",
+    "tr": "tip",
+    "is": "gerð"
   },
   {
     "en": "attention",
@@ -2007,7 +2407,9 @@
     "zh-cn": "注意",
     "es": "la atencion",
     "ar": "انتباه",
-    "ja": "注意"
+    "ja": "注意",
+    "tr": "Dikkat",
+    "is": "athygli"
   },
   {
     "en": "film",
@@ -2017,7 +2419,9 @@
     "zh-cn": "电影",
     "es": "la película",
     "ar": "فيلم",
-    "ja": "膜"
+    "ja": "膜",
+    "tr": "film",
+    "is": "kvikmynd"
   },
   {
     "en": "tree",
@@ -2027,7 +2431,9 @@
     "zh-cn": "树",
     "es": "el árbol",
     "ar": "شجرة",
-    "ja": "木"
+    "ja": "木",
+    "tr": "ağaç",
+    "is": "tré"
   },
   {
     "en": "source",
@@ -2037,7 +2443,9 @@
     "zh-cn": "资源",
     "es": "la fuente",
     "ar": "مصدر",
-    "ja": "ソース"
+    "ja": "ソース",
+    "tr": "kaynak",
+    "is": "uppspretta"
   },
   {
     "en": "hair",
@@ -2047,7 +2455,9 @@
     "zh-cn": "头发",
     "es": "el cabello",
     "ar": "شعر",
-    "ja": "ヘア"
+    "ja": "ヘア",
+    "tr": "saç",
+    "is": "hár"
   },
   {
     "en": "look",
@@ -2057,7 +2467,9 @@
     "zh-cn": "看",
     "es": "la mirada",
     "ar": "نظرة",
-    "ja": "見える"
+    "ja": "見える",
+    "tr": "bak",
+    "is": "líta út"
   },
   {
     "en": "century",
@@ -2067,7 +2479,9 @@
     "zh-cn": "世纪",
     "es": "el siglo",
     "ar": "مئة عام",
-    "ja": "世紀"
+    "ja": "世紀",
+    "tr": "yüzyıl",
+    "is": "öld"
   },
   {
     "en": "evidence",
@@ -2077,7 +2491,9 @@
     "zh-cn": "证据",
     "es": "la evidencia",
     "ar": "دليل",
-    "ja": "証拠"
+    "ja": "証拠",
+    "tr": "kanıt",
+    "is": "sönnunargögn"
   },
   {
     "en": "window",
@@ -2087,7 +2503,9 @@
     "zh-cn": "窗口",
     "es": "la ventana",
     "ar": "نافذة او شباك",
-    "ja": "窓"
+    "ja": "窓",
+    "tr": "pencere",
+    "is": "gluggi"
   },
   {
     "en": "culture",
@@ -2097,7 +2515,9 @@
     "zh-cn": "文化",
     "es": "la cultura",
     "ar": "حضاره",
-    "ja": "文化"
+    "ja": "文化",
+    "tr": "kültür",
+    "is": "menning"
   },
   {
     "en": "chance",
@@ -2107,7 +2527,9 @@
     "zh-cn": "机会",
     "es": "la oportunidad",
     "ar": "فرصة",
-    "ja": "チャンス"
+    "ja": "チャンス",
+    "tr": "şans",
+    "is": "tækifæri"
   },
   {
     "en": "brother",
@@ -2117,7 +2539,9 @@
     "zh-cn": "哥哥",
     "es": "el hermano",
     "ar": "شقيق",
-    "ja": "兄"
+    "ja": "兄",
+    "tr": "erkek kardeş",
+    "is": "bróðir"
   },
   {
     "en": "energy",
@@ -2127,7 +2551,9 @@
     "zh-cn": "能源",
     "es": "la energía",
     "ar": "طاقة",
-    "ja": "エネルギー"
+    "ja": "エネルギー",
+    "tr": "enerji",
+    "is": "Orka"
   },
   {
     "en": "period",
@@ -2137,7 +2563,9 @@
     "zh-cn": "期",
     "es": "el período",
     "ar": "فترة",
-    "ja": "期間"
+    "ja": "期間",
+    "tr": "dönem",
+    "is": "tímabil"
   },
   {
     "en": "course",
@@ -2147,7 +2575,9 @@
     "zh-cn": "课程",
     "es": "el curso",
     "ar": "دورة",
-    "ja": "コース"
+    "ja": "コース",
+    "tr": "kurs",
+    "is": "námskeið"
   },
   {
     "en": "summer",
@@ -2157,7 +2587,9 @@
     "zh-cn": "夏季",
     "es": "el verano",
     "ar": "الصيف",
-    "ja": "夏"
+    "ja": "夏",
+    "tr": "yaz",
+    "is": "sumar"
   },
   {
     "en": "plant",
@@ -2167,7 +2599,9 @@
     "zh-cn": "厂",
     "es": "la planta",
     "ar": "نبات",
-    "ja": "工場"
+    "ja": "工場",
+    "tr": "bitki",
+    "is": "planta"
   },
   {
     "en": "opportunity",
@@ -2177,7 +2611,9 @@
     "zh-cn": "机会",
     "es": "la oportunidad",
     "ar": "فرصة",
-    "ja": "機会"
+    "ja": "機会",
+    "tr": "fırsat",
+    "is": "tækifæri"
   },
   {
     "en": "term",
@@ -2187,7 +2623,9 @@
     "zh-cn": "术语",
     "es": "el termino",
     "ar": "مصطلح",
-    "ja": "期間"
+    "ja": "期間",
+    "tr": "terim",
+    "is": "tíma"
   },
   {
     "en": "letter",
@@ -2197,7 +2635,9 @@
     "zh-cn": "信",
     "es": "la carta",
     "ar": "رسالة",
-    "ja": "文字"
+    "ja": "文字",
+    "tr": "mektup",
+    "is": "bréf"
   },
   {
     "en": "condition",
@@ -2207,7 +2647,9 @@
     "zh-cn": "条件",
     "es": "la condición",
     "ar": "شرط",
-    "ja": "調子"
+    "ja": "調子",
+    "tr": "şart",
+    "is": "ástand"
   },
   {
     "en": "choice",
@@ -2217,7 +2659,9 @@
     "zh-cn": "选择",
     "es": "la elección",
     "ar": "خيار",
-    "ja": "選択"
+    "ja": "選択",
+    "tr": "seçim",
+    "is": "val"
   },
   {
     "en": "rule",
@@ -2227,7 +2671,9 @@
     "zh-cn": "规则",
     "es": "la regla",
     "ar": "قاعدة",
-    "ja": "ルール"
+    "ja": "ルール",
+    "tr": "kural",
+    "is": "regla"
   },
   {
     "en": "daughter",
@@ -2237,7 +2683,9 @@
     "zh-cn": "女儿",
     "es": "la hija",
     "ar": "ابنة",
-    "ja": "娘"
+    "ja": "娘",
+    "tr": "kız evlat",
+    "is": "dóttir"
   },
   {
     "en": "administration",
@@ -2247,7 +2695,9 @@
     "zh-cn": "行政",
     "es": "la administracion",
     "ar": "الادارة",
-    "ja": "投与"
+    "ja": "投与",
+    "tr": "yönetim",
+    "is": "gjöf"
   },
   {
     "en": "south",
@@ -2257,7 +2707,9 @@
     "zh-cn": "南",
     "es": "el sur",
     "ar": "جنوب",
-    "ja": "南"
+    "ja": "南",
+    "tr": "güney",
+    "is": "suður"
   },
   {
     "en": "husband",
@@ -2267,7 +2719,9 @@
     "zh-cn": "丈夫",
     "es": "el esposo",
     "ar": "الزوج",
-    "ja": "夫"
+    "ja": "夫",
+    "tr": "koca",
+    "is": "eiginmaður"
   },
   {
     "en": "floor",
@@ -2277,7 +2731,9 @@
     "zh-cn": "地板",
     "es": "el piso",
     "ar": "أرضية",
-    "ja": "床"
+    "ja": "床",
+    "tr": "zemin",
+    "is": "hæð"
   },
   {
     "en": "campaign",
@@ -2287,7 +2743,9 @@
     "zh-cn": "运动",
     "es": "la campaña",
     "ar": "حملة",
-    "ja": "キャンペーン"
+    "ja": "キャンペーン",
+    "tr": "kampanya",
+    "is": "herferð"
   },
   {
     "en": "material",
@@ -2297,7 +2755,9 @@
     "zh-cn": "材料",
     "es": "el material",
     "ar": "مواد",
-    "ja": "材料"
+    "ja": "材料",
+    "tr": "malzeme",
+    "is": "efni"
   },
   {
     "en": "population",
@@ -2307,7 +2767,9 @@
     "zh-cn": "人口",
     "es": "la población",
     "ar": "تعداد السكان",
-    "ja": "人口"
+    "ja": "人口",
+    "tr": "nüfus",
+    "is": "íbúa"
   },
   {
     "en": "call",
@@ -2317,7 +2779,9 @@
     "zh-cn": "呼叫",
     "es": "la llamada",
     "ar": "مكالمة",
-    "ja": "コール"
+    "ja": "コール",
+    "tr": "aramak",
+    "is": "hringja"
   },
   {
     "en": "economy",
@@ -2327,7 +2791,9 @@
     "zh-cn": "经济",
     "es": "la economía",
     "ar": "اقتصاد",
-    "ja": "経済"
+    "ja": "経済",
+    "tr": "ekonomi",
+    "is": "hagkerfi"
   },
   {
     "en": "hospital",
@@ -2337,7 +2803,9 @@
     "zh-cn": "醫院",
     "es": "el hospital",
     "ar": "مستشفى",
-    "ja": "病院"
+    "ja": "病院",
+    "tr": "hastane",
+    "is": "sjúkrahús"
   },
   {
     "en": "church",
@@ -2347,7 +2815,9 @@
     "zh-cn": "教会",
     "es": "la Iglesia",
     "ar": "كنيسة",
-    "ja": "教会"
+    "ja": "教会",
+    "tr": "kilise",
+    "is": "kirkja"
   },
   {
     "en": "risk",
@@ -2357,7 +2827,9 @@
     "zh-cn": "风险",
     "es": "el riesgo",
     "ar": "خطر",
-    "ja": "リスク"
+    "ja": "リスク",
+    "tr": "risk",
+    "is": "áhætta"
   },
   {
     "en": "fire",
@@ -2367,7 +2839,9 @@
     "zh-cn": "火",
     "es": "el fuego",
     "ar": "نار",
-    "ja": "火災"
+    "ja": "火災",
+    "tr": "ateş",
+    "is": "eldur"
   },
   {
     "en": "future",
@@ -2377,7 +2851,9 @@
     "zh-cn": "未来",
     "es": "el futuro",
     "ar": "مستقبل",
-    "ja": "未来"
+    "ja": "未来",
+    "tr": "gelecek",
+    "is": "framtíð"
   },
   {
     "en": "defense",
@@ -2387,7 +2863,9 @@
     "zh-cn": "防御",
     "es": "la defensa",
     "ar": "دفاع",
-    "ja": "防衛"
+    "ja": "防衛",
+    "tr": "savunma",
+    "is": "vörn"
   },
   {
     "en": "security",
@@ -2397,7 +2875,9 @@
     "zh-cn": "安全",
     "es": "la seguridad",
     "ar": "الأمان",
-    "ja": "セキュリティ"
+    "ja": "セキュリティ",
+    "tr": "güvenlik",
+    "is": "öryggi"
   },
   {
     "en": "bank",
@@ -2407,7 +2887,9 @@
     "zh-cn": "银行",
     "es": "el Banco",
     "ar": "بنك",
-    "ja": "バンク"
+    "ja": "バンク",
+    "tr": "banka",
+    "is": "banka"
   },
   {
     "en": "west",
@@ -2417,7 +2899,9 @@
     "zh-cn": "西",
     "es": "el oeste",
     "ar": "غرب",
-    "ja": "西"
+    "ja": "西",
+    "tr": "batısında",
+    "is": "vestur"
   },
   {
     "en": "sport",
@@ -2427,7 +2911,9 @@
     "zh-cn": "运动",
     "es": "el deporte",
     "ar": "رياضة",
-    "ja": "スポーツ"
+    "ja": "スポーツ",
+    "tr": "spor",
+    "is": "íþrótt"
   },
   {
     "en": "board",
@@ -2437,7 +2923,9 @@
     "zh-cn": "板",
     "es": "el tablero",
     "ar": "مجلس",
-    "ja": "ボード"
+    "ja": "ボード",
+    "tr": "yazı tahtası",
+    "is": "borð"
   },
   {
     "en": "subject",
@@ -2447,7 +2935,9 @@
     "zh-cn": "学科",
     "es": "el tema",
     "ar": "موضوع",
-    "ja": "主題"
+    "ja": "主題",
+    "tr": "konu",
+    "is": "efni"
   },
   {
     "en": "officer",
@@ -2457,7 +2947,9 @@
     "zh-cn": "官",
     "es": "el oficial",
     "ar": "ضابط",
-    "ja": "役員"
+    "ja": "役員",
+    "tr": "subay",
+    "is": "liðsforingi"
   },
   {
     "en": "rest",
@@ -2467,7 +2959,9 @@
     "zh-cn": "休息",
     "es": "el resto",
     "ar": "راحة",
-    "ja": "残り"
+    "ja": "残り",
+    "tr": "dinlenme",
+    "is": "hvíld"
   },
   {
     "en": "behavior",
@@ -2477,7 +2971,9 @@
     "zh-cn": "行为",
     "es": "el comportamiento",
     "ar": "سلوك",
-    "ja": "動作"
+    "ja": "動作",
+    "tr": "davranış",
+    "is": "hegðun"
   },
   {
     "en": "performance",
@@ -2487,7 +2983,9 @@
     "zh-cn": "性能",
     "es": "el desempeño",
     "ar": "أداء",
-    "ja": "パフォーマンス"
+    "ja": "パフォーマンス",
+    "tr": "performans",
+    "is": "frammistaða"
   },
   {
     "en": "top",
@@ -2497,7 +2995,9 @@
     "zh-cn": "最佳",
     "es": "la parte superior",
     "ar": "أعلى",
-    "ja": "上"
+    "ja": "上",
+    "tr": "üst",
+    "is": "efst"
   },
   {
     "en": "goal",
@@ -2507,7 +3007,9 @@
     "zh-cn": "目标",
     "es": "la meta",
     "ar": "هدف",
-    "ja": "ゴール"
+    "ja": "ゴール",
+    "tr": "hedef",
+    "is": "markmið"
   },
   {
     "en": "second",
@@ -2517,7 +3019,9 @@
     "zh-cn": "第二",
     "es": "el segundo",
     "ar": "ثانيا",
-    "ja": "二番目"
+    "ja": "二番目",
+    "tr": "ikinci",
+    "is": "annað"
   },
   {
     "en": "bed",
@@ -2527,7 +3031,9 @@
     "zh-cn": "床",
     "es": "la cama",
     "ar": "السرير",
-    "ja": "ベッド"
+    "ja": "ベッド",
+    "tr": "yatak",
+    "is": "rúm"
   },
   {
     "en": "order",
@@ -2537,7 +3043,9 @@
     "zh-cn": "订购",
     "es": "el orden",
     "ar": "طلب",
-    "ja": "注文"
+    "ja": "注文",
+    "tr": "sipariş",
+    "is": "röð"
   },
   {
     "en": "author",
@@ -2547,7 +3055,9 @@
     "zh-cn": "作者",
     "es": "el autor",
     "ar": "مؤلف",
-    "ja": "著者"
+    "ja": "著者",
+    "tr": "yazar",
+    "is": "höfundur"
   },
   {
     "en": "blood",
@@ -2557,7 +3067,9 @@
     "zh-cn": "血液",
     "es": "la sangre",
     "ar": "دم",
-    "ja": "血液"
+    "ja": "血液",
+    "tr": "kan",
+    "is": "blóð"
   },
   {
     "en": "agency",
@@ -2567,7 +3079,9 @@
     "zh-cn": "机构",
     "es": "La agencia",
     "ar": "وكالة",
-    "ja": "代理店"
+    "ja": "代理店",
+    "tr": "Ajans",
+    "is": "auglýsingastofu"
   },
   {
     "en": "nature",
@@ -2577,7 +3091,9 @@
     "zh-cn": "性质",
     "es": "la naturaleza",
     "ar": "طبيعة",
-    "ja": "自然"
+    "ja": "自然",
+    "tr": "doğa",
+    "is": "náttúran"
   },
   {
     "en": "color",
@@ -2587,7 +3103,9 @@
     "zh-cn": "颜色",
     "es": "el color",
     "ar": "اللون",
-    "ja": "色"
+    "ja": "色",
+    "tr": "renk",
+    "is": "litur"
   },
   {
     "en": "store",
@@ -2597,7 +3115,9 @@
     "zh-cn": "商店",
     "es": "la tienda",
     "ar": "متجر",
-    "ja": "格納"
+    "ja": "格納",
+    "tr": "mağaza",
+    "is": "verslun"
   },
   {
     "en": "sound",
@@ -2607,7 +3127,9 @@
     "zh-cn": "声音",
     "es": "El sonido",
     "ar": "صوت",
-    "ja": "音"
+    "ja": "音",
+    "tr": "ses",
+    "is": "hljóð"
   },
   {
     "en": "movement",
@@ -2617,7 +3139,9 @@
     "zh-cn": "运动",
     "es": "el movimiento",
     "ar": "حركة",
-    "ja": "移動"
+    "ja": "移動",
+    "tr": "hareket",
+    "is": "hreyfing"
   },
   {
     "en": "page",
@@ -2627,7 +3151,9 @@
     "zh-cn": "页",
     "es": "la página",
     "ar": "صفحة",
-    "ja": "ページ"
+    "ja": "ページ",
+    "tr": "sayfa",
+    "is": "síðu"
   },
   {
     "en": "race",
@@ -2637,7 +3163,9 @@
     "zh-cn": "种族",
     "es": "la raza",
     "ar": "سباق",
-    "ja": "レース"
+    "ja": "レース",
+    "tr": "yarış",
+    "is": "keppninni"
   },
   {
     "en": "concern",
@@ -2647,7 +3175,9 @@
     "zh-cn": "关心",
     "es": "La preocupación",
     "ar": "الاهتمام",
-    "ja": "懸念"
+    "ja": "懸念",
+    "tr": "ilgilendirmek",
+    "is": "áhyggjuefni"
   },
   {
     "en": "series",
@@ -2657,7 +3187,9 @@
     "zh-cn": "系列",
     "es": "las series",
     "ar": "سلسلة",
-    "ja": "シリーズ"
+    "ja": "シリーズ",
+    "tr": "dizi",
+    "is": "röð"
   },
   {
     "en": "language",
@@ -2667,7 +3199,9 @@
     "zh-cn": "语言",
     "es": "el idioma",
     "ar": "لغة",
-    "ja": "言語"
+    "ja": "言語",
+    "tr": "dil",
+    "is": "tungumál"
   },
   {
     "en": "response",
@@ -2677,7 +3211,9 @@
     "zh-cn": "响应",
     "es": "la respuesta",
     "ar": "استجابة",
-    "ja": "応答"
+    "ja": "応答",
+    "tr": "tepki",
+    "is": "svar"
   },
   {
     "en": "animal",
@@ -2687,7 +3223,9 @@
     "zh-cn": "动物",
     "es": "el animal",
     "ar": "حيوان",
-    "ja": "動物"
+    "ja": "動物",
+    "tr": "hayvan",
+    "is": "dýr"
   },
   {
     "en": "factor",
@@ -2697,7 +3235,9 @@
     "zh-cn": "因子",
     "es": "el factor",
     "ar": "عامل",
-    "ja": "因子"
+    "ja": "因子",
+    "tr": "faktör",
+    "is": "þáttur"
   },
   {
     "en": "decade",
@@ -2707,7 +3247,9 @@
     "zh-cn": "十",
     "es": "la década",
     "ar": "عقد",
-    "ja": "10年"
+    "ja": "10年",
+    "tr": "onyıl",
+    "is": "Áratugur"
   },
   {
     "en": "article",
@@ -2717,7 +3259,9 @@
     "zh-cn": "文章",
     "es": "el artículo",
     "ar": "مقالة - سلعة",
-    "ja": "記事"
+    "ja": "記事",
+    "tr": "makale",
+    "is": "grein"
   },
   {
     "en": "east",
@@ -2727,7 +3271,9 @@
     "zh-cn": "东",
     "es": "el este",
     "ar": "الشرق",
-    "ja": "東"
+    "ja": "東",
+    "tr": "Doğu",
+    "is": "austur"
   },
   {
     "en": "artist",
@@ -2737,7 +3283,9 @@
     "zh-cn": "艺术家",
     "es": "el artista",
     "ar": "فنان",
-    "ja": "アーティスト"
+    "ja": "アーティスト",
+    "tr": "sanatçı",
+    "is": "listamaður"
   },
   {
     "en": "scene",
@@ -2747,7 +3295,9 @@
     "zh-cn": "现场",
     "es": "la escena",
     "ar": "مشهد",
-    "ja": "シーン"
+    "ja": "シーン",
+    "tr": "faliyet alani, sahne",
+    "is": "vettvangur"
   },
   {
     "en": "stock",
@@ -2757,7 +3307,9 @@
     "zh-cn": "股票",
     "es": "la acción",
     "ar": "مخزون",
-    "ja": "株式"
+    "ja": "株式",
+    "tr": "Stok",
+    "is": "lager"
   },
   {
     "en": "career",
@@ -2767,7 +3319,9 @@
     "zh-cn": "事业",
     "es": "la carrera",
     "ar": "مهنة",
-    "ja": "キャリア"
+    "ja": "キャリア",
+    "tr": "kariyer",
+    "is": "feril"
   },
   {
     "en": "treatment",
@@ -2777,7 +3331,9 @@
     "zh-cn": "治疗",
     "es": "el tratamiento",
     "ar": "علاج او معاملة",
-    "ja": "処理"
+    "ja": "処理",
+    "tr": "tedavi",
+    "is": "meðferð"
   },
   {
     "en": "approach",
@@ -2787,7 +3343,9 @@
     "zh-cn": "途径",
     "es": "el enfoque",
     "ar": "مقاربة",
-    "ja": "アプローチ"
+    "ja": "アプローチ",
+    "tr": "yaklaşım",
+    "is": "nálgun"
   },
   {
     "en": "size",
@@ -2797,7 +3355,9 @@
     "zh-cn": "尺寸",
     "es": "el tamaño",
     "ar": "بحجم",
-    "ja": "サイズ"
+    "ja": "サイズ",
+    "tr": "boyut",
+    "is": "stærð"
   },
   {
     "en": "dog",
@@ -2807,7 +3367,9 @@
     "zh-cn": "狗",
     "es": "el perro",
     "ar": "الكلب",
-    "ja": "犬"
+    "ja": "犬",
+    "tr": "köpek",
+    "is": "hundur"
   },
   {
     "en": "fund",
@@ -2817,7 +3379,9 @@
     "zh-cn": "基金",
     "es": "el fondo",
     "ar": "الأموال",
-    "ja": "基金"
+    "ja": "基金",
+    "tr": "fon, sermaye",
+    "is": "sjóður"
   },
   {
     "en": "media",
@@ -2827,7 +3391,9 @@
     "zh-cn": "媒体",
     "es": "los medios de comunicación",
     "ar": "وسائل الإعلام",
-    "ja": "メディア"
+    "ja": "メディア",
+    "tr": "medya",
+    "is": "fjölmiðla"
   },
   {
     "en": "sign",
@@ -2837,7 +3403,9 @@
     "zh-cn": "标志",
     "es": "la señal",
     "ar": "إشارة",
-    "ja": "符号"
+    "ja": "符号",
+    "tr": "işaret",
+    "is": "undirrita"
   },
   {
     "en": "thought",
@@ -2847,7 +3415,9 @@
     "zh-cn": "思想",
     "es": "el pensamiento",
     "ar": "فكر",
-    "ja": "思想"
+    "ja": "思想",
+    "tr": "düşünce",
+    "is": "hugsun"
   },
   {
     "en": "list",
@@ -2857,7 +3427,9 @@
     "zh-cn": "名单",
     "es": "la lista",
     "ar": "قائمة",
-    "ja": "リスト"
+    "ja": "リスト",
+    "tr": "liste",
+    "is": "listi"
   },
   {
     "en": "individual",
@@ -2867,7 +3439,9 @@
     "zh-cn": "个人",
     "es": "el individuo",
     "ar": "فرد",
-    "ja": "個人"
+    "ja": "個人",
+    "tr": "bireysel",
+    "is": "einstaklingur"
   },
   {
     "en": "quality",
@@ -2877,7 +3451,9 @@
     "zh-cn": "质量",
     "es": "la calidad",
     "ar": "جودة",
-    "ja": "品質"
+    "ja": "品質",
+    "tr": "kalite",
+    "is": "gæði"
   },
   {
     "en": "pressure",
@@ -2887,7 +3463,9 @@
     "zh-cn": "压力",
     "es": "la presión",
     "ar": "الضغط",
-    "ja": "圧力"
+    "ja": "圧力",
+    "tr": "basınç",
+    "is": "þrýstingur"
   },
   {
     "en": "answer",
@@ -2897,7 +3475,9 @@
     "zh-cn": "回答",
     "es": "la respuesta",
     "ar": "إجابة",
-    "ja": "回答"
+    "ja": "回答",
+    "tr": "Cevap",
+    "is": "svara"
   },
   {
     "en": "resource",
@@ -2907,7 +3487,9 @@
     "zh-cn": "资源",
     "es": "el recurso",
     "ar": "مورد",
-    "ja": "リソース"
+    "ja": "リソース",
+    "tr": "kaynak",
+    "is": "úrræði"
   },
   {
     "en": "meeting",
@@ -2917,7 +3499,9 @@
     "zh-cn": "会议",
     "es": "la reunión",
     "ar": "لقاء",
-    "ja": "会議"
+    "ja": "会議",
+    "tr": "toplantı",
+    "is": "fundi"
   },
   {
     "en": "disease",
@@ -2927,7 +3511,9 @@
     "zh-cn": "疾病",
     "es": "la enfermedad",
     "ar": "مرض",
-    "ja": "疾患"
+    "ja": "疾患",
+    "tr": "hastalık",
+    "is": "sjúkdómur"
   },
   {
     "en": "success",
@@ -2937,7 +3523,9 @@
     "zh-cn": "成功",
     "es": "el éxito",
     "ar": "نجاح",
-    "ja": "成功"
+    "ja": "成功",
+    "tr": "başarı",
+    "is": "árangur"
   },
   {
     "en": "cup",
@@ -2947,7 +3535,9 @@
     "zh-cn": "杯子",
     "es": "la Copa",
     "ar": "كوب",
-    "ja": "カップ"
+    "ja": "カップ",
+    "tr": "Fincan",
+    "is": "bolli"
   },
   {
     "en": "amount",
@@ -2957,7 +3547,9 @@
     "zh-cn": "量",
     "es": "la cantidad",
     "ar": "كمية",
-    "ja": "量"
+    "ja": "量",
+    "tr": "Miktar",
+    "is": "magn"
   },
   {
     "en": "ability",
@@ -2967,7 +3559,9 @@
     "zh-cn": "能力",
     "es": "la habilidad",
     "ar": "القدرة",
-    "ja": "能力"
+    "ja": "能力",
+    "tr": "kabiliyet",
+    "is": "hæfni"
   },
   {
     "en": "staff",
@@ -2977,7 +3571,9 @@
     "zh-cn": "员工",
     "es": "el personal",
     "ar": "العاملين",
-    "ja": "スタッフ"
+    "ja": "スタッフ",
+    "tr": "Personel",
+    "is": "starfsfólk"
   },
   {
     "en": "character",
@@ -2987,7 +3583,9 @@
     "zh-cn": "字符",
     "es": "el personaje",
     "ar": "حرف",
-    "ja": "キャラクター"
+    "ja": "キャラクター",
+    "tr": "karakter",
+    "is": "eðli"
   },
   {
     "en": "growth",
@@ -2997,7 +3595,9 @@
     "zh-cn": "发展",
     "es": "el crecimiento",
     "ar": "نمو",
-    "ja": "成長"
+    "ja": "成長",
+    "tr": "büyüme",
+    "is": "vöxtur"
   },
   {
     "en": "loss",
@@ -3007,7 +3607,9 @@
     "zh-cn": "失利",
     "es": "la pérdida",
     "ar": "خسارة",
-    "ja": "損失"
+    "ja": "損失",
+    "tr": "kayıp",
+    "is": "tap"
   },
   {
     "en": "degree",
@@ -3017,7 +3619,9 @@
     "zh-cn": "度",
     "es": "el grado",
     "ar": "الدرجة العلمية",
-    "ja": "度"
+    "ja": "度",
+    "tr": "derece",
+    "is": "gráðu"
   },
   {
     "en": "attack",
@@ -3027,7 +3631,9 @@
     "zh-cn": "攻击",
     "es": "el ataque",
     "ar": "هجوم",
-    "ja": "攻撃"
+    "ja": "攻撃",
+    "tr": "saldırı",
+    "is": "árás"
   },
   {
     "en": "region",
@@ -3037,7 +3643,9 @@
     "zh-cn": "地区",
     "es": "la región",
     "ar": "منطقة",
-    "ja": "領域"
+    "ja": "領域",
+    "tr": "bölge",
+    "is": "svæði"
   },
   {
     "en": "box",
@@ -3047,7 +3655,9 @@
     "zh-cn": "框",
     "es": "la caja",
     "ar": "صندوق",
-    "ja": "ボックス"
+    "ja": "ボックス",
+    "tr": "Kutu",
+    "is": "kassi"
   },
   {
     "en": "television",
@@ -3057,7 +3667,9 @@
     "zh-cn": "电视",
     "es": "la televisión",
     "ar": "التلفاز",
-    "ja": "テレビ"
+    "ja": "テレビ",
+    "tr": "televizyon",
+    "is": "sjónvarp"
   },
   {
     "en": "training",
@@ -3067,7 +3679,9 @@
     "zh-cn": "训练",
     "es": "el entrenamiento",
     "ar": "تدريب",
-    "ja": "トレーニング"
+    "ja": "トレーニング",
+    "tr": "Eğitim",
+    "is": "þjálfun"
   },
   {
     "en": "trade",
@@ -3077,7 +3691,9 @@
     "zh-cn": "贸易",
     "es": "el comercio",
     "ar": "تجارة",
-    "ja": "トレード"
+    "ja": "トレード",
+    "tr": "Ticaret",
+    "is": "verslun"
   },
   {
     "en": "deal",
@@ -3087,7 +3703,9 @@
     "zh-cn": "合同",
     "es": "el trato",
     "ar": "صفقة",
-    "ja": "対処"
+    "ja": "対処",
+    "tr": "anlaştık mı",
+    "is": "samningur"
   },
   {
     "en": "election",
@@ -3097,7 +3715,9 @@
     "zh-cn": "选举",
     "es": "la elección",
     "ar": "انتخاب",
-    "ja": "選挙"
+    "ja": "選挙",
+    "tr": "seçim",
+    "is": "kosningar"
   },
   {
     "en": "feeling",
@@ -3107,7 +3727,9 @@
     "zh-cn": "感觉",
     "es": "la sensación",
     "ar": "شعور",
-    "ja": "感じ"
+    "ja": "感じ",
+    "tr": "duygu",
+    "is": "tilfinning"
   },
   {
     "en": "standard",
@@ -3117,7 +3739,9 @@
     "zh-cn": "标准",
     "es": "el estandar",
     "ar": "اساسي",
-    "ja": "標準"
+    "ja": "標準",
+    "tr": "standart",
+    "is": "staðall"
   },
   {
     "en": "bill",
@@ -3127,7 +3751,9 @@
     "zh-cn": "法案",
     "es": "la factura",
     "ar": "مشروع قانون",
-    "ja": "ビル"
+    "ja": "ビル",
+    "tr": "fatura",
+    "is": "reikningur"
   },
   {
     "en": "message",
@@ -3137,7 +3763,9 @@
     "zh-cn": "信息",
     "es": "el mensaje",
     "ar": "رسالة",
-    "ja": "メッセージ"
+    "ja": "メッセージ",
+    "tr": "mesaj",
+    "is": "skilaboð"
   },
   {
     "en": "analysis",
@@ -3147,7 +3775,9 @@
     "zh-cn": "分析",
     "es": "el analisis",
     "ar": "تحليل",
-    "ja": "分析"
+    "ja": "分析",
+    "tr": "analiz",
+    "is": "greining"
   },
   {
     "en": "benefit",
@@ -3157,7 +3787,9 @@
     "zh-cn": "效益",
     "es": "el beneficio",
     "ar": "فائدة",
-    "ja": "利益"
+    "ja": "利益",
+    "tr": "yarar",
+    "is": "gagn"
   },
   {
     "en": "lawyer",
@@ -3167,7 +3799,9 @@
     "zh-cn": "律师",
     "es": "El abogado",
     "ar": "المحامية",
-    "ja": "弁護士"
+    "ja": "弁護士",
+    "tr": "avukat",
+    "is": "lögfræðingur"
   },
   {
     "en": "section",
@@ -3177,7 +3811,9 @@
     "zh-cn": "部分",
     "es": "la sección",
     "ar": "الجزء",
-    "ja": "セクション"
+    "ja": "セクション",
+    "tr": "Bölüm",
+    "is": "kafla"
   },
   {
     "en": "glass",
@@ -3187,7 +3823,9 @@
     "zh-cn": "玻璃",
     "es": "el cristal",
     "ar": "زجاج",
-    "ja": "ガラス"
+    "ja": "ガラス",
+    "tr": "bardak",
+    "is": "gler"
   },
   {
     "en": "skill",
@@ -3197,7 +3835,9 @@
     "zh-cn": "技能",
     "es": "La habilidad",
     "ar": "مهارة",
-    "ja": "スキル"
+    "ja": "スキル",
+    "tr": "beceri",
+    "is": "hæfni"
   },
   {
     "en": "sister",
@@ -3207,7 +3847,9 @@
     "zh-cn": "妹妹",
     "es": "la hermana",
     "ar": "أخت",
-    "ja": "シスター"
+    "ja": "シスター",
+    "tr": "kız kardeş",
+    "is": "systir"
   },
   {
     "en": "professor",
@@ -3217,7 +3859,9 @@
     "zh-cn": "教授",
     "es": "el profesor",
     "ar": "دكتور جامعى",
-    "ja": "教授"
+    "ja": "教授",
+    "tr": "profesör",
+    "is": "prófessor"
   },
   {
     "en": "operation",
@@ -3227,7 +3871,9 @@
     "zh-cn": "手术",
     "es": "la operacion",
     "ar": "عملية",
-    "ja": "操作"
+    "ja": "操作",
+    "tr": "operasyon",
+    "is": "aðgerð"
   },
   {
     "en": "crime",
@@ -3237,7 +3883,9 @@
     "zh-cn": "犯罪",
     "es": "el crimen",
     "ar": "جريمة",
-    "ja": "犯罪"
+    "ja": "犯罪",
+    "tr": "suç",
+    "is": "glæpur"
   },
   {
     "en": "stage",
@@ -3247,7 +3895,9 @@
     "zh-cn": "阶段",
     "es": "el escenario",
     "ar": "المسرح",
-    "ja": "ステージ"
+    "ja": "ステージ",
+    "tr": "evre",
+    "is": "stigi"
   },
   {
     "en": "authority",
@@ -3257,7 +3907,9 @@
     "zh-cn": "权威",
     "es": "la autoridad",
     "ar": "السلطة",
-    "ja": "権限"
+    "ja": "権限",
+    "tr": "yetki",
+    "is": "vald"
   },
   {
     "en": "design",
@@ -3267,7 +3919,9 @@
     "zh-cn": "设计",
     "es": "el diseño",
     "ar": "التصميم",
-    "ja": "設計"
+    "ja": "設計",
+    "tr": "dizayn",
+    "is": "hönnun"
   },
   {
     "en": "sort",
@@ -3277,7 +3931,9 @@
     "zh-cn": "分类",
     "es": "el género",
     "ar": "فرز",
-    "ja": "ソート"
+    "ja": "ソート",
+    "tr": "çeşit",
+    "is": "tegund"
   },
   {
     "en": "one",
@@ -3287,7 +3943,9 @@
     "zh-cn": "一",
     "es": "el único",
     "ar": "واحد",
-    "ja": "1"
+    "ja": "1",
+    "tr": "bir",
+    "is": "einn"
   },
   {
     "en": "knowledge",
@@ -3297,7 +3955,9 @@
     "zh-cn": "知识",
     "es": "el conocimiento",
     "ar": "المعرفه",
-    "ja": "知識"
+    "ja": "知識",
+    "tr": "bilgi",
+    "is": "þekkingu"
   },
   {
     "en": "gun",
@@ -3307,7 +3967,9 @@
     "zh-cn": "枪",
     "es": "el arma",
     "ar": "بندقية",
-    "ja": "銃"
+    "ja": "銃",
+    "tr": "tabanca",
+    "is": "byssu"
   },
   {
     "en": "station",
@@ -3317,7 +3979,9 @@
     "zh-cn": "站",
     "es": "la estación",
     "ar": "محطة",
-    "ja": "駅"
+    "ja": "駅",
+    "tr": "istasyon",
+    "is": "stöð"
   },
   {
     "en": "strategy",
@@ -3327,7 +3991,9 @@
     "zh-cn": "战略",
     "es": "la estrategia",
     "ar": "إستراتيجية",
-    "ja": "戦略"
+    "ja": "戦略",
+    "tr": "strateji",
+    "is": "stefnu"
   },
   {
     "en": "truth",
@@ -3337,7 +4003,9 @@
     "zh-cn": "真相",
     "es": "la verdad",
     "ar": "حقيقة",
-    "ja": "真実"
+    "ja": "真実",
+    "tr": "hakikat",
+    "is": "sannleikur"
   },
   {
     "en": "song",
@@ -3347,7 +4015,9 @@
     "zh-cn": "歌曲",
     "es": "la canción",
     "ar": "أغنية",
-    "ja": "歌"
+    "ja": "歌",
+    "tr": "şarkı",
+    "is": "lag"
   },
   {
     "en": "example",
@@ -3357,7 +4027,9 @@
     "zh-cn": "例",
     "es": "el ejemplo",
     "ar": "مثال",
-    "ja": "例"
+    "ja": "例",
+    "tr": "örnek",
+    "is": "dæmi"
   },
   {
     "en": "environment",
@@ -3367,7 +4039,9 @@
     "zh-cn": "环境",
     "es": "el entorno",
     "ar": "بيئة",
-    "ja": "環境"
+    "ja": "環境",
+    "tr": "çevre",
+    "is": "umhverfi"
   },
   {
     "en": "leg",
@@ -3377,7 +4051,9 @@
     "zh-cn": "腿",
     "es": "la pierna",
     "ar": "رجل",
-    "ja": "脚"
+    "ja": "脚",
+    "tr": "bacak",
+    "is": "fótur"
   },
   {
     "en": "public",
@@ -3387,7 +4063,9 @@
     "zh-cn": "上市",
     "es": "el público",
     "ar": "عامة",
-    "ja": "パブリック"
+    "ja": "パブリック",
+    "tr": "halka açık",
+    "is": "opinber"
   },
   {
     "en": "executive",
@@ -3397,7 +4075,9 @@
     "zh-cn": "行政人员",
     "es": "el Ejecutivo",
     "ar": "تنفيذي",
-    "ja": "エグゼクティブ"
+    "ja": "エグゼクティブ",
+    "tr": "yönetici",
+    "is": "framkvæmdastjóri"
   },
   {
     "en": "set",
@@ -3407,7 +4087,9 @@
     "zh-cn": "组",
     "es": "el conjunto",
     "ar": "جلس",
-    "ja": "セット"
+    "ja": "セット",
+    "tr": "set",
+    "is": "sett"
   },
   {
     "en": "rock",
@@ -3417,7 +4099,9 @@
     "zh-cn": "岩",
     "es": "la roca",
     "ar": "صخرة",
-    "ja": "岩"
+    "ja": "岩",
+    "tr": "Kaya",
+    "is": "Berg"
   },
   {
     "en": "note",
@@ -3427,7 +4111,9 @@
     "zh-cn": "注意",
     "es": "la nota",
     "ar": "ملحوظة",
-    "ja": "注意"
+    "ja": "注意",
+    "tr": "Not",
+    "is": "athugasemd"
   },
   {
     "en": "manager",
@@ -3437,7 +4123,9 @@
     "zh-cn": "经理",
     "es": "el gerente",
     "ar": "مدير",
-    "ja": "マネージャー"
+    "ja": "マネージャー",
+    "tr": "müdür",
+    "is": "framkvæmdastjóri"
   },
   {
     "en": "help",
@@ -3447,7 +4135,9 @@
     "zh-cn": "帮帮我",
     "es": "la ayuda",
     "ar": "مساعدة",
-    "ja": "助けて"
+    "ja": "助けて",
+    "tr": "yardım et",
+    "is": "hjálp"
   },
   {
     "en": "network",
@@ -3457,7 +4147,9 @@
     "zh-cn": "网络",
     "es": "la red",
     "ar": "شبكة الاتصال",
-    "ja": "ネットワーク"
+    "ja": "ネットワーク",
+    "tr": "ağ",
+    "is": "net"
   },
   {
     "en": "science",
@@ -3467,7 +4159,9 @@
     "zh-cn": "科学",
     "es": "la ciencia",
     "ar": "علم",
-    "ja": "科学"
+    "ja": "科学",
+    "tr": "Bilim",
+    "is": "vísindi"
   },
   {
     "en": "memory",
@@ -3477,7 +4171,9 @@
     "zh-cn": "记忆",
     "es": "la memoria",
     "ar": "ذاكرة",
-    "ja": "記憶"
+    "ja": "記憶",
+    "tr": "bellek",
+    "is": "minni"
   },
   {
     "en": "card",
@@ -3487,7 +4183,9 @@
     "zh-cn": "卡",
     "es": "la tarjeta",
     "ar": "بطاقة",
-    "ja": "カード"
+    "ja": "カード",
+    "tr": "kart",
+    "is": "kort"
   },
   {
     "en": "seat",
@@ -3497,7 +4195,9 @@
     "zh-cn": "座位",
     "es": "el asiento",
     "ar": "مقعد",
-    "ja": "シート"
+    "ja": "シート",
+    "tr": "oturma yeri",
+    "is": "sæti"
   },
   {
     "en": "cell",
@@ -3507,7 +4207,9 @@
     "zh-cn": "细胞",
     "es": "la célula",
     "ar": "زنزانة",
-    "ja": "細胞"
+    "ja": "細胞",
+    "tr": "hücre",
+    "is": "klefi"
   },
   {
     "en": "trial",
@@ -3517,7 +4219,9 @@
     "zh-cn": "审讯",
     "es": "la prueba",
     "ar": "التجربة",
-    "ja": "試行"
+    "ja": "試行",
+    "tr": "Deneme",
+    "is": "rannsókn"
   },
   {
     "en": "expert",
@@ -3527,7 +4231,9 @@
     "zh-cn": "专家",
     "es": "el experto",
     "ar": "خبير",
-    "ja": "専門家"
+    "ja": "専門家",
+    "tr": "uzman",
+    "is": "sérfræðingur"
   },
   {
     "en": "spring",
@@ -3537,7 +4243,9 @@
     "zh-cn": "弹簧",
     "es": "la primavera",
     "ar": "ربيع",
-    "ja": "春"
+    "ja": "春",
+    "tr": "bahar",
+    "is": "vor"
   },
   {
     "en": "firm",
@@ -3547,7 +4255,9 @@
     "zh-cn": "公司",
     "es": "La firma",
     "ar": "مؤسسة",
-    "ja": "当社"
+    "ja": "当社",
+    "tr": "firma",
+    "is": "fyrirtæki"
   },
   {
     "en": "radio",
@@ -3557,7 +4267,9 @@
     "zh-cn": "无线电",
     "es": "la radio",
     "ar": "راديو",
-    "ja": "無線"
+    "ja": "無線",
+    "tr": "radyo",
+    "is": "útvarp"
   },
   {
     "en": "management",
@@ -3567,7 +4279,9 @@
     "zh-cn": "管理",
     "es": "la gestión",
     "ar": "إدارة",
-    "ja": "管理"
+    "ja": "管理",
+    "tr": "yönetim",
+    "is": "stjórnun"
   },
   {
     "en": "ball",
@@ -3577,7 +4291,9 @@
     "zh-cn": "球",
     "es": "la pelota",
     "ar": "كرة",
-    "ja": "玉"
+    "ja": "玉",
+    "tr": "top",
+    "is": "bolti"
   },
   {
     "en": "talk",
@@ -3587,7 +4303,9 @@
     "zh-cn": "谈论",
     "es": "la conversación",
     "ar": "حديث",
-    "ja": "トーク"
+    "ja": "トーク",
+    "tr": "konuşma",
+    "is": "tala"
   },
   {
     "en": "theory",
@@ -3597,7 +4315,9 @@
     "zh-cn": "理论",
     "es": "la teoría",
     "ar": "نظرية",
-    "ja": "理論"
+    "ja": "理論",
+    "tr": "teori",
+    "is": "kenning"
   },
   {
     "en": "impact",
@@ -3607,7 +4327,9 @@
     "zh-cn": "碰撞",
     "es": "el impacto",
     "ar": "تأثير",
-    "ja": "影響"
+    "ja": "影響",
+    "tr": "darbe",
+    "is": "áhrif"
   },
   {
     "en": "statement",
@@ -3617,7 +4339,9 @@
     "zh-cn": "声明",
     "es": "la declaración",
     "ar": "بيان",
-    "ja": "ステートメント"
+    "ja": "ステートメント",
+    "tr": "Beyan",
+    "is": "yfirlýsing"
   },
   {
     "en": "charge",
@@ -3627,7 +4351,9 @@
     "zh-cn": "收费",
     "es": "la carga",
     "ar": "الشحنة",
-    "ja": "電荷"
+    "ja": "電荷",
+    "tr": "şarj etmek",
+    "is": "ákæra"
   },
   {
     "en": "direction",
@@ -3637,7 +4363,9 @@
     "zh-cn": "方向",
     "es": "la dirección",
     "ar": "اتجاه",
-    "ja": "方向"
+    "ja": "方向",
+    "tr": "yön",
+    "is": "átt"
   },
   {
     "en": "weapon",
@@ -3647,7 +4375,9 @@
     "zh-cn": "武器",
     "es": "El arma",
     "ar": "سلاح",
-    "ja": "武器"
+    "ja": "武器",
+    "tr": "silah",
+    "is": "vopn"
   },
   {
     "en": "employee",
@@ -3657,7 +4387,9 @@
     "zh-cn": "雇员",
     "es": "el empleado",
     "ar": "موظف",
-    "ja": "従業員"
+    "ja": "従業員",
+    "tr": "işçi",
+    "is": "starfsmaður"
   },
   {
     "en": "peace",
@@ -3667,7 +4399,9 @@
     "zh-cn": "和平",
     "es": "la paz",
     "ar": "سلام",
-    "ja": "平和"
+    "ja": "平和",
+    "tr": "Barış",
+    "is": "friður"
   },
   {
     "en": "base",
@@ -3677,7 +4411,9 @@
     "zh-cn": "基础",
     "es": "la base",
     "ar": "قاعدة",
-    "ja": "ベース"
+    "ja": "ベース",
+    "tr": "baz",
+    "is": "grunnur"
   },
   {
     "en": "pain",
@@ -3687,7 +4423,9 @@
     "zh-cn": "疼痛",
     "es": "el dolor",
     "ar": "الم",
-    "ja": "痛み"
+    "ja": "痛み",
+    "tr": "Ağrı",
+    "is": "sársauki"
   },
   {
     "en": "play",
@@ -3697,7 +4435,9 @@
     "zh-cn": "玩",
     "es": "el juego",
     "ar": "لعب",
-    "ja": "遊びます"
+    "ja": "遊びます",
+    "tr": "oyun",
+    "is": "leika"
   },
   {
     "en": "measure",
@@ -3707,7 +4447,9 @@
     "zh-cn": "测量",
     "es": "la medida",
     "ar": "قياس",
-    "ja": "測定"
+    "ja": "測定",
+    "tr": "ölçmek",
+    "is": "mæla"
   },
   {
     "en": "interview",
@@ -3717,7 +4459,9 @@
     "zh-cn": "访问",
     "es": "la entrevista",
     "ar": "مقابلة",
-    "ja": "インタビュー"
+    "ja": "インタビュー",
+    "tr": "röportaj",
+    "is": "viðtal"
   },
   {
     "en": "chair",
@@ -3727,7 +4471,9 @@
     "zh-cn": "椅子",
     "es": "la silla",
     "ar": "كرسي",
-    "ja": "椅子"
+    "ja": "椅子",
+    "tr": "sandalye",
+    "is": "stól"
   },
   {
     "en": "fish",
@@ -3737,7 +4483,9 @@
     "zh-cn": "鱼",
     "es": "el pescado",
     "ar": "سمك",
-    "ja": "魚"
+    "ja": "魚",
+    "tr": "balık",
+    "is": "fiskur"
   },
   {
     "en": "camera",
@@ -3747,7 +4495,9 @@
     "zh-cn": "相机",
     "es": "la Cámara",
     "ar": "الة تصوير",
-    "ja": "カメラ"
+    "ja": "カメラ",
+    "tr": "kamera",
+    "is": "myndavél"
   },
   {
     "en": "structure",
@@ -3757,7 +4507,9 @@
     "zh-cn": "结构体",
     "es": "la estructura",
     "ar": "بناء",
-    "ja": "構造"
+    "ja": "構造",
+    "tr": "yapı",
+    "is": "uppbygging"
   },
   {
     "en": "politics",
@@ -3767,7 +4519,9 @@
     "zh-cn": "政治",
     "es": "las políticas",
     "ar": "سياسة",
-    "ja": "政治"
+    "ja": "政治",
+    "tr": "siyaset",
+    "is": "stjórnmál"
   },
   {
     "en": "bit",
@@ -3777,7 +4531,9 @@
     "zh-cn": "位",
     "es": "el bit",
     "ar": "قليلا",
-    "ja": "ビット"
+    "ja": "ビット",
+    "tr": "bit",
+    "is": "hluti"
   },
   {
     "en": "weight",
@@ -3787,7 +4543,9 @@
     "zh-cn": "重量",
     "es": "el peso",
     "ar": "وزن",
-    "ja": "重量"
+    "ja": "重量",
+    "tr": "ağırlık",
+    "is": "þyngd"
   },
   {
     "en": "candidate",
@@ -3797,7 +4555,9 @@
     "zh-cn": "候选人",
     "es": "el candidato",
     "ar": "مرشح",
-    "ja": "候補者"
+    "ja": "候補者",
+    "tr": "aday",
+    "is": "frambjóðandi"
   },
   {
     "en": "production",
@@ -3807,7 +4567,9 @@
     "zh-cn": "生产",
     "es": "la producción",
     "ar": "إنتاج",
-    "ja": "製造"
+    "ja": "製造",
+    "tr": "üretim",
+    "is": "framleiðslu"
   },
   {
     "en": "trip",
@@ -3817,7 +4579,9 @@
     "zh-cn": "旅",
     "es": "el viaje",
     "ar": "رحلة قصيرة",
-    "ja": "旅行"
+    "ja": "旅行",
+    "tr": "gezi",
+    "is": "ferð"
   },
   {
     "en": "evening",
@@ -3827,7 +4591,9 @@
     "zh-cn": "晚间",
     "es": "la noche",
     "ar": "مساء",
-    "ja": "イブニング"
+    "ja": "イブニング",
+    "tr": "akşam",
+    "is": "kvöld"
   },
   {
     "en": "conference",
@@ -3837,7 +4603,9 @@
     "zh-cn": "会议",
     "es": "la Conferencia",
     "ar": "مؤتمر",
-    "ja": "会議"
+    "ja": "会議",
+    "tr": "konferans",
+    "is": "ráðstefna"
   },
   {
     "en": "unit",
@@ -3847,7 +4615,9 @@
     "zh-cn": "单元",
     "es": "la unidad",
     "ar": "وحدة",
-    "ja": "単位"
+    "ja": "単位",
+    "tr": "birim",
+    "is": "eining"
   },
   {
     "en": "style",
@@ -3857,7 +4627,9 @@
     "zh-cn": "样式",
     "es": "el estilo",
     "ar": "قلم المدقة",
-    "ja": "スタイル"
+    "ja": "スタイル",
+    "tr": "stil",
+    "is": "stíl"
   },
   {
     "en": "adult",
@@ -3867,7 +4639,9 @@
     "zh-cn": "成人",
     "es": "el adulto",
     "ar": "بالغ",
-    "ja": "大人"
+    "ja": "大人",
+    "tr": "yetişkin",
+    "is": "fullorðinn"
   },
   {
     "en": "range",
@@ -3877,7 +4651,9 @@
     "zh-cn": "范围",
     "es": "el rango",
     "ar": "نطاق",
-    "ja": "範囲"
+    "ja": "範囲",
+    "tr": "menzil",
+    "is": "svið"
   },
   {
     "en": "past",
@@ -3887,7 +4663,9 @@
     "zh-cn": "过去",
     "es": "el pasado",
     "ar": "الماضي",
-    "ja": "過去"
+    "ja": "過去",
+    "tr": "geçmiş",
+    "is": "áður"
   },
   {
     "en": "edge",
@@ -3897,7 +4675,9 @@
     "zh-cn": "边缘",
     "es": "el borde",
     "ar": "حافة",
-    "ja": "エッジ"
+    "ja": "エッジ",
+    "tr": "kenar",
+    "is": "brún"
   },
   {
     "en": "writer",
@@ -3907,7 +4687,9 @@
     "zh-cn": "作家",
     "es": "el escritor",
     "ar": "كاتب",
-    "ja": "ライター"
+    "ja": "ライター",
+    "tr": "yazar",
+    "is": "rithöfundur"
   },
   {
     "en": "trouble",
@@ -3917,7 +4699,9 @@
     "zh-cn": "麻烦",
     "es": "el problema",
     "ar": "مشكلة",
-    "ja": "トラブル"
+    "ja": "トラブル",
+    "tr": "sorun",
+    "is": "vandræði"
   },
   {
     "en": "challenge",
@@ -3927,7 +4711,9 @@
     "zh-cn": "挑战",
     "es": "el reto",
     "ar": "التحدي",
-    "ja": "チャレンジ"
+    "ja": "チャレンジ",
+    "tr": "meydan okuma",
+    "is": "áskorun"
   },
   {
     "en": "fear",
@@ -3937,7 +4723,9 @@
     "zh-cn": "恐惧",
     "es": "el miedo",
     "ar": "خوف",
-    "ja": "恐れ"
+    "ja": "恐れ",
+    "tr": "korku",
+    "is": "ótti"
   },
   {
     "en": "shoulder",
@@ -3947,7 +4735,9 @@
     "zh-cn": "肩",
     "es": "el hombro",
     "ar": "كتف",
-    "ja": "ショルダー"
+    "ja": "ショルダー",
+    "tr": "omuz",
+    "is": "öxl"
   },
   {
     "en": "institution",
@@ -3957,7 +4747,9 @@
     "zh-cn": "机构",
     "es": "La institución",
     "ar": "المعهد",
-    "ja": "機関"
+    "ja": "機関",
+    "tr": "kurum",
+    "is": "stofnun"
   },
   {
     "en": "sea",
@@ -3967,7 +4759,9 @@
     "zh-cn": "海",
     "es": "el mar",
     "ar": "بحر",
-    "ja": "海"
+    "ja": "海",
+    "tr": "deniz",
+    "is": "sjó"
   },
   {
     "en": "dream",
@@ -3977,7 +4771,9 @@
     "zh-cn": "梦想",
     "es": "el sueño",
     "ar": "حلم",
-    "ja": "夢"
+    "ja": "夢",
+    "tr": "rüya",
+    "is": "draumur"
   },
   {
     "en": "bar",
@@ -3987,7 +4783,9 @@
     "zh-cn": "酒吧",
     "es": "el bar",
     "ar": "شريط",
-    "ja": "バー"
+    "ja": "バー",
+    "tr": "bar",
+    "is": "bar"
   },
   {
     "en": "property",
@@ -3997,7 +4795,9 @@
     "zh-cn": "属性",
     "es": "la propiedad",
     "ar": "خاصية",
-    "ja": "プロパティ"
+    "ja": "プロパティ",
+    "tr": "özellik",
+    "is": "eign"
   },
   {
     "en": "stuff",
@@ -4007,7 +4807,9 @@
     "zh-cn": "东东",
     "es": "las cosas",
     "ar": "أمور",
-    "ja": "もの"
+    "ja": "もの",
+    "tr": "şey",
+    "is": "efni"
   },
   {
     "en": "detail",
@@ -4017,7 +4819,9 @@
     "zh-cn": "详情",
     "es": "el detalle",
     "ar": "التفاصيل",
-    "ja": "詳細"
+    "ja": "詳細",
+    "tr": "detay",
+    "is": "smáatriði"
   },
   {
     "en": "method",
@@ -4027,7 +4831,9 @@
     "zh-cn": "方法",
     "es": "el método",
     "ar": "طريقة",
-    "ja": "方法"
+    "ja": "方法",
+    "tr": "yöntem",
+    "is": "aðferð"
   },
   {
     "en": "magazine",
@@ -4037,7 +4843,9 @@
     "zh-cn": "杂志",
     "es": "la revista",
     "ar": "مجلة",
-    "ja": "マガジン"
+    "ja": "マガジン",
+    "tr": "dergi",
+    "is": "tímaritið"
   },
   {
     "en": "hotel",
@@ -4047,7 +4855,9 @@
     "zh-cn": "旅馆",
     "es": "el hotel",
     "ar": "الفندق",
-    "ja": "ホテル"
+    "ja": "ホテル",
+    "tr": "otel",
+    "is": "hótel"
   },
   {
     "en": "soldier",
@@ -4057,7 +4867,9 @@
     "zh-cn": "士兵",
     "es": "el soldado",
     "ar": "جندي",
-    "ja": "兵士"
+    "ja": "兵士",
+    "tr": "asker",
+    "is": "hermaður"
   },
   {
     "en": "cause",
@@ -4067,7 +4879,9 @@
     "zh-cn": "原因",
     "es": "la causa",
     "ar": "سبب",
-    "ja": "原因"
+    "ja": "原因",
+    "tr": "sebeb olmak",
+    "is": "orsök"
   },
   {
     "en": "bag",
@@ -4077,7 +4891,9 @@
     "zh-cn": "袋",
     "es": "el bolso",
     "ar": "حقيبة",
-    "ja": "バッグ"
+    "ja": "バッグ",
+    "tr": "sırt çantası",
+    "is": "taska"
   },
   {
     "en": "heat",
@@ -4087,7 +4903,9 @@
     "zh-cn": "热",
     "es": "el calor",
     "ar": "الحرارة",
-    "ja": "熱"
+    "ja": "熱",
+    "tr": "sıcaklık",
+    "is": "hita"
   },
   {
     "en": "fall",
@@ -4097,7 +4915,9 @@
     "zh-cn": "秋季",
     "es": "la caída",
     "ar": "خريف",
-    "ja": "秋"
+    "ja": "秋",
+    "tr": "düşmek",
+    "is": "falla"
   },
   {
     "en": "marriage",
@@ -4107,7 +4927,9 @@
     "zh-cn": "婚姻",
     "es": "el matrimonio",
     "ar": "زواج",
-    "ja": "結婚"
+    "ja": "結婚",
+    "tr": "evlilik",
+    "is": "hjónaband"
   },
   {
     "en": "surface",
@@ -4117,7 +4939,9 @@
     "zh-cn": "表面",
     "es": "la superficie",
     "ar": "سطح - المظهر الخارجي",
-    "ja": "表面"
+    "ja": "表面",
+    "tr": "yüzey",
+    "is": "yfirborð"
   },
   {
     "en": "purpose",
@@ -4127,7 +4951,9 @@
     "zh-cn": "目的",
     "es": "el propósito",
     "ar": "غرض",
-    "ja": "目的"
+    "ja": "目的",
+    "tr": "amaç",
+    "is": "Tilgangur"
   },
   {
     "en": "pattern",
@@ -4137,7 +4963,9 @@
     "zh-cn": "模式",
     "es": "el patrón",
     "ar": "نمط",
-    "ja": "パターン"
+    "ja": "パターン",
+    "tr": "Desen",
+    "is": "mynstur"
   },
   {
     "en": "skin",
@@ -4147,7 +4975,9 @@
     "zh-cn": "皮肤",
     "es": "la piel",
     "ar": "بشرة",
-    "ja": "肌"
+    "ja": "肌",
+    "tr": "cilt",
+    "is": "húð"
   },
   {
     "en": "agent",
@@ -4157,7 +4987,9 @@
     "zh-cn": "代理人",
     "es": "el agente",
     "ar": "وكيل",
-    "ja": "エージェント"
+    "ja": "エージェント",
+    "tr": "ajan",
+    "is": "umboðsmaður"
   },
   {
     "en": "owner",
@@ -4167,7 +4999,9 @@
     "zh-cn": "所有者",
     "es": "el propietario",
     "ar": "صاحب",
-    "ja": "オーナー"
+    "ja": "オーナー",
+    "tr": "sahip",
+    "is": "eigandi"
   },
   {
     "en": "machine",
@@ -4177,7 +5011,9 @@
     "zh-cn": "机",
     "es": "la máquina",
     "ar": "آلة",
-    "ja": "機械"
+    "ja": "機械",
+    "tr": "makine",
+    "is": "vél"
   },
   {
     "en": "gas",
@@ -4187,7 +5023,9 @@
     "zh-cn": "加油站",
     "es": "el gas",
     "ar": "غاز",
-    "ja": "ガス"
+    "ja": "ガス",
+    "tr": "gaz",
+    "is": "gas"
   },
   {
     "en": "generation",
@@ -4197,7 +5035,9 @@
     "zh-cn": "代",
     "es": "la generación",
     "ar": "توليد",
-    "ja": "世代"
+    "ja": "世代",
+    "tr": "nesil",
+    "is": "kynslóð"
   },
   {
     "en": "cancer",
@@ -4207,7 +5047,9 @@
     "zh-cn": "癌症",
     "es": "el cancer",
     "ar": "سرطان",
-    "ja": "癌"
+    "ja": "癌",
+    "tr": "kanser",
+    "is": "krabbamein"
   },
   {
     "en": "item",
@@ -4217,7 +5059,9 @@
     "zh-cn": "项目",
     "es": "el objeto",
     "ar": "بند",
-    "ja": "項目"
+    "ja": "項目",
+    "tr": "madde",
+    "is": "atriði"
   },
   {
     "en": "reality",
@@ -4227,7 +5071,9 @@
     "zh-cn": "现实",
     "es": "la realidad",
     "ar": "واقع",
-    "ja": "現実"
+    "ja": "現実",
+    "tr": "gerçeklik",
+    "is": "raunveruleiki"
   },
   {
     "en": "coach",
@@ -4237,7 +5083,9 @@
     "zh-cn": "教练",
     "es": "el entrenador",
     "ar": "مدرب حافلة ركاب",
-    "ja": "コーチ"
+    "ja": "コーチ",
+    "tr": "Koç",
+    "is": "þjálfari"
   },
   {
     "en": "yard",
@@ -4247,7 +5095,9 @@
     "zh-cn": "码",
     "es": "el patio",
     "ar": "حديقة منزل",
-    "ja": "ヤード"
+    "ja": "ヤード",
+    "tr": "avlu",
+    "is": "garð"
   },
   {
     "en": "violence",
@@ -4257,7 +5107,9 @@
     "zh-cn": "暴力",
     "es": "la violencia",
     "ar": "عنف",
-    "ja": "暴力"
+    "ja": "暴力",
+    "tr": "şiddet",
+    "is": "ofbeldi"
   },
   {
     "en": "investment",
@@ -4267,7 +5119,9 @@
     "zh-cn": "投资",
     "es": "la inversión",
     "ar": "استثمار",
-    "ja": "投資"
+    "ja": "投資",
+    "tr": "yatırım",
+    "is": "fjárfesting"
   },
   {
     "en": "discussion",
@@ -4277,7 +5131,9 @@
     "zh-cn": "讨论",
     "es": "La discusión",
     "ar": "نقاش",
-    "ja": "討論"
+    "ja": "討論",
+    "tr": "tartışma",
+    "is": "umræðu"
   },
   {
     "en": "finger",
@@ -4287,7 +5143,9 @@
     "zh-cn": "手指",
     "es": "el dedo",
     "ar": "اصبع اليد",
-    "ja": "指"
+    "ja": "指",
+    "tr": "parmak",
+    "is": "fingur"
   },
   {
     "en": "garden",
@@ -4297,7 +5155,9 @@
     "zh-cn": "花园",
     "es": "el jardín",
     "ar": "حديقة",
-    "ja": "庭園"
+    "ja": "庭園",
+    "tr": "Bahçe",
+    "is": "garður"
   },
   {
     "en": "collection",
@@ -4307,7 +5167,9 @@
     "zh-cn": "采集",
     "es": "la colección",
     "ar": "مجموعة",
-    "ja": "コレクション"
+    "ja": "コレクション",
+    "tr": "Toplamak",
+    "is": "safn"
   },
   {
     "en": "task",
@@ -4317,7 +5179,9 @@
     "zh-cn": "任务",
     "es": "la tarea",
     "ar": "مهمة",
-    "ja": "仕事"
+    "ja": "仕事",
+    "tr": "görev",
+    "is": "verkefni"
   },
   {
     "en": "partner",
@@ -4327,7 +5191,9 @@
     "zh-cn": "伙伴",
     "es": "el compañero",
     "ar": "شريك",
-    "ja": "パートナー"
+    "ja": "パートナー",
+    "tr": "ortak",
+    "is": "samstarfsaðili"
   },
   {
     "en": "kitchen",
@@ -4337,7 +5203,9 @@
     "zh-cn": "厨房",
     "es": "La cocina",
     "ar": "مطبخ",
-    "ja": "キッチン"
+    "ja": "キッチン",
+    "tr": "mutfak",
+    "is": "eldhús"
   },
   {
     "en": "consumer",
@@ -4347,7 +5215,9 @@
     "zh-cn": "消费者",
     "es": "el consumidor",
     "ar": "مستهلك",
-    "ja": "消費者"
+    "ja": "消費者",
+    "tr": "tüketici",
+    "is": "neytandi"
   },
   {
     "en": "shot",
@@ -4357,7 +5227,9 @@
     "zh-cn": "射击",
     "es": "el disparo",
     "ar": "اطلاق النار",
-    "ja": "ショット"
+    "ja": "ショット",
+    "tr": "atış",
+    "is": "skot"
   },
   {
     "en": "budget",
@@ -4367,7 +5239,9 @@
     "zh-cn": "预算",
     "es": "el presupuesto",
     "ar": "ميزانية",
-    "ja": "予算"
+    "ja": "予算",
+    "tr": "bütçe",
+    "is": "fjárhagsáætlun"
   },
   {
     "en": "painting",
@@ -4377,7 +5251,9 @@
     "zh-cn": "绘画",
     "es": "la pintura",
     "ar": "لوحة",
-    "ja": "ペインティング"
+    "ja": "ペインティング",
+    "tr": "boyama",
+    "is": "málverk"
   },
   {
     "en": "scientist",
@@ -4387,7 +5263,9 @@
     "zh-cn": "科学家",
     "es": "El Científico",
     "ar": "امن",
-    "ja": "科学者"
+    "ja": "科学者",
+    "tr": "Bilim insanı",
+    "is": "vísindamaður"
   },
   {
     "en": "agreement",
@@ -4397,7 +5275,9 @@
     "zh-cn": "协议",
     "es": "el acuerdo",
     "ar": "اتفاقية",
-    "ja": "契約"
+    "ja": "契約",
+    "tr": "anlaşma",
+    "is": "samningur"
   },
   {
     "en": "capital",
@@ -4407,7 +5287,9 @@
     "zh-cn": "首都",
     "es": "la capital",
     "ar": "رأس المال",
-    "ja": "資本"
+    "ja": "資本",
+    "tr": "Başkent",
+    "is": "höfuðborg"
   },
   {
     "en": "mouth",
@@ -4417,7 +5299,9 @@
     "zh-cn": "口",
     "es": "la boca",
     "ar": "فم",
-    "ja": "口"
+    "ja": "口",
+    "tr": "ağız",
+    "is": "munni"
   },
   {
     "en": "victim",
@@ -4427,7 +5311,9 @@
     "zh-cn": "受害者",
     "es": "la víctima",
     "ar": "ضحية",
-    "ja": "犠牲者"
+    "ja": "犠牲者",
+    "tr": "kurban",
+    "is": "fórnarlamb"
   },
   {
     "en": "newspaper",
@@ -4437,7 +5323,9 @@
     "zh-cn": "报纸",
     "es": "el periódico",
     "ar": "جريدة",
-    "ja": "新聞"
+    "ja": "新聞",
+    "tr": "gazete",
+    "is": "dagblað"
   },
   {
     "en": "threat",
@@ -4447,7 +5335,9 @@
     "zh-cn": "威胁",
     "es": "la amenaza",
     "ar": "التهديد",
-    "ja": "脅威"
+    "ja": "脅威",
+    "tr": "tehdit",
+    "is": "ógn"
   },
   {
     "en": "responsibility",
@@ -4457,7 +5347,9 @@
     "zh-cn": "责任",
     "es": "la responsabilidad",
     "ar": "المسئولية",
-    "ja": "責任"
+    "ja": "責任",
+    "tr": "sorumluluk",
+    "is": "ábyrgð"
   },
   {
     "en": "attorney",
@@ -4467,7 +5359,9 @@
     "zh-cn": "律师",
     "es": "el abogado",
     "ar": "محامي",
-    "ja": "弁護士"
+    "ja": "弁護士",
+    "tr": "avukat",
+    "is": "lögfræðingur"
   },
   {
     "en": "score",
@@ -4477,7 +5371,9 @@
     "zh-cn": "得分了",
     "es": "el marcador",
     "ar": "أحرز هدفاً",
-    "ja": "スコア"
+    "ja": "スコア",
+    "tr": "Gol",
+    "is": "mark"
   },
   {
     "en": "account",
@@ -4487,7 +5383,9 @@
     "zh-cn": "帐户",
     "es": "la cuenta",
     "ar": "الحساب",
-    "ja": "アカウント"
+    "ja": "アカウント",
+    "tr": "hesap",
+    "is": "reikningur"
   },
   {
     "en": "break",
@@ -4497,7 +5395,9 @@
     "zh-cn": "打破",
     "es": "el descanso",
     "ar": "استراحة",
-    "ja": "ブレーク"
+    "ja": "ブレーク",
+    "tr": "mola",
+    "is": "brjóta"
   },
   {
     "en": "audience",
@@ -4507,7 +5407,9 @@
     "zh-cn": "听众",
     "es": "la audiencia",
     "ar": "جمهور",
-    "ja": "聴衆"
+    "ja": "聴衆",
+    "tr": "seyirci",
+    "is": "áhorfendur"
   },
   {
     "en": "dinner",
@@ -4517,7 +5419,9 @@
     "zh-cn": "晚餐",
     "es": "la cena",
     "ar": "وجبة عشاء",
-    "ja": "ディナー"
+    "ja": "ディナー",
+    "tr": "akşam yemegi",
+    "is": "kvöldmatur"
   },
   {
     "en": "vote",
@@ -4527,7 +5431,9 @@
     "zh-cn": "投票",
     "es": "el voto",
     "ar": "تصويت",
-    "ja": "投票"
+    "ja": "投票",
+    "tr": "oy",
+    "is": "atkvæði"
   },
   {
     "en": "debate",
@@ -4537,7 +5443,9 @@
     "zh-cn": "辩论",
     "es": "el debate",
     "ar": "النقاش",
-    "ja": "ディベート"
+    "ja": "ディベート",
+    "tr": "tartışma",
+    "is": "umræðu"
   },
   {
     "en": "citizen",
@@ -4547,7 +5455,9 @@
     "zh-cn": "公民",
     "es": "el ciudadano",
     "ar": "مواطن",
-    "ja": "市民"
+    "ja": "市民",
+    "tr": "vatandaş",
+    "is": "ríkisborgari"
   },
   {
     "en": "majority",
@@ -4557,7 +5467,9 @@
     "zh-cn": "多数",
     "es": "la mayoría",
     "ar": "أغلبية",
-    "ja": "多数"
+    "ja": "多数",
+    "tr": "çoğunluk",
+    "is": "Meirihluti"
   },
   {
     "en": "wind",
@@ -4567,7 +5479,9 @@
     "zh-cn": "风",
     "es": "el viento",
     "ar": "ينفخ",
-    "ja": "風"
+    "ja": "風",
+    "tr": "rüzgar",
+    "is": "vindur"
   },
   {
     "en": "mission",
@@ -4577,7 +5491,9 @@
     "zh-cn": "任务",
     "es": "la misión",
     "ar": "مهمة",
-    "ja": "ミッション"
+    "ja": "ミッション",
+    "tr": "misyon",
+    "is": "verkefni"
   },
   {
     "en": "customer",
@@ -4587,7 +5503,9 @@
     "zh-cn": "顾客",
     "es": "el cliente",
     "ar": "زبون",
-    "ja": "顧客"
+    "ja": "顧客",
+    "tr": "müşteri",
+    "is": "viðskiptavinur"
   },
   {
     "en": "speech",
@@ -4597,7 +5515,9 @@
     "zh-cn": "言语",
     "es": "el discurso",
     "ar": "خطاب",
-    "ja": "スピーチ"
+    "ja": "スピーチ",
+    "tr": "konuşma",
+    "is": "ræðu"
   },
   {
     "en": "option",
@@ -4607,7 +5527,9 @@
     "zh-cn": "选项",
     "es": "la opción",
     "ar": "اختيار",
-    "ja": "オプション"
+    "ja": "オプション",
+    "tr": "seçenek",
+    "is": "valkostur"
   },
   {
     "en": "participant",
@@ -4617,7 +5539,9 @@
     "zh-cn": "参加者",
     "es": "el participante",
     "ar": "مشارك",
-    "ja": "参加者"
+    "ja": "参加者",
+    "tr": "katılımcı",
+    "is": "þátttakandi"
   },
   {
     "en": "forest",
@@ -4627,7 +5551,9 @@
     "zh-cn": "森林",
     "es": "el bosque",
     "ar": "غابة",
-    "ja": "森林"
+    "ja": "森林",
+    "tr": "orman",
+    "is": "skógur"
   },
   {
     "en": "video",
@@ -4637,7 +5563,9 @@
     "zh-cn": "视频",
     "es": "el video",
     "ar": "فيديو",
-    "ja": "ビデオ"
+    "ja": "ビデオ",
+    "tr": "video",
+    "is": "myndband"
   },
   {
     "en": "access",
@@ -4647,7 +5575,9 @@
     "zh-cn": "访问",
     "es": "el acceso",
     "ar": "التمكن من",
-    "ja": "アクセス"
+    "ja": "アクセス",
+    "tr": "erişim",
+    "is": "aðgang"
   },
   {
     "en": "restaurant",
@@ -4657,7 +5587,9 @@
     "zh-cn": "餐厅",
     "es": "el restaurante",
     "ar": "مطعم",
-    "ja": "レストラン"
+    "ja": "レストラン",
+    "tr": "restoran",
+    "is": "veitingastaður"
   },
   {
     "en": "judge",
@@ -4667,7 +5599,9 @@
     "zh-cn": "法官",
     "es": "el juez",
     "ar": "القاضي",
-    "ja": "裁判官"
+    "ja": "裁判官",
+    "tr": "hakim",
+    "is": "dómari"
   },
   {
     "en": "relation",
@@ -4677,7 +5611,9 @@
     "zh-cn": "关系",
     "es": "la relación",
     "ar": "علاقة",
-    "ja": "関係"
+    "ja": "関係",
+    "tr": "ilişki",
+    "is": "samband"
   },
   {
     "en": "bird",
@@ -4687,7 +5623,9 @@
     "zh-cn": "鸟",
     "es": "el pájaro",
     "ar": "طائر",
-    "ja": "鳥"
+    "ja": "鳥",
+    "tr": "kuş",
+    "is": "fugl"
   },
   {
     "en": "opinion",
@@ -4697,7 +5635,9 @@
     "zh-cn": "意见",
     "es": "la opinión",
     "ar": "رأي",
-    "ja": "意見"
+    "ja": "意見",
+    "tr": "görüş",
+    "is": "skoðun"
   },
   {
     "en": "credit",
@@ -4707,7 +5647,9 @@
     "zh-cn": "信用",
     "es": "el credito",
     "ar": "ائتمان",
-    "ja": "クレジット"
+    "ja": "クレジット",
+    "tr": "kredi",
+    "is": "lánsfé"
   },
   {
     "en": "corner",
@@ -4717,7 +5659,9 @@
     "zh-cn": "角",
     "es": "la esquina",
     "ar": "ركن",
-    "ja": "コーナー"
+    "ja": "コーナー",
+    "tr": "köşe",
+    "is": "horn"
   },
   {
     "en": "version",
@@ -4727,7 +5671,9 @@
     "zh-cn": "版",
     "es": "la versión",
     "ar": "الإصدار",
-    "ja": "バージョン"
+    "ja": "バージョン",
+    "tr": "versiyon",
+    "is": "útgáfa"
   },
   {
     "en": "safety",
@@ -4737,7 +5683,9 @@
     "zh-cn": "安全",
     "es": "la seguridad",
     "ar": "سلامة",
-    "ja": "安全性"
+    "ja": "安全性",
+    "tr": "Emniyet",
+    "is": "öryggi"
   },
   {
     "en": "neighborhood",
@@ -4747,7 +5695,9 @@
     "zh-cn": "邻里",
     "es": "el vecindario",
     "ar": "حي",
-    "ja": "ご近所"
+    "ja": "ご近所",
+    "tr": "Komşuluk",
+    "is": "hverfinu"
   },
   {
     "en": "act",
@@ -4757,7 +5707,9 @@
     "zh-cn": "法案",
     "es": "el acto",
     "ar": "فعل",
-    "ja": "行為"
+    "ja": "行為",
+    "tr": "davranmak",
+    "is": "athöfn"
   },
   {
     "en": "troop",
@@ -4767,7 +5719,9 @@
     "zh-cn": "部队",
     "es": "la tropa",
     "ar": "قوات",
-    "ja": "部隊"
+    "ja": "部隊",
+    "tr": "birlik",
+    "is": "herlið"
   },
   {
     "en": "income",
@@ -4777,7 +5731,9 @@
     "zh-cn": "收入",
     "es": "el ingreso",
     "ar": "الإيرادات",
-    "ja": "所得"
+    "ja": "所得",
+    "tr": "Gelir",
+    "is": "tekjur"
   },
   {
     "en": "species",
@@ -4787,7 +5743,9 @@
     "zh-cn": "种类",
     "es": "las especies",
     "ar": "محيط",
-    "ja": "種"
+    "ja": "種",
+    "tr": "Türler",
+    "is": "tegundir"
   },
   {
     "en": "track",
@@ -4797,7 +5755,9 @@
     "zh-cn": "跟踪",
     "es": "la pista",
     "ar": "مسار",
-    "ja": "トラック"
+    "ja": "トラック",
+    "tr": "Izlemek",
+    "is": "fylgjast með"
   },
   {
     "en": "hope",
@@ -4807,7 +5767,9 @@
     "zh-cn": "希望",
     "es": "la esperanza",
     "ar": "أمل",
-    "ja": "希望"
+    "ja": "希望",
+    "tr": "umut",
+    "is": "von"
   },
   {
     "en": "sky",
@@ -4817,7 +5779,9 @@
     "zh-cn": "天空",
     "es": "el cielo",
     "ar": "سماء",
-    "ja": "空"
+    "ja": "空",
+    "tr": "gökyüzü",
+    "is": "himinn"
   },
   {
     "en": "freedom",
@@ -4827,7 +5791,9 @@
     "zh-cn": "自由",
     "es": "la libertad",
     "ar": "حرية",
-    "ja": "自由"
+    "ja": "自由",
+    "tr": "özgürlük",
+    "is": "frelsi"
   },
   {
     "en": "plane",
@@ -4837,7 +5803,9 @@
     "zh-cn": "平面",
     "es": "el avión",
     "ar": "طائرة",
-    "ja": "飛行機"
+    "ja": "飛行機",
+    "tr": "uçak",
+    "is": "flugvél"
   },
   {
     "en": "object",
@@ -4847,7 +5815,9 @@
     "zh-cn": "目的",
     "es": "el objeto",
     "ar": "موضوع",
-    "ja": "オブジェクト"
+    "ja": "オブジェクト",
+    "tr": "nesne",
+    "is": "mótmæla"
   },
   {
     "en": "attitude",
@@ -4857,7 +5827,9 @@
     "zh-cn": "态度",
     "es": "la actitud",
     "ar": "موقف سلوك",
-    "ja": "姿勢"
+    "ja": "姿勢",
+    "tr": "tutum",
+    "is": "viðhorf"
   },
   {
     "en": "labor",
@@ -4867,7 +5839,9 @@
     "zh-cn": "劳动",
     "es": "el trabajo",
     "ar": "العمل",
-    "ja": "労働"
+    "ja": "労働",
+    "tr": "emek",
+    "is": "vinnuafl"
   },
   {
     "en": "concept",
@@ -4877,7 +5851,9 @@
     "zh-cn": "概念",
     "es": "el concepto",
     "ar": "مفهوم",
-    "ja": "概念"
+    "ja": "概念",
+    "tr": "kavram",
+    "is": "hugtak"
   },
   {
     "en": "client",
@@ -4887,7 +5863,9 @@
     "zh-cn": "客户",
     "es": "el cliente",
     "ar": "زبون",
-    "ja": "クライアント"
+    "ja": "クライアント",
+    "tr": "müşteri",
+    "is": "viðskiptavinur"
   },
   {
     "en": "conversation",
@@ -4897,7 +5875,9 @@
     "zh-cn": "会话",
     "es": "la conversación",
     "ar": "محادثة",
-    "ja": "会話"
+    "ja": "会話",
+    "tr": "konuşma",
+    "is": "samtal"
   },
   {
     "en": "variety",
@@ -4907,7 +5887,9 @@
     "zh-cn": "品种",
     "es": "la variedad",
     "ar": "تشكيلة",
-    "ja": "品種"
+    "ja": "品種",
+    "tr": "Çeşitlilik",
+    "is": "fjölbreytni"
   },
   {
     "en": "turn",
@@ -4917,7 +5899,9 @@
     "zh-cn": "转",
     "es": "el turno",
     "ar": "منعطف أو دور",
-    "ja": "順番"
+    "ja": "順番",
+    "tr": "dönüş",
+    "is": "snúa"
   },
   {
     "en": "investigation",
@@ -4927,7 +5911,9 @@
     "zh-cn": "调查",
     "es": "la investigación",
     "ar": "تحقيق",
-    "ja": "調査"
+    "ja": "調査",
+    "tr": "soruşturma",
+    "is": "rannsókn"
   },
   {
     "en": "researcher",
@@ -4937,7 +5923,9 @@
     "zh-cn": "研究员",
     "es": "el investigador",
     "ar": "الباحث",
-    "ja": "研究者"
+    "ja": "研究者",
+    "tr": "araştırmacı",
+    "is": "rannsóknir"
   },
   {
     "en": "press",
@@ -4947,7 +5935,9 @@
     "zh-cn": "按",
     "es": "la prensa",
     "ar": "صحافة",
-    "ja": "押す"
+    "ja": "押す",
+    "tr": "basın",
+    "is": "ýttu á"
   },
   {
     "en": "conflict",
@@ -4957,7 +5947,9 @@
     "zh-cn": "冲突",
     "es": "el conflicto",
     "ar": "نزاع",
-    "ja": "紛争"
+    "ja": "紛争",
+    "tr": "fikir ayrılığı",
+    "is": "átök"
   },
   {
     "en": "spirit",
@@ -4967,7 +5959,9 @@
     "zh-cn": "精神",
     "es": "el espíritu",
     "ar": "روح",
-    "ja": "精神"
+    "ja": "精神",
+    "tr": "ruh",
+    "is": "andi"
   },
   {
     "en": "argument",
@@ -4977,7 +5971,9 @@
     "zh-cn": "论据",
     "es": "el argumento",
     "ar": "جدال",
-    "ja": "引数"
+    "ja": "引数",
+    "tr": "tartışma",
+    "is": "rök"
   },
   {
     "en": "camp",
@@ -4987,7 +5983,9 @@
     "zh-cn": "营",
     "es": "el campamento",
     "ar": "معسكر",
-    "ja": "キャンプ"
+    "ja": "キャンプ",
+    "tr": "kamp",
+    "is": "Tjaldvagnar"
   },
   {
     "en": "brain",
@@ -4997,7 +5995,9 @@
     "zh-cn": "脑",
     "es": "el cerebro",
     "ar": "دماغ",
-    "ja": "脳"
+    "ja": "脳",
+    "tr": "beyin",
+    "is": "heila"
   },
   {
     "en": "feature",
@@ -5007,7 +6007,9 @@
     "zh-cn": "特征",
     "es": "la característica",
     "ar": "خاصية",
-    "ja": "特徴"
+    "ja": "特徴",
+    "tr": "özellik",
+    "is": "lögun"
   },
   {
     "en": "afternoon",
@@ -5017,7 +6019,9 @@
     "zh-cn": "下午",
     "es": "la tarde",
     "ar": "بعد الظهر",
-    "ja": "午後"
+    "ja": "午後",
+    "tr": "öğleden sonra",
+    "is": "síðdegis"
   },
   {
     "en": "weekend",
@@ -5027,7 +6031,9 @@
     "zh-cn": "周末",
     "es": "el fin de semana",
     "ar": "عطلة نهاية الاسبوع",
-    "ja": "週末"
+    "ja": "週末",
+    "tr": "hafta sonu",
+    "is": "helgi"
   },
   {
     "en": "possibility",
@@ -5037,7 +6043,9 @@
     "zh-cn": "可能性",
     "es": "la posibilidad",
     "ar": "إمكانية",
-    "ja": "可能性"
+    "ja": "可能性",
+    "tr": "olasılık",
+    "is": "möguleiki"
   },
   {
     "en": "insurance",
@@ -5047,7 +6055,9 @@
     "zh-cn": "保险",
     "es": "el seguro",
     "ar": "تأمين",
-    "ja": "保険"
+    "ja": "保険",
+    "tr": "sigorta",
+    "is": "tryggingar"
   },
   {
     "en": "department",
@@ -5057,7 +6067,9 @@
     "zh-cn": "部",
     "es": "el Departamento",
     "ar": " قسم، أقسام",
-    "ja": "部門"
+    "ja": "部門",
+    "tr": "Bölüm",
+    "is": "deild"
   },
   {
     "en": "battle",
@@ -5067,7 +6079,9 @@
     "zh-cn": "战斗",
     "es": "la batalla",
     "ar": "معركة",
-    "ja": "戦い"
+    "ja": "戦い",
+    "tr": "savaş",
+    "is": "bardaga"
   },
   {
     "en": "beginning",
@@ -5077,7 +6091,9 @@
     "zh-cn": "开始",
     "es": "el principio",
     "ar": "البداية",
-    "ja": "始まり"
+    "ja": "始まり",
+    "tr": "başlangıç",
+    "is": "byrjun"
   },
   {
     "en": "date",
@@ -5087,7 +6103,9 @@
     "zh-cn": "日期",
     "es": "la fecha",
     "ar": "تاريخ",
-    "ja": "日付"
+    "ja": "日付",
+    "tr": "tarih",
+    "is": "dagsetning"
   },
   {
     "en": "crisis",
@@ -5097,7 +6115,9 @@
     "zh-cn": "危机",
     "es": "la crisis",
     "ar": "أزمة",
-    "ja": "危機"
+    "ja": "危機",
+    "tr": "kriz",
+    "is": "kreppu"
   },
   {
     "en": "fan",
@@ -5107,7 +6127,9 @@
     "zh-cn": "风扇",
     "es": "el admirador",
     "ar": "معجب",
-    "ja": "ファン"
+    "ja": "ファン",
+    "tr": "yelpaze",
+    "is": "aðdáandi"
   },
   {
     "en": "hole",
@@ -5117,7 +6139,9 @@
     "zh-cn": "孔",
     "es": "el agujero",
     "ar": "الفجوة",
-    "ja": "穴"
+    "ja": "穴",
+    "tr": "delik",
+    "is": "holu"
   },
   {
     "en": "element",
@@ -5127,7 +6151,9 @@
     "zh-cn": "元件",
     "es": "el elemento",
     "ar": "جزء",
-    "ja": "素子"
+    "ja": "素子",
+    "tr": "eleman",
+    "is": "þáttur"
   },
   {
     "en": "vision",
@@ -5137,7 +6163,9 @@
     "zh-cn": "视力",
     "es": "la visión",
     "ar": "رؤية",
-    "ja": "ビジョン"
+    "ja": "ビジョン",
+    "tr": "vizyon",
+    "is": "sýn"
   },
   {
     "en": "status",
@@ -5147,7 +6175,9 @@
     "zh-cn": "状态",
     "es": "El estado",
     "ar": "الحالة",
-    "ja": "状態"
+    "ja": "状態",
+    "tr": "durum",
+    "is": "stöðu"
   },
   {
     "en": "ship",
@@ -5157,7 +6187,9 @@
     "zh-cn": "船",
     "es": "el barco",
     "ar": "سفينة",
-    "ja": "船"
+    "ja": "船",
+    "tr": "gemi",
+    "is": "skip"
   },
   {
     "en": "solution",
@@ -5167,7 +6199,9 @@
     "zh-cn": "解",
     "es": "la solución",
     "ar": "حل",
-    "ja": "溶液"
+    "ja": "溶液",
+    "tr": "çözüm",
+    "is": "lausn"
   },
   {
     "en": "stone",
@@ -5177,7 +6211,9 @@
     "zh-cn": "石",
     "es": "la piedra",
     "ar": "حجر",
-    "ja": "石"
+    "ja": "石",
+    "tr": "taş",
+    "is": "steinn"
   },
   {
     "en": "scale",
@@ -5187,7 +6223,9 @@
     "zh-cn": "规模",
     "es": "la escala",
     "ar": "مقياس",
-    "ja": "規模"
+    "ja": "規模",
+    "tr": "ölçek",
+    "is": "mælikvarða"
   },
   {
     "en": "university",
@@ -5197,7 +6235,9 @@
     "zh-cn": "大学",
     "es": "la Universidad",
     "ar": "جامعة",
-    "ja": "大学"
+    "ja": "大学",
+    "tr": "Üniversite",
+    "is": "háskóli"
   },
   {
     "en": "driver",
@@ -5207,7 +6247,9 @@
     "zh-cn": "司机",
     "es": "el conductor",
     "ar": "سائق",
-    "ja": "ドライバ"
+    "ja": "ドライバ",
+    "tr": "sürücü",
+    "is": "ökumaður"
   },
   {
     "en": "attempt",
@@ -5217,7 +6259,9 @@
     "zh-cn": "尝试",
     "es": "el intento",
     "ar": "محاولة",
-    "ja": "試みる"
+    "ja": "試みる",
+    "tr": "girişim",
+    "is": "tilraun"
   },
   {
     "en": "park",
@@ -5227,7 +6271,9 @@
     "zh-cn": "公园",
     "es": "el parque",
     "ar": "منتزه",
-    "ja": "パーク"
+    "ja": "パーク",
+    "tr": "park",
+    "is": "garður"
   },
   {
     "en": "spot",
@@ -5237,7 +6283,9 @@
     "zh-cn": "点",
     "es": "el punto",
     "ar": "بقعة",
-    "ja": "スポット"
+    "ja": "スポット",
+    "tr": "yer",
+    "is": "blettur"
   },
   {
     "en": "lack",
@@ -5247,7 +6295,9 @@
     "zh-cn": "缺乏",
     "es": "la falta",
     "ar": "قلة",
-    "ja": "欠如"
+    "ja": "欠如",
+    "tr": "eksiklik",
+    "is": "skortur"
   },
   {
     "en": "ice",
@@ -5257,7 +6307,9 @@
     "zh-cn": "冰",
     "es": "el hielo",
     "ar": "جليد",
-    "ja": "氷"
+    "ja": "氷",
+    "tr": "buz",
+    "is": "ís"
   },
   {
     "en": "boat",
@@ -5267,7 +6319,9 @@
     "zh-cn": "船",
     "es": "el barco",
     "ar": "قارب",
-    "ja": "ボート"
+    "ja": "ボート",
+    "tr": "tekne",
+    "is": "bátur"
   },
   {
     "en": "sun",
@@ -5277,7 +6331,9 @@
     "zh-cn": "太阳",
     "es": "el sol",
     "ar": "شمس",
-    "ja": "太陽"
+    "ja": "太陽",
+    "tr": "Güneş",
+    "is": "sól"
   },
   {
     "en": "distance",
@@ -5287,7 +6343,9 @@
     "zh-cn": "距离",
     "es": "la distancia",
     "ar": "مسافه: بعد",
-    "ja": "距離"
+    "ja": "距離",
+    "tr": "mesafe",
+    "is": "fjarlægð"
   },
   {
     "en": "wood",
@@ -5297,7 +6355,9 @@
     "zh-cn": "木",
     "es": "la madera",
     "ar": "خشب",
-    "ja": "木材"
+    "ja": "木材",
+    "tr": "ahşap",
+    "is": "tré"
   },
   {
     "en": "truck",
@@ -5307,7 +6367,9 @@
     "zh-cn": "卡车",
     "es": "el camión",
     "ar": "شاحنة",
-    "ja": "トラック"
+    "ja": "トラック",
+    "tr": "kamyon",
+    "is": "vörubíll"
   },
   {
     "en": "return",
@@ -5317,7 +6379,9 @@
     "zh-cn": "返回",
     "es": "el regreso",
     "ar": "إرجاع",
-    "ja": "リターン"
+    "ja": "リターン",
+    "tr": "dönüş",
+    "is": "aftur"
   },
   {
     "en": "mountain",
@@ -5327,7 +6391,9 @@
     "zh-cn": "山",
     "es": "la montaña",
     "ar": "جبل",
-    "ja": "山"
+    "ja": "山",
+    "tr": "dağ",
+    "is": "fjall"
   },
   {
     "en": "survey",
@@ -5337,7 +6403,9 @@
     "zh-cn": "调查",
     "es": "la encuesta",
     "ar": "الدراسة الاستقصائية",
-    "ja": "調査"
+    "ja": "調査",
+    "tr": "anket",
+    "is": "könnun"
   },
   {
     "en": "tradition",
@@ -5347,7 +6415,9 @@
     "zh-cn": "传统",
     "es": "la tradición",
     "ar": "التقليد",
-    "ja": "伝統"
+    "ja": "伝統",
+    "tr": "gelenek",
+    "is": "hefð"
   },
   {
     "en": "winter",
@@ -5357,7 +6427,9 @@
     "zh-cn": "冬季",
     "es": "el invierno",
     "ar": "شتاء",
-    "ja": "冬"
+    "ja": "冬",
+    "tr": "kış",
+    "is": "vetur"
   },
   {
     "en": "village",
@@ -5367,7 +6439,9 @@
     "zh-cn": "村",
     "es": "el pueblo",
     "ar": "قرية",
-    "ja": "村"
+    "ja": "村",
+    "tr": "köy",
+    "is": "þorp"
   },
   {
     "en": "sales",
@@ -5377,7 +6451,9 @@
     "zh-cn": "销售",
     "es": "Las ventas",
     "ar": "مبيعات",
-    "ja": "販売"
+    "ja": "販売",
+    "tr": "satış",
+    "is": "sölu"
   },
   {
     "en": "communication",
@@ -5387,7 +6463,9 @@
     "zh-cn": "通讯",
     "es": "La comunicación",
     "ar": "الاتصالات",
-    "ja": "コミュニケーション"
+    "ja": "コミュニケーション",
+    "tr": "iletişim",
+    "is": "samskipti"
   },
   {
     "en": "run",
@@ -5397,7 +6475,9 @@
     "zh-cn": "跑",
     "es": "la carrera",
     "ar": "يركض",
-    "ja": "走る"
+    "ja": "走る",
+    "tr": "koşmak",
+    "is": "hlaupa"
   },
   {
     "en": "screen",
@@ -5407,7 +6487,9 @@
     "zh-cn": "屏幕",
     "es": "la pantalla",
     "ar": "شاشة",
-    "ja": "画面"
+    "ja": "画面",
+    "tr": "ekran",
+    "is": "skjár"
   },
   {
     "en": "resident",
@@ -5417,7 +6499,9 @@
     "zh-cn": "居民",
     "es": "el residente",
     "ar": "مقيم",
-    "ja": "居住者"
+    "ja": "居住者",
+    "tr": "oturan",
+    "is": "heimilisfastur"
   },
   {
     "en": "gold",
@@ -5427,7 +6511,9 @@
     "zh-cn": "金",
     "es": "el oro",
     "ar": "ذهب",
-    "ja": "ゴールド"
+    "ja": "ゴールド",
+    "tr": "altın",
+    "is": "gull"
   },
   {
     "en": "club",
@@ -5437,7 +6523,9 @@
     "zh-cn": "俱乐部",
     "es": "el club",
     "ar": "النادي",
-    "ja": "クラブ"
+    "ja": "クラブ",
+    "tr": "kulüp",
+    "is": "klúbburinn"
   },
   {
     "en": "farm",
@@ -5447,7 +6535,9 @@
     "zh-cn": "农场",
     "es": "la granja",
     "ar": "مزرعة",
-    "ja": "ファーム"
+    "ja": "ファーム",
+    "tr": "Çiftlik",
+    "is": "bænum"
   },
   {
     "en": "increase",
@@ -5457,7 +6547,9 @@
     "zh-cn": "增加",
     "es": "El aumento",
     "ar": "زيادة",
-    "ja": "増加する"
+    "ja": "増加する",
+    "tr": "artırmak",
+    "is": "auka"
   },
   {
     "en": "middle",
@@ -5467,7 +6559,9 @@
     "zh-cn": "中间",
     "es": "la mitad",
     "ar": "وسط",
-    "ja": "中間"
+    "ja": "中間",
+    "tr": "orta",
+    "is": "miðjan"
   },
   {
     "en": "presence",
@@ -5477,7 +6571,9 @@
     "zh-cn": "存在",
     "es": "la presencia",
     "ar": "حضور",
-    "ja": "存在"
+    "ja": "存在",
+    "tr": "varlık",
+    "is": "viðveru"
   },
   {
     "en": "district",
@@ -5487,7 +6583,9 @@
     "zh-cn": "区",
     "es": "el distrito",
     "ar": "منطقة",
-    "ja": "地区"
+    "ja": "地区",
+    "tr": "ilçe",
+    "is": "Umdæmi"
   },
   {
     "en": "shape",
@@ -5497,7 +6595,9 @@
     "zh-cn": "形状",
     "es": "la forma",
     "ar": "شكل",
-    "ja": "形状"
+    "ja": "形状",
+    "tr": "şekil",
+    "is": "móta"
   },
   {
     "en": "reader",
@@ -5507,7 +6607,9 @@
     "zh-cn": "读者",
     "es": "el lector",
     "ar": "قارئ",
-    "ja": "リーダー"
+    "ja": "リーダー",
+    "tr": "okuyucu",
+    "is": "lesandi"
   },
   {
     "en": "contract",
@@ -5517,7 +6619,9 @@
     "zh-cn": "合同",
     "es": "el contrato",
     "ar": "عقد",
-    "ja": "契約する"
+    "ja": "契約する",
+    "tr": "sözleşme",
+    "is": "samningur"
   },
   {
     "en": "crowd",
@@ -5527,7 +6631,9 @@
     "zh-cn": "人群",
     "es": "la multitud",
     "ar": "يحشد",
-    "ja": "群集"
+    "ja": "群集",
+    "tr": "kalabalık",
+    "is": "mannfjöldi"
   },
   {
     "en": "apartment",
@@ -5537,7 +6643,9 @@
     "zh-cn": "公寓",
     "es": "el apartamento",
     "ar": "شقة",
-    "ja": "アパート"
+    "ja": "アパート",
+    "tr": "apartman",
+    "is": "íbúð"
   },
   {
     "en": "strength",
@@ -5547,7 +6655,9 @@
     "zh-cn": "强度",
     "es": "la fuerza",
     "ar": "قوة",
-    "ja": "力"
+    "ja": "力",
+    "tr": "kuvvet",
+    "is": "styrkur"
   },
   {
     "en": "band",
@@ -5557,7 +6667,9 @@
     "zh-cn": "带",
     "es": "la banda",
     "ar": "فرقة",
-    "ja": "バンド"
+    "ja": "バンド",
+    "tr": "grup",
+    "is": "hljómsveit"
   },
   {
     "en": "horse",
@@ -5567,7 +6679,9 @@
     "zh-cn": "马",
     "es": "el caballo",
     "ar": "حصان",
-    "ja": "うま"
+    "ja": "うま",
+    "tr": "at",
+    "is": "hestur"
   },
   {
     "en": "target",
@@ -5577,7 +6691,9 @@
     "zh-cn": "目标",
     "es": "el objetivo",
     "ar": "استهداف",
-    "ja": "ターゲット"
+    "ja": "ターゲット",
+    "tr": "hedef",
+    "is": "skotmark"
   },
   {
     "en": "prison",
@@ -5587,7 +6703,9 @@
     "zh-cn": "监狱",
     "es": "La prisión",
     "ar": "السجن",
-    "ja": "刑務所"
+    "ja": "刑務所",
+    "tr": "hapis",
+    "is": "fangelsi"
   },
   {
     "en": "guard",
@@ -5597,7 +6715,9 @@
     "zh-cn": "守卫",
     "es": "el guardia",
     "ar": "حارس",
-    "ja": "ガード"
+    "ja": "ガード",
+    "tr": "bekçi",
+    "is": "vörður"
   },
   {
     "en": "demand",
@@ -5607,7 +6727,9 @@
     "zh-cn": "需求",
     "es": "la demanda",
     "ar": "الطلب",
-    "ja": "デマンド"
+    "ja": "デマンド",
+    "tr": "talep",
+    "is": "eftirspurn"
   },
   {
     "en": "reporter",
@@ -5617,7 +6739,9 @@
     "zh-cn": "记者",
     "es": "el reportero",
     "ar": "مراسل",
-    "ja": "レポーター"
+    "ja": "レポーター",
+    "tr": "muhabir",
+    "is": "blaðamaður"
   },
   {
     "en": "text",
@@ -5627,7 +6751,9 @@
     "zh-cn": "文本",
     "es": "el texto",
     "ar": "نص",
-    "ja": "テキスト"
+    "ja": "テキスト",
+    "tr": "Metin",
+    "is": "texti"
   },
   {
     "en": "share",
@@ -5637,7 +6763,9 @@
     "zh-cn": "分享",
     "es": "la cuota",
     "ar": "شارك",
-    "ja": "シェア"
+    "ja": "シェア",
+    "tr": "pay",
+    "is": "deila"
   },
   {
     "en": "tool",
@@ -5647,7 +6775,9 @@
     "zh-cn": "工具",
     "es": "la herramienta",
     "ar": "أداة",
-    "ja": "ツール"
+    "ja": "ツール",
+    "tr": "araç",
+    "is": "tól"
   },
   {
     "en": "vehicle",
@@ -5657,7 +6787,9 @@
     "zh-cn": "车辆",
     "es": "el vehículo",
     "ar": "مركبة",
-    "ja": "車両"
+    "ja": "車両",
+    "tr": "araç",
+    "is": "ökutæki"
   },
   {
     "en": "flight",
@@ -5667,7 +6799,9 @@
     "zh-cn": "飞行",
     "es": "el vuelo",
     "ar": "طيران",
-    "ja": "フライト"
+    "ja": "フライト",
+    "tr": "uçuş",
+    "is": "flug"
   },
   {
     "en": "facility",
@@ -5677,7 +6811,9 @@
     "zh-cn": "设施",
     "es": "la instalación",
     "ar": "منشأة",
-    "ja": "施設"
+    "ja": "施設",
+    "tr": "tesis",
+    "is": "leikni"
   },
   {
     "en": "understanding",
@@ -5687,7 +6823,9 @@
     "zh-cn": "理解",
     "es": "el entendimiento",
     "ar": "فهم",
-    "ja": "理解"
+    "ja": "理解",
+    "tr": "anlayış",
+    "is": "skilningur"
   },
   {
     "en": "advantage",
@@ -5697,7 +6835,9 @@
     "zh-cn": "优点",
     "es": "la ventaja",
     "ar": "أفضلية",
-    "ja": "利点"
+    "ja": "利点",
+    "tr": "avantaj",
+    "is": "kostur"
   },
   {
     "en": "leadership",
@@ -5707,7 +6847,9 @@
     "zh-cn": "领导",
     "es": "el liderazgo",
     "ar": "قيادة",
-    "ja": "リーダーシップ"
+    "ja": "リーダーシップ",
+    "tr": "liderlik",
+    "is": "forystu"
   },
   {
     "en": "pound",
@@ -5717,7 +6859,9 @@
     "zh-cn": "磅",
     "es": "la libra",
     "ar": "جنيه",
-    "ja": "ポンド"
+    "ja": "ポンド",
+    "tr": "pound",
+    "is": "pund"
   },
   {
     "en": "basis",
@@ -5727,7 +6871,9 @@
     "zh-cn": "基础",
     "es": "la base",
     "ar": "أساس",
-    "ja": "基礎"
+    "ja": "基礎",
+    "tr": "temel",
+    "is": "grundvöllur"
   },
   {
     "en": "guest",
@@ -5737,7 +6883,9 @@
     "zh-cn": "客人",
     "es": "el invitado",
     "ar": "زائر",
-    "ja": "ゲスト"
+    "ja": "ゲスト",
+    "tr": "konuk",
+    "is": "gestur"
   },
   {
     "en": "sample",
@@ -5747,7 +6895,9 @@
     "zh-cn": "样品",
     "es": "la muestra",
     "ar": "عينة",
-    "ja": "サンプル"
+    "ja": "サンプル",
+    "tr": "Numune",
+    "is": "sýnishorn"
   },
   {
     "en": "block",
@@ -5757,7 +6907,9 @@
     "zh-cn": "块",
     "es": "el bloque",
     "ar": "منع",
-    "ja": "ブロック"
+    "ja": "ブロック",
+    "tr": "blok",
+    "is": "blokk"
   },
   {
     "en": "protection",
@@ -5767,7 +6919,9 @@
     "zh-cn": "保护",
     "es": "la proteccion",
     "ar": "حماية",
-    "ja": "保護"
+    "ja": "保護",
+    "tr": "koruma",
+    "is": "vernd"
   },
   {
     "en": "while",
@@ -5777,7 +6931,9 @@
     "zh-cn": "而",
     "es": "el tiempo",
     "ar": "في حين",
-    "ja": "while"
+    "ja": "while",
+    "tr": "süre",
+    "is": "meðan"
   },
   {
     "en": "identity",
@@ -5787,7 +6943,9 @@
     "zh-cn": "身分",
     "es": "la identidad",
     "ar": "هوية",
-    "ja": "身元"
+    "ja": "身元",
+    "tr": "Kimlik",
+    "is": "sjálfsmynd"
   },
   {
     "en": "title",
@@ -5797,7 +6955,9 @@
     "zh-cn": "标题",
     "es": "el título",
     "ar": "عنوان",
-    "ja": "タイトル"
+    "ja": "タイトル",
+    "tr": "Başlık",
+    "is": "titill"
   },
   {
     "en": "lesson",
@@ -5807,7 +6967,9 @@
     "zh-cn": "课",
     "es": "la leccion",
     "ar": "درس",
-    "ja": "レッスン"
+    "ja": "レッスン",
+    "tr": "ders",
+    "is": "lexía"
   },
   {
     "en": "faith",
@@ -5817,7 +6979,9 @@
     "zh-cn": "信仰",
     "es": "la fe",
     "ar": "إيمان",
-    "ja": "信仰"
+    "ja": "信仰",
+    "tr": "inanç",
+    "is": "trú"
   },
   {
     "en": "river",
@@ -5827,7 +6991,9 @@
     "zh-cn": "河",
     "es": "el río",
     "ar": "نهر",
-    "ja": "川"
+    "ja": "川",
+    "tr": "nehir",
+    "is": "áin"
   },
   {
     "en": "living",
@@ -5837,7 +7003,9 @@
     "zh-cn": "活的",
     "es": "los vivos",
     "ar": "المعيشة",
-    "ja": "生活"
+    "ja": "生活",
+    "tr": "yaşam",
+    "is": "lifandi"
   },
   {
     "en": "technique",
@@ -5847,7 +7015,9 @@
     "zh-cn": "技术",
     "es": "la técnica",
     "ar": "تقنية",
-    "ja": "技術"
+    "ja": "技術",
+    "tr": "teknik",
+    "is": "tækni"
   },
   {
     "en": "path",
@@ -5857,7 +7027,9 @@
     "zh-cn": "路径",
     "es": "el camino",
     "ar": "مسار",
-    "ja": "パス"
+    "ja": "パス",
+    "tr": "yol",
+    "is": "leið"
   },
   {
     "en": "ear",
@@ -5867,7 +7039,9 @@
     "zh-cn": "耳",
     "es": "la oreja",
     "ar": "إذن",
-    "ja": "耳"
+    "ja": "耳",
+    "tr": "kulak",
+    "is": "eyra"
   },
   {
     "en": "shop",
@@ -5877,7 +7051,9 @@
     "zh-cn": "店",
     "es": "la tienda",
     "ar": "متجر",
-    "ja": "ショップ"
+    "ja": "ショップ",
+    "tr": "Dükkan",
+    "is": "verslun"
   },
   {
     "en": "folk",
@@ -5887,7 +7063,9 @@
     "zh-cn": "民间",
     "es": "la gente",
     "ar": "قوم",
-    "ja": "フォーク"
+    "ja": "フォーク",
+    "tr": "halk",
+    "is": "fólk"
   },
   {
     "en": "principle",
@@ -5897,7 +7075,9 @@
     "zh-cn": "原理",
     "es": "el principio",
     "ar": "المبدأ",
-    "ja": "原理"
+    "ja": "原理",
+    "tr": "prensip",
+    "is": "meginreglan"
   },
   {
     "en": "border",
@@ -5907,7 +7087,9 @@
     "zh-cn": "边境",
     "es": "la frontera",
     "ar": "الحدود",
-    "ja": "境界"
+    "ja": "境界",
+    "tr": "sınır",
+    "is": "landamæri"
   },
   {
     "en": "competition",
@@ -5917,7 +7099,9 @@
     "zh-cn": "竞争",
     "es": "la competencia",
     "ar": "منافسة",
-    "ja": "コンペ"
+    "ja": "コンペ",
+    "tr": "yarışma",
+    "is": "samkeppni"
   },
   {
     "en": "claim",
@@ -5927,7 +7111,9 @@
     "zh-cn": "要求",
     "es": "La reclamación",
     "ar": "يطالب",
-    "ja": "請求"
+    "ja": "請求",
+    "tr": "İddia",
+    "is": "krafa"
   },
   {
     "en": "equipment",
@@ -5937,7 +7123,9 @@
     "zh-cn": "设备",
     "es": "el equipamiento",
     "ar": "الرجعية",
-    "ja": "装置"
+    "ja": "装置",
+    "tr": "ekipman",
+    "is": "búnaður"
   },
   {
     "en": "critic",
@@ -5947,7 +7135,9 @@
     "zh-cn": "评论家",
     "es": "el crítico",
     "ar": "الناقد",
-    "ja": "評論家"
+    "ja": "評論家",
+    "tr": "eleştirmen",
+    "is": "gagnrýnandi"
   },
   {
     "en": "aspect",
@@ -5957,7 +7147,9 @@
     "zh-cn": "方面",
     "es": "el aspecto",
     "ar": "جانب",
-    "ja": "アスペクト"
+    "ja": "アスペクト",
+    "tr": "Görünüş",
+    "is": "þætti"
   },
   {
     "en": "failure",
@@ -5967,7 +7159,9 @@
     "zh-cn": "失败",
     "es": "la falla",
     "ar": "بالفشل",
-    "ja": "失敗"
+    "ja": "失敗",
+    "tr": "başarısızlık",
+    "is": "bilun"
   },
   {
     "en": "Christmas",
@@ -5977,7 +7171,9 @@
     "zh-cn": "圣诞",
     "es": "la Navidad",
     "ar": "عيد الميلاد",
-    "ja": "クリスマス"
+    "ja": "クリスマス",
+    "tr": "Noel",
+    "is": "Jól"
   },
   {
     "en": "comment",
@@ -5987,7 +7183,9 @@
     "zh-cn": "评论",
     "es": "el comentario",
     "ar": "تعليق",
-    "ja": "コメント"
+    "ja": "コメント",
+    "tr": "yorum Yap",
+    "is": "athugasemd"
   },
   {
     "en": "affair",
@@ -5997,7 +7195,9 @@
     "zh-cn": "事务",
     "es": "el asunto",
     "ar": "قضية",
-    "ja": "事件"
+    "ja": "事件",
+    "tr": "mesele",
+    "is": "mál"
   },
   {
     "en": "procedure",
@@ -6007,7 +7207,9 @@
     "zh-cn": "程序",
     "es": "el procedimiento",
     "ar": "إجراء",
-    "ja": "手順"
+    "ja": "手順",
+    "tr": "prosedür",
+    "is": "málsmeðferð"
   },
   {
     "en": "chairman",
@@ -6017,7 +7219,9 @@
     "zh-cn": "主席",
     "es": "director",
     "ar": "رئيس",
-    "ja": "会長"
+    "ja": "会長",
+    "tr": "başkan",
+    "is": "formaður"
   },
   {
     "en": "baseball",
@@ -6027,7 +7231,9 @@
     "zh-cn": "棒球",
     "es": "el beisbol",
     "ar": "البيسبول",
-    "ja": "野球"
+    "ja": "野球",
+    "tr": "beyzbol",
+    "is": "baseball"
   },
   {
     "en": "egg",
@@ -6037,7 +7243,9 @@
     "zh-cn": "蛋",
     "es": "el huevo",
     "ar": "بيضة",
-    "ja": "卵"
+    "ja": "卵",
+    "tr": "Yumurta",
+    "is": "egg"
   },
   {
     "en": "belief",
@@ -6047,7 +7255,9 @@
     "zh-cn": "信仰",
     "es": "la creencia",
     "ar": "إيمان",
-    "ja": "信念"
+    "ja": "信念",
+    "tr": "inanç",
+    "is": "trú"
   },
   {
     "en": "murder",
@@ -6057,7 +7267,9 @@
     "zh-cn": "谋杀",
     "es": "el asesino",
     "ar": "قتل",
-    "ja": "殺人"
+    "ja": "殺人",
+    "tr": "cinayet",
+    "is": "morð"
   },
   {
     "en": "gift",
@@ -6067,7 +7279,9 @@
     "zh-cn": "礼品",
     "es": "el don",
     "ar": "هدية مجانية",
-    "ja": "贈り物"
+    "ja": "贈り物",
+    "tr": "hediye",
+    "is": "gjöf"
   },
   {
     "en": "religion",
@@ -6077,7 +7291,9 @@
     "zh-cn": "宗教",
     "es": "la religion",
     "ar": "دين",
-    "ja": "宗教"
+    "ja": "宗教",
+    "tr": "din",
+    "is": "trúarbrögð"
   },
   {
     "en": "review",
@@ -6087,7 +7303,9 @@
     "zh-cn": "评论",
     "es": "la revisión",
     "ar": "إعادة النظر",
-    "ja": "レビュー"
+    "ja": "レビュー",
+    "tr": "gözden geçirmek",
+    "is": "endurskoðun"
   },
   {
     "en": "editor",
@@ -6097,7 +7315,9 @@
     "zh-cn": "编辑",
     "es": "el editor",
     "ar": "محرر",
-    "ja": "編集者"
+    "ja": "編集者",
+    "tr": "editör",
+    "is": "ritstjóri"
   },
   {
     "en": "coffee",
@@ -6107,7 +7327,9 @@
     "zh-cn": "咖啡",
     "es": "el café",
     "ar": "قهوة",
-    "ja": "コーヒー"
+    "ja": "コーヒー",
+    "tr": "Kahve",
+    "is": "kaffi"
   },
   {
     "en": "document",
@@ -6117,7 +7339,9 @@
     "zh-cn": "文件",
     "es": "el documento",
     "ar": "وثيقة",
-    "ja": "資料"
+    "ja": "資料",
+    "tr": "belge",
+    "is": "skjal"
   },
   {
     "en": "speed",
@@ -6127,7 +7351,9 @@
     "zh-cn": "速度",
     "es": "la velocidad",
     "ar": "سرعة",
-    "ja": "速度"
+    "ja": "速度",
+    "tr": "hız",
+    "is": "hraði"
   },
   {
     "en": "influence",
@@ -6137,7 +7363,9 @@
     "zh-cn": "影响",
     "es": "La influencia",
     "ar": "تأثير",
-    "ja": "影響"
+    "ja": "影響",
+    "tr": "etki",
+    "is": "áhrif"
   },
   {
     "en": "youth",
@@ -6147,7 +7375,9 @@
     "zh-cn": "青年",
     "es": "la juventud",
     "ar": "شباب",
-    "ja": "若者"
+    "ja": "若者",
+    "tr": "gençlik",
+    "is": "æsku"
   },
   {
     "en": "wave",
@@ -6157,7 +7387,9 @@
     "zh-cn": "波",
     "es": "la ola",
     "ar": "موجة",
-    "ja": "波"
+    "ja": "波",
+    "tr": "dalga",
+    "is": "bylgja"
   },
   {
     "en": "move",
@@ -6167,7 +7399,9 @@
     "zh-cn": "移动",
     "es": "el movimiento",
     "ar": "نقل",
-    "ja": "動く"
+    "ja": "動く",
+    "tr": "hareket",
+    "is": "færa"
   },
   {
     "en": "quarter",
@@ -6177,7 +7411,9 @@
     "zh-cn": "25美分硬币",
     "es": "el cuarto",
     "ar": "ربع",
-    "ja": "四半期"
+    "ja": "四半期",
+    "tr": "çeyrek",
+    "is": "fjórðungur"
   },
   {
     "en": "background",
@@ -6187,7 +7423,9 @@
     "zh-cn": "背景",
     "es": "el fondo",
     "ar": "خلفية",
-    "ja": "バックグラウンド"
+    "ja": "バックグラウンド",
+    "tr": "arka fon",
+    "is": "bakgrunnur"
   },
   {
     "en": "reaction",
@@ -6197,7 +7435,9 @@
     "zh-cn": "反应",
     "es": "la reacción",
     "ar": "رد فعل",
-    "ja": "反応"
+    "ja": "反応",
+    "tr": "reaksiyon",
+    "is": "viðbrögð"
   },
   {
     "en": "suit",
@@ -6207,7 +7447,9 @@
     "zh-cn": "适合",
     "es": "El traje",
     "ar": "بدلة",
-    "ja": "スーツ"
+    "ja": "スーツ",
+    "tr": "takım elbise",
+    "is": "jakkaföt"
   },
   {
     "en": "perspective",
@@ -6217,7 +7459,9 @@
     "zh-cn": "透视",
     "es": "La perspectiva",
     "ar": "إنطباع",
-    "ja": "視点"
+    "ja": "視点",
+    "tr": "perspektif",
+    "is": "sjónarhorn"
   },
   {
     "en": "construction",
@@ -6227,7 +7471,9 @@
     "zh-cn": "施工",
     "es": "la construcción",
     "ar": "اعمال بناء",
-    "ja": "建設"
+    "ja": "建設",
+    "tr": "inşaat",
+    "is": "byggingu"
   },
   {
     "en": "intelligence",
@@ -6237,7 +7483,9 @@
     "zh-cn": "情报",
     "es": "la inteligencia",
     "ar": "المخابرات",
-    "ja": "インテリジェンス"
+    "ja": "インテリジェンス",
+    "tr": "zeka",
+    "is": "upplýsingaöflun"
   },
   {
     "en": "connection",
@@ -6247,7 +7495,9 @@
     "zh-cn": "连接",
     "es": "la conexión",
     "ar": "صلة",
-    "ja": "接続"
+    "ja": "接続",
+    "tr": "bağ",
+    "is": "Tenging"
   },
   {
     "en": "shoe",
@@ -6257,7 +7507,9 @@
     "zh-cn": "鞋",
     "es": "el zapato",
     "ar": "حذاء",
-    "ja": "靴"
+    "ja": "靴",
+    "tr": "ayakkabı",
+    "is": "skór"
   },
   {
     "en": "grade",
@@ -6267,7 +7519,9 @@
     "zh-cn": "年级",
     "es": "El grado",
     "ar": "درجة",
-    "ja": "グレード"
+    "ja": "グレード",
+    "tr": "sınıf",
+    "is": "bekk"
   },
   {
     "en": "context",
@@ -6277,7 +7531,9 @@
     "zh-cn": "上下文",
     "es": "el contexto",
     "ar": "سياق الكلام",
-    "ja": "コンテキスト"
+    "ja": "コンテキスト",
+    "tr": "bağlam",
+    "is": "samhengi"
   },
   {
     "en": "committee",
@@ -6287,7 +7543,9 @@
     "zh-cn": "委员会",
     "es": "el Comité",
     "ar": "لجنة",
-    "ja": "委員会"
+    "ja": "委員会",
+    "tr": "Kurul",
+    "is": "nefndin"
   },
   {
     "en": "mistake",
@@ -6297,7 +7555,9 @@
     "zh-cn": "错误",
     "es": "el error",
     "ar": "خطأ",
-    "ja": "間違い"
+    "ja": "間違い",
+    "tr": "hata",
+    "is": "mistök"
   },
   {
     "en": "focus",
@@ -6307,7 +7567,9 @@
     "zh-cn": "焦点",
     "es": "el foco",
     "ar": "التركيز",
-    "ja": "フォーカス"
+    "ja": "フォーカス",
+    "tr": "odak",
+    "is": "áhersla"
   },
   {
     "en": "smile",
@@ -6317,7 +7579,9 @@
     "zh-cn": "微笑",
     "es": "la sonrisa",
     "ar": "ابتسامة",
-    "ja": "スマイル"
+    "ja": "スマイル",
+    "tr": "gülümseme",
+    "is": "bros"
   },
   {
     "en": "location",
@@ -6327,7 +7591,9 @@
     "zh-cn": "位置",
     "es": "La locación",
     "ar": "موقعك",
-    "ja": "ロケーション"
+    "ja": "ロケーション",
+    "tr": "yer",
+    "is": "staðsetning"
   },
   {
     "en": "clothes",
@@ -6337,7 +7603,9 @@
     "zh-cn": "衣服",
     "es": "la ropa",
     "ar": "ملابس",
-    "ja": "服"
+    "ja": "服",
+    "tr": "çamaşırlar",
+    "is": "föt"
   },
   {
     "en": "neighbor",
@@ -6347,7 +7615,9 @@
     "zh-cn": "邻居",
     "es": "El vecino",
     "ar": "الجيران",
-    "ja": "隣人"
+    "ja": "隣人",
+    "tr": "komşu",
+    "is": "nágranni"
   },
   {
     "en": "drive",
@@ -6357,7 +7627,9 @@
     "zh-cn": "驾驶",
     "es": "la unidad",
     "ar": "قيادة",
-    "ja": "ドライブ"
+    "ja": "ドライブ",
+    "tr": "sürücü",
+    "is": "keyra"
   },
   {
     "en": "function",
@@ -6367,7 +7639,9 @@
     "zh-cn": "功能",
     "es": "la función",
     "ar": "وظيفة",
-    "ja": "関数"
+    "ja": "関数",
+    "tr": "fonksiyon",
+    "is": "virka"
   },
   {
     "en": "bone",
@@ -6377,7 +7651,9 @@
     "zh-cn": "骨",
     "es": "el hueso",
     "ar": "عظم",
-    "ja": "骨"
+    "ja": "骨",
+    "tr": "kemik",
+    "is": "bein"
   },
   {
     "en": "average",
@@ -6387,7 +7663,9 @@
     "zh-cn": "平均",
     "es": "la media",
     "ar": "معدل",
-    "ja": "平均"
+    "ja": "平均",
+    "tr": "ortalama",
+    "is": "meðaltal"
   },
   {
     "en": "wine",
@@ -6397,7 +7675,9 @@
     "zh-cn": "红酒",
     "es": "el vino",
     "ar": "نبيذ",
-    "ja": "ワイン"
+    "ja": "ワイン",
+    "tr": "şarap",
+    "is": "vín"
   },
   {
     "en": "voter",
@@ -6407,7 +7687,9 @@
     "zh-cn": "选民",
     "es": "el votante",
     "ar": "ناخب",
-    "ja": "有権者"
+    "ja": "有権者",
+    "tr": "seçmen",
+    "is": "kjósandi"
   },
   {
     "en": "mean",
@@ -6417,7 +7699,9 @@
     "zh-cn": "意思",
     "es": "el significado",
     "ar": "تعني",
-    "ja": "平均"
+    "ja": "平均",
+    "tr": "anlamına gelmek",
+    "is": "vondur"
   },
   {
     "en": "learning",
@@ -6427,7 +7711,9 @@
     "zh-cn": "学习",
     "es": "el aprendizaje",
     "ar": "تعلم",
-    "ja": "学習"
+    "ja": "学習",
+    "tr": "öğrenme",
+    "is": "læra"
   },
   {
     "en": "bus",
@@ -6437,7 +7723,9 @@
     "zh-cn": "总线",
     "es": "el autobús",
     "ar": "حافلة",
-    "ja": "バス"
+    "ja": "バス",
+    "tr": "otobüs",
+    "is": "rútu"
   },
   {
     "en": "hell",
@@ -6447,7 +7735,9 @@
     "zh-cn": "地狱",
     "es": "el infierno",
     "ar": "الجحيم",
-    "ja": "地獄"
+    "ja": "地獄",
+    "tr": "cehennem",
+    "is": "helvíti"
   },
   {
     "en": "category",
@@ -6457,7 +7747,9 @@
     "zh-cn": "类别",
     "es": "la categoría",
     "ar": "الفئة",
-    "ja": "カテゴリー"
+    "ja": "カテゴリー",
+    "tr": "kategori",
+    "is": "flokki"
   },
   {
     "en": "victory",
@@ -6467,7 +7759,9 @@
     "zh-cn": "胜利",
     "es": "la victoria",
     "ar": "فوز",
-    "ja": "勝利"
+    "ja": "勝利",
+    "tr": "zafer",
+    "is": "sigur"
   },
   {
     "en": "key",
@@ -6477,7 +7771,9 @@
     "zh-cn": "键",
     "es": "la clave",
     "ar": "مفتاح",
-    "ja": "キー"
+    "ja": "キー",
+    "tr": "anahtar",
+    "is": "lykillinn"
   },
   {
     "en": "visit",
@@ -6487,7 +7783,9 @@
     "zh-cn": "访问",
     "es": "la visita",
     "ar": "يزور",
-    "ja": "訪問"
+    "ja": "訪問",
+    "tr": "ziyaret etmek",
+    "is": "heimsækja"
   },
   {
     "en": "Internet",
@@ -6497,7 +7795,9 @@
     "zh-cn": "互联网",
     "es": "La Internet",
     "ar": "الإنترنت",
-    "ja": "インターネット"
+    "ja": "インターネット",
+    "tr": "Internet",
+    "is": "Internet"
   },
   {
     "en": "medicine",
@@ -6507,7 +7807,9 @@
     "zh-cn": "医学",
     "es": "la medicina",
     "ar": "دواء",
-    "ja": "医学"
+    "ja": "医学",
+    "tr": "tıp",
+    "is": "lyf"
   },
   {
     "en": "tour",
@@ -6517,7 +7819,9 @@
     "zh-cn": "游览",
     "es": "el Tour",
     "ar": "جولة",
-    "ja": "ツアー"
+    "ja": "ツアー",
+    "tr": "tur",
+    "is": "ferð"
   },
   {
     "en": "photo",
@@ -6527,7 +7831,9 @@
     "zh-cn": "照片",
     "es": "la foto",
     "ar": "صورة فوتوغرافية",
-    "ja": "写真"
+    "ja": "写真",
+    "tr": "Fotoğraf",
+    "is": "mynd"
   },
   {
     "en": "finding",
@@ -6537,7 +7843,9 @@
     "zh-cn": "发现",
     "es": "el hallazgo",
     "ar": "العثور على",
-    "ja": "所見"
+    "ja": "所見",
+    "tr": "bulgu",
+    "is": "finna"
   },
   {
     "en": "classroom",
@@ -6547,7 +7855,9 @@
     "zh-cn": "课堂",
     "es": "el salón de clases",
     "ar": "قاعة الدراسة",
-    "ja": "教室"
+    "ja": "教室",
+    "tr": "sınıf",
+    "is": "kennslustofunni"
   },
   {
     "en": "contact",
@@ -6557,7 +7867,9 @@
     "zh-cn": "联系",
     "es": "el contacto",
     "ar": "اتصل",
-    "ja": "接触"
+    "ja": "接触",
+    "tr": "temas",
+    "is": "hafðu samband"
   },
   {
     "en": "justice",
@@ -6567,7 +7879,9 @@
     "zh-cn": "正义",
     "es": "la justicia",
     "ar": "عدالة",
-    "ja": "正義"
+    "ja": "正義",
+    "tr": "adalet",
+    "is": "réttlæti"
   },
   {
     "en": "pair",
@@ -6577,7 +7891,9 @@
     "zh-cn": "对",
     "es": "el par",
     "ar": "زوج",
-    "ja": "ペア"
+    "ja": "ペア",
+    "tr": "çift",
+    "is": "par"
   },
   {
     "en": "exercise",
@@ -6587,7 +7903,9 @@
     "zh-cn": "行使",
     "es": "el ejercicio",
     "ar": "ممارسه الرياضه",
-    "ja": "運動"
+    "ja": "運動",
+    "tr": "egzersiz",
+    "is": "æfa"
   },
   {
     "en": "knee",
@@ -6597,7 +7915,9 @@
     "zh-cn": "膝盖",
     "es": "la rodilla",
     "ar": "ركبة",
-    "ja": "膝"
+    "ja": "膝",
+    "tr": "diz",
+    "is": "hné"
   },
   {
     "en": "flower",
@@ -6607,7 +7927,9 @@
     "zh-cn": "花",
     "es": "la flor",
     "ar": "زهرة",
-    "ja": "花"
+    "ja": "花",
+    "tr": "çiçek",
+    "is": "blóm"
   },
   {
     "en": "tape",
@@ -6617,7 +7939,9 @@
     "zh-cn": "胶带",
     "es": "La cinta",
     "ar": "شريط",
-    "ja": "テープ"
+    "ja": "テープ",
+    "tr": "bant",
+    "is": "borði"
   },
   {
     "en": "supply",
@@ -6627,7 +7951,9 @@
     "zh-cn": "供应",
     "es": "el suministro",
     "ar": "يتبرع",
-    "ja": "供給"
+    "ja": "供給",
+    "tr": "arz",
+    "is": "framboð"
   },
   {
     "en": "cut",
@@ -6637,7 +7963,9 @@
     "zh-cn": "切",
     "es": "el corte",
     "ar": "يقطع",
-    "ja": "カット"
+    "ja": "カット",
+    "tr": "kesmek",
+    "is": "skera"
   },
   {
     "en": "will",
@@ -6647,7 +7975,9 @@
     "zh-cn": "将",
     "es": "la voluntad",
     "ar": "سوف",
-    "ja": "意志"
+    "ja": "意志",
+    "tr": "irade",
+    "is": "mun"
   },
   {
     "en": "actor",
@@ -6657,7 +7987,9 @@
     "zh-cn": "演员",
     "es": "el actor",
     "ar": "الممثل",
-    "ja": "俳優"
+    "ja": "俳優",
+    "tr": "aktör",
+    "is": "leikari"
   },
   {
     "en": "birth",
@@ -6667,7 +7999,9 @@
     "zh-cn": "分娩",
     "es": "el nacimiento",
     "ar": "ولادة",
-    "ja": "誕生"
+    "ja": "誕生",
+    "tr": "doğum",
+    "is": "fæðing"
   },
   {
     "en": "search",
@@ -6677,7 +8011,9 @@
     "zh-cn": "搜索",
     "es": "la búsqueda",
     "ar": "بحث",
-    "ja": "サーチ"
+    "ja": "サーチ",
+    "tr": "arama",
+    "is": "leit"
   },
   {
     "en": "democracy",
@@ -6687,7 +8023,9 @@
     "zh-cn": "民主",
     "es": "la democracia",
     "ar": "ديمقراطية",
-    "ja": "民主主義"
+    "ja": "民主主義",
+    "tr": "demokrasi",
+    "is": "lýðræði"
   },
   {
     "en": "circle",
@@ -6697,7 +8035,9 @@
     "zh-cn": "圈",
     "es": "el círculo",
     "ar": "دائرة",
-    "ja": "サークル"
+    "ja": "サークル",
+    "tr": "daire",
+    "is": "hringur"
   },
   {
     "en": "device",
@@ -6707,7 +8047,9 @@
     "zh-cn": "设备",
     "es": "el dispositivo",
     "ar": "جهاز",
-    "ja": "デバイス"
+    "ja": "デバイス",
+    "tr": "cihaz",
+    "is": "tæki"
   },
   {
     "en": "progress",
@@ -6717,7 +8059,9 @@
     "zh-cn": "进展",
     "es": "el progreso",
     "ar": "تقدم",
-    "ja": "進捗"
+    "ja": "進捗",
+    "tr": "ilerleme",
+    "is": "framfarir"
   },
   {
     "en": "front",
@@ -6727,7 +8071,9 @@
     "zh-cn": "面前",
     "es": "El frente",
     "ar": "أمامي",
-    "ja": "フロント"
+    "ja": "フロント",
+    "tr": "ön",
+    "is": "framan"
   },
   {
     "en": "bottom",
@@ -6737,7 +8083,9 @@
     "zh-cn": "底部",
     "es": "El fondo",
     "ar": "الأسفل",
-    "ja": "下"
+    "ja": "下",
+    "tr": "alt",
+    "is": "neðst"
   },
   {
     "en": "island",
@@ -6747,7 +8095,9 @@
     "zh-cn": "岛",
     "es": "la isla",
     "ar": "جزيرة",
-    "ja": "島"
+    "ja": "島",
+    "tr": "ada",
+    "is": "eyja"
   },
   {
     "en": "exchange",
@@ -6757,7 +8107,9 @@
     "zh-cn": "交换",
     "es": "el intercambio",
     "ar": "تبادل",
-    "ja": "交換"
+    "ja": "交換",
+    "tr": "değiş tokuş",
+    "is": "skipti"
   },
   {
     "en": "studio",
@@ -6767,7 +8119,9 @@
     "zh-cn": "工作室",
     "es": "el estudio",
     "ar": "ستوديو",
-    "ja": "スタジオ"
+    "ja": "スタジオ",
+    "tr": "stüdyo",
+    "is": "stúdíó"
   },
   {
     "en": "lady",
@@ -6777,7 +8131,9 @@
     "zh-cn": "淑女",
     "es": "la dama",
     "ar": "سيدة",
-    "ja": "レディ"
+    "ja": "レディ",
+    "tr": "bayan",
+    "is": "kona"
   },
   {
     "en": "colleague",
@@ -6787,7 +8143,9 @@
     "zh-cn": "同事",
     "es": "el colega",
     "ar": "زميل",
-    "ja": "同僚"
+    "ja": "同僚",
+    "tr": "çalışma arkadaşı",
+    "is": "samstarfsmaður"
   },
   {
     "en": "application",
@@ -6797,7 +8155,9 @@
     "zh-cn": "应用",
     "es": "la aplicación",
     "ar": "الوضعية",
-    "ja": "応用"
+    "ja": "応用",
+    "tr": "uygulama",
+    "is": "umsókn"
   },
   {
     "en": "neck",
@@ -6807,7 +8167,9 @@
     "zh-cn": "颈部",
     "es": "el cuello",
     "ar": "العنق",
-    "ja": "ネック"
+    "ja": "ネック",
+    "tr": "boyun",
+    "is": "háls"
   },
   {
     "en": "damage",
@@ -6817,7 +8179,9 @@
     "zh-cn": "损伤",
     "es": "el daño",
     "ar": "ضرر",
-    "ja": "損傷"
+    "ja": "損傷",
+    "tr": "hasar",
+    "is": "tjón"
   },
   {
     "en": "plastic",
@@ -6827,7 +8191,9 @@
     "zh-cn": "塑料",
     "es": "el plástico",
     "ar": "بلاستيك",
-    "ja": "プラスチック"
+    "ja": "プラスチック",
+    "tr": "plastik",
+    "is": "plast"
   },
   {
     "en": "plate",
@@ -6837,7 +8203,9 @@
     "zh-cn": "盘子",
     "es": "el plato",
     "ar": "طبق",
-    "ja": "プレート"
+    "ja": "プレート",
+    "tr": "plaka",
+    "is": "diskur"
   },
   {
     "en": "writing",
@@ -6847,7 +8215,9 @@
     "zh-cn": "写作",
     "es": "el escrito",
     "ar": "جاري الكتابة",
-    "ja": "書き込み"
+    "ja": "書き込み",
+    "tr": "yazı",
+    "is": "skrifa"
   },
   {
     "en": "start",
@@ -6857,7 +8227,9 @@
     "zh-cn": "开始",
     "es": "el comienzo",
     "ar": "بداية",
-    "ja": "開始"
+    "ja": "開始",
+    "tr": "başla",
+    "is": "byrja"
   },
   {
     "en": "expression",
@@ -6867,7 +8239,9 @@
     "zh-cn": "表达",
     "es": "la expresion",
     "ar": "التعبير",
-    "ja": "表現"
+    "ja": "表現",
+    "tr": "ifade",
+    "is": "tjáning"
   },
   {
     "en": "football",
@@ -6877,7 +8251,9 @@
     "zh-cn": "足球",
     "es": "El fútbol",
     "ar": "كرة القدم",
-    "ja": "フットボール"
+    "ja": "フットボール",
+    "tr": "Futbol",
+    "is": "fótbolti"
   },
   {
     "en": "chicken",
@@ -6887,7 +8263,9 @@
     "zh-cn": "鸡",
     "es": "el pollo",
     "ar": "دجاج",
-    "ja": "チキン"
+    "ja": "チキン",
+    "tr": "tavuk",
+    "is": "kjúklingur"
   },
   {
     "en": "army",
@@ -6897,7 +8275,9 @@
     "zh-cn": "军队",
     "es": "El ejercito",
     "ar": "جيش",
-    "ja": "軍"
+    "ja": "軍",
+    "tr": "ordu",
+    "is": "her"
   },
   {
     "en": "abuse",
@@ -6907,7 +8287,9 @@
     "zh-cn": "滥用",
     "es": "el abuso",
     "ar": "إساءة",
-    "ja": "乱用"
+    "ja": "乱用",
+    "tr": "taciz",
+    "is": "misnotkun"
   },
   {
     "en": "theater",
@@ -6917,7 +8299,9 @@
     "zh-cn": "剧院",
     "es": "el teatro",
     "ar": "مسرح",
-    "ja": "劇場"
+    "ja": "劇場",
+    "tr": "tiyatro",
+    "is": "leikhús"
   },
   {
     "en": "map",
@@ -6927,7 +8311,9 @@
     "zh-cn": "地图",
     "es": "el mapa",
     "ar": "خريطة",
-    "ja": "地図"
+    "ja": "地図",
+    "tr": "harita",
+    "is": "kort"
   },
   {
     "en": "session",
@@ -6937,7 +8323,9 @@
     "zh-cn": "会议",
     "es": "La sesión",
     "ar": "جلسة",
-    "ja": "セッション"
+    "ja": "セッション",
+    "tr": "oturum, toplantı, celse",
+    "is": "fundur"
   },
   {
     "en": "danger",
@@ -6947,7 +8335,9 @@
     "zh-cn": "危险",
     "es": "El peligro",
     "ar": "خطر",
-    "ja": "危険"
+    "ja": "危険",
+    "tr": "Tehlike",
+    "is": "hætta"
   },
   {
     "en": "literature",
@@ -6957,7 +8347,9 @@
     "zh-cn": "文学",
     "es": "la literatura",
     "ar": "الأدب",
-    "ja": "文献"
+    "ja": "文献",
+    "tr": "Edebiyat",
+    "is": "bókmenntir"
   },
   {
     "en": "rain",
@@ -6967,7 +8359,9 @@
     "zh-cn": "雨",
     "es": "la lluvia",
     "ar": "تمطر",
-    "ja": "雨"
+    "ja": "雨",
+    "tr": "yağmur",
+    "is": "rigning"
   },
   {
     "en": "desire",
@@ -6977,7 +8371,9 @@
     "zh-cn": "欲望",
     "es": "el deseo",
     "ar": "رغبة",
-    "ja": "慾望"
+    "ja": "慾望",
+    "tr": "arzu etmek",
+    "is": "löngun"
   },
   {
     "en": "assessment",
@@ -6987,7 +8383,9 @@
     "zh-cn": "评定",
     "es": "la evaluacion",
     "ar": "تقدير",
-    "ja": "評価"
+    "ja": "評価",
+    "tr": "değerlendirme",
+    "is": "mat"
   },
   {
     "en": "injury",
@@ -6997,7 +8395,9 @@
     "zh-cn": "伤",
     "es": "la lesión",
     "ar": "إصابه",
-    "ja": "損傷"
+    "ja": "損傷",
+    "tr": "hasar",
+    "is": "meiðsli"
   },
   {
     "en": "respect",
@@ -7007,7 +8407,9 @@
     "zh-cn": "尊重",
     "es": "el respeto",
     "ar": "احترام",
-    "ja": "尊敬"
+    "ja": "尊敬",
+    "tr": "saygı",
+    "is": "virðingu"
   },
   {
     "en": "fuel",
@@ -7017,7 +8419,9 @@
     "zh-cn": "汽油",
     "es": "el combustible",
     "ar": "وقود",
-    "ja": "燃料"
+    "ja": "燃料",
+    "tr": "yakıt",
+    "is": "eldsneyti"
   },
   {
     "en": "leaf",
@@ -7027,7 +8431,9 @@
     "zh-cn": "叶",
     "es": "la hoja",
     "ar": "ورقة الشجر",
-    "ja": "葉"
+    "ja": "葉",
+    "tr": "Yaprak",
+    "is": "blaða"
   },
   {
     "en": "instruction",
@@ -7037,7 +8443,9 @@
     "zh-cn": "指令",
     "es": "la instrucción",
     "ar": "تعليمات",
-    "ja": "命令"
+    "ja": "命令",
+    "tr": "talimat",
+    "is": "kennsla"
   },
   {
     "en": "fight",
@@ -7047,7 +8455,9 @@
     "zh-cn": "斗争",
     "es": "la pelea",
     "ar": "يقاتل",
-    "ja": "戦い"
+    "ja": "戦い",
+    "tr": "kavga",
+    "is": "bardagi"
   },
   {
     "en": "pool",
@@ -7057,7 +8467,9 @@
     "zh-cn": "池",
     "es": "la piscina",
     "ar": "حوض السباحة",
-    "ja": "プール"
+    "ja": "プール",
+    "tr": "havuz",
+    "is": "sundlaug"
   },
   {
     "en": "lead",
@@ -7067,7 +8479,9 @@
     "zh-cn": "铅",
     "es": "el plomo",
     "ar": "قيادة",
-    "ja": "鉛"
+    "ja": "鉛",
+    "tr": "öncülük etmek",
+    "is": "leiða"
   },
   {
     "en": "engine",
@@ -7077,7 +8491,9 @@
     "zh-cn": "发动机",
     "es": "el motor",
     "ar": "محرك",
-    "ja": "エンジン"
+    "ja": "エンジン",
+    "tr": "motor",
+    "is": "vél"
   },
   {
     "en": "salt",
@@ -7087,7 +8503,9 @@
     "zh-cn": "盐",
     "es": "la sal",
     "ar": "ملح",
-    "ja": "塩"
+    "ja": "塩",
+    "tr": "tuz",
+    "is": "salt"
   },
   {
     "en": "importance",
@@ -7097,7 +8515,9 @@
     "zh-cn": "重要性",
     "es": "la importancia",
     "ar": "أهمية",
-    "ja": "重要度"
+    "ja": "重要度",
+    "tr": "önem",
+    "is": "mikilvægi"
   },
   {
     "en": "metal",
@@ -7107,7 +8527,9 @@
     "zh-cn": "金属",
     "es": "el metal",
     "ar": "فلز",
-    "ja": "金属"
+    "ja": "金属",
+    "tr": "metal",
+    "is": "málmur"
   },
   {
     "en": "fat",
@@ -7117,7 +8539,9 @@
     "zh-cn": "脂肪",
     "es": "la grasa",
     "ar": "سمين",
-    "ja": "脂肪"
+    "ja": "脂肪",
+    "tr": "şişman",
+    "is": "fitu"
   },
   {
     "en": "ticket",
@@ -7127,7 +8551,9 @@
     "zh-cn": "票",
     "es": "La entrada",
     "ar": "تذكرة",
-    "ja": "チケット"
+    "ja": "チケット",
+    "tr": "bilet",
+    "is": "miða"
   },
   {
     "en": "software",
@@ -7137,7 +8563,9 @@
     "zh-cn": "软件",
     "es": "El software",
     "ar": "البرمجيات",
-    "ja": "ソフトウェア"
+    "ja": "ソフトウェア",
+    "tr": "yazılım",
+    "is": "hugbúnaður"
   },
   {
     "en": "lip",
@@ -7147,7 +8575,9 @@
     "zh-cn": "唇",
     "es": "el labio",
     "ar": "شفة",
-    "ja": "リップ"
+    "ja": "リップ",
+    "tr": "dudak",
+    "is": "vör"
   },
   {
     "en": "reading",
@@ -7157,7 +8587,9 @@
     "zh-cn": "读",
     "es": "la lectura",
     "ar": "قراءة",
-    "ja": "読書"
+    "ja": "読書",
+    "tr": "okuma",
+    "is": "lestur"
   },
   {
     "en": "lunch",
@@ -7167,7 +8599,9 @@
     "zh-cn": "午餐",
     "es": "el almuerzo",
     "ar": "غداء",
-    "ja": "ランチ"
+    "ja": "ランチ",
+    "tr": "öğle yemeği",
+    "is": "hádegismatur"
   },
   {
     "en": "farmer",
@@ -7177,7 +8611,9 @@
     "zh-cn": "农民",
     "es": "el granjero",
     "ar": "مزارع",
-    "ja": "農家"
+    "ja": "農家",
+    "tr": "çiftçi",
+    "is": "bóndi"
   },
   {
     "en": "sugar",
@@ -7187,7 +8623,9 @@
     "zh-cn": "糖",
     "es": "el azúcar",
     "ar": "السكر",
-    "ja": "シュガー"
+    "ja": "シュガー",
+    "tr": "şeker",
+    "is": "sykur"
   },
   {
     "en": "planet",
@@ -7197,7 +8635,9 @@
     "zh-cn": "行星",
     "es": "el planeta",
     "ar": "كوكب",
-    "ja": "惑星"
+    "ja": "惑星",
+    "tr": "gezegen",
+    "is": "reikistjarna"
   },
   {
     "en": "enemy",
@@ -7207,7 +8647,9 @@
     "zh-cn": "敌人",
     "es": "el enemigo",
     "ar": "العدو",
-    "ja": "敵"
+    "ja": "敵",
+    "tr": "düşman",
+    "is": "óvinur"
   },
   {
     "en": "athlete",
@@ -7217,7 +8659,9 @@
     "zh-cn": "运动员",
     "es": "el atleta",
     "ar": "رياضي",
-    "ja": "アスリート"
+    "ja": "アスリート",
+    "tr": "atlet",
+    "is": "íþróttamaður"
   },
   {
     "en": "soul",
@@ -7227,7 +8671,9 @@
     "zh-cn": "灵魂",
     "es": "el alma",
     "ar": "روح",
-    "ja": "魂"
+    "ja": "魂",
+    "tr": "ruh",
+    "is": "sál"
   },
   {
     "en": "panel",
@@ -7237,7 +8683,9 @@
     "zh-cn": "面板",
     "es": "el panel",
     "ar": "فريق",
-    "ja": "パネル"
+    "ja": "パネル",
+    "tr": "panel",
+    "is": "spjaldið"
   },
   {
     "en": "meaning",
@@ -7247,7 +8695,9 @@
     "zh-cn": "含义",
     "es": "el significado",
     "ar": "المعنى",
-    "ja": "意味"
+    "ja": "意味",
+    "tr": "anlam",
+    "is": "merkingu"
   },
   {
     "en": "mom",
@@ -7257,7 +8707,9 @@
     "zh-cn": "妈妈",
     "es": "la madre",
     "ar": "أمي",
-    "ja": "ママ"
+    "ja": "ママ",
+    "tr": "anne",
+    "is": "mamma"
   },
   {
     "en": "instrument",
@@ -7267,7 +8719,9 @@
     "zh-cn": "仪器",
     "es": "el instrumento",
     "ar": "صك",
-    "ja": "計器"
+    "ja": "計器",
+    "tr": "enstrüman",
+    "is": "tæki"
   },
   {
     "en": "weather",
@@ -7277,7 +8731,9 @@
     "zh-cn": "天气",
     "es": "el clima",
     "ar": "طقس",
-    "ja": "天気"
+    "ja": "天気",
+    "tr": "hava",
+    "is": "veður"
   },
   {
     "en": "commitment",
@@ -7287,7 +8743,9 @@
     "zh-cn": "承诺",
     "es": "el compromiso",
     "ar": "التزام",
-    "ja": "コミットメント"
+    "ja": "コミットメント",
+    "tr": "taahhüt",
+    "is": "skuldbinding"
   },
   {
     "en": "pocket",
@@ -7297,7 +8755,9 @@
     "zh-cn": "口袋",
     "es": "el bolsillo",
     "ar": "جيب",
-    "ja": "ポケット"
+    "ja": "ポケット",
+    "tr": "cep",
+    "is": "vasa"
   },
   {
     "en": "temperature",
@@ -7307,7 +8767,9 @@
     "zh-cn": "温度",
     "es": "la temperatura",
     "ar": "درجة الحرارة",
-    "ja": "温度"
+    "ja": "温度",
+    "tr": "sıcaklık",
+    "is": "hitastig"
   },
   {
     "en": "surprise",
@@ -7317,7 +8779,9 @@
     "zh-cn": "惊",
     "es": "la sorpresa",
     "ar": "مفاجأة",
-    "ja": "驚き"
+    "ja": "驚き",
+    "tr": "sürpriz",
+    "is": "óvart"
   },
   {
     "en": "poll",
@@ -7327,7 +8791,9 @@
     "zh-cn": "轮询",
     "es": "la encuesta",
     "ar": "تصويت",
-    "ja": "投票"
+    "ja": "投票",
+    "tr": "anket",
+    "is": "könnun"
   },
   {
     "en": "proposal",
@@ -7337,7 +8803,9 @@
     "zh-cn": "提案",
     "es": "la propuesta",
     "ar": "اقتراح",
-    "ja": "提案"
+    "ja": "提案",
+    "tr": "öneri",
+    "is": "tillaga"
   },
   {
     "en": "consequence",
@@ -7347,7 +8815,9 @@
     "zh-cn": "后果",
     "es": "la consecuencia",
     "ar": "نتيجة",
-    "ja": "結果"
+    "ja": "結果",
+    "tr": "sonuç",
+    "is": "afleiðing"
   },
   {
     "en": "half",
@@ -7357,7 +8827,9 @@
     "zh-cn": "半",
     "es": "la mitad",
     "ar": "نصف",
-    "ja": "ハーフ"
+    "ja": "ハーフ",
+    "tr": "yarım",
+    "is": "hálft"
   },
   {
     "en": "breath",
@@ -7367,7 +8839,9 @@
     "zh-cn": "呼吸",
     "es": "El aliento",
     "ar": "نفس",
-    "ja": "呼吸"
+    "ja": "呼吸",
+    "tr": "nefes",
+    "is": "andardráttur"
   },
   {
     "en": "sight",
@@ -7377,7 +8851,9 @@
     "zh-cn": "视力",
     "es": "la vista",
     "ar": "مشهد",
-    "ja": "視力"
+    "ja": "視力",
+    "tr": "görme",
+    "is": "sjón"
   },
   {
     "en": "cover",
@@ -7387,7 +8863,9 @@
     "zh-cn": "盖",
     "es": "la cubierta",
     "ar": "التغطية",
-    "ja": "カバー"
+    "ja": "カバー",
+    "tr": "kapak",
+    "is": "kápa"
   },
   {
     "en": "balance",
@@ -7397,7 +8875,9 @@
     "zh-cn": "平衡",
     "es": "el balance",
     "ar": "توازن",
-    "ja": "バランス"
+    "ja": "バランス",
+    "tr": "denge",
+    "is": "jafnvægi"
   },
   {
     "en": "minority",
@@ -7407,7 +8887,9 @@
     "zh-cn": "少数民族",
     "es": "la minoría",
     "ar": "أقلية",
-    "ja": "少数"
+    "ja": "少数",
+    "tr": "azınlık",
+    "is": "minnihluti"
   },
   {
     "en": "works",
@@ -7417,7 +8899,9 @@
     "zh-cn": "作品",
     "es": "los trabajos",
     "ar": "أعمال",
-    "ja": "作品"
+    "ja": "作品",
+    "tr": "Eserleri",
+    "is": "virkar"
   },
   {
     "en": "teaching",
@@ -7427,7 +8911,9 @@
     "zh-cn": "教学",
     "es": "la enseñanza",
     "ar": "تعليم",
-    "ja": "教える"
+    "ja": "教える",
+    "tr": "öğretim",
+    "is": "kennslu"
   },
   {
     "en": "aid",
@@ -7437,7 +8923,9 @@
     "zh-cn": "援助",
     "es": "la ayuda",
     "ar": "مساعدة",
-    "ja": "援助"
+    "ja": "援助",
+    "tr": "yardım",
+    "is": "aðstoð"
   },
   {
     "en": "advice",
@@ -7447,7 +8935,9 @@
     "zh-cn": "忠告",
     "es": "el Consejo",
     "ar": "النصيحة",
-    "ja": "助言"
+    "ja": "助言",
+    "tr": "tavsiye",
+    "is": "ráðgjöf"
   },
   {
     "en": "photograph",
@@ -7457,7 +8947,9 @@
     "zh-cn": "照片",
     "es": "la fotografía",
     "ar": "تصوير",
-    "ja": "写真"
+    "ja": "写真",
+    "tr": "fotoğraf",
+    "is": "ljósmynd"
   },
   {
     "en": "trail",
@@ -7467,7 +8959,9 @@
     "zh-cn": "落后",
     "es": "el sendero",
     "ar": "ممر المشاة",
-    "ja": "トレイル"
+    "ja": "トレイル",
+    "tr": "iz",
+    "is": "slóð"
   },
   {
     "en": "novel",
@@ -7477,7 +8971,9 @@
     "zh-cn": "小说",
     "es": "la novela",
     "ar": "رواية",
-    "ja": "小説"
+    "ja": "小説",
+    "tr": "yeni",
+    "is": "skáldsaga"
   },
   {
     "en": "code",
@@ -7487,7 +8983,9 @@
     "zh-cn": "码",
     "es": "el código",
     "ar": "الشفرة",
-    "ja": "コード"
+    "ja": "コード",
+    "tr": "kod",
+    "is": "kóða"
   },
   {
     "en": "jury",
@@ -7497,7 +8995,9 @@
     "zh-cn": "陪审团",
     "es": "el jurado",
     "ar": "هيئة المحلفين",
-    "ja": "陪審"
+    "ja": "陪審",
+    "tr": "jüri",
+    "is": "kviðdómur"
   },
   {
     "en": "breast",
@@ -7507,7 +9007,9 @@
     "zh-cn": "乳房",
     "es": "la mama",
     "ar": "ثدي",
-    "ja": "乳"
+    "ja": "乳",
+    "tr": "meme",
+    "is": "brjóst"
   },
   {
     "en": "human",
@@ -7517,7 +9019,9 @@
     "zh-cn": "人的",
     "es": "el humano",
     "ar": "بشري",
-    "ja": "人間"
+    "ja": "人間",
+    "tr": "insan",
+    "is": "manna"
   },
   {
     "en": "theme",
@@ -7527,7 +9031,9 @@
     "zh-cn": "主题",
     "es": "el tema",
     "ar": "موضوع",
-    "ja": "テーマ"
+    "ja": "テーマ",
+    "tr": "tema",
+    "is": "þema"
   },
   {
     "en": "storm",
@@ -7537,7 +9043,9 @@
     "zh-cn": "风暴",
     "es": "la tormenta",
     "ar": "عاصفة",
-    "ja": "嵐"
+    "ja": "嵐",
+    "tr": "fırtına",
+    "is": "stormur"
   },
   {
     "en": "union",
@@ -7547,7 +9055,9 @@
     "zh-cn": "联盟",
     "es": "la Union",
     "ar": "الاتحاد",
-    "ja": "連合"
+    "ja": "連合",
+    "tr": "Birlik",
+    "is": "Verkalýðsfélag"
   },
   {
     "en": "desk",
@@ -7557,7 +9067,9 @@
     "zh-cn": "台",
     "es": "el escritorio",
     "ar": "مكتب",
-    "ja": "机"
+    "ja": "机",
+    "tr": "büro",
+    "is": "skrifborð"
   },
   {
     "en": "thanks",
@@ -7567,7 +9079,9 @@
     "zh-cn": "谢谢",
     "es": "gracias",
     "ar": "شكر",
-    "ja": "ありがとう"
+    "ja": "ありがとう",
+    "tr": "Teşekkürler",
+    "is": "takk"
   },
   {
     "en": "fruit",
@@ -7577,7 +9091,9 @@
     "zh-cn": "水果",
     "es": "el fruto",
     "ar": "فاكهة",
-    "ja": "フルーツ"
+    "ja": "フルーツ",
+    "tr": "meyve",
+    "is": "ávöxtur"
   },
   {
     "en": "conclusion",
@@ -7587,7 +9103,9 @@
     "zh-cn": "结论",
     "es": "la conclusión",
     "ar": "استنتاج",
-    "ja": "結論"
+    "ja": "結論",
+    "tr": "Sonuç",
+    "is": "Niðurstaða"
   },
   {
     "en": "shadow",
@@ -7597,7 +9115,9 @@
     "zh-cn": "阴影",
     "es": "la sombra",
     "ar": "ظل",
-    "ja": "影"
+    "ja": "影",
+    "tr": "gölge",
+    "is": "skuggi"
   },
   {
     "en": "analyst",
@@ -7607,7 +9127,9 @@
     "zh-cn": "分析人士",
     "es": "el analista",
     "ar": "المحلل",
-    "ja": "アナリスト"
+    "ja": "アナリスト",
+    "tr": "analist",
+    "is": "sérfræðingur"
   },
   {
     "en": "dance",
@@ -7617,7 +9139,9 @@
     "zh-cn": "舞蹈",
     "es": "el baile",
     "ar": "رقص",
-    "ja": "ダンス"
+    "ja": "ダンス",
+    "tr": "dans",
+    "is": "dans"
   },
   {
     "en": "limit",
@@ -7627,7 +9151,9 @@
     "zh-cn": "限制",
     "es": "el límite",
     "ar": "حد",
-    "ja": "限界"
+    "ja": "限界",
+    "tr": "sınır",
+    "is": "takmörk"
   },
   {
     "en": "regulation",
@@ -7637,7 +9163,9 @@
     "zh-cn": "规",
     "es": "la regulación",
     "ar": "اللائحة",
-    "ja": "規制"
+    "ja": "規制",
+    "tr": "düzenleme",
+    "is": "reglugerð"
   },
   {
     "en": "being",
@@ -7647,7 +9175,9 @@
     "zh-cn": "存在",
     "es": "el ser",
     "ar": "يجرى",
-    "ja": "であること"
+    "ja": "であること",
+    "tr": "olmak",
+    "is": "vera"
   },
   {
     "en": "ring",
@@ -7657,7 +9187,9 @@
     "zh-cn": "环",
     "es": "el anillo",
     "ar": "حلقة",
-    "ja": "リング"
+    "ja": "リング",
+    "tr": "halka",
+    "is": "hringur"
   },
   {
     "en": "revenue",
@@ -7667,7 +9199,9 @@
     "zh-cn": "收入",
     "es": "los ingresos",
     "ar": "إيرادات",
-    "ja": "収入"
+    "ja": "収入",
+    "tr": "gelir",
+    "is": "tekjur"
   },
   {
     "en": "county",
@@ -7677,7 +9211,9 @@
     "zh-cn": "县",
     "es": "el condado",
     "ar": "مقاطعة",
-    "ja": "郡"
+    "ja": "郡",
+    "tr": "kontluk",
+    "is": "sýsla"
   },
   {
     "en": "appearance",
@@ -7687,7 +9223,9 @@
     "zh-cn": "出现",
     "es": "la apariencia",
     "ar": "مظهر خارجي",
-    "ja": "外観"
+    "ja": "外観",
+    "tr": "görünüm",
+    "is": "útlit"
   },
   {
     "en": "package",
@@ -7697,7 +9235,9 @@
     "zh-cn": "包",
     "es": "el paquete",
     "ar": "صفقة",
-    "ja": "パッケージ"
+    "ja": "パッケージ",
+    "tr": "paket",
+    "is": "pakki"
   },
   {
     "en": "difficulty",
@@ -7707,7 +9247,9 @@
     "zh-cn": "困难",
     "es": "la dificultad",
     "ar": "صعوبة",
-    "ja": "困難"
+    "ja": "困難",
+    "tr": "zorluk",
+    "is": "erfiðleikar"
   },
   {
     "en": "bridge",
@@ -7717,7 +9259,9 @@
     "zh-cn": "桥",
     "es": "el puente",
     "ar": "جسر",
-    "ja": "ブリッジ"
+    "ja": "ブリッジ",
+    "tr": "köprü",
+    "is": "brú"
   },
   {
     "en": "train",
@@ -7727,7 +9271,9 @@
     "zh-cn": "培养",
     "es": "el tren",
     "ar": "قطار",
-    "ja": "列車"
+    "ja": "列車",
+    "tr": "tren",
+    "is": "lest"
   },
   {
     "en": "e-mail",
@@ -7737,7 +9283,9 @@
     "zh-cn": "电子邮件",
     "es": "el correo electrónico",
     "ar": "البريد الإلكتروني",
-    "ja": "Eメール"
+    "ja": "Eメール",
+    "tr": "e-mail",
+    "is": "tölvupóstur"
   },
   {
     "en": "thinking",
@@ -7747,7 +9295,9 @@
     "zh-cn": "思维",
     "es": "el pensamiento",
     "ar": "تفكير",
-    "ja": "考え"
+    "ja": "考え",
+    "tr": "düşünme",
+    "is": "hugsa"
   },
   {
     "en": "trend",
@@ -7757,7 +9307,9 @@
     "zh-cn": "趋势",
     "es": "la tendencia",
     "ar": "اتجاه",
-    "ja": "傾向"
+    "ja": "傾向",
+    "tr": "akım",
+    "is": "stefna"
   },
   {
     "en": "visitor",
@@ -7767,7 +9319,9 @@
     "zh-cn": "游客",
     "es": "el visitante",
     "ar": "زائر",
-    "ja": "ビジター"
+    "ja": "ビジター",
+    "tr": "ziyaretçi",
+    "is": "gestur"
   },
   {
     "en": "loan",
@@ -7777,7 +9331,9 @@
     "zh-cn": "贷款",
     "es": "el préstamo",
     "ar": "قرض",
-    "ja": "ローン"
+    "ja": "ローン",
+    "tr": "borç",
+    "is": "lán"
   },
   {
     "en": "investor",
@@ -7787,7 +9343,9 @@
     "zh-cn": "投资者",
     "es": "el inversionista",
     "ar": "مستثمر",
-    "ja": "投資家"
+    "ja": "投資家",
+    "tr": "yatırımcı",
+    "is": "fjárfestir"
   },
   {
     "en": "profit",
@@ -7797,7 +9355,9 @@
     "zh-cn": "利润",
     "es": "la ganancia",
     "ar": "ربح",
-    "ja": "利益"
+    "ja": "利益",
+    "tr": "kâr",
+    "is": "hagnaður"
   },
   {
     "en": "crew",
@@ -7807,7 +9367,9 @@
     "zh-cn": "船员",
     "es": "la pandilla",
     "ar": "طاقم",
-    "ja": "クルー"
+    "ja": "クルー",
+    "tr": "mürettebat",
+    "is": "áhöfn"
   },
   {
     "en": "accident",
@@ -7817,7 +9379,9 @@
     "zh-cn": "事故",
     "es": "El accidente",
     "ar": "حادث",
-    "ja": "事故"
+    "ja": "事故",
+    "tr": "kaza",
+    "is": "slys"
   },
   {
     "en": "male",
@@ -7827,7 +9391,9 @@
     "zh-cn": "男",
     "es": "El hombre",
     "ar": "الذكر",
-    "ja": "男性"
+    "ja": "男性",
+    "tr": "erkek",
+    "is": "karlkyns"
   },
   {
     "en": "meal",
@@ -7837,7 +9403,9 @@
     "zh-cn": "膳食",
     "es": "la comida",
     "ar": "وجبة",
-    "ja": "お食事"
+    "ja": "お食事",
+    "tr": "yemek",
+    "is": "máltíð"
   },
   {
     "en": "hearing",
@@ -7847,7 +9415,9 @@
     "zh-cn": "听力",
     "es": "el oir",
     "ar": "سمع",
-    "ja": "聴覚"
+    "ja": "聴覚",
+    "tr": "işitme",
+    "is": "heyrn"
   },
   {
     "en": "traffic",
@@ -7857,7 +9427,9 @@
     "zh-cn": "交通",
     "es": "el tráfico",
     "ar": "حركة المرور",
-    "ja": "トラフィック"
+    "ja": "トラフィック",
+    "tr": "trafik",
+    "is": "umferð"
   },
   {
     "en": "muscle",
@@ -7867,7 +9439,9 @@
     "zh-cn": "肌肉",
     "es": "el músculo",
     "ar": "عضلة",
-    "ja": "筋"
+    "ja": "筋",
+    "tr": "kas",
+    "is": "vöðva"
   },
   {
     "en": "notion",
@@ -7877,7 +9451,9 @@
     "zh-cn": "概念",
     "es": "la noción",
     "ar": "خيالى",
-    "ja": "概念"
+    "ja": "概念",
+    "tr": "kavram",
+    "is": "hugmynd"
   },
   {
     "en": "earth",
@@ -7887,7 +9463,9 @@
     "zh-cn": "地球",
     "es": "la tierra",
     "ar": "أرض",
-    "ja": "地球"
+    "ja": "地球",
+    "tr": "toprak",
+    "is": "jörð"
   },
   {
     "en": "chest",
@@ -7897,7 +9475,9 @@
     "zh-cn": "胸部",
     "es": "el pecho",
     "ar": "صدر",
-    "ja": "胸"
+    "ja": "胸",
+    "tr": "göğüs",
+    "is": "brjósti"
   },
   {
     "en": "cash",
@@ -7907,7 +9487,9 @@
     "zh-cn": "现金",
     "es": "el dinero en efectivo",
     "ar": "السيولة النقدية",
-    "ja": "現金"
+    "ja": "現金",
+    "tr": "nakit",
+    "is": "reiðufé"
   },
   {
     "en": "museum",
@@ -7917,7 +9499,9 @@
     "zh-cn": "博物馆",
     "es": "el Museo",
     "ar": "متحف",
-    "ja": "博物館"
+    "ja": "博物館",
+    "tr": "müze",
+    "is": "safn"
   },
   {
     "en": "beauty",
@@ -7927,7 +9511,9 @@
     "zh-cn": "美女",
     "es": "la belleza",
     "ar": "جمال",
-    "ja": "美しさ"
+    "ja": "美しさ",
+    "tr": "güzellik",
+    "is": "fegurð"
   },
   {
     "en": "emergency",
@@ -7937,7 +9523,9 @@
     "zh-cn": "急",
     "es": "la emergencia",
     "ar": "حالة طوارئ",
-    "ja": "緊急"
+    "ja": "緊急",
+    "tr": "acil Durum",
+    "is": "neyðarástand"
   },
   {
     "en": "stress",
@@ -7947,7 +9535,9 @@
     "zh-cn": "强调",
     "es": "el estrés",
     "ar": "ضغط عصبى",
-    "ja": "応力"
+    "ja": "応力",
+    "tr": "stres",
+    "is": "streita"
   },
   {
     "en": "content",
@@ -7957,7 +9547,9 @@
     "zh-cn": "内容",
     "es": "el contenido",
     "ar": "يحتوى",
-    "ja": "コンテンツ"
+    "ja": "コンテンツ",
+    "tr": "içerik",
+    "is": "efni"
   },
   {
     "en": "root",
@@ -7967,7 +9559,9 @@
     "zh-cn": "根",
     "es": "la raíz",
     "ar": "جذر",
-    "ja": "ルート"
+    "ja": "ルート",
+    "tr": "kök",
+    "is": "rót"
   },
   {
     "en": "nose",
@@ -7977,7 +9571,9 @@
     "zh-cn": "鼻子",
     "es": "la nariz",
     "ar": "أنف",
-    "ja": "鼻"
+    "ja": "鼻",
+    "tr": "burun",
+    "is": "nef"
   },
   {
     "en": "bottle",
@@ -7987,7 +9583,9 @@
     "zh-cn": "瓶子",
     "es": "la botella",
     "ar": "زجاجة",
-    "ja": "ボトル"
+    "ja": "ボトル",
+    "tr": "şişe",
+    "is": "flösku"
   },
   {
     "en": "setting",
@@ -7997,7 +9595,9 @@
     "zh-cn": "设置",
     "es": "el ajuste",
     "ar": "ضبط",
-    "ja": "設定"
+    "ja": "設定",
+    "tr": "ayar",
+    "is": "stilling"
   },
   {
     "en": "dress",
@@ -8007,7 +9607,9 @@
     "zh-cn": "连衣裙",
     "es": "el vestido",
     "ar": "فستان",
-    "ja": "ドレス"
+    "ja": "ドレス",
+    "tr": "elbise",
+    "is": "kjóll"
   },
   {
     "en": "file",
@@ -8017,7 +9619,9 @@
     "zh-cn": "文件",
     "es": "el archivo",
     "ar": "ملف",
-    "ja": "ファイル"
+    "ja": "ファイル",
+    "tr": "dosya",
+    "is": "skrá"
   },
   {
     "en": "outcome",
@@ -8027,7 +9631,9 @@
     "zh-cn": "结果",
     "es": "el resultado",
     "ar": "نتيجة",
-    "ja": "結果"
+    "ja": "結果",
+    "tr": "sonuç",
+    "is": "útkoma"
   },
   {
     "en": "ad",
@@ -8037,7 +9643,9 @@
     "zh-cn": "广告",
     "es": "el anuncio",
     "ar": "ميلادي",
-    "ja": "広告"
+    "ja": "広告",
+    "tr": "ilan",
+    "is": "auglýsing"
   },
   {
     "en": "duty",
@@ -8047,7 +9655,9 @@
     "zh-cn": "义务",
     "es": "el deber",
     "ar": "مهمة",
-    "ja": "義務"
+    "ja": "義務",
+    "tr": "görev",
+    "is": "skylda"
   },
   {
     "en": "sheet",
@@ -8057,7 +9667,9 @@
     "zh-cn": "片",
     "es": "la sábana",
     "ar": "ورقة",
-    "ja": "シート"
+    "ja": "シート",
+    "tr": "tabaka",
+    "is": "lak"
   },
   {
     "en": "extent",
@@ -8067,7 +9679,9 @@
     "zh-cn": "程度",
     "es": "el grado",
     "ar": "مدى",
-    "ja": "エクステント"
+    "ja": "エクステント",
+    "tr": "derece",
+    "is": "umfang"
   },
   {
     "en": "component",
@@ -8077,7 +9691,9 @@
     "zh-cn": "零件",
     "es": "el componente",
     "ar": "مكون",
-    "ja": "成分"
+    "ja": "成分",
+    "tr": "bileşen",
+    "is": "hluti"
   },
   {
     "en": "contrast",
@@ -8087,7 +9703,9 @@
     "zh-cn": "对比",
     "es": "el contraste",
     "ar": "تناقض",
-    "ja": "コントラスト"
+    "ja": "コントラスト",
+    "tr": "kontrast",
+    "is": "andstæða"
   },
   {
     "en": "zone",
@@ -8097,7 +9715,9 @@
     "zh-cn": "区",
     "es": "la zona",
     "ar": "منطقة",
-    "ja": "ゾーン"
+    "ja": "ゾーン",
+    "tr": "bölge",
+    "is": "svæði"
   },
   {
     "en": "airport",
@@ -8107,7 +9727,9 @@
     "zh-cn": "飞机场",
     "es": "el aeropuerto",
     "ar": "مطار",
-    "ja": "空港"
+    "ja": "空港",
+    "tr": "havalimanı",
+    "is": "flugvöllur"
   },
   {
     "en": "chief",
@@ -8117,7 +9739,9 @@
     "zh-cn": "首席",
     "es": "el jefe",
     "ar": "رئيس",
-    "ja": "チーフ"
+    "ja": "チーフ",
+    "tr": "şef",
+    "is": "höfðingi"
   },
   {
     "en": "shirt",
@@ -8127,7 +9751,9 @@
     "zh-cn": "衬衫",
     "es": "la camisa",
     "ar": "قميص",
-    "ja": "シャツ"
+    "ja": "シャツ",
+    "tr": "gömlek",
+    "is": "skyrtu"
   },
   {
     "en": "pilot",
@@ -8137,7 +9763,9 @@
     "zh-cn": "飞行员",
     "es": "El piloto",
     "ar": "طيار",
-    "ja": "パイロット"
+    "ja": "パイロット",
+    "tr": "pilot",
+    "is": "flugmaður"
   },
   {
     "en": "cat",
@@ -8147,7 +9775,9 @@
     "zh-cn": "猫",
     "es": "el gato",
     "ar": "قط",
-    "ja": "ネコ"
+    "ja": "ネコ",
+    "tr": "kedi",
+    "is": "köttur"
   },
   {
     "en": "contribution",
@@ -8157,7 +9787,9 @@
     "zh-cn": "贡献",
     "es": "la contribución",
     "ar": "إسهام",
-    "ja": "貢献"
+    "ja": "貢献",
+    "tr": "katkı",
+    "is": "framlag"
   },
   {
     "en": "capacity",
@@ -8167,7 +9799,9 @@
     "zh-cn": "容量",
     "es": "la capacidad",
     "ar": "سعة",
-    "ja": "容量"
+    "ja": "容量",
+    "tr": "kapasite",
+    "is": "getu"
   },
   {
     "en": "estate",
@@ -8177,7 +9811,9 @@
     "zh-cn": "房地产",
     "es": "el estado",
     "ar": "ملكية",
-    "ja": "エステート"
+    "ja": "エステート",
+    "tr": "arazi",
+    "is": "búi"
   },
   {
     "en": "guide",
@@ -8187,7 +9823,9 @@
     "zh-cn": "指南",
     "es": "la guía",
     "ar": "يرشد",
-    "ja": "ガイド"
+    "ja": "ガイド",
+    "tr": "kılavuz",
+    "is": "fylgja"
   },
   {
     "en": "circumstance",
@@ -8197,7 +9835,9 @@
     "zh-cn": "环境",
     "es": "la circunstancia",
     "ar": "ظرف",
-    "ja": "状況"
+    "ja": "状況",
+    "tr": "durum",
+    "is": "aðstæður"
   },
   {
     "en": "snow",
@@ -8207,7 +9847,9 @@
     "zh-cn": "雪",
     "es": "la nieve",
     "ar": "ثلج",
-    "ja": "雪"
+    "ja": "雪",
+    "tr": "kar",
+    "is": "snjór"
   },
   {
     "en": "politician",
@@ -8217,7 +9859,9 @@
     "zh-cn": "政治家",
     "es": "el político",
     "ar": "سياسي",
-    "ja": "政治家"
+    "ja": "政治家",
+    "tr": "politikacı",
+    "is": "stjórnmálamaður"
   },
   {
     "en": "percentage",
@@ -8227,7 +9871,9 @@
     "zh-cn": "百分比",
     "es": "el porcentaje",
     "ar": "النسبة المئوية",
-    "ja": "パーセンテージ"
+    "ja": "パーセンテージ",
+    "tr": "yüzde",
+    "is": "hlutfall"
   },
   {
     "en": "meat",
@@ -8237,7 +9883,9 @@
     "zh-cn": "肉",
     "es": "la carne",
     "ar": "لحم",
-    "ja": "お肉"
+    "ja": "お肉",
+    "tr": "et",
+    "is": "kjöt"
   },
   {
     "en": "soil",
@@ -8247,7 +9895,9 @@
     "zh-cn": "泥",
     "es": "la tierra",
     "ar": "تربة",
-    "ja": "土壌"
+    "ja": "土壌",
+    "tr": "toprak",
+    "is": "jarðvegur"
   },
   {
     "en": "surgery",
@@ -8257,7 +9907,9 @@
     "zh-cn": "手术",
     "es": "la cirugía",
     "ar": "العملية الجراحية",
-    "ja": "手術"
+    "ja": "手術",
+    "tr": "cerrahlık",
+    "is": "skurðaðgerð"
   },
   {
     "en": "basketball",
@@ -8267,7 +9919,9 @@
     "zh-cn": "篮球",
     "es": "el baloncesto",
     "ar": "كرة سلة",
-    "ja": "バスケットボール"
+    "ja": "バスケットボール",
+    "tr": "Basketbol",
+    "is": "körfubolti"
   },
   {
     "en": "golf",
@@ -8277,7 +9931,9 @@
     "zh-cn": "高尔夫球",
     "es": "el golf",
     "ar": "جولف",
-    "ja": "ゴルフ"
+    "ja": "ゴルフ",
+    "tr": "golf",
+    "is": "golf"
   },
   {
     "en": "chain",
@@ -8287,7 +9943,9 @@
     "zh-cn": "链",
     "es": "La cadena",
     "ar": "سلسلة",
-    "ja": "鎖"
+    "ja": "鎖",
+    "tr": "Zincir",
+    "is": "keðja"
   },
   {
     "en": "address",
@@ -8297,7 +9955,9 @@
     "zh-cn": "地址",
     "es": "la dirección",
     "ar": "عنوان",
-    "ja": "住所"
+    "ja": "住所",
+    "tr": "adres",
+    "is": "heimilisfang"
   },
   {
     "en": "branch",
@@ -8307,7 +9967,9 @@
     "zh-cn": "科",
     "es": "la rama",
     "ar": "فرع شجرة",
-    "ja": "ブランチ"
+    "ja": "ブランチ",
+    "tr": "şube",
+    "is": "útibú"
   },
   {
     "en": "combination",
@@ -8317,7 +9979,9 @@
     "zh-cn": "组合",
     "es": "la combinación",
     "ar": "مزيج",
-    "ja": "組み合わせ"
+    "ja": "組み合わせ",
+    "tr": "kombinasyon",
+    "is": "samsetning"
   },
   {
     "en": "governor",
@@ -8327,7 +9991,9 @@
     "zh-cn": "州长",
     "es": "el gobernador",
     "ar": "محافظ حاكم",
-    "ja": "知事"
+    "ja": "知事",
+    "tr": "Vali",
+    "is": "landstjóra"
   },
   {
     "en": "relief",
@@ -8337,7 +10003,9 @@
     "zh-cn": "浮雕",
     "es": "el alivio",
     "ar": "ارتياح",
-    "ja": "救済"
+    "ja": "救済",
+    "tr": "kabartma",
+    "is": "léttir"
   },
   {
     "en": "user",
@@ -8347,7 +10015,9 @@
     "zh-cn": "用户",
     "es": "el usuario",
     "ar": "المستعمل",
-    "ja": "ユーザー"
+    "ja": "ユーザー",
+    "tr": "kullanıcı",
+    "is": "notandi"
   },
   {
     "en": "dad",
@@ -8357,7 +10027,9 @@
     "zh-cn": "爸",
     "es": "el padre",
     "ar": "أب",
-    "ja": "パパ"
+    "ja": "パパ",
+    "tr": "baba",
+    "is": "pabbi"
   },
   {
     "en": "manner",
@@ -8367,7 +10039,9 @@
     "zh-cn": "方式",
     "es": "la manera",
     "ar": "أسلوب",
-    "ja": "方法"
+    "ja": "方法",
+    "tr": "tavır",
+    "is": "hátt"
   },
   {
     "en": "silence",
@@ -8377,7 +10051,9 @@
     "zh-cn": "安静",
     "es": "el silencio",
     "ar": "الصمت",
-    "ja": "沈黙"
+    "ja": "沈黙",
+    "tr": "Sessizlik",
+    "is": "þögn"
   },
   {
     "en": "rating",
@@ -8387,7 +10063,9 @@
     "zh-cn": "评分",
     "es": "la calificación",
     "ar": "تقييم",
-    "ja": "評価"
+    "ja": "評価",
+    "tr": "değerlendirme",
+    "is": "einkunn"
   },
   {
     "en": "motion",
@@ -8397,7 +10075,9 @@
     "zh-cn": "运动",
     "es": "el movimiento",
     "ar": "اقتراح",
-    "ja": "モーション"
+    "ja": "モーション",
+    "tr": "hareket",
+    "is": "hreyfing"
   },
   {
     "en": "gender",
@@ -8407,7 +10087,9 @@
     "zh-cn": "性别",
     "es": "el género",
     "ar": "جنس",
-    "ja": "性別"
+    "ja": "性別",
+    "tr": "Cinsiyet",
+    "is": "kyn"
   },
   {
     "en": "fee",
@@ -8417,7 +10099,9 @@
     "zh-cn": "费用",
     "es": "La cuota",
     "ar": "رسوم",
-    "ja": "費用"
+    "ja": "費用",
+    "tr": "ücret",
+    "is": "gjald"
   },
   {
     "en": "landscape",
@@ -8427,7 +10111,9 @@
     "zh-cn": "景观",
     "es": "el paisaje",
     "ar": "المناظر الطبيعيه",
-    "ja": "風景"
+    "ja": "風景",
+    "tr": "peyzaj",
+    "is": "landslag"
   },
   {
     "en": "bowl",
@@ -8437,7 +10123,9 @@
     "zh-cn": "碗",
     "es": "el cuenco",
     "ar": "عاء",
-    "ja": "ボウル"
+    "ja": "ボウル",
+    "tr": "çanak",
+    "is": "skál"
   },
   {
     "en": "frame",
@@ -8447,7 +10135,9 @@
     "zh-cn": "帧",
     "es": "el marco",
     "ar": "الإطار",
-    "ja": "フレーム"
+    "ja": "フレーム",
+    "tr": "çerçeve",
+    "is": "ramma"
   },
   {
     "en": "host",
@@ -8457,7 +10147,9 @@
     "zh-cn": "主办",
     "es": "el anfitrión",
     "ar": "مضيف",
-    "ja": "ホスト"
+    "ja": "ホスト",
+    "tr": "evsahibi",
+    "is": "gestgjafi"
   },
   {
     "en": "hall",
@@ -8467,7 +10159,9 @@
     "zh-cn": "大厅",
     "es": "el salon",
     "ar": "صالة",
-    "ja": "ホール"
+    "ja": "ホール",
+    "tr": "salon",
+    "is": "sal"
   },
   {
     "en": "ocean",
@@ -8477,7 +10171,9 @@
     "zh-cn": "海洋",
     "es": "el océano",
     "ar": "محيط",
-    "ja": "海洋"
+    "ja": "海洋",
+    "tr": "okyanus",
+    "is": "haf"
   },
   {
     "en": "row",
@@ -8487,7 +10183,9 @@
     "zh-cn": "行",
     "es": "La fila",
     "ar": "صف",
-    "ja": "行"
+    "ja": "行",
+    "tr": "kürek çekmek",
+    "is": "röð"
   },
   {
     "en": "producer",
@@ -8497,7 +10195,9 @@
     "zh-cn": "制片人",
     "es": "el productor",
     "ar": "منتج",
-    "ja": "プロデューサー"
+    "ja": "プロデューサー",
+    "tr": "yapımcı",
+    "is": "framleiðandi"
   },
   {
     "en": "regime",
@@ -8507,7 +10207,9 @@
     "zh-cn": "政权",
     "es": "el régimen",
     "ar": "النظام الحاكم",
-    "ja": "体制"
+    "ja": "体制",
+    "tr": "rejim",
+    "is": "stjórn"
   },
   {
     "en": "division",
@@ -8517,7 +10219,9 @@
     "zh-cn": "师",
     "es": "La división",
     "ar": "قطاع",
-    "ja": "分割"
+    "ja": "分割",
+    "tr": "bölünme",
+    "is": "deild"
   },
   {
     "en": "appeal",
@@ -8527,7 +10231,9 @@
     "zh-cn": "上诉",
     "es": "la apelación",
     "ar": "مناشدة",
-    "ja": "アピール"
+    "ja": "アピール",
+    "tr": "temyiz",
+    "is": "höfða"
   },
   {
     "en": "mirror",
@@ -8537,7 +10243,9 @@
     "zh-cn": "镜子",
     "es": "el espejo",
     "ar": "مرآة",
-    "ja": "鏡"
+    "ja": "鏡",
+    "tr": "ayna",
+    "is": "spegill"
   },
   {
     "en": "tooth",
@@ -8547,7 +10255,9 @@
     "zh-cn": "齿",
     "es": "el diente",
     "ar": "سن",
-    "ja": "歯"
+    "ja": "歯",
+    "tr": "diş",
+    "is": "tönn"
   },
   {
     "en": "length",
@@ -8557,7 +10267,9 @@
     "zh-cn": "长度",
     "es": "la longitud",
     "ar": "الطول",
-    "ja": "長さ"
+    "ja": "長さ",
+    "tr": "uzunluk",
+    "is": "lengd"
   },
   {
     "en": "topic",
@@ -8567,7 +10279,9 @@
     "zh-cn": "话题",
     "es": "El tema",
     "ar": "موضوع",
-    "ja": "トピック"
+    "ja": "トピック",
+    "tr": "konu",
+    "is": "efni"
   },
   {
     "en": "variable",
@@ -8577,7 +10291,9 @@
     "zh-cn": "变量",
     "es": "La variable",
     "ar": "متغير",
-    "ja": "変数"
+    "ja": "変数",
+    "tr": "değişken",
+    "is": "breytu"
   },
   {
     "en": "telephone",
@@ -8587,7 +10303,9 @@
     "zh-cn": "电话",
     "es": "el telefono",
     "ar": "هاتف",
-    "ja": "電話"
+    "ja": "電話",
+    "tr": "telefon",
+    "is": "Sími"
   },
   {
     "en": "perception",
@@ -8597,7 +10315,9 @@
     "zh-cn": "知觉",
     "es": "la percepción",
     "ar": "المعرفة",
-    "ja": "知覚"
+    "ja": "知覚",
+    "tr": "algı",
+    "is": "skynjun"
   },
   {
     "en": "confidence",
@@ -8607,7 +10327,9 @@
     "zh-cn": "置信度",
     "es": "la confianza",
     "ar": "الثقة",
-    "ja": "信頼"
+    "ja": "信頼",
+    "tr": "güven",
+    "is": "sjálfstraust"
   },
   {
     "en": "bedroom",
@@ -8617,7 +10339,9 @@
     "zh-cn": "卧室",
     "es": "el dormitorio",
     "ar": "غرفة نوم",
-    "ja": "寝室"
+    "ja": "寝室",
+    "tr": "yatak odası",
+    "is": "svefnherbergi"
   },
   {
     "en": "secret",
@@ -8627,7 +10351,9 @@
     "zh-cn": "秘密",
     "es": "el secreto",
     "ar": "سر",
-    "ja": "秘密"
+    "ja": "秘密",
+    "tr": "gizli",
+    "is": "leyndarmál"
   },
   {
     "en": "debt",
@@ -8637,7 +10363,9 @@
     "zh-cn": "债务",
     "es": "la deuda",
     "ar": "دين",
-    "ja": "債務"
+    "ja": "債務",
+    "tr": "borç",
+    "is": "skuld"
   },
   {
     "en": "tank",
@@ -8647,7 +10375,9 @@
     "zh-cn": "坦克",
     "es": "el tanque",
     "ar": "خزان",
-    "ja": "タンク"
+    "ja": "タンク",
+    "tr": "tank",
+    "is": "tankur"
   },
   {
     "en": "nurse",
@@ -8657,7 +10387,9 @@
     "zh-cn": "护士",
     "es": "la enfermera",
     "ar": "ممرضة",
-    "ja": "ナース"
+    "ja": "ナース",
+    "tr": "hemşire",
+    "is": "hjúkrunarfræðingur"
   },
   {
     "en": "coverage",
@@ -8667,7 +10399,9 @@
     "zh-cn": "覆盖",
     "es": "la cobertura",
     "ar": "تغطية",
-    "ja": "カバレッジ"
+    "ja": "カバレッジ",
+    "tr": "kapsama",
+    "is": "umfjöllun"
   },
   {
     "en": "opposition",
@@ -8677,7 +10411,9 @@
     "zh-cn": "反对",
     "es": "la oposición",
     "ar": "معارضة",
-    "ja": "反対"
+    "ja": "反対",
+    "tr": "muhalefet",
+    "is": "andstöðu"
   },
   {
     "en": "bond",
@@ -8687,7 +10423,9 @@
     "zh-cn": "键",
     "es": "el vínculo",
     "ar": "كفالة",
-    "ja": "ボンド"
+    "ja": "ボンド",
+    "tr": "bağ",
+    "is": "tengsl"
   },
   {
     "en": "pleasure",
@@ -8697,7 +10435,9 @@
     "zh-cn": "乐趣",
     "es": "el placer",
     "ar": "بكل سرور",
-    "ja": "喜び"
+    "ja": "喜び",
+    "tr": "Zevk",
+    "is": "ánægju"
   },
   {
     "en": "master",
@@ -8707,7 +10447,9 @@
     "zh-cn": "主",
     "es": "el maestro",
     "ar": "رئيس",
-    "ja": "マスター"
+    "ja": "マスター",
+    "tr": "ana",
+    "is": "húsbóndi"
   },
   {
     "en": "era",
@@ -8717,7 +10459,9 @@
     "zh-cn": "时代",
     "es": "la era",
     "ar": "عصر",
-    "ja": "時代"
+    "ja": "時代",
+    "tr": "çağ",
+    "is": "Tímabil"
   },
   {
     "en": "requirement",
@@ -8727,7 +10471,9 @@
     "zh-cn": "需求",
     "es": "el requerimiento",
     "ar": "المتطلبات",
-    "ja": "要件"
+    "ja": "要件",
+    "tr": "gereklilik",
+    "is": "kröfu"
   },
   {
     "en": "check",
@@ -8737,7 +10483,9 @@
     "zh-cn": "查",
     "es": "el cheque",
     "ar": "التحقق من",
-    "ja": "チェック"
+    "ja": "チェック",
+    "tr": "Kontrol",
+    "is": "athuga"
   },
   {
     "en": "stand",
@@ -8747,7 +10495,9 @@
     "zh-cn": "站",
     "es": "el soporte",
     "ar": "يفهم",
-    "ja": "スタンド"
+    "ja": "スタンド",
+    "tr": "durmak",
+    "is": "standa"
   },
   {
     "en": "fun",
@@ -8757,7 +10507,9 @@
     "zh-cn": "开玩笑",
     "es": "la diversión",
     "ar": "مرح",
-    "ja": "楽しい"
+    "ja": "楽しい",
+    "tr": "eğlence",
+    "is": "gaman"
   },
   {
     "en": "expectation",
@@ -8767,7 +10519,9 @@
     "zh-cn": "期望",
     "es": "la expectativa",
     "ar": "توقع",
-    "ja": "期待"
+    "ja": "期待",
+    "tr": "beklenti",
+    "is": "væntingar"
   },
   {
     "en": "wing",
@@ -8777,7 +10531,9 @@
     "zh-cn": "翅膀",
     "es": "el ala",
     "ar": "جناح",
-    "ja": "翼"
+    "ja": "翼",
+    "tr": "kanat",
+    "is": "vængur"
   },
   {
     "en": "struggle",
@@ -8787,7 +10543,9 @@
     "zh-cn": "斗争",
     "es": "la lucha",
     "ar": "صراع",
-    "ja": "闘争"
+    "ja": "闘争",
+    "tr": "mücadele",
+    "is": "baráttu"
   },
   {
     "en": "judgment",
@@ -8797,7 +10555,9 @@
     "zh-cn": "判断",
     "es": "el juicio",
     "ar": "حكم",
-    "ja": "判定"
+    "ja": "判定",
+    "tr": "yargı",
+    "is": "dómur"
   },
   {
     "en": "beer",
@@ -8807,7 +10567,9 @@
     "zh-cn": "啤酒",
     "es": "la cerveza",
     "ar": "بيرة",
-    "ja": "ビール"
+    "ja": "ビール",
+    "tr": "bira",
+    "is": "bjór"
   },
   {
     "en": "English",
@@ -8817,7 +10579,9 @@
     "zh-cn": "英语",
     "es": "el inglés",
     "ar": "الإنجليزية",
-    "ja": "英語"
+    "ja": "英語",
+    "tr": "ingilizce",
+    "is": "Enska"
   },
   {
     "en": "reference",
@@ -8827,7 +10591,9 @@
     "zh-cn": "参考",
     "es": "la referencia",
     "ar": "مرجع",
-    "ja": "参照"
+    "ja": "参照",
+    "tr": "referans",
+    "is": "tilvísun"
   },
   {
     "en": "tear",
@@ -8837,7 +10603,9 @@
     "zh-cn": "眼泪",
     "es": "la lagrima",
     "ar": "دمعه",
-    "ja": "涙"
+    "ja": "涙",
+    "tr": "gözyaşı",
+    "is": "tár"
   },
   {
     "en": "doubt",
@@ -8847,7 +10615,9 @@
     "zh-cn": "怀疑",
     "es": "la duda",
     "ar": "شك",
-    "ja": "疑問に思う"
+    "ja": "疑問に思う",
+    "tr": "şüphe",
+    "is": "efa"
   },
   {
     "en": "minister",
@@ -8857,7 +10627,9 @@
     "zh-cn": "部长",
     "es": "el ministro",
     "ar": "وزير",
-    "ja": "大臣"
+    "ja": "大臣",
+    "tr": "bakan",
+    "is": "ráðherra"
   },
   {
     "en": "hero",
@@ -8867,7 +10639,9 @@
     "zh-cn": "英雄",
     "es": "el héroe",
     "ar": "بطل",
-    "ja": "ヒーロー"
+    "ja": "ヒーロー",
+    "tr": "kahraman",
+    "is": "hetja"
   },
   {
     "en": "cloud",
@@ -8877,7 +10651,9 @@
     "zh-cn": "云",
     "es": "la nube",
     "ar": "غيم",
-    "ja": "雲"
+    "ja": "雲",
+    "tr": "bulut",
+    "is": "ský"
   },
   {
     "en": "winner",
@@ -8887,7 +10663,9 @@
     "zh-cn": "优胜者",
     "es": "el ganador",
     "ar": "الفائز",
-    "ja": "勝者"
+    "ja": "勝者",
+    "tr": "kazanan",
+    "is": "Sigurvegari"
   },
   {
     "en": "volume",
@@ -8897,7 +10675,9 @@
     "zh-cn": "卷",
     "es": "El volumen",
     "ar": "الصوت",
-    "ja": "ボリューム"
+    "ja": "ボリューム",
+    "tr": "hacim",
+    "is": "rúmmál"
   },
   {
     "en": "travel",
@@ -8907,7 +10687,9 @@
     "zh-cn": "旅行",
     "es": "el viaje",
     "ar": "السفر",
-    "ja": "旅行"
+    "ja": "旅行",
+    "tr": "seyahat",
+    "is": "ferðast"
   },
   {
     "en": "seed",
@@ -8917,7 +10699,9 @@
     "zh-cn": "种子",
     "es": "la semilla",
     "ar": "بذرة",
-    "ja": "シード"
+    "ja": "シード",
+    "tr": "tohum",
+    "is": "fræ"
   },
   {
     "en": "fashion",
@@ -8927,7 +10711,9 @@
     "zh-cn": "时尚",
     "es": "la moda",
     "ar": "موضه",
-    "ja": "ファッション"
+    "ja": "ファッション",
+    "tr": "moda",
+    "is": "tíska"
   },
   {
     "en": "pepper",
@@ -8937,7 +10723,9 @@
     "zh-cn": "胡椒",
     "es": "el chile",
     "ar": "فلفل",
-    "ja": "コショウ"
+    "ja": "コショウ",
+    "tr": "biber",
+    "is": "pipar"
   },
   {
     "en": "intervention",
@@ -8947,7 +10735,9 @@
     "zh-cn": "介入",
     "es": "la intervención",
     "ar": "تدخل قضائي",
-    "ja": "介入"
+    "ja": "介入",
+    "tr": "müdahale",
+    "is": "inngrip"
   },
   {
     "en": "copy",
@@ -8957,7 +10747,9 @@
     "zh-cn": "复制",
     "es": "la copia",
     "ar": "نسخ",
-    "ja": "コピー"
+    "ja": "コピー",
+    "tr": "kopya",
+    "is": "afrita"
   },
   {
     "en": "tip",
@@ -8967,7 +10759,9 @@
     "zh-cn": "小费",
     "es": "la punta",
     "ar": "تلميح",
-    "ja": "先端"
+    "ja": "先端",
+    "tr": "bahşiş",
+    "is": "þjórfé"
   },
   {
     "en": "welfare",
@@ -8977,7 +10771,9 @@
     "zh-cn": "福利",
     "es": "el bienestar",
     "ar": "خير",
-    "ja": "福祉"
+    "ja": "福祉",
+    "tr": "refah",
+    "is": "velferð"
   },
   {
     "en": "vegetable",
@@ -8987,7 +10783,9 @@
     "zh-cn": "蔬菜",
     "es": "el vegetal",
     "ar": "الخضروات",
-    "ja": "野菜"
+    "ja": "野菜",
+    "tr": "sebze",
+    "is": "grænmeti"
   },
   {
     "en": "dish",
@@ -8997,7 +10795,9 @@
     "zh-cn": "碟",
     "es": "el plato",
     "ar": "طبق",
-    "ja": "皿"
+    "ja": "皿",
+    "tr": "tabak",
+    "is": "fat"
   },
   {
     "en": "beach",
@@ -9007,7 +10807,9 @@
     "zh-cn": "海滩",
     "es": "la playa",
     "ar": "شاطئ بحر",
-    "ja": "ビーチ"
+    "ja": "ビーチ",
+    "tr": "plaj",
+    "is": "fjara"
   },
   {
     "en": "improvement",
@@ -9017,7 +10819,9 @@
     "zh-cn": "起色",
     "es": "El mejoramiento",
     "ar": "تحسين",
-    "ja": "改善"
+    "ja": "改善",
+    "tr": "gelişme iyilesme duzelme ilerleme",
+    "is": "framför"
   },
   {
     "en": "opening",
@@ -9027,7 +10831,9 @@
     "zh-cn": "开盘",
     "es": "la apertura",
     "ar": "افتتاح",
-    "ja": "開ける"
+    "ja": "開ける",
+    "tr": "açılış",
+    "is": "opnun"
   },
   {
     "en": "route",
@@ -9037,7 +10843,9 @@
     "zh-cn": "路线",
     "es": "la ruta",
     "ar": "طريق",
-    "ja": "ルート"
+    "ja": "ルート",
+    "tr": "rota",
+    "is": "leið"
   },
   {
     "en": "league",
@@ -9047,7 +10855,9 @@
     "zh-cn": "联盟",
     "es": "la Liga",
     "ar": "الدوري",
-    "ja": "リーグ"
+    "ja": "リーグ",
+    "tr": "lig",
+    "is": "deildinni"
   },
   {
     "en": "core",
@@ -9057,7 +10867,9 @@
     "zh-cn": "核心",
     "es": "el núcleo",
     "ar": "النواة",
-    "ja": "コア"
+    "ja": "コア",
+    "tr": "çekirdek",
+    "is": "kjarni"
   },
   {
     "en": "rise",
@@ -9067,7 +10879,9 @@
     "zh-cn": "上升",
     "es": "el aumento",
     "ar": "ترتفع",
-    "ja": "上昇"
+    "ja": "上昇",
+    "tr": "yükselmek",
+    "is": "hækka"
   },
   {
     "en": "tie",
@@ -9077,7 +10891,9 @@
     "zh-cn": "领带",
     "es": "la corbata",
     "ar": "ربطة عنق",
-    "ja": "ネクタイ"
+    "ja": "ネクタイ",
+    "tr": "kravat",
+    "is": "binda"
   },
   {
     "en": "holiday",
@@ -9087,7 +10903,9 @@
     "zh-cn": "假日",
     "es": "las vacaciones",
     "ar": "يوم الاجازة",
-    "ja": "休日"
+    "ja": "休日",
+    "tr": "tatil",
+    "is": "frí"
   },
   {
     "en": "resolution",
@@ -9097,7 +10915,9 @@
     "zh-cn": "解析度",
     "es": "la resolución",
     "ar": "القرار",
-    "ja": "解決"
+    "ja": "解決",
+    "tr": "çözüm",
+    "is": "upplausn"
   },
   {
     "en": "household",
@@ -9107,7 +10927,9 @@
     "zh-cn": "家庭",
     "es": "el dueño de casa",
     "ar": "منزلي",
-    "ja": "家庭"
+    "ja": "家庭",
+    "tr": "ev halkı",
+    "is": "heimilishald"
   },
   {
     "en": "abortion",
@@ -9117,7 +10939,9 @@
     "zh-cn": "流产",
     "es": "el aborto",
     "ar": "الإجهاض",
-    "ja": "中絶"
+    "ja": "中絶",
+    "tr": "kürtaj",
+    "is": "fóstureyðingu"
   },
   {
     "en": "witness",
@@ -9127,7 +10951,9 @@
     "zh-cn": "见证",
     "es": "el testigo",
     "ar": "الشاهد",
-    "ja": "証人"
+    "ja": "証人",
+    "tr": "tanık",
+    "is": "vitni"
   },
   {
     "en": "sector",
@@ -9137,7 +10963,9 @@
     "zh-cn": "扇形",
     "es": "el sector",
     "ar": "قطاع",
-    "ja": "セクタ"
+    "ja": "セクタ",
+    "tr": "sektör",
+    "is": "geiranum"
   },
   {
     "en": "representative",
@@ -9147,7 +10975,9 @@
     "zh-cn": "代表",
     "es": "el representante",
     "ar": "وكيل",
-    "ja": "代表"
+    "ja": "代表",
+    "tr": "temsilci",
+    "is": "fulltrúi"
   },
   {
     "en": "black",
@@ -9157,7 +10987,9 @@
     "zh-cn": "黑色",
     "es": "el negro",
     "ar": "أسود",
-    "ja": "黒"
+    "ja": "黒",
+    "tr": "siyah",
+    "is": "svartur"
   },
   {
     "en": "incident",
@@ -9167,7 +10999,9 @@
     "zh-cn": "事件",
     "es": "el incidente",
     "ar": "حادث",
-    "ja": "入射"
+    "ja": "入射",
+    "tr": "olay",
+    "is": "atvik"
   },
   {
     "en": "flow",
@@ -9177,7 +11011,9 @@
     "zh-cn": "流",
     "es": "el flujo",
     "ar": "تدفق",
-    "ja": "フロー"
+    "ja": "フロー",
+    "tr": "akış",
+    "is": "flæði"
   },
   {
     "en": "faculty",
@@ -9187,7 +11023,9 @@
     "zh-cn": "学院",
     "es": "la Facultad",
     "ar": "كلية",
-    "ja": "学部"
+    "ja": "学部",
+    "tr": "Fakülte",
+    "is": "deildarinnar"
   },
   {
     "en": "waste",
@@ -9197,7 +11035,9 @@
     "zh-cn": "浪费",
     "es": "la pérdida",
     "ar": "المخلفات",
-    "ja": "廃棄物"
+    "ja": "廃棄物",
+    "tr": "atık",
+    "is": "sóun"
   },
   {
     "en": "mass",
@@ -9207,7 +11047,9 @@
     "zh-cn": "块",
     "es": "la masa",
     "ar": "كتلة",
-    "ja": "質量"
+    "ja": "質量",
+    "tr": "kitle",
+    "is": "massa"
   },
   {
     "en": "experiment",
@@ -9217,7 +11059,9 @@
     "zh-cn": "实验",
     "es": "el experimento",
     "ar": "تجربة",
-    "ja": "実験"
+    "ja": "実験",
+    "tr": "deney",
+    "is": "tilraun"
   },
   {
     "en": "bomb",
@@ -9227,7 +11071,9 @@
     "zh-cn": "炸弹",
     "es": "la bomba",
     "ar": "قنبلة",
-    "ja": "爆弾"
+    "ja": "爆弾",
+    "tr": "bomba",
+    "is": "sprengju"
   },
   {
     "en": "tone",
@@ -9237,7 +11083,9 @@
     "zh-cn": "音",
     "es": "el tono",
     "ar": "نغمة",
-    "ja": "トーン"
+    "ja": "トーン",
+    "tr": "ton",
+    "is": "tónn"
   },
   {
     "en": "engineer",
@@ -9247,7 +11095,9 @@
     "zh-cn": "工程师",
     "es": "el ingeniero",
     "ar": "مهندس",
-    "ja": "エンジニア"
+    "ja": "エンジニア",
+    "tr": "mühendis",
+    "is": "verkfræðingur"
   },
   {
     "en": "wheel",
@@ -9257,7 +11107,9 @@
     "zh-cn": "轮",
     "es": "la rueda",
     "ar": "عجلة",
-    "ja": "ホイール"
+    "ja": "ホイール",
+    "tr": "tekerlek",
+    "is": "hjól"
   },
   {
     "en": "female",
@@ -9267,7 +11119,9 @@
     "zh-cn": "女",
     "es": "la hembra",
     "ar": "إناثا",
-    "ja": "女性"
+    "ja": "女性",
+    "tr": "kadın",
+    "is": "kvenkyns"
   },
   {
     "en": "promise",
@@ -9277,7 +11131,9 @@
     "zh-cn": "诺言",
     "es": "la promesa",
     "ar": "وعد",
-    "ja": "約束する"
+    "ja": "約束する",
+    "tr": "söz vermek",
+    "is": "lofa"
   },
   {
     "en": "cable",
@@ -9287,7 +11143,9 @@
     "zh-cn": "电缆",
     "es": "el cable",
     "ar": "كابل",
-    "ja": "ケーブル"
+    "ja": "ケーブル",
+    "tr": "kablo",
+    "is": "kaðall"
   },
   {
     "en": "cream",
@@ -9297,7 +11155,9 @@
     "zh-cn": "奶油",
     "es": "La crema",
     "ar": "كريم",
-    "ja": "クリーム"
+    "ja": "クリーム",
+    "tr": "krem",
+    "is": "krem"
   },
   {
     "en": "secretary",
@@ -9307,7 +11167,9 @@
     "zh-cn": "秘书",
     "es": "la secretaria",
     "ar": "سكرتير",
-    "ja": "秘書"
+    "ja": "秘書",
+    "tr": "Sekreter",
+    "is": "ritari"
   },
   {
     "en": "gate",
@@ -9317,7 +11179,9 @@
     "zh-cn": "门",
     "es": "la puerta",
     "ar": "بوابة",
-    "ja": "ゲート"
+    "ja": "ゲート",
+    "tr": "kapı",
+    "is": "hliðið"
   },
   {
     "en": "hill",
@@ -9327,7 +11191,9 @@
     "zh-cn": "爬坡道",
     "es": "la colina",
     "ar": "تل",
-    "ja": "丘"
+    "ja": "丘",
+    "tr": "Tepe",
+    "is": "hæð"
   },
   {
     "en": "noise",
@@ -9337,7 +11203,9 @@
     "zh-cn": "噪声",
     "es": "el ruido",
     "ar": "الضوضاء",
-    "ja": "ノイズ"
+    "ja": "ノイズ",
+    "tr": "gürültü, ses",
+    "is": "hávaði"
   },
   {
     "en": "grass",
@@ -9347,7 +11215,9 @@
     "zh-cn": "草",
     "es": "el césped",
     "ar": "نجيل",
-    "ja": "草"
+    "ja": "草",
+    "tr": "çimen",
+    "is": "gras"
   },
   {
     "en": "hat",
@@ -9357,7 +11227,9 @@
     "zh-cn": "帽子",
     "es": "el sombrero",
     "ar": "قبعة",
-    "ja": "帽子"
+    "ja": "帽子",
+    "tr": "şapka",
+    "is": "hattur"
   },
   {
     "en": "legislation",
@@ -9367,7 +11239,9 @@
     "zh-cn": "立法",
     "es": "la legislación",
     "ar": "تشريع",
-    "ja": "立法"
+    "ja": "立法",
+    "tr": "mevzuat",
+    "is": "löggjöf"
   },
   {
     "en": "achievement",
@@ -9377,7 +11251,9 @@
     "zh-cn": "成就",
     "es": "el logro",
     "ar": "موهلات",
-    "ja": "成果"
+    "ja": "成果",
+    "tr": "başarı",
+    "is": "afrek"
   },
   {
     "en": "fishing",
@@ -9387,7 +11263,9 @@
     "zh-cn": "钓鱼",
     "es": "la pesca",
     "ar": "صيد السمك",
-    "ja": "釣り"
+    "ja": "釣り",
+    "tr": "Balık tutma",
+    "is": "veiði"
   },
   {
     "en": "drink",
@@ -9397,7 +11275,9 @@
     "zh-cn": "喝",
     "es": "la bebida",
     "ar": "يشرب",
-    "ja": "ドリンク"
+    "ja": "ドリンク",
+    "tr": "içki",
+    "is": "Drykkur"
   },
   {
     "en": "talent",
@@ -9407,7 +11287,9 @@
     "zh-cn": "天赋",
     "es": "el talento",
     "ar": "موهبة",
-    "ja": "才能"
+    "ja": "才能",
+    "tr": "yetenek",
+    "is": "hæfileika"
   },
   {
     "en": "taste",
@@ -9417,7 +11299,9 @@
     "zh-cn": "味道",
     "es": "el sabor",
     "ar": "المذاق",
-    "ja": "味"
+    "ja": "味",
+    "tr": "damak zevki",
+    "is": "bragð"
   },
   {
     "en": "characteristic",
@@ -9427,7 +11311,9 @@
     "zh-cn": "特性",
     "es": "la característica",
     "ar": "صفة مميزة",
-    "ja": "特性"
+    "ja": "特性",
+    "tr": "karakteristik",
+    "is": "einkennandi"
   },
   {
     "en": "milk",
@@ -9437,7 +11323,9 @@
     "zh-cn": "牛奶",
     "es": "La leche",
     "ar": "حليب",
-    "ja": "ミルク"
+    "ja": "ミルク",
+    "tr": "Süt",
+    "is": "mjólk"
   },
   {
     "en": "sentence",
@@ -9447,7 +11335,9 @@
     "zh-cn": "句子",
     "es": "la frase",
     "ar": "جملة او حكم على",
-    "ja": "文"
+    "ja": "文",
+    "tr": "cümle",
+    "is": "setning"
   },
   {
     "en": "height",
@@ -9457,7 +11347,9 @@
     "zh-cn": "高度",
     "es": "la altura",
     "ar": "ارتفاع",
-    "ja": "高さ"
+    "ja": "高さ",
+    "tr": "yükseklik",
+    "is": "hæð"
   },
   {
     "en": "physician",
@@ -9467,7 +11359,9 @@
     "zh-cn": "医师",
     "es": "el Físico",
     "ar": "الطبيب المعالج",
-    "ja": "医師"
+    "ja": "医師",
+    "tr": "doktor",
+    "is": "læknir"
   },
   {
     "en": "sleep",
@@ -9477,7 +11371,9 @@
     "zh-cn": "睡觉",
     "es": "el sueño",
     "ar": "ينام",
-    "ja": "睡眠"
+    "ja": "睡眠",
+    "tr": "uyku",
+    "is": "sofa"
   },
   {
     "en": "ride",
@@ -9487,7 +11383,9 @@
     "zh-cn": "骑",
     "es": "el paseo",
     "ar": "اركب",
-    "ja": "ライド"
+    "ja": "ライド",
+    "tr": "binmek",
+    "is": "ríða"
   },
   {
     "en": "explanation",
@@ -9497,7 +11395,9 @@
     "zh-cn": "说明",
     "es": "la explicación",
     "ar": "تفسير",
-    "ja": "説明"
+    "ja": "説明",
+    "tr": "açıklama",
+    "is": "útskýring"
   },
   {
     "en": "campus",
@@ -9507,7 +11407,9 @@
     "zh-cn": "校园",
     "es": "el campus",
     "ar": "الحرم الجامعي",
-    "ja": "キャンパス"
+    "ja": "キャンパス",
+    "tr": "kampus",
+    "is": "háskólasvæðinu"
   },
   {
     "en": "potential",
@@ -9517,7 +11419,9 @@
     "zh-cn": "潜在",
     "es": "el potencial",
     "ar": "محتمل",
-    "ja": "潜在的な"
+    "ja": "潜在的な",
+    "tr": "potansiyel",
+    "is": "möguleiki"
   },
   {
     "en": "immigrant",
@@ -9527,7 +11431,9 @@
     "zh-cn": "移民",
     "es": "el inmigrante",
     "ar": "المهاجر",
-    "ja": "移民"
+    "ja": "移民",
+    "tr": "göçmen",
+    "is": "innflytjandi"
   },
   {
     "en": "alternative",
@@ -9537,7 +11443,9 @@
     "zh-cn": "替代",
     "es": "La alternativa",
     "ar": "لبديل",
-    "ja": "代替"
+    "ja": "代替",
+    "tr": "alternatif",
+    "is": "val"
   },
   {
     "en": "interaction",
@@ -9547,7 +11455,9 @@
     "zh-cn": "相互作用",
     "es": "la interacción",
     "ar": "التفاعل",
-    "ja": "インタラクション"
+    "ja": "インタラクション",
+    "tr": "etkileşim",
+    "is": "samskipti"
   },
   {
     "en": "column",
@@ -9557,7 +11467,9 @@
     "zh-cn": "柱",
     "es": "la columna",
     "ar": "عمود",
-    "ja": "カラム"
+    "ja": "カラム",
+    "tr": "kolon",
+    "is": "dálki"
   },
   {
     "en": "personality",
@@ -9567,7 +11479,9 @@
     "zh-cn": "个性",
     "es": "la personalidad",
     "ar": "الشخصية",
-    "ja": "人"
+    "ja": "人",
+    "tr": "kişilik",
+    "is": "persónuleika"
   },
   {
     "en": "signal",
@@ -9577,7 +11491,9 @@
     "zh-cn": "信号",
     "es": "la señal",
     "ar": "إشارة",
-    "ja": "信号"
+    "ja": "信号",
+    "tr": "işaret",
+    "is": "merki"
   },
   {
     "en": "curriculum",
@@ -9587,7 +11503,9 @@
     "zh-cn": "课程",
     "es": "El curriculo",
     "ar": "منهاج دراسي",
-    "ja": "カリキュラム"
+    "ja": "カリキュラム",
+    "tr": "Müfredat",
+    "is": "námskrá"
   },
   {
     "en": "honor",
@@ -9597,7 +11515,9 @@
     "zh-cn": "荣誉",
     "es": "el honor",
     "ar": "شرف",
-    "ja": "名誉"
+    "ja": "名誉",
+    "tr": "Onur",
+    "is": "heiður"
   },
   {
     "en": "passenger",
@@ -9607,7 +11527,9 @@
     "zh-cn": "乘客",
     "es": "el pasajero",
     "ar": "راكب",
-    "ja": "旅客"
+    "ja": "旅客",
+    "tr": "yolcu",
+    "is": "farþegi"
   },
   {
     "en": "assistance",
@@ -9617,7 +11539,9 @@
     "zh-cn": "帮助",
     "es": "la asistencia",
     "ar": "مساعدة",
-    "ja": "支援"
+    "ja": "支援",
+    "tr": "yardım",
+    "is": "aðstoð"
   },
   {
     "en": "association",
@@ -9627,7 +11551,9 @@
     "zh-cn": "协会",
     "es": "la Asociación",
     "ar": "جمعية",
-    "ja": "協会"
+    "ja": "協会",
+    "tr": "birleşme",
+    "is": "samtök"
   },
   {
     "en": "lab",
@@ -9637,7 +11563,9 @@
     "zh-cn": "实验室",
     "es": "el laboratorio",
     "ar": "مختبر",
-    "ja": "研究室"
+    "ja": "研究室",
+    "tr": "laboratuvar",
+    "is": "Lab"
   },
   {
     "en": "offer",
@@ -9647,7 +11575,9 @@
     "zh-cn": "提供",
     "es": "la oferta",
     "ar": "عرض",
-    "ja": "提供"
+    "ja": "提供",
+    "tr": "teklif",
+    "is": "bjóða"
   },
   {
     "en": "criticism",
@@ -9657,7 +11587,9 @@
     "zh-cn": "批评",
     "es": "el criticismo",
     "ar": "نقد",
-    "ja": "批判"
+    "ja": "批判",
+    "tr": "eleştiri",
+    "is": "gagnrýni"
   },
   {
     "en": "asset",
@@ -9667,7 +11599,9 @@
     "zh-cn": "财富",
     "es": "el activo",
     "ar": "الأصول",
-    "ja": "資産"
+    "ja": "資産",
+    "tr": "varlık",
+    "is": "eign"
   },
   {
     "en": "depression",
@@ -9677,7 +11611,9 @@
     "zh-cn": "萧条",
     "es": "la depresion",
     "ar": "كآبة",
-    "ja": "うつ病"
+    "ja": "うつ病",
+    "tr": "depresyon",
+    "is": "þunglyndi"
   },
   {
     "en": "journalist",
@@ -9687,7 +11623,9 @@
     "zh-cn": "记者",
     "es": "el periodista",
     "ar": "صحافي",
-    "ja": "ジャーナリスト"
+    "ja": "ジャーナリスト",
+    "tr": "gazeteci",
+    "is": "blaðamaður"
   },
   {
     "en": "prayer",
@@ -9697,7 +11635,9 @@
     "zh-cn": "祷告",
     "es": "el orador",
     "ar": "صلاة",
-    "ja": "祈り"
+    "ja": "祈り",
+    "tr": "namaz",
+    "is": "bæn"
   },
   {
     "en": "scholar",
@@ -9707,7 +11647,9 @@
     "zh-cn": "学者",
     "es": "El erudito",
     "ar": "عالم",
-    "ja": "学者"
+    "ja": "学者",
+    "tr": "akademisyen",
+    "is": "fræðimaður"
   },
   {
     "en": "warning",
@@ -9717,7 +11659,9 @@
     "zh-cn": "警告",
     "es": "la advertencia",
     "ar": "تحذير",
-    "ja": "警告"
+    "ja": "警告",
+    "tr": "uyarı",
+    "is": "viðvörun"
   },
   {
     "en": "climate",
@@ -9727,7 +11671,9 @@
     "zh-cn": "气候",
     "es": "el clima",
     "ar": "مناخ",
-    "ja": "気候"
+    "ja": "気候",
+    "tr": "iklim",
+    "is": "veðurfar"
   },
   {
     "en": "cheese",
@@ -9737,7 +11683,9 @@
     "zh-cn": "起司",
     "es": "el queso",
     "ar": "جبن",
-    "ja": "チーズ"
+    "ja": "チーズ",
+    "tr": "peynir",
+    "is": "osti"
   },
   {
     "en": "observation",
@@ -9747,7 +11695,9 @@
     "zh-cn": "意见",
     "es": "La observación",
     "ar": "الملاحظة",
-    "ja": "観察"
+    "ja": "観察",
+    "tr": "gözlem",
+    "is": "athugun"
   },
   {
     "en": "childhood",
@@ -9757,7 +11707,9 @@
     "zh-cn": "童年",
     "es": "la niñez",
     "ar": "مرحلة الطفولة",
-    "ja": "子供時代"
+    "ja": "子供時代",
+    "tr": "çocukluk",
+    "is": "æsku"
   },
   {
     "en": "payment",
@@ -9767,7 +11719,9 @@
     "zh-cn": "付款",
     "es": "el pago",
     "ar": "دفع",
-    "ja": "支払い"
+    "ja": "支払い",
+    "tr": "ödeme",
+    "is": "greiðslu"
   },
   {
     "en": "sir",
@@ -9777,7 +11731,9 @@
     "zh-cn": "先生",
     "es": "el señor",
     "ar": "سيدي المحترم",
-    "ja": "サー"
+    "ja": "サー",
+    "tr": "Bayım",
+    "is": "herra"
   },
   {
     "en": "cigarette",
@@ -9787,7 +11743,9 @@
     "zh-cn": "香烟",
     "es": "el cigarrillo",
     "ar": "سيجارة",
-    "ja": "シガレット"
+    "ja": "シガレット",
+    "tr": "sigara",
+    "is": "sígarettu"
   },
   {
     "en": "definition",
@@ -9797,7 +11755,9 @@
     "zh-cn": "定义",
     "es": "la definición",
     "ar": "فريف",
-    "ja": "定義"
+    "ja": "定義",
+    "tr": "tanım",
+    "is": "skilgreining"
   },
   {
     "en": "priority",
@@ -9807,7 +11767,9 @@
     "zh-cn": "优先",
     "es": "la prioridad",
     "ar": "أفضلية",
-    "ja": "優先"
+    "ja": "優先",
+    "tr": "öncelik",
+    "is": "forgang"
   },
   {
     "en": "bread",
@@ -9817,7 +11779,9 @@
     "zh-cn": "面包",
     "es": "el pan",
     "ar": "خبز",
-    "ja": "パン"
+    "ja": "パン",
+    "tr": "ekmek",
+    "is": "brauð"
   },
   {
     "en": "creation",
@@ -9827,7 +11791,9 @@
     "zh-cn": "创建",
     "es": "la creación",
     "ar": "خلق",
-    "ja": "創造"
+    "ja": "創造",
+    "tr": "oluşturma",
+    "is": "sköpun"
   },
   {
     "en": "graduate",
@@ -9837,7 +11803,9 @@
     "zh-cn": "毕业",
     "es": "el graduado",
     "ar": "تخرج",
-    "ja": "卒業"
+    "ja": "卒業",
+    "tr": "mezun olmak",
+    "is": "útskrifast"
   },
   {
     "en": "request",
@@ -9847,7 +11815,9 @@
     "zh-cn": "请求",
     "es": "la solicitud",
     "ar": "طلب",
-    "ja": "要求"
+    "ja": "要求",
+    "tr": "istek",
+    "is": "beiðni"
   },
   {
     "en": "emotion",
@@ -9857,6 +11827,8 @@
     "zh-cn": "情感",
     "es": "la emocion",
     "ar": "المشاعر",
-    "ja": "感情"
+    "ja": "感情",
+    "tr": "duygu",
+    "is": "tilfinning"
   }
 ]
