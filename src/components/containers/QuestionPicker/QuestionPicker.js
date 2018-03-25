@@ -57,7 +57,7 @@ class QuestionPicker extends Component {
 
       let badQuestionsMax = 6;
 
-      for (let i = 20; i < words.length; i++) {
+      for (let i = 0; i < words.length; i++) {
         if (this.badQuestions.length >= badQuestionsMax) break;
 
         console.log(progress[words[i].en])
