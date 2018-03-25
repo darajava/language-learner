@@ -134,11 +134,17 @@ class Round extends Component {
     }
 
     checkAnswer() {
-      let correct = this.isCorrect();
+let correct = this.isCorrect();
 
       this.setState({
         correct,
       });
+
+      let cleanedAnswer = this.state.currentAnswer.toLowerCase().replace('the ', '');
+      cleanedAnswer = str.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+      let actualAnswer = this.props.answer.toLowerCase().replace('the ', '');
+
+      let actualAnswerNoDiacritics = actualAnswer.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
 
       let distance = this.levenshteinDistance(
         cleanedAnswer,
@@ -149,7 +155,7 @@ class Round extends Component {
         distance >= 1 // if we're close
         && distance <= 2
         && cleanedAnswer.length > 2 // and we have some answer
-        && actualAnswerNoDiacritics.indexOf(cleanedAnswer) !== 0 // and it's not one char from completion
+        && actualAnswer.indexOf(cleanedAnswer) !== 0 // and it's not one char from completion
       ) {
         this.setState({
           close: true,
