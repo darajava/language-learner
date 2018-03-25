@@ -7,17 +7,6 @@ class Round extends Component {
     constructor() {
       super();
 
-      this.initialState = {
-        correct: false,
-        error: false,
-        close: false,
-        currentAnswer: "",
-        time: Date.now(),
-        timeProgress: 0,
-      };
-
-      this.state = this.initialState;
-
       this.progress = localStorage.getItem('progress');
 
       if (this.progress === null) {
@@ -28,13 +17,10 @@ class Round extends Component {
 
       setInterval(() => {
         let timeLimit = 25;
-        this.setState({
-          timeProgress: ((Date.now() - this.state.time) / 1000) * 100 / timeLimit,
-        }, () => {
-          if (this.state.timeProgress >= 99 && !this.state.correct && !this.state.error) {
-            this.loseRound();
-          }
-        })
+        this.timeProgress = ((Date.now() - this.state.time) / 1000) * 100 / timeLimit;
+        if (this.timeProgress >= 99 && !this.state.correct && !this.state.error) {
+          this.loseRound();
+        }
       }, 100);
 
       this.typingSounds = [
@@ -58,7 +44,7 @@ class Round extends Component {
 
         if (this.state.error || this.state.correct) return;
         
-        this.typingSounds[Math.floor(Math.random() * 4)].play();
+        //this.typingSounds[Math.floor(Math.random() * 4)].play();
 
         this.setState({
           currentAnswer: event.target.value,
@@ -73,17 +59,27 @@ class Round extends Component {
         }
       });
 
-      // NO IDEA WHY I NEED THIS
-      setTimeout(() => {
-        this.loadSounds();
-      }, 50);
-
-      this.loadSounds = this.loadSounds.bind(this);
       this.loseRound = this.loseRound.bind(this);
       this.startNextRound = this.startNextRound.bind(this);
     }
 
+    componentWillMount() {
+      this.initialState = {
+        correct: false,
+        error: false,
+        close: false,
+        currentAnswer: "",
+        time: Date.now(),
+        progress: this.props.progress,
+      };
+
+      this.timeProgress = 0;
+
+      this.setState(this.initialState);
+    }
+
     componentWillUpdate(nextprops) {
+      console.log(this.state);
       if (this.props.words < nextprops.words) {
         this.levelup.play();
         this.newAnimation = Math.random();
@@ -91,7 +87,6 @@ class Round extends Component {
     }
 
     isCorrect() {
-
       if (this.state.currentAnswer.toLowerCase().replace('the ', '') === this.props.answer.toLowerCase()) {
         return true;
       }
@@ -189,6 +184,10 @@ class Round extends Component {
         };
       }
 
+      this.setState({
+        progress: progress[this.props.hash],
+      });
+
       localStorage.setItem('progress', JSON.stringify(progress));
 
       this.playSounds();
@@ -210,6 +209,11 @@ class Round extends Component {
           score: 0,
         };
       }
+
+      this.setState({
+        progress: progress[this.props.hash],
+      });
+
 
       console.log('fdd');
       console.log(progress);
@@ -246,16 +250,11 @@ class Round extends Component {
       }, 180);
     }
 
-    loadSounds() {
-
-    }
-
     startNextRound() {
       document.querySelector('input[id="hidden-field"]').value = '';
       this.props.newQuestion();
 
-      this.loadSounds();
-
+      this.initialState.progress = this.props.progress;
       this.initialState.time = Date.now();
       this.setState(this.initialState);
     }
@@ -271,12 +270,16 @@ class Round extends Component {
             question={this.props.question}
             answer={this.props.answer}
             name={this.props.name}
-            timeProgress={this.state.timeProgress}
+            timeProgress={this.timeProgress}
             currentAnswer={this.state.currentAnswer}
             loseRound={this.loseRound}
             startNextRound={this.startNextRound}
             words={this.props.words}
             newAnimation={this.newAnimation}
+            score={this.state.progress.score}
+            revision={this.props.revision}
+            newWord={this.props.newWord}
+            threshold={this.props.threshold}
           />
         </div>
       );

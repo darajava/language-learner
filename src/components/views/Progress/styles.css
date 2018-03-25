@@ -1,0 +1,28 @@
+.container {
+	margin-top: 20px;
+	font-size: 5vw;
+}
+
+.revision {
+	font-size: 2vw;
+	color: #ccc;
+	position: relative;
+    top: -5vw;
+}
+
+.complete1 {
+	color: #dc0040;
+}
+
+.complete2 {
+	color: orange;
+    opacity: 0.6;
+}
+
+.complete3 {
+	color: #56d269;
+}
+
+.incomplete {
+	color: #999;
+}

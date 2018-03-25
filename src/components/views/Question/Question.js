@@ -3,6 +3,7 @@ import CSSModules from 'react-css-modules';
 
 import styles from './styles.css';
 import Timer from '../Timer/Timer';
+import Progress from '../Progress/Progress';
 
 function resetAnimation() {
   var el = document.getElementById('animated');
@@ -47,7 +48,14 @@ const Question = (props) => {
 
       <div styleName='question'>
         <div>{question}</div>
+        <Progress 
+          score={props.score}
+          threshold={props.threshold}
+          revision={props.revision}
+          newWord={props.newWord} />
       </div>
+
+      
 
       <div styleName='answer'>
         {props.error || props.correct ? answer : props.currentAnswer}

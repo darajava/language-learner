@@ -13,6 +13,8 @@ class QuestionPicker extends Component {
         recentWords: [],
       }
 
+      this.thresholdScore = 3;
+
       this.knownQuestions = [];
       this.badQuestions = [];
 
@@ -42,7 +44,7 @@ class QuestionPicker extends Component {
 
       let progress = this.progress;
 
-      let thresholdScore = 2;
+      let thresholdScore = this.thresholdScore;
 
       // words.en is used as a hash, nothing to do with the language
 
@@ -53,9 +55,9 @@ class QuestionPicker extends Component {
         }
       }
 
-      let badQuestionsMax = 7;
+      let badQuestionsMax = 6;
 
-      for (let i = 0; i < words.length; i++) {
+      for (let i = 20; i < words.length; i++) {
         if (this.badQuestions.length >= badQuestionsMax) break;
 
         console.log(progress[words[i].en])
@@ -118,11 +120,16 @@ class QuestionPicker extends Component {
       let answer = this.state.word[knowsLang];
       let question = this.state.word[learningLang];
 
+      let newWord = false;
+
       if (progress[this.state.word.en]) {
         if (progress[this.state.word.en].score >= 1) {
           question = this.state.word[knowsLang];
           answer = this.state.word[learningLang];
         }
+      } else {
+        newWord = true;
+        progress[this.state.word.en] = {score: 0}
       }
       
       return (
@@ -138,6 +145,10 @@ class QuestionPicker extends Component {
             knows={knowsLang}
             learning={learningLang}
             word={this.state.word}
+            newWord={newWord}
+            revision={progress[this.state.word.en].score >= this.thresholdScore}
+            progress={progress[this.state.word.en]}
+            threshold={this.thresholdScore}
           />
         </div>
       );
