@@ -141,7 +141,7 @@ let correct = this.isCorrect();
       });
 
       let cleanedAnswer = this.state.currentAnswer.toLowerCase().replace('the ', '');
-      cleanedAnswer = str.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+      cleanedAnswer = cleanedAnswer.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
       let actualAnswer = this.props.answer.toLowerCase().replace('the ', '');
 
       let actualAnswerNoDiacritics = actualAnswer.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
