@@ -10,18 +10,30 @@
 }
 
 .complete1 {
-	color: #dc0040;
+	background-color: #dc0040;
 }
 
 .complete2 {
-	color: orange;
+	background-color: orange;
     opacity: 0.6;
 }
 
 .complete3 {
-	color: #56d269;
+	background-color: #56d269;
 }
 
 .incomplete {
-	color: #999;
+	background-color: #ccc;
+}
+
+.dots {
+	padding-top: 3vw;
+}
+
+.dots span {
+	display: inline-block;
+	border-radius: 100%;
+	height: 3vw;
+	width: 3vw;
+	margin: 1vw;
 }

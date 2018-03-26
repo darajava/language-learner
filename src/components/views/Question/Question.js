@@ -42,9 +42,9 @@ const Question = (props) => {
   return (
     <div styleName={styleName} onClick={props.error || props.correct ? () => props.startNextRound() : undefined}>
       <span id="animated" styleName='animate'>
-        <span>Words: {props.words}</span>  
+        <span>words: {props.words}</span>  
       </span>
-      <span styleName='total'>Words: {props.words}</span>
+      <span styleName='total'>words: {props.words}</span>
 
       <div styleName='question'>
         <div>{question}</div>
@@ -66,7 +66,6 @@ const Question = (props) => {
       </div>
       
       <div styleName="timer" onClick={props.loseRound}>
-        <Timer progress={props.timeProgress}/>
       </div>
 
     </div>

@@ -15,14 +15,6 @@ class Round extends Component {
         this.progress = JSON.parse(this.progress);
       }
 
-      setInterval(() => {
-        let timeLimit = 25;
-        this.timeProgress = ((Date.now() - this.state.time) / 1000) * 100 / timeLimit;
-        if (this.timeProgress >= 99 && !this.state.correct && !this.state.error) {
-          this.loseRound();
-        }
-      }, 100);
-
       this.typingSounds = [
         new Audio('sounds/1.wav'),
         new Audio('sounds/2.wav'),
@@ -208,24 +200,18 @@ let correct = this.isCorrect();
         window.navigator.vibrate(200);
       }
 
-      // this.progress = JSON.parse(localStorage.getItem('progress'));
       let progress = this.progress;
 
       if (!this.state.close) {
         progress[this.props.hash] = {
           date: Date.now(),
-          score: 0,
+          score: progress[this.props.hash].score >= 1 ? 1 : 0, 
         };
       }
 
       this.setState({
         progress: progress[this.props.hash],
       });
-
-
-      console.log('fdd');
-      console.log(progress);
-      console.log(this.props.hash);
 
       localStorage.setItem('progress', JSON.stringify(progress));
 
@@ -278,7 +264,6 @@ let correct = this.isCorrect();
             question={this.props.question}
             answer={this.props.answer}
             name={this.props.name}
-            timeProgress={this.timeProgress}
             currentAnswer={this.state.currentAnswer}
             loseRound={this.loseRound}
             startNextRound={this.startNextRound}
