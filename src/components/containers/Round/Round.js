@@ -205,7 +205,7 @@ let correct = this.isCorrect();
       if (!this.state.close) {
         progress[this.props.hash] = {
           date: Date.now(),
-          score: progress[this.props.hash].score >= 1 ? 1 : 0, 
+          score: progress[this.props.hash] && progress[this.props.hash].score >= 1 ? 1 : 0, 
         };
       }
 
