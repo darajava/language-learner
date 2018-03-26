@@ -42,9 +42,9 @@ const Question = (props) => {
   return (
     <div styleName={styleName} onClick={props.error || props.correct ? () => props.startNextRound() : undefined}>
       <span id="animated" styleName='animate'>
-        <span>words: {props.words}</span>  
+        <span>score: {props.words}</span>  
       </span>
-      <span styleName='total'>words: {props.words}</span>
+      <span styleName='total'>score: {props.words}</span>
 
       <div styleName='question'>
         <div>{question}</div>
