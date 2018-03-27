@@ -16,27 +16,27 @@ class Round extends Component {
       }
 
       this.typingSounds = [
-        new Audio('sounds/1.wav'),
-        new Audio('sounds/2.wav'),
-        new Audio('sounds/3.wav'),
-        new Audio('sounds/4.wav'),
+        document.getElementById('typing1'),
+        document.getElementById('typing4'),
+        document.getElementById('typing3'),
+        document.getElementById('typing2'),
+        document.getElementById('typing5'),
+        document.getElementById('typing6'),
+        document.getElementById('typing7'),
+        document.getElementById('typing8'),
       ];
 
-      this.win = new Audio('sounds/win.wav');
-      this.lose = new Audio('sounds/lose.wav');
-      this.levelup = new Audio('sounds/levelup.wav');
+      this.win = document.getElementById('win-audio');
+      this.lose = document.getElementById('lose-audio');
+      this.levelup = document.getElementById('levelup-audio');
       this.lose.volume = 0.3;
-
+      
       this.typingSounds.map((audio) => audio.volume = 0.3);
 
       document.querySelector('input[id="hidden-field"]').oninput = (event) => {
-        if (!this.audio) {
-          this.audio = new Audio();
-        }
-
         if (this.state.error || this.state.correct) return;
         
-        //this.typingSounds[Math.floor(Math.random() * 4)].play();
+        this.typingSounds[Math.floor(Math.random() * 8)].play();
 
         this.setState({
           currentAnswer: event.target.value,
@@ -172,6 +172,7 @@ let correct = this.isCorrect();
         progress = {};
       }
 
+
       if (typeof progress[this.props.hash] === 'undefined') {
         progress[this.props.hash] = {
           date: Date.now(),
@@ -183,6 +184,11 @@ let correct = this.isCorrect();
           score: progress[this.props.hash].score + 1,
         };
       }
+
+      if (progress[this.props.hash].score === this.props.threshold) {
+        this.props.updateScore(this.props.words + 1);
+      }
+
 
       this.setState({
         progress: progress[this.props.hash],
@@ -223,25 +229,36 @@ let correct = this.isCorrect();
     }
 
     playSounds() {
-      let audio = this.audio;
-      console.log(audio)
-      if (!audio) audio = new Audio();
+      let audio1 = document.getElementById('main-audio1');
+      let audio2 = document.getElementById('main-audio2');
 
-      let learning = `sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`;
-      let knows = `sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`
+      let learning = `/sounds/words/${this.props.learning}/${this.props.word[this.props.learning].replace(' ', '_')}.mp3`;
+      let knows = `/sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`
     
       
+      audio1.src = knows;
+      audio2.src = learning;
+
+      audio1.addEventListener('ended', () => {
+        setTimeout(() => {
+          audio2.play();
+        }, 180);
+      }, false);
+
       setTimeout(() => {
-        audio.src = knows;
-        audio.play()
-        audio.onended = () => {
-          setTimeout(() => {
-            audio.src = learning
-            audio.play();
-            audio.onended = undefined;
-          }, 180);
-        }
+        audio1.play();
       }, 180);
+
+      // setTimeout(() => {
+      //   audio.play()
+      //   audio.src = learning
+      //   audio.onended = () => {
+      //     setTimeout(() => {
+      //       audio.play();
+      //       audio.onended = undefined;
+      //     }, 180);
+      //   }
+      // }, 180);
     }
 
     startNextRound() {

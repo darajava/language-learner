@@ -9,9 +9,9 @@ const Progress = (props) => {
 
   for (let i = 0; i < props.threshold; i++) {
     if (i < props.score) {
-      dots.push(<span styleName={'complete' + Math.min(props.score, props.threshold)}></span>);
+      dots.push(<span key={i} styleName={'complete' + Math.min(props.score, props.threshold)}><span styleName='shadow'></span></span>);
     } else {
-      dots.push(<span styleName='incomplete'></span>);
+      dots.push(<span key={i} styleName='incomplete'><span styleName='shadow'></span></span>);
     }
   }
 
@@ -22,9 +22,6 @@ const Progress = (props) => {
 
       <div styleName='dots'>
         {dots}
-      </div>
-      <div styleName='revision'>
-        {props.revision ? '(revision)' : ''}
       </div>
     </div>
   );

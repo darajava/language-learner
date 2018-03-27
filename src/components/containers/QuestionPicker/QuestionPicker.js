@@ -7,16 +7,17 @@ class QuestionPicker extends Component {
 
     constructor() {
       super();
+      
+      this.knownQuestions = [];
+      this.badQuestions = [];
 
       this.state = {
         word: [],
         recentWords: [],
+        score: this.knownQuestions.length,
       }
 
       this.thresholdScore = 3;
-
-      this.knownQuestions = [];
-      this.badQuestions = [];
 
       this.updateProgress();
 
@@ -55,7 +56,7 @@ class QuestionPicker extends Component {
         }
       }
 
-      let badQuestionsMax = 6;
+      let badQuestionsMax = 9;
 
       for (let i = 0; i < words.length; i++) {
         if (this.badQuestions.length >= badQuestionsMax) break;
@@ -67,6 +68,10 @@ class QuestionPicker extends Component {
           this.badQuestions.push(words[i]);
         }
       }
+
+      this.setState({
+        score: this.knownQuestions.length,
+      });
 
       console.log('-------')
       console.log(this.knownQuestions)
@@ -110,10 +115,9 @@ class QuestionPicker extends Component {
       });
     }
 
-
     render() {
-      let learningLang = 'es';
-      let knowsLang = 'en';
+      let learningLang = this.props.match.params.learning;
+      let knowsLang = this.props.match.params.knows;
 
       let progress = this.progress;
 
@@ -141,9 +145,10 @@ class QuestionPicker extends Component {
             hash={this.state.word.en}
             name={this.state.word.name}
             newQuestion={this.selectQuestion}
-            words={this.knownQuestions.length}
+            words={this.state.score}
             knows={knowsLang}
             learning={learningLang}
+            updateScore={(score) => this.setState({score}) }
             word={this.state.word}
             newWord={newWord}
             revision={progress[this.state.word.en].score >= this.thresholdScore}

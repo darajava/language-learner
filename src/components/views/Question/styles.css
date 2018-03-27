@@ -69,7 +69,6 @@
   font-size: 5vw;
 
   animation-name: fadeInOpacity;
-  animation-iteration-count: 1;
   animation-timing-function: ease-in;
   animation-duration: 1s;
 }
@@ -79,9 +78,13 @@
     opacity: 0.5;
     font-size: 5vw;
   }
-  100% {
+  99% {
     opacity: 0;
     font-size: 15vw;
+  }
+  100% {
+    opacity: 0.5;
+    font-size: 5vw;
   }
 }
 

@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 
+import MainLayout from './components/containers/MainLayout/MainLayout'
 import QuestionPicker from './components/containers/QuestionPicker/QuestionPicker'
+import { BrowserRouter } from 'react-router-dom';
 
 class App extends Component {
   componentDidMount() {
@@ -20,7 +22,9 @@ class App extends Component {
   render() {
     return (
       <div>
-        <QuestionPicker />
+        <BrowserRouter>
+          <MainLayout />
+        </BrowserRouter>
       </div>
     );
   }
