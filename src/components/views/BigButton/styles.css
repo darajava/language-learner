@@ -1,0 +1,29 @@
+.button {
+	text-decoration: none;
+	width: 90vw;
+	margin: 5vw;
+	padding: 5vw;
+	border: 1px solid #ddd;
+	border-radius: 7px;
+	background-color: white;
+
+	max-width: 500px;
+
+}
+
+.button:hover {
+	background-color: #fffbfb;
+}
+
+.button:active {
+	background-color: #fbf9f9;
+}
+
+.soustitle {
+	color: #888;
+}
+
+.text {
+	color: #333;
+	font-size: 8vh;
+}

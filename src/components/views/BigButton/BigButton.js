@@ -8,10 +8,14 @@ import styles from './styles.css';
 const BigButton = (props) => {
 
   return (
-    <Link to={props.link}>
-      <div>
-        {props.soustitle}
-        {props.text}
+    <Link style={{ textDecoration: 'none' }} to={props.link}>
+      <div styleName='button'>
+        <div styleName='soustitle'>
+          {props.soustitle}
+        </div>
+        <div styleName='text'>
+          {props.text}
+        </div>
       </div>
     </Link>
   );
