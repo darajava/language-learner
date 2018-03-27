@@ -236,17 +236,17 @@ let correct = this.isCorrect();
       let knows = `/sounds/words/${this.props.knows}/${this.props.word[this.props.knows].replace(' ', '_')}.mp3`
     
       
-      audio1.src = knows;
+      // audio1.src = knows;
       audio2.src = learning;
 
-      audio1.addEventListener('ended', () => {
-        setTimeout(() => {
-          audio2.play();
-        }, 180);
-      }, false);
+      // audio1.addEventListener('ended', () => {
+      //   setTimeout(() => {
+      //     // audio2.play();
+      //   }, 180);
+      // }, false);
 
       setTimeout(() => {
-        audio1.play();
+        audio2.play();
       }, 180);
 
       // setTimeout(() => {
