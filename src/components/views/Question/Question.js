@@ -71,6 +71,11 @@ const Question = (props) => {
           <Glyphicon glyph="repeat" />
         </div>
       </div>
+
+      <div styleName={props.currentAnswer === "mungus" ? "spin" : "hidden"} >
+        <img src="/mungus.png" />
+        {props.currentAnswer === "mungus" && <audio src="/mungus.mp3" autoPlay />}
+      </div>
       
       <div styleName="timer" onClick={props.loseRound}>
       </div>
