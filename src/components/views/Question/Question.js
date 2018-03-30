@@ -1,5 +1,6 @@
 import React from 'react';
 import CSSModules from 'react-css-modules';
+import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 
 import styles from './styles.css';
 import Timer from '../Timer/Timer';
@@ -9,7 +10,7 @@ function resetAnimation() {
   var el = document.getElementById('animated');
   el.style.animation = 'none';
   // el.offsetHeight;
-  el.style.animation = null; 
+  setTimeout(() => el.style.animation = '', 0); 
 }
 
 let oldprops;
@@ -62,6 +63,12 @@ const Question = (props) => {
         <span styleName='underscore'>_</span>
         <div styleName='wrong-answer'>
           {props.error ? props.currentAnswer : ' '}
+        </div>
+      </div>
+
+      <div styleName={props.error || props.correct ? '' : 'hidden'}>
+        <div onClick={props.repeatAudio} styleName='repeat'>
+          <Glyphicon glyph="repeat" />
         </div>
       </div>
       

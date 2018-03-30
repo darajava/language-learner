@@ -9,8 +9,11 @@ body {
   margin: 0;
   font-size: 30px;
   font-family: 'Quicksand', sans-serif;
-  max-width: 800px;
   margin: auto;
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  top: 0;
 }
 
 * {

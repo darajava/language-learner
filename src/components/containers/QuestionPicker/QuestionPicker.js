@@ -96,13 +96,24 @@ class QuestionPicker extends Component {
 
       do {
         questionPool = this.knownQuestions;
-        if (Math.random() < 0.7) {
+        let knownQuestions = true;
+        if (Math.random() < 0.8) {
           if (this.badQuestions.length) {
             questionPool = this.badQuestions;
+            knownQuestions = false;
           }
         }
 
         word = questionPool[Math.floor(Math.random() * questionPool.length)];
+
+        if (word && knownQuestions) {
+          if (this.progress[word.en].score >= 7 && Math.random() < 0.95) {
+            continue;
+          } else if (this.progress[word.en].score < Math.random() * 8) { 
+            continue;
+          } 
+        }
+
 
       } while (!word || this.inArray(this.state.recentWords, word));
 

@@ -270,6 +270,12 @@ let correct = this.isCorrect();
       this.setState(this.initialState);
     }
 
+    repeatAudio(e) {
+      let audio = document.getElementById('main-audio2');
+      audio.play();
+      e.stopPropagation();
+    }
+
 
     render() {
       return (
@@ -290,6 +296,7 @@ let correct = this.isCorrect();
             revision={this.props.revision}
             newWord={this.props.newWord}
             threshold={this.props.threshold}
+            repeatAudio={this.repeatAudio}
           />
         </div>
       );
