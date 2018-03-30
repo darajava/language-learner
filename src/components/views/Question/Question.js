@@ -14,6 +14,7 @@ function resetAnimation() {
 }
 
 let oldprops;
+let mungus = false;
 
 const Question = (props) => {
   
@@ -40,13 +41,11 @@ const Question = (props) => {
     answer = props.answer.split('|')[0];
 
 
-  if (props.currentAnswer === "mungus") {
+  if (props.currentAnswer === "mungus" && !mungus) {
       let audio = document.getElementById('main-audio2');
       audio.src="/mungus.mp3";
       audio.play();
-      audio.addEventListener('ended', () => {
-        audio.src = '';
-      }, false);
+      mungus = true;
     } 
 
 
