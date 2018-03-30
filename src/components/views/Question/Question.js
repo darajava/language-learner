@@ -44,7 +44,9 @@ const Question = (props) => {
       let audio = document.getElementById('main-audio2');
       audio.src="/mungus.mp3";
       audio.play();
-      audio.src = '';
+      audio.addEventListener('ended', () => {
+        audio.src = '';
+      }, false);
     } 
 
 
