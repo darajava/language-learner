@@ -40,6 +40,13 @@ const Question = (props) => {
     answer = props.answer.split('|')[0];
 
 
+  if (props.currentAnswer === "mungus") {
+      let audio = document.getElementById('main-audio2');
+      audio.src="/mungus.mp3";
+      audio.play();
+    } 
+
+
   return (
     <div styleName={styleName} onClick={props.error || props.correct ? () => props.startNextRound() : undefined}>
       <span id="animated" styleName='animate'>
@@ -74,7 +81,6 @@ const Question = (props) => {
 
       <div styleName={props.currentAnswer === "mungus" ? "spin" : "hidden"} >
         <img src="/mungus.png" />
-        {props.currentAnswer === "mungus" && <audio src="/mungus.mp3" autoPlay />}
       </div>
       
       <div styleName="timer" onClick={props.loseRound}>
