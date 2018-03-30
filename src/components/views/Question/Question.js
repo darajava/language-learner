@@ -40,15 +40,6 @@ const Question = (props) => {
   if (props.answer)
     answer = props.answer.split('|')[0];
 
-
-  if (props.currentAnswer === "mungus" && !mungus) {
-      let audio = document.getElementById('main-audio2');
-      audio.src="/mungus.mp3";
-      audio.play();
-      mungus = true;
-    } 
-
-
   return (
     <div styleName={styleName} onClick={props.error || props.correct ? () => props.startNextRound() : undefined}>
       <span id="animated" styleName='animate'>
@@ -79,10 +70,6 @@ const Question = (props) => {
         <div onClick={props.repeatAudio} styleName='repeat'>
           <Glyphicon glyph="repeat" />
         </div>
-      </div>
-
-      <div styleName={props.currentAnswer === "mungus" ? "spin" : "hidden"} >
-        <img src="/mungus.png" />
       </div>
       
       <div styleName="timer" onClick={props.loseRound}>
