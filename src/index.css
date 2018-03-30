@@ -10,7 +10,7 @@ body {
   font-size: 30px;
   font-family: 'Quicksand', sans-serif;
   margin: auto;
-  overflow: hidden;
+  overflow-x: hidden;
   position: absolute;
   left: 0;
   top: 0;
