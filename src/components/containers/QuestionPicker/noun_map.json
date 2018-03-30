@@ -10,7 +10,7 @@
     "ja": "時間",
     "tr": "zaman",
     "is": "tími",
-    "it": "tempo"
+    "it": "il tempo"
   },
   {
     "en": "year",
@@ -23,7 +23,7 @@
     "ja": "年",
     "tr": "yıl",
     "is": "ár",
-    "it": "anno"
+    "it": "l'anno"
   },
   {
     "en": "people",
@@ -36,7 +36,7 @@
     "ja": "人",
     "tr": "insanlar",
     "is": "fólk",
-    "it": "persone"
+    "it": "la gente"
   },
   {
     "en": "way",
@@ -49,7 +49,7 @@
     "ja": "方法",
     "tr": "yol",
     "is": "leið",
-    "it": "modo"
+    "it": "la via"
   },
   {
     "en": "day",
@@ -62,7 +62,7 @@
     "ja": "日",
     "tr": "gün",
     "is": "dagur",
-    "it": "giorno"
+    "it": "il giorno"
   },
   {
     "en": "man",
@@ -75,7 +75,7 @@
     "ja": "おとこ",
     "tr": "adam",
     "is": "maður",
-    "it": "uomo"
+    "it": "l'uomo"
   },
   {
     "en": "thing",
@@ -88,7 +88,7 @@
     "ja": "もの",
     "tr": "şey",
     "is": "hlutur",
-    "it": "cosa"
+    "it": "la cosa"
   },
   {
     "en": "woman",
@@ -101,7 +101,7 @@
     "ja": "女性",
     "tr": "Kadın",
     "is": "kona",
-    "it": "donna"
+    "it": "la donna"
   },
   {
     "en": "life",
@@ -114,7 +114,7 @@
     "ja": "生活",
     "tr": "hayat",
     "is": "lífið",
-    "it": "vita"
+    "it": "la vita"
   },
   {
     "en": "child",
@@ -127,7 +127,7 @@
     "ja": "子",
     "tr": "çocuk",
     "is": "barn",
-    "it": "bambino"
+    "it": "il bambino"
   },
   {
     "en": "world",
@@ -140,7 +140,7 @@
     "ja": "世界",
     "tr": "Dünya",
     "is": "heimurinn",
-    "it": "mondo"
+    "it": "il mondo"
   },
   {
     "en": "school",
@@ -153,7 +153,7 @@
     "ja": "学校",
     "tr": "okul",
     "is": "skóla",
-    "it": "scuola"
+    "it": "la scuola"
   },
   {
     "en": "state",
@@ -166,7 +166,7 @@
     "ja": "状態",
     "tr": "belirtmek, bildirmek",
     "is": "ríki",
-    "it": "stato"
+    "it": "lo stato"
   },
   {
     "en": "family",
@@ -179,7 +179,7 @@
     "ja": "家族",
     "tr": "aile",
     "is": "fjölskylda",
-    "it": "famiglia"
+    "it": "la famiglia"
   },
   {
     "en": "student",
@@ -192,7 +192,7 @@
     "ja": "学生",
     "tr": "Öğrenci",
     "is": "nemandi",
-    "it": "alunno"
+    "it": "lo studente"
   },
   {
     "en": "group",
@@ -205,7 +205,7 @@
     "ja": "グループ",
     "tr": "grup",
     "is": "hópur",
-    "it": "gruppo"
+    "it": "il gruppo"
   },
   {
     "en": "country",
@@ -218,7 +218,7 @@
     "ja": "国",
     "tr": "ülke",
     "is": "land",
-    "it": "nazione"
+    "it": "Paese"
   },
   {
     "en": "problem",
@@ -231,7 +231,7 @@
     "ja": "問題",
     "tr": "sorun",
     "is": "vandamál",
-    "it": "problema"
+    "it": "il problema"
   },
   {
     "en": "hand",
@@ -244,7 +244,7 @@
     "ja": "ハンド",
     "tr": "el",
     "is": "hönd",
-    "it": "mano"
+    "it": "la mano"
   },
   {
     "en": "part",
@@ -257,7 +257,7 @@
     "ja": "部",
     "tr": "Bölüm",
     "is": "hluti",
-    "it": "parte"
+    "it": "la parte"
   },
   {
     "en": "place",
@@ -270,7 +270,7 @@
     "ja": "場所",
     "tr": "yer",
     "is": "stað",
-    "it": "posto"
+    "it": "il luogo"
   },
   {
     "en": "case",
@@ -283,7 +283,7 @@
     "ja": "場合",
     "tr": "dava",
     "is": "Málið",
-    "it": "Astuccio"
+    "it": "il caso"
   },
   {
     "en": "week",
@@ -296,7 +296,7 @@
     "ja": "週間",
     "tr": "hafta",
     "is": "vika",
-    "it": "settimana"
+    "it": "la settimana"
   },
   {
     "en": "company",
@@ -309,7 +309,7 @@
     "ja": "会社",
     "tr": "şirket",
     "is": "fyrirtæki",
-    "it": "azienda"
+    "it": "l'azienda"
   },
   {
     "en": "system",
@@ -322,7 +322,7 @@
     "ja": "システム",
     "tr": "sistem",
     "is": "kerfi",
-    "it": "sistema"
+    "it": "il sistema"
   },
   {
     "en": "program",
@@ -335,7 +335,7 @@
     "ja": "プログラム",
     "tr": "program",
     "is": "forrit",
-    "it": "programma"
+    "it": "il programma"
   },
   {
     "en": "question",
@@ -348,7 +348,7 @@
     "ja": "質問",
     "tr": "soru",
     "is": "spurning",
-    "it": "domanda"
+    "it": "la domanda"
   },
   {
     "en": "work",
@@ -361,7 +361,7 @@
     "ja": "作業",
     "tr": "iş",
     "is": "vinna",
-    "it": "lavoro"
+    "it": "il lavoro"
   },
   {
     "en": "government",
@@ -374,7 +374,7 @@
     "ja": "政府",
     "tr": "hükümet",
     "is": "ríkisstjórnin",
-    "it": "governo"
+    "it": "il governo"
   },
   {
     "en": "number",
@@ -387,7 +387,7 @@
     "ja": "数",
     "tr": "numara",
     "is": "númer",
-    "it": "numero"
+    "it": "il numero"
   },
   {
     "en": "night",
@@ -400,7 +400,7 @@
     "ja": "夜",
     "tr": "gece",
     "is": "nótt",
-    "it": "notte"
+    "it": "la notte"
   },
   {
     "en": "point",
@@ -413,7 +413,7 @@
     "ja": "ポイント",
     "tr": "puan",
     "is": "benda",
-    "it": "punto"
+    "it": "il punto"
   },
   {
     "en": "home",
@@ -426,7 +426,7 @@
     "ja": "自宅",
     "tr": "ev",
     "is": "heim",
-    "it": "casa"
+    "it": "la casa"
   },
   {
     "en": "water",
@@ -439,7 +439,7 @@
     "ja": "水",
     "tr": "Su",
     "is": "vatn",
-    "it": "acqua"
+    "it": "l'acqua"
   },
   {
     "en": "room",
@@ -452,7 +452,7 @@
     "ja": "ルーム",
     "tr": "oda",
     "is": "herbergi",
-    "it": "camera"
+    "it": "la stanza"
   },
   {
     "en": "mother",
@@ -465,7 +465,7 @@
     "ja": "母",
     "tr": "anne",
     "is": "móðir",
-    "it": "madre"
+    "it": "la madre"
   },
   {
     "en": "area",
@@ -478,7 +478,7 @@
     "ja": "エリア",
     "tr": "alan",
     "is": "svæði",
-    "it": "la zona"
+    "it": "l'area"
   },
   {
     "en": "money",
@@ -504,7 +504,7 @@
     "ja": "ストーリー",
     "tr": "Öykü",
     "is": "saga",
-    "it": "storia"
+    "it": "la storia"
   },
   {
     "en": "fact",
@@ -517,7 +517,7 @@
     "ja": "事実",
     "tr": "gerçek",
     "is": "staðreynd",
-    "it": "fatto"
+    "it": "il fatto"
   },
   {
     "en": "month",
@@ -530,7 +530,7 @@
     "ja": "月",
     "tr": "ay",
     "is": "mánuði",
-    "it": "mese"
+    "it": "il mese"
   },
   {
     "en": "lot",
@@ -543,7 +543,7 @@
     "ja": "ロット",
     "tr": "çok",
     "is": "mikið",
-    "it": "lotto"
+    "it": "il lotto"
   },
   {
     "en": "right",
@@ -556,7 +556,7 @@
     "ja": "右",
     "tr": "sağ",
     "is": "rétt",
-    "it": "destra"
+    "it": "la destra"
   },
   {
     "en": "study",
@@ -569,7 +569,7 @@
     "ja": "調査",
     "tr": "ders çalışma",
     "is": "rannsókn",
-    "it": "studia"
+    "it": "lo studio"
   },
   {
     "en": "book",
@@ -582,7 +582,7 @@
     "ja": "本",
     "tr": "kitap",
     "is": "bók",
-    "it": "libro"
+    "it": "il libro"
   },
   {
     "en": "eye",
@@ -595,7 +595,7 @@
     "ja": "眼",
     "tr": "göz",
     "is": "auga",
-    "it": "occhio"
+    "it": "l'occhio"
   },
   {
     "en": "job",
@@ -608,7 +608,7 @@
     "ja": "ジョブ",
     "tr": "iş",
     "is": "starf",
-    "it": "lavoro"
+    "it": "il lavoro"
   },
   {
     "en": "word",
@@ -621,7 +621,7 @@
     "ja": "ワード",
     "tr": "sözcük",
     "is": "orð",
-    "it": "parola"
+    "it": "la parola"
   },
   {
     "en": "business",
@@ -634,7 +634,7 @@
     "ja": "ビジネス",
     "tr": "iş",
     "is": "viðskipti",
-    "it": "attività commerciale"
+    "it": "il business"
   },
   {
     "en": "issue",
@@ -647,7 +647,7 @@
     "ja": "問題",
     "tr": "konu",
     "is": "mál",
-    "it": "problema"
+    "it": "il problema"
   },
   {
     "en": "side",
@@ -660,7 +660,7 @@
     "ja": "側",
     "tr": "yan",
     "is": "hlið",
-    "it": "lato"
+    "it": "il lato"
   },
   {
     "en": "kind",
@@ -673,7 +673,7 @@
     "ja": "種類",
     "tr": "tür",
     "is": "góður",
-    "it": "genere"
+    "it": "il tipo"
   },
   {
     "en": "head",
@@ -686,7 +686,7 @@
     "ja": "頭",
     "tr": "kafa",
     "is": "höfuð",
-    "it": "capo"
+    "it": "la testa"
   },
   {
     "en": "house",
@@ -699,7 +699,7 @@
     "ja": "家",
     "tr": "ev",
     "is": "hús",
-    "it": "Casa"
+    "it": "la casa"
   },
   {
     "en": "service",
@@ -712,7 +712,7 @@
     "ja": "サービス",
     "tr": "hizmet",
     "is": "þjónusta",
-    "it": "servizio"
+    "it": "il servizio"
   },
   {
     "en": "friend",
@@ -725,7 +725,7 @@
     "ja": "友人",
     "tr": "arkadaş",
     "is": "vinur",
-    "it": "amico"
+    "it": "l'amico"
   },
   {
     "en": "father",
@@ -738,7 +738,7 @@
     "ja": "お父さん",
     "tr": "baba",
     "is": "faðir",
-    "it": "padre"
+    "it": "il padre"
   },
   {
     "en": "power",
@@ -751,7 +751,7 @@
     "ja": "パワー",
     "tr": "güç",
     "is": "máttur",
-    "it": "energia"
+    "it": "il potere"
   },
   {
     "en": "hour",
@@ -764,7 +764,7 @@
     "ja": "時間",
     "tr": "saat",
     "is": "klukkustund",
-    "it": "ora"
+    "it": "l'ora"
   },
   {
     "en": "game",
@@ -777,7 +777,7 @@
     "ja": "ゲーム",
     "tr": "oyun",
     "is": "leikur",
-    "it": "gioco"
+    "it": "il gioco"
   },
   {
     "en": "line",
@@ -790,7 +790,7 @@
     "ja": "ライン",
     "tr": "hat",
     "is": "lína",
-    "it": "linea"
+    "it": "la linea"
   },
   {
     "en": "end",
@@ -816,7 +816,7 @@
     "ja": "メンバー",
     "tr": "üye",
     "is": "meðlimur",
-    "it": "membro"
+    "it": "il membro"
   },
   {
     "en": "law",
@@ -829,7 +829,7 @@
     "ja": "法律",
     "tr": "kanun",
     "is": "lög",
-    "it": "legge"
+    "it": "la legge"
   },
   {
     "en": "car",
@@ -842,7 +842,7 @@
     "ja": "車",
     "tr": "araba",
     "is": "bíll",
-    "it": "auto"
+    "it": "l'auto"
   },
   {
     "en": "city",
@@ -855,7 +855,7 @@
     "ja": "シティ",
     "tr": "Kent",
     "is": "borg",
-    "it": "città"
+    "it": "la città"
   },
   {
     "en": "community",
@@ -868,7 +868,7 @@
     "ja": "コミュニティ",
     "tr": "topluluk",
     "is": "samfélag",
-    "it": "Comunità"
+    "it": "la comunità"
   },
   {
     "en": "name",
@@ -881,7 +881,7 @@
     "ja": "名",
     "tr": "isim",
     "is": "nafn",
-    "it": "nome"
+    "it": "il nome"
   },
   {
     "en": "president",
@@ -894,7 +894,7 @@
     "ja": "大統領",
     "tr": "Devlet Başkanı",
     "is": "forseti",
-    "it": "Presidente"
+    "it": "il presidente"
   },
   {
     "en": "team",
@@ -907,7 +907,7 @@
     "ja": "チーム",
     "tr": "takım",
     "is": "lið",
-    "it": "squadra"
+    "it": "Il gruppo"
   },
   {
     "en": "minute",
@@ -920,7 +920,7 @@
     "ja": "分",
     "tr": "dakika",
     "is": "mínútu",
-    "it": "minuto"
+    "it": "il minuto"
   },
   {
     "en": "idea",
@@ -933,7 +933,7 @@
     "ja": "アイディア",
     "tr": "Fikir",
     "is": "hugmynd",
-    "it": "idea"
+    "it": "l'idea"
   },
   {
     "en": "kid",
@@ -946,7 +946,7 @@
     "ja": "キッド",
     "tr": "çocuk",
     "is": "krakki",
-    "it": "ragazzo"
+    "it": "il bambino"
   },
   {
     "en": "body",
@@ -959,7 +959,7 @@
     "ja": "体",
     "tr": "vücut",
     "is": "líkami",
-    "it": "corpo"
+    "it": "il corpo"
   },
   {
     "en": "information",
@@ -972,7 +972,7 @@
     "ja": "情報",
     "tr": "bilgi",
     "is": "upplýsingar",
-    "it": "informazione"
+    "it": "l'informazione"
   },
   {
     "en": "back",
@@ -985,7 +985,7 @@
     "ja": "バック",
     "tr": "geri",
     "is": "aftur",
-    "it": "indietro"
+    "it": "il retro"
   },
   {
     "en": "parent",
@@ -998,7 +998,7 @@
     "ja": "親",
     "tr": "ebeveyn",
     "is": "foreldri",
-    "it": "genitore"
+    "it": "il genitore"
   },
   {
     "en": "face",
@@ -1011,7 +1011,7 @@
     "ja": "面",
     "tr": "yüz",
     "is": "andlit",
-    "it": "viso"
+    "it": "la faccia"
   },
   {
     "en": "others",
@@ -1024,7 +1024,7 @@
     "ja": "その他",
     "tr": "diğerleri",
     "is": "aðrir",
-    "it": "altri"
+    "it": "gli altri"
   },
   {
     "en": "level",
@@ -1037,7 +1037,7 @@
     "ja": "レベル",
     "tr": "seviye",
     "is": "stigi",
-    "it": "livello"
+    "it": "il livello"
   },
   {
     "en": "office",
@@ -1050,7 +1050,7 @@
     "ja": "事務所",
     "tr": "ofis",
     "is": "skrifstofa",
-    "it": "ufficio"
+    "it": "l'ufficio"
   },
   {
     "en": "door",
@@ -1063,7 +1063,7 @@
     "ja": "ドア",
     "tr": "kapı",
     "is": "dyrnar",
-    "it": "porta"
+    "it": "la porta"
   },
   {
     "en": "health",
@@ -1076,7 +1076,7 @@
     "ja": "健康",
     "tr": "sağlık",
     "is": "heilsa",
-    "it": "Salute"
+    "it": "la salute"
   },
   {
     "en": "person",
@@ -1089,7 +1089,7 @@
     "ja": "人",
     "tr": "kişi",
     "is": "manneskja",
-    "it": "persona"
+    "it": "la persona"
   },
   {
     "en": "art",
@@ -1102,7 +1102,7 @@
     "ja": "アート",
     "tr": "Sanat",
     "is": "list",
-    "it": "arte"
+    "it": "l'arte"
   },
   {
     "en": "war",
@@ -1115,7 +1115,7 @@
     "ja": "戦争",
     "tr": "savaş",
     "is": "stríð",
-    "it": "guerra"
+    "it": "la guerra"
   },
   {
     "en": "history",
@@ -1128,7 +1128,7 @@
     "ja": "歴史",
     "tr": "Tarihçe",
     "is": "saga",
-    "it": "storia"
+    "it": "la storia"
   },
   {
     "en": "party",
@@ -1141,7 +1141,7 @@
     "ja": "パーティー",
     "tr": "Parti",
     "is": "Partí",
-    "it": "festa"
+    "it": "la festa"
   },
   {
     "en": "result",
@@ -1154,7 +1154,7 @@
     "ja": "結果",
     "tr": "sonuç",
     "is": "niðurstaða",
-    "it": "risultato"
+    "it": "il risultato"
   },
   {
     "en": "change",
@@ -1167,7 +1167,7 @@
     "ja": "変化する",
     "tr": "değişiklik",
     "is": "breyting",
-    "it": "modificare"
+    "it": "il cambiamento"
   },
   {
     "en": "morning",
@@ -1180,7 +1180,7 @@
     "ja": "朝",
     "tr": "sabah",
     "is": "morgunn",
-    "it": "mattina"
+    "it": "la mattina"
   },
   {
     "en": "reason",
@@ -1193,7 +1193,7 @@
     "ja": "理由",
     "tr": "neden",
     "is": "ástæða",
-    "it": "ragionare"
+    "it": "la ragione"
   },
   {
     "en": "research",
@@ -1206,7 +1206,7 @@
     "ja": "研究",
     "tr": "Araştırma",
     "is": "rannsóknir",
-    "it": "ricerca"
+    "it": "la ricerca"
   },
   {
     "en": "girl",
@@ -1219,7 +1219,7 @@
     "ja": "女の子",
     "tr": "kız",
     "is": "stelpa",
-    "it": "ragazza"
+    "it": "la ragazza"
   },
   {
     "en": "guy",
@@ -1232,7 +1232,7 @@
     "ja": "男",
     "tr": "adam",
     "is": "strákur",
-    "it": "tipo"
+    "it": "il ragazzo"
   },
   {
     "en": "food",
@@ -1245,7 +1245,7 @@
     "ja": "フード",
     "tr": "Gıda",
     "is": "matur",
-    "it": "cibo"
+    "it": "il cibo"
   },
   {
     "en": "moment",
@@ -1258,7 +1258,7 @@
     "ja": "瞬間",
     "tr": "an",
     "is": "augnablik",
-    "it": "momento"
+    "it": "il momento"
   },
   {
     "en": "air",
@@ -1271,7 +1271,7 @@
     "ja": "空気",
     "tr": "hava",
     "is": "loft",
-    "it": "aria"
+    "it": "l'aria"
   },
   {
     "en": "teacher",
@@ -1284,7 +1284,7 @@
     "ja": "先生",
     "tr": "öğretmen",
     "is": "kennari",
-    "it": "insegnante"
+    "it": "l'insegnante"
   },
   {
     "en": "force",
@@ -1297,7 +1297,7 @@
     "ja": "力",
     "tr": "Kuvvet",
     "is": "gildi",
-    "it": "vigore"
+    "it": "la forza"
   },
   {
     "en": "education",
@@ -1310,7 +1310,7 @@
     "ja": "教育",
     "tr": "Eğitim",
     "is": "menntun",
-    "it": "formazione scolastica"
+    "it": "l'educazione"
   },
   {
     "en": "foot",
@@ -1323,7 +1323,7 @@
     "ja": "足",
     "tr": "ayak",
     "is": "fótur",
-    "it": "piede"
+    "it": "il piede"
   },
   {
     "en": "boy",
@@ -1336,7 +1336,7 @@
     "ja": "男の子",
     "tr": "oğlan",
     "is": "strákur",
-    "it": "ragazzo"
+    "it": "il ragazzo"
   },
   {
     "en": "age",
@@ -1349,7 +1349,7 @@
     "ja": "年齢",
     "tr": "yaş",
     "is": "Aldur",
-    "it": "età"
+    "it": "l'età"
   },
   {
     "en": "policy",
@@ -1362,7 +1362,7 @@
     "ja": "ポリシー",
     "tr": "politika",
     "is": "stefna",
-    "it": "politica"
+    "it": "la politica"
   },
   {
     "en": "process",
@@ -1375,7 +1375,7 @@
     "ja": "プロセス",
     "tr": "süreç",
     "is": "ferli",
-    "it": "processi"
+    "it": "il processo"
   },
   {
     "en": "music",
@@ -1388,7 +1388,7 @@
     "ja": "音楽",
     "tr": "müzik",
     "is": "tónlist",
-    "it": "musica"
+    "it": "la musica"
   },
   {
     "en": "market",
@@ -1401,7 +1401,7 @@
     "ja": "市場",
     "tr": "Market",
     "is": "markaður",
-    "it": "mercato"
+    "it": "il mercato"
   },
   {
     "en": "sense",
@@ -1414,7 +1414,7 @@
     "ja": "センス",
     "tr": "duyu",
     "is": "skyn",
-    "it": "senso"
+    "it": "il senso"
   },
   {
     "en": "nation",
@@ -1427,7 +1427,7 @@
     "ja": "国家",
     "tr": "ulus",
     "is": "þjóð",
-    "it": "nazione"
+    "it": "la nazione"
   },
   {
     "en": "plan",
@@ -1440,7 +1440,7 @@
     "ja": "計画",
     "tr": "plan",
     "is": "áætlun",
-    "it": "Piano"
+    "it": "il piano"
   },
   {
     "en": "college",
@@ -1453,7 +1453,7 @@
     "ja": "カレッジ",
     "tr": "kolej",
     "is": "háskóli",
-    "it": "Università"
+    "it": "il college"
   },
   {
     "en": "interest",
@@ -1466,7 +1466,7 @@
     "ja": "利子",
     "tr": "faiz",
     "is": "áhuga",
-    "it": "interesse"
+    "it": "l'interesse"
   },
   {
     "en": "death",
@@ -1479,7 +1479,7 @@
     "ja": "死",
     "tr": "ölüm",
     "is": "dauða",
-    "it": "Morte"
+    "it": "la morte"
   },
   {
     "en": "experience",
@@ -1492,7 +1492,7 @@
     "ja": "経験",
     "tr": "deneyim",
     "is": "reynsla",
-    "it": "Esperienza"
+    "it": "l'esperienza"
   },
   {
     "en": "effect",
@@ -1505,7 +1505,7 @@
     "ja": "効果",
     "tr": "Efekt",
     "is": "áhrif",
-    "it": "effetto"
+    "it": "l'effetto"
   },
   {
     "en": "use",
@@ -1518,7 +1518,7 @@
     "ja": "つかいます",
     "tr": "kullanım",
     "is": "nota",
-    "it": "uso"
+    "it": "l'uso"
   },
   {
     "en": "class",
@@ -1531,7 +1531,7 @@
     "ja": "クラス",
     "tr": "sınıf",
     "is": "bekknum",
-    "it": "classe"
+    "it": "la classe"
   },
   {
     "en": "control",
@@ -1544,7 +1544,7 @@
     "ja": "コントロール",
     "tr": "kontrol",
     "is": "stjórn",
-    "it": "controllo"
+    "it": "il controllo"
   },
   {
     "en": "care",
@@ -1557,7 +1557,7 @@
     "ja": "お手入れ",
     "tr": "bakım",
     "is": "umönnun",
-    "it": "cura"
+    "it": "la cura"
   },
   {
     "en": "field",
@@ -1570,7 +1570,7 @@
     "ja": "フィールド",
     "tr": "alan",
     "is": "sviði",
-    "it": "campo"
+    "it": "il campo"
   },
   {
     "en": "development",
@@ -1583,7 +1583,7 @@
     "ja": "開発",
     "tr": "gelişme",
     "is": "þróun",
-    "it": "sviluppo"
+    "it": "lo sviluppo"
   },
   {
     "en": "role",
@@ -1596,7 +1596,7 @@
     "ja": "役割",
     "tr": "rol",
     "is": "hlutverki",
-    "it": "ruolo"
+    "it": "il ruolo"
   },
   {
     "en": "effort",
@@ -1609,7 +1609,7 @@
     "ja": "努力",
     "tr": "çaba",
     "is": "átak",
-    "it": "sforzo"
+    "it": "lo sforzo"
   },
   {
     "en": "rate",
@@ -1622,7 +1622,7 @@
     "ja": "レート",
     "tr": "oran",
     "is": "hlutfall",
-    "it": "Vota"
+    "it": "il tasso"
   },
   {
     "en": "heart",
@@ -1635,7 +1635,7 @@
     "ja": "ハート",
     "tr": "kalp",
     "is": "hjarta",
-    "it": "cuore"
+    "it": "il cuore"
   },
   {
     "en": "drug",
@@ -1648,7 +1648,7 @@
     "ja": "ドラッグ",
     "tr": "ilaç",
     "is": "lyf",
-    "it": "droga"
+    "it": "la droga"
   },
   {
     "en": "show",
@@ -1661,7 +1661,7 @@
     "ja": "ショー",
     "tr": "göstermek",
     "is": "sýna",
-    "it": "mostrare"
+    "it": "lo spettacolo"
   },
   {
     "en": "leader",
@@ -1674,7 +1674,7 @@
     "ja": "リーダー",
     "tr": "lider",
     "is": "leiðtogi",
-    "it": "capo"
+    "it": "il capo"
   },
   {
     "en": "light",
@@ -1687,7 +1687,7 @@
     "ja": "光",
     "tr": "ışık",
     "is": "ljós",
-    "it": "leggero"
+    "it": "la luce"
   },
   {
     "en": "voice",
@@ -1700,7 +1700,7 @@
     "ja": "音声",
     "tr": "ses",
     "is": "rödd",
-    "it": "voce"
+    "it": "la voce"
   },
   {
     "en": "wife",
@@ -1713,7 +1713,7 @@
     "ja": "妻",
     "tr": "kadın eş",
     "is": "kona",
-    "it": "moglie"
+    "it": "la moglie"
   },
   {
     "en": "police",
@@ -1726,7 +1726,7 @@
     "ja": "警察",
     "tr": "polis",
     "is": "lögreglu",
-    "it": "polizia"
+    "it": "la polizia"
   },
   {
     "en": "mind",
@@ -1739,7 +1739,7 @@
     "ja": "マインド",
     "tr": "us",
     "is": "hugur",
-    "it": "mente"
+    "it": "la mente"
   },
   {
     "en": "price",
@@ -1752,7 +1752,7 @@
     "ja": "価格",
     "tr": "fiyat",
     "is": "verð",
-    "it": "prezzo"
+    "it": "il prezzo"
   },
   {
     "en": "report",
@@ -1765,7 +1765,7 @@
     "ja": "報告する",
     "tr": "rapor",
     "is": "tilkynna",
-    "it": "rapporto"
+    "it": "il rapporto"
   },
   {
     "en": "decision",
@@ -1778,7 +1778,7 @@
     "ja": "決定",
     "tr": "karar",
     "is": "ákvörðun",
-    "it": "decisione"
+    "it": "la decisione"
   },
   {
     "en": "son",
@@ -1791,7 +1791,7 @@
     "ja": "息子",
     "tr": "oğul",
     "is": "sonur",
-    "it": "figlio"
+    "it": "il figlio"
   },
   {
     "en": "view",
@@ -1804,7 +1804,7 @@
     "ja": "見る",
     "tr": "görünüm",
     "is": "útsýni",
-    "it": "vista"
+    "it": "la vista"
   },
   {
     "en": "relationship",
@@ -1817,7 +1817,7 @@
     "ja": "関係",
     "tr": "ilişki",
     "is": "samband",
-    "it": "relazione"
+    "it": "il rapporto"
   },
   {
     "en": "town",
@@ -1830,7 +1830,7 @@
     "ja": "タウン",
     "tr": "kasaba",
     "is": "bænum",
-    "it": "cittadina"
+    "it": "la città"
   },
   {
     "en": "road",
@@ -1843,7 +1843,7 @@
     "ja": "道路",
     "tr": "yol",
     "is": "vegur",
-    "it": "strada"
+    "it": "la strada"
   },
   {
     "en": "arm",
@@ -1856,7 +1856,7 @@
     "ja": "腕",
     "tr": "kol",
     "is": "armur",
-    "it": "braccio"
+    "it": "il braccio"
   },
   {
     "en": "difference",
@@ -1869,7 +1869,7 @@
     "ja": "差",
     "tr": "fark",
     "is": "munur",
-    "it": "differenza"
+    "it": "la differenza"
   },
   {
     "en": "value",
@@ -1882,7 +1882,7 @@
     "ja": "値",
     "tr": "değer",
     "is": "gildi",
-    "it": "valore"
+    "it": "il valore"
   },
   {
     "en": "building",
@@ -1895,7 +1895,7 @@
     "ja": "建物",
     "tr": "bina",
     "is": "bygging",
-    "it": "costruzione"
+    "it": "l'edificio"
   },
   {
     "en": "action",
@@ -1908,7 +1908,7 @@
     "ja": "アクション",
     "tr": "aksiyon",
     "is": "aðgerð",
-    "it": "azione"
+    "it": "l'azione"
   },
   {
     "en": "model",
@@ -1921,7 +1921,7 @@
     "ja": "モデル",
     "tr": "model",
     "is": "líkan",
-    "it": "modello"
+    "it": "il modello"
   },
   {
     "en": "season",
@@ -1934,7 +1934,7 @@
     "ja": "シーズン",
     "tr": "sezon",
     "is": "árstíð",
-    "it": "stagione"
+    "it": "la stagione"
   },
   {
     "en": "society",
@@ -1947,7 +1947,7 @@
     "ja": "社会",
     "tr": "toplum",
     "is": "samfélag",
-    "it": "società"
+    "it": "la società"
   },
   {
     "en": "tax",
@@ -1960,7 +1960,7 @@
     "ja": "税金",
     "tr": "vergi",
     "is": "skattur",
-    "it": "imposta"
+    "it": "l'imposta"
   },
   {
     "en": "director",
@@ -1973,7 +1973,7 @@
     "ja": "ディレクター",
     "tr": "yönetmen",
     "is": "leikstjóri",
-    "it": "direttore"
+    "it": "il regista"
   },
   {
     "en": "position",
@@ -1986,7 +1986,7 @@
     "ja": "ポジション",
     "tr": "pozisyon",
     "is": "staða",
-    "it": "posizione"
+    "it": "la posizione"
   },
   {
     "en": "player",
@@ -1999,7 +1999,7 @@
     "ja": "プレーヤー",
     "tr": "oyuncu",
     "is": "leikmaður",
-    "it": "giocatore"
+    "it": "il giocatore"
   },
   {
     "en": "record",
@@ -2012,7 +2012,7 @@
     "ja": "記録",
     "tr": "kayıt",
     "is": "met",
-    "it": "disco"
+    "it": "il disco"
   },
   {
     "en": "paper",
@@ -2025,7 +2025,7 @@
     "ja": "紙",
     "tr": "kâğıt",
     "is": "pappír",
-    "it": "carta"
+    "it": "la carta"
   },
   {
     "en": "space",
@@ -2038,7 +2038,7 @@
     "ja": "スペース",
     "tr": "uzay",
     "is": "pláss",
-    "it": "spazio"
+    "it": "lo spazio"
   },
   {
     "en": "ground",
@@ -2051,7 +2051,7 @@
     "ja": "接地",
     "tr": "zemin",
     "is": "jörð",
-    "it": "terra"
+    "it": "il terreno"
   },
   {
     "en": "form",
@@ -2064,7 +2064,7 @@
     "ja": "形",
     "tr": "form",
     "is": "formi",
-    "it": "modulo"
+    "it": "il modulo"
   },
   {
     "en": "event",
@@ -2077,7 +2077,7 @@
     "ja": "イベント",
     "tr": "Etkinlik",
     "is": "atburður",
-    "it": "evento"
+    "it": "l'evento"
   },
   {
     "en": "official",
@@ -2090,7 +2090,7 @@
     "ja": "公式",
     "tr": "resmi",
     "is": "opinber",
-    "it": "ufficiale"
+    "it": "l'ufficiale"
   },
   {
     "en": "matter",
@@ -2103,7 +2103,7 @@
     "ja": "問題",
     "tr": "madde",
     "is": "efni",
-    "it": "importa"
+    "it": "la questione"
   },
   {
     "en": "center",
@@ -2116,7 +2116,7 @@
     "ja": "センター",
     "tr": "merkez",
     "is": "miðstöð",
-    "it": "centro"
+    "it": "il centro"
   },
   {
     "en": "couple",
@@ -2129,7 +2129,7 @@
     "ja": "カップル",
     "tr": "çift",
     "is": "par",
-    "it": "coppia"
+    "it": "la coppia"
   },
   {
     "en": "site",
@@ -2142,7 +2142,7 @@
     "ja": "サイト",
     "tr": "yer",
     "is": "staður",
-    "it": "luogo"
+    "it": "il sito"
   },
   {
     "en": "project",
@@ -2155,7 +2155,7 @@
     "ja": "プロジェクト",
     "tr": "proje",
     "is": "verkefni",
-    "it": "progetto"
+    "it": "il progetto"
   },
   {
     "en": "activity",
@@ -2168,7 +2168,7 @@
     "ja": "アクティビティ",
     "tr": "aktivite",
     "is": "virkni",
-    "it": "attività"
+    "it": "l'attività"
   },
   {
     "en": "star",
@@ -2181,7 +2181,7 @@
     "ja": "星",
     "tr": "star",
     "is": "stjörnu",
-    "it": "stella"
+    "it": "la stella"
   },
   {
     "en": "table",
@@ -2194,7 +2194,7 @@
     "ja": "表",
     "tr": "tablo",
     "is": "borð",
-    "it": "tavolo"
+    "it": "la tavola"
   },
   {
     "en": "need",
@@ -2207,7 +2207,7 @@
     "ja": "必要",
     "tr": "gerek",
     "is": "þörf",
-    "it": "bisogno"
+    "it": "l'esigenza"
   },
   {
     "en": "court",
@@ -2220,7 +2220,7 @@
     "ja": "裁判所",
     "tr": "mahkeme",
     "is": "dómi",
-    "it": "Tribunale"
+    "it": "la Corte"
   },
   {
     "en": "oil",
@@ -2233,7 +2233,7 @@
     "ja": "油",
     "tr": "sıvı yağ",
     "is": "olía",
-    "it": "olio"
+    "it": "l'olio"
   },
   {
     "en": "situation",
@@ -2246,7 +2246,7 @@
     "ja": "状況",
     "tr": "durum",
     "is": "ástandið",
-    "it": "situazione"
+    "it": "la situazione"
   },
   {
     "en": "cost",
@@ -2259,7 +2259,7 @@
     "ja": "コスト",
     "tr": "maliyet",
     "is": "kostnaður",
-    "it": "costo"
+    "it": "il costo"
   },
   {
     "en": "industry",
@@ -2272,7 +2272,7 @@
     "ja": "業界",
     "tr": "sanayi",
     "is": "iðnaður",
-    "it": "industria"
+    "it": "l'industria"
   },
   {
     "en": "figure",
@@ -2285,7 +2285,7 @@
     "ja": "数字",
     "tr": "şekil",
     "is": "mynd",
-    "it": "figura"
+    "it": "la figura"
   },
   {
     "en": "street",
@@ -2298,7 +2298,7 @@
     "ja": "通り",
     "tr": "sokak",
     "is": "götu",
-    "it": "strada"
+    "it": "la strada"
   },
   {
     "en": "image",
@@ -2311,7 +2311,7 @@
     "ja": "画像",
     "tr": "görüntü",
     "is": "mynd",
-    "it": "Immagine"
+    "it": "l'immagine"
   },
   {
     "en": "phone",
@@ -2324,7 +2324,7 @@
     "ja": "電話",
     "tr": "telefon",
     "is": "sími",
-    "it": "Telefono"
+    "it": "il telefono"
   },
   {
     "en": "data",
@@ -2337,7 +2337,7 @@
     "ja": "データ",
     "tr": "veri",
     "is": "gögn",
-    "it": "dati"
+    "it": "i dati"
   },
   {
     "en": "picture",
@@ -2350,7 +2350,7 @@
     "ja": "画像",
     "tr": "resim",
     "is": "mynd",
-    "it": "immagine"
+    "it": "la foto"
   },
   {
     "en": "practice",
@@ -2363,7 +2363,7 @@
     "ja": "練習",
     "tr": "uygulama",
     "is": "æfa sig",
-    "it": "pratica"
+    "it": "la pratica"
   },
   {
     "en": "piece",
@@ -2376,7 +2376,7 @@
     "ja": "ピース",
     "tr": "parça",
     "is": "stykki",
-    "it": "pezzo"
+    "it": "il pezzo"
   },
   {
     "en": "land",
@@ -2389,7 +2389,7 @@
     "ja": "土地",
     "tr": "arazi",
     "is": "land",
-    "it": "sbarcare"
+    "it": "la terra"
   },
   {
     "en": "product",
@@ -2402,7 +2402,7 @@
     "ja": "製品",
     "tr": "ürün",
     "is": "vara",
-    "it": "Prodotto"
+    "it": "il prodotto"
   },
   {
     "en": "doctor",
@@ -2415,7 +2415,7 @@
     "ja": "医師",
     "tr": "doktor",
     "is": "læknir",
-    "it": "medico"
+    "it": "il dottore"
   },
   {
     "en": "wall",
@@ -2428,7 +2428,7 @@
     "ja": "壁",
     "tr": "duvar",
     "is": "veggur",
-    "it": "parete"
+    "it": "il muro"
   },
   {
     "en": "patient",
@@ -2441,7 +2441,7 @@
     "ja": "患者",
     "tr": "hasta",
     "is": "sjúklingur",
-    "it": "paziente"
+    "it": "il paziente"
   },
   {
     "en": "worker",
@@ -2454,7 +2454,7 @@
     "ja": "ワーカー",
     "tr": "işçi",
     "is": "starfsmaður",
-    "it": "lavoratore"
+    "it": "il lavoratore"
   },
   {
     "en": "news",
@@ -2467,7 +2467,7 @@
     "ja": "ニュース",
     "tr": "haber",
     "is": "fréttir",
-    "it": "notizia"
+    "it": "le notizie"
   },
   {
     "en": "test",
@@ -2480,7 +2480,7 @@
     "ja": "テスト",
     "tr": "Ölçek",
     "is": "próf",
-    "it": "test"
+    "it": "il test"
   },
   {
     "en": "movie",
@@ -2493,7 +2493,7 @@
     "ja": "映画",
     "tr": "film",
     "is": "bíómynd",
-    "it": "film"
+    "it": "il film"
   },
   {
     "en": "north",
@@ -2506,7 +2506,7 @@
     "ja": "北",
     "tr": "kuzeyinde",
     "is": "norður",
-    "it": "nord"
+    "it": "il Nord"
   },
   {
     "en": "love",
@@ -2519,7 +2519,7 @@
     "ja": "愛",
     "tr": "Aşk",
     "is": "ást",
-    "it": "amore"
+    "it": "l'amore"
   },
   {
     "en": "support",
@@ -2532,7 +2532,7 @@
     "ja": "サポート",
     "tr": "destek",
     "is": "stuðningur",
-    "it": "supporto"
+    "it": "il supporto"
   },
   {
     "en": "technology",
@@ -2545,7 +2545,7 @@
     "ja": "技術",
     "tr": "teknoloji",
     "is": "tækni",
-    "it": "tecnologia"
+    "it": "la tecnologia"
   },
   {
     "en": "step",
@@ -2558,7 +2558,7 @@
     "ja": "ステップ",
     "tr": "adım",
     "is": "skref",
-    "it": "passo"
+    "it": "il gradino"
   },
   {
     "en": "baby",
@@ -2571,7 +2571,7 @@
     "ja": "赤ちゃん",
     "tr": "bebek",
     "is": "elskan",
-    "it": "bambino"
+    "it": "il bambino"
   },
   {
     "en": "computer",
@@ -2584,7 +2584,7 @@
     "ja": "コンピューター",
     "tr": "bilgisayar",
     "is": "tölva",
-    "it": "computer"
+    "it": "il computer"
   },
   {
     "en": "type",
@@ -2597,7 +2597,7 @@
     "ja": "タイプ",
     "tr": "tip",
     "is": "gerð",
-    "it": "genere"
+    "it": "Il tipo"
   },
   {
     "en": "attention",
@@ -2610,7 +2610,7 @@
     "ja": "注意",
     "tr": "Dikkat",
     "is": "athygli",
-    "it": "Attenzione"
+    "it": "l'attenzione"
   },
   {
     "en": "film",
@@ -2623,7 +2623,7 @@
     "ja": "膜",
     "tr": "film",
     "is": "kvikmynd",
-    "it": "film"
+    "it": "la pellicola"
   },
   {
     "en": "tree",
@@ -2636,7 +2636,7 @@
     "ja": "木",
     "tr": "ağaç",
     "is": "tré",
-    "it": "albero"
+    "it": "l'albero"
   },
   {
     "en": "source",
@@ -2649,7 +2649,7 @@
     "ja": "ソース",
     "tr": "kaynak",
     "is": "uppspretta",
-    "it": "fonte"
+    "it": "la fonte"
   },
   {
     "en": "hair",
@@ -2662,7 +2662,7 @@
     "ja": "ヘア",
     "tr": "saç",
     "is": "hár",
-    "it": "capelli"
+    "it": "i capelli"
   },
   {
     "en": "look",
@@ -2675,7 +2675,7 @@
     "ja": "見える",
     "tr": "bak",
     "is": "líta út",
-    "it": "Guarda"
+    "it": "il look"
   },
   {
     "en": "century",
@@ -2688,7 +2688,7 @@
     "ja": "世紀",
     "tr": "yüzyıl",
     "is": "öld",
-    "it": "secolo"
+    "it": "il secolo"
   },
   {
     "en": "evidence",
@@ -2701,7 +2701,7 @@
     "ja": "証拠",
     "tr": "kanıt",
     "is": "sönnunargögn",
-    "it": "prova"
+    "it": "la prova"
   },
   {
     "en": "window",
@@ -2714,7 +2714,7 @@
     "ja": "窓",
     "tr": "pencere",
     "is": "gluggi",
-    "it": "finestra"
+    "it": "la finestra"
   },
   {
     "en": "culture",
@@ -2727,7 +2727,7 @@
     "ja": "文化",
     "tr": "kültür",
     "is": "menning",
-    "it": "cultura"
+    "it": "la cultura"
   },
   {
     "en": "chance",
@@ -2740,7 +2740,7 @@
     "ja": "チャンス",
     "tr": "şans",
     "is": "tækifæri",
-    "it": "opportunità"
+    "it": "la possibilità"
   },
   {
     "en": "brother",
@@ -2753,7 +2753,7 @@
     "ja": "兄",
     "tr": "erkek kardeş",
     "is": "bróðir",
-    "it": "fratello"
+    "it": "il fratello"
   },
   {
     "en": "energy",
@@ -2766,7 +2766,7 @@
     "ja": "エネルギー",
     "tr": "enerji",
     "is": "Orka",
-    "it": "energia"
+    "it": "l'energia"
   },
   {
     "en": "period",
@@ -2779,7 +2779,7 @@
     "ja": "期間",
     "tr": "dönem",
     "is": "tímabil",
-    "it": "periodo"
+    "it": "il periodo"
   },
   {
     "en": "course",
@@ -2792,7 +2792,7 @@
     "ja": "コース",
     "tr": "kurs",
     "is": "námskeið",
-    "it": "corso"
+    "it": "il corso"
   },
   {
     "en": "summer",
@@ -2805,7 +2805,7 @@
     "ja": "夏",
     "tr": "yaz",
     "is": "sumar",
-    "it": "estate"
+    "it": "l'estate"
   },
   {
     "en": "plant",
@@ -2818,7 +2818,7 @@
     "ja": "工場",
     "tr": "bitki",
     "is": "planta",
-    "it": "pianta"
+    "it": "la pianta"
   },
   {
     "en": "opportunity",
@@ -2831,7 +2831,7 @@
     "ja": "機会",
     "tr": "fırsat",
     "is": "tækifæri",
-    "it": "opportunità"
+    "it": "l'opportunità"
   },
   {
     "en": "term",
@@ -2844,7 +2844,7 @@
     "ja": "期間",
     "tr": "terim",
     "is": "tíma",
-    "it": "termine"
+    "it": "il termine"
   },
   {
     "en": "letter",
@@ -2857,7 +2857,7 @@
     "ja": "文字",
     "tr": "mektup",
     "is": "bréf",
-    "it": "lettera"
+    "it": "la lettera"
   },
   {
     "en": "condition",
@@ -2870,7 +2870,7 @@
     "ja": "調子",
     "tr": "şart",
     "is": "ástand",
-    "it": "condizione"
+    "it": "la condizione"
   },
   {
     "en": "choice",
@@ -2883,7 +2883,7 @@
     "ja": "選択",
     "tr": "seçim",
     "is": "val",
-    "it": "scelta"
+    "it": "la scelta"
   },
   {
     "en": "rule",
@@ -2896,7 +2896,7 @@
     "ja": "ルール",
     "tr": "kural",
     "is": "regla",
-    "it": "regola"
+    "it": "la regola"
   },
   {
     "en": "daughter",
@@ -2909,7 +2909,7 @@
     "ja": "娘",
     "tr": "kız evlat",
     "is": "dóttir",
-    "it": "figlia"
+    "it": "la figlia"
   },
   {
     "en": "administration",
@@ -2922,7 +2922,7 @@
     "ja": "投与",
     "tr": "yönetim",
     "is": "gjöf",
-    "it": "amministrazione"
+    "it": "l'amministrazione"
   },
   {
     "en": "south",
@@ -2935,7 +2935,7 @@
     "ja": "南",
     "tr": "güney",
     "is": "suður",
-    "it": "Sud"
+    "it": "il Sud"
   },
   {
     "en": "husband",
@@ -2948,7 +2948,7 @@
     "ja": "夫",
     "tr": "koca",
     "is": "eiginmaður",
-    "it": "marito"
+    "it": "il marito"
   },
   {
     "en": "floor",
@@ -2961,7 +2961,7 @@
     "ja": "床",
     "tr": "zemin",
     "is": "hæð",
-    "it": "pavimento"
+    "it": "il pavimento"
   },
   {
     "en": "campaign",
@@ -2974,7 +2974,7 @@
     "ja": "キャンペーン",
     "tr": "kampanya",
     "is": "herferð",
-    "it": "campagna"
+    "it": "la campagna"
   },
   {
     "en": "material",
@@ -2987,7 +2987,7 @@
     "ja": "材料",
     "tr": "malzeme",
     "is": "efni",
-    "it": "Materiale"
+    "it": "il materiale"
   },
   {
     "en": "population",
@@ -3000,7 +3000,7 @@
     "ja": "人口",
     "tr": "nüfus",
     "is": "íbúa",
-    "it": "popolazione"
+    "it": "la popolazione"
   },
   {
     "en": "call",
@@ -3013,7 +3013,7 @@
     "ja": "コール",
     "tr": "aramak",
     "is": "hringja",
-    "it": "chiamata"
+    "it": "la chiamata"
   },
   {
     "en": "economy",
@@ -3026,7 +3026,7 @@
     "ja": "経済",
     "tr": "ekonomi",
     "is": "hagkerfi",
-    "it": "economia"
+    "it": "l'economia"
   },
   {
     "en": "hospital",
@@ -3039,7 +3039,7 @@
     "ja": "病院",
     "tr": "hastane",
     "is": "sjúkrahús",
-    "it": "ospedale"
+    "it": "l'ospedale"
   },
   {
     "en": "church",
@@ -3052,7 +3052,7 @@
     "ja": "教会",
     "tr": "kilise",
     "is": "kirkja",
-    "it": "Chiesa"
+    "it": "la Chiesa"
   },
   {
     "en": "risk",
@@ -3065,7 +3065,7 @@
     "ja": "リスク",
     "tr": "risk",
     "is": "áhætta",
-    "it": "rischio"
+    "it": "il rischio"
   },
   {
     "en": "fire",
@@ -3078,7 +3078,7 @@
     "ja": "火災",
     "tr": "ateş",
     "is": "eldur",
-    "it": "fuoco"
+    "it": "il fuoco"
   },
   {
     "en": "future",
@@ -3091,7 +3091,7 @@
     "ja": "未来",
     "tr": "gelecek",
     "is": "framtíð",
-    "it": "futuro"
+    "it": "il futuro"
   },
   {
     "en": "defense",
@@ -3104,7 +3104,7 @@
     "ja": "防衛",
     "tr": "savunma",
     "is": "vörn",
-    "it": "difesa"
+    "it": "la difesa"
   },
   {
     "en": "security",
@@ -3117,7 +3117,7 @@
     "ja": "セキュリティ",
     "tr": "güvenlik",
     "is": "öryggi",
-    "it": "sicurezza"
+    "it": "la sicurezza"
   },
   {
     "en": "bank",
@@ -3130,7 +3130,7 @@
     "ja": "バンク",
     "tr": "banka",
     "is": "banka",
-    "it": "banca"
+    "it": "la Banca"
   },
   {
     "en": "west",
@@ -3143,7 +3143,7 @@
     "ja": "西",
     "tr": "batısında",
     "is": "vestur",
-    "it": "ovest"
+    "it": "l'ovest"
   },
   {
     "en": "sport",
@@ -3156,7 +3156,7 @@
     "ja": "スポーツ",
     "tr": "spor",
     "is": "íþrótt",
-    "it": "sport"
+    "it": "lo sport"
   },
   {
     "en": "board",
@@ -3169,7 +3169,7 @@
     "ja": "ボード",
     "tr": "yazı tahtası",
     "is": "borð",
-    "it": "tavola"
+    "it": "il bordo"
   },
   {
     "en": "subject",
@@ -3182,7 +3182,7 @@
     "ja": "主題",
     "tr": "konu",
     "is": "efni",
-    "it": "soggetto"
+    "it": "il soggetto"
   },
   {
     "en": "officer",
@@ -3195,7 +3195,7 @@
     "ja": "役員",
     "tr": "subay",
     "is": "liðsforingi",
-    "it": "ufficiale"
+    "it": "l'ufficiale"
   },
   {
     "en": "rest",
@@ -3208,7 +3208,7 @@
     "ja": "残り",
     "tr": "dinlenme",
     "is": "hvíld",
-    "it": "riposo"
+    "it": "il riposo"
   },
   {
     "en": "behavior",
@@ -3221,7 +3221,7 @@
     "ja": "動作",
     "tr": "davranış",
     "is": "hegðun",
-    "it": "comportamento"
+    "it": "il comportamento"
   },
   {
     "en": "performance",
@@ -3234,7 +3234,7 @@
     "ja": "パフォーマンス",
     "tr": "performans",
     "is": "frammistaða",
-    "it": "prestazione"
+    "it": "la prestazione"
   },
   {
     "en": "top",
@@ -3247,7 +3247,7 @@
     "ja": "上",
     "tr": "üst",
     "is": "efst",
-    "it": "superiore"
+    "it": "la cima"
   },
   {
     "en": "goal",
@@ -3260,7 +3260,7 @@
     "ja": "ゴール",
     "tr": "hedef",
     "is": "markmið",
-    "it": "obbiettivo"
+    "it": "L'obiettivo. il gol"
   },
   {
     "en": "second",
@@ -3273,7 +3273,7 @@
     "ja": "二番目",
     "tr": "ikinci",
     "is": "annað",
-    "it": "secondo"
+    "it": "il secondo"
   },
   {
     "en": "bed",
@@ -3286,7 +3286,7 @@
     "ja": "ベッド",
     "tr": "yatak",
     "is": "rúm",
-    "it": "letto"
+    "it": "il letto"
   },
   {
     "en": "order",
@@ -3299,7 +3299,7 @@
     "ja": "注文",
     "tr": "sipariş",
     "is": "röð",
-    "it": "ordine"
+    "it": "l'ordine"
   },
   {
     "en": "author",
@@ -3312,7 +3312,7 @@
     "ja": "著者",
     "tr": "yazar",
     "is": "höfundur",
-    "it": "autore"
+    "it": "l'autore"
   },
   {
     "en": "blood",
@@ -3325,7 +3325,7 @@
     "ja": "血液",
     "tr": "kan",
     "is": "blóð",
-    "it": "sangue"
+    "it": "il sangue"
   },
   {
     "en": "agency",
@@ -3338,7 +3338,7 @@
     "ja": "代理店",
     "tr": "Ajans",
     "is": "auglýsingastofu",
-    "it": "agenzia"
+    "it": "l'agenzia"
   },
   {
     "en": "nature",
@@ -3351,7 +3351,7 @@
     "ja": "自然",
     "tr": "doğa",
     "is": "náttúran",
-    "it": "natura"
+    "it": "la natura"
   },
   {
     "en": "color",
@@ -3364,7 +3364,7 @@
     "ja": "色",
     "tr": "renk",
     "is": "litur",
-    "it": "colore"
+    "it": "il colore"
   },
   {
     "en": "store",
@@ -3377,7 +3377,7 @@
     "ja": "格納",
     "tr": "mağaza",
     "is": "verslun",
-    "it": "negozio"
+    "it": "il negozio"
   },
   {
     "en": "sound",
@@ -3390,7 +3390,7 @@
     "ja": "音",
     "tr": "ses",
     "is": "hljóð",
-    "it": "suono"
+    "it": "il suono"
   },
   {
     "en": "movement",
@@ -3403,7 +3403,7 @@
     "ja": "移動",
     "tr": "hareket",
     "is": "hreyfing",
-    "it": "movimento"
+    "it": "il movimento"
   },
   {
     "en": "page",
@@ -3416,7 +3416,7 @@
     "ja": "ページ",
     "tr": "sayfa",
     "is": "síðu",
-    "it": "pagina"
+    "it": "la pagina"
   },
   {
     "en": "race",
@@ -3429,7 +3429,7 @@
     "ja": "レース",
     "tr": "yarış",
     "is": "keppninni",
-    "it": "gara"
+    "it": "la gara"
   },
   {
     "en": "concern",
@@ -3442,7 +3442,7 @@
     "ja": "懸念",
     "tr": "ilgilendirmek",
     "is": "áhyggjuefni",
-    "it": "preoccupazione"
+    "it": "la preoccupazione"
   },
   {
     "en": "series",
@@ -3455,7 +3455,7 @@
     "ja": "シリーズ",
     "tr": "dizi",
     "is": "röð",
-    "it": "serie"
+    "it": "la serie"
   },
   {
     "en": "language",
@@ -3468,7 +3468,7 @@
     "ja": "言語",
     "tr": "dil",
     "is": "tungumál",
-    "it": "linguaggio"
+    "it": "la lingua"
   },
   {
     "en": "response",
@@ -3481,7 +3481,7 @@
     "ja": "応答",
     "tr": "tepki",
     "is": "svar",
-    "it": "risposta"
+    "it": "la risposta"
   },
   {
     "en": "animal",
@@ -3494,7 +3494,7 @@
     "ja": "動物",
     "tr": "hayvan",
     "is": "dýr",
-    "it": "animale"
+    "it": "l'animale"
   },
   {
     "en": "factor",
@@ -3507,7 +3507,7 @@
     "ja": "因子",
     "tr": "faktör",
     "is": "þáttur",
-    "it": "fattore"
+    "it": "il fattore"
   },
   {
     "en": "decade",
@@ -3520,7 +3520,7 @@
     "ja": "10年",
     "tr": "onyıl",
     "is": "Áratugur",
-    "it": "decennio"
+    "it": "il decennio"
   },
   {
     "en": "article",
@@ -3533,7 +3533,7 @@
     "ja": "記事",
     "tr": "makale",
     "is": "grein",
-    "it": "articolo"
+    "it": "l'articolo"
   },
   {
     "en": "east",
@@ -3546,7 +3546,7 @@
     "ja": "東",
     "tr": "Doğu",
     "is": "austur",
-    "it": "est"
+    "it": "l'Est"
   },
   {
     "en": "artist",
@@ -3559,7 +3559,7 @@
     "ja": "アーティスト",
     "tr": "sanatçı",
     "is": "listamaður",
-    "it": "artista"
+    "it": "l'artista"
   },
   {
     "en": "scene",
@@ -3572,7 +3572,7 @@
     "ja": "シーン",
     "tr": "faliyet alani, sahne",
     "is": "vettvangur",
-    "it": "scena"
+    "it": "la scena"
   },
   {
     "en": "stock",
@@ -3585,7 +3585,7 @@
     "ja": "株式",
     "tr": "Stok",
     "is": "lager",
-    "it": "azione"
+    "it": "la scorta"
   },
   {
     "en": "career",
@@ -3598,7 +3598,7 @@
     "ja": "キャリア",
     "tr": "kariyer",
     "is": "feril",
-    "it": "carriera"
+    "it": "la carriera"
   },
   {
     "en": "treatment",
@@ -3611,7 +3611,7 @@
     "ja": "処理",
     "tr": "tedavi",
     "is": "meðferð",
-    "it": "trattamento"
+    "it": "il trattamento"
   },
   {
     "en": "approach",
@@ -3624,7 +3624,7 @@
     "ja": "アプローチ",
     "tr": "yaklaşım",
     "is": "nálgun",
-    "it": "approccio"
+    "it": "l'approccio"
   },
   {
     "en": "size",
@@ -3637,7 +3637,7 @@
     "ja": "サイズ",
     "tr": "boyut",
     "is": "stærð",
-    "it": "dimensione"
+    "it": "la dimensione"
   },
   {
     "en": "dog",
@@ -3650,7 +3650,7 @@
     "ja": "犬",
     "tr": "köpek",
     "is": "hundur",
-    "it": "cane"
+    "it": "il cane"
   },
   {
     "en": "fund",
@@ -3663,7 +3663,7 @@
     "ja": "基金",
     "tr": "fon, sermaye",
     "is": "sjóður",
-    "it": "fondo"
+    "it": "il fondo"
   },
   {
     "en": "media",
@@ -3676,7 +3676,7 @@
     "ja": "メディア",
     "tr": "medya",
     "is": "fjölmiðla",
-    "it": "media"
+    "it": "i media"
   },
   {
     "en": "sign",
@@ -3689,7 +3689,7 @@
     "ja": "符号",
     "tr": "işaret",
     "is": "undirrita",
-    "it": "cartello"
+    "it": "il segno"
   },
   {
     "en": "thought",
@@ -3702,7 +3702,7 @@
     "ja": "思想",
     "tr": "düşünce",
     "is": "hugsun",
-    "it": "pensato"
+    "it": "il pensiero"
   },
   {
     "en": "list",
@@ -3715,7 +3715,7 @@
     "ja": "リスト",
     "tr": "liste",
     "is": "listi",
-    "it": "elenco"
+    "it": "la lista"
   },
   {
     "en": "individual",
@@ -3728,7 +3728,7 @@
     "ja": "個人",
     "tr": "bireysel",
     "is": "einstaklingur",
-    "it": "individuale"
+    "it": "l'individuo"
   },
   {
     "en": "quality",
@@ -3741,7 +3741,7 @@
     "ja": "品質",
     "tr": "kalite",
     "is": "gæði",
-    "it": "qualità"
+    "it": "la qualità"
   },
   {
     "en": "pressure",
@@ -3754,7 +3754,7 @@
     "ja": "圧力",
     "tr": "basınç",
     "is": "þrýstingur",
-    "it": "pressione"
+    "it": "la pressione"
   },
   {
     "en": "answer",
@@ -3767,7 +3767,7 @@
     "ja": "回答",
     "tr": "Cevap",
     "is": "svara",
-    "it": "risposta"
+    "it": "la risposta"
   },
   {
     "en": "resource",
@@ -3780,7 +3780,7 @@
     "ja": "リソース",
     "tr": "kaynak",
     "is": "úrræði",
-    "it": "risorsa"
+    "it": "la risorsa"
   },
   {
     "en": "meeting",
@@ -3793,7 +3793,7 @@
     "ja": "会議",
     "tr": "toplantı",
     "is": "fundi",
-    "it": "incontro"
+    "it": "l'incontro"
   },
   {
     "en": "disease",
@@ -3806,7 +3806,7 @@
     "ja": "疾患",
     "tr": "hastalık",
     "is": "sjúkdómur",
-    "it": "malattia"
+    "it": "la malattia"
   },
   {
     "en": "success",
@@ -3819,7 +3819,7 @@
     "ja": "成功",
     "tr": "başarı",
     "is": "árangur",
-    "it": "successo"
+    "it": "il successo"
   },
   {
     "en": "cup",
@@ -3832,7 +3832,7 @@
     "ja": "カップ",
     "tr": "Fincan",
     "is": "bolli",
-    "it": "tazza"
+    "it": "La tazza"
   },
   {
     "en": "amount",
@@ -3845,7 +3845,7 @@
     "ja": "量",
     "tr": "Miktar",
     "is": "magn",
-    "it": "quantità"
+    "it": "l'ammontare"
   },
   {
     "en": "ability",
@@ -3858,7 +3858,7 @@
     "ja": "能力",
     "tr": "kabiliyet",
     "is": "hæfni",
-    "it": "capacità"
+    "it": "la capacità"
   },
   {
     "en": "staff",
@@ -3871,7 +3871,7 @@
     "ja": "スタッフ",
     "tr": "Personel",
     "is": "starfsfólk",
-    "it": "personale"
+    "it": "il personale"
   },
   {
     "en": "character",
@@ -3884,7 +3884,7 @@
     "ja": "キャラクター",
     "tr": "karakter",
     "is": "eðli",
-    "it": "carattere"
+    "it": "il personaggio"
   },
   {
     "en": "growth",
@@ -3897,7 +3897,7 @@
     "ja": "成長",
     "tr": "büyüme",
     "is": "vöxtur",
-    "it": "crescita"
+    "it": "la crescita"
   },
   {
     "en": "loss",
@@ -3910,7 +3910,7 @@
     "ja": "損失",
     "tr": "kayıp",
     "is": "tap",
-    "it": "perdita"
+    "it": "la perdita"
   },
   {
     "en": "degree",
@@ -3923,7 +3923,7 @@
     "ja": "度",
     "tr": "derece",
     "is": "gráðu",
-    "it": "grado"
+    "it": "il grado"
   },
   {
     "en": "attack",
@@ -3936,7 +3936,7 @@
     "ja": "攻撃",
     "tr": "saldırı",
     "is": "árás",
-    "it": "attacco"
+    "it": "l'attacco"
   },
   {
     "en": "region",
@@ -3949,7 +3949,7 @@
     "ja": "領域",
     "tr": "bölge",
     "is": "svæði",
-    "it": "regione"
+    "it": "la Regione"
   },
   {
     "en": "box",
@@ -3962,7 +3962,7 @@
     "ja": "ボックス",
     "tr": "Kutu",
     "is": "kassi",
-    "it": "scatola"
+    "it": "la scatola"
   },
   {
     "en": "television",
@@ -3975,7 +3975,7 @@
     "ja": "テレビ",
     "tr": "televizyon",
     "is": "sjónvarp",
-    "it": "televisione"
+    "it": "la televisione"
   },
   {
     "en": "training",
@@ -3988,7 +3988,7 @@
     "ja": "トレーニング",
     "tr": "Eğitim",
     "is": "þjálfun",
-    "it": "formazione"
+    "it": "l'allenamento"
   },
   {
     "en": "trade",
@@ -4001,7 +4001,7 @@
     "ja": "トレード",
     "tr": "Ticaret",
     "is": "verslun",
-    "it": "commercio"
+    "it": "il commercio"
   },
   {
     "en": "deal",
@@ -4014,7 +4014,7 @@
     "ja": "対処",
     "tr": "anlaştık mı",
     "is": "samningur",
-    "it": "affare"
+    "it": "l'affare"
   },
   {
     "en": "election",
@@ -4027,7 +4027,7 @@
     "ja": "選挙",
     "tr": "seçim",
     "is": "kosningar",
-    "it": "elezione"
+    "it": "l'elezione"
   },
   {
     "en": "feeling",
@@ -4040,7 +4040,7 @@
     "ja": "感じ",
     "tr": "duygu",
     "is": "tilfinning",
-    "it": "sensazione"
+    "it": "il sentimento"
   },
   {
     "en": "standard",
@@ -4053,7 +4053,7 @@
     "ja": "標準",
     "tr": "standart",
     "is": "staðall",
-    "it": "standard"
+    "it": "lo standard"
   },
   {
     "en": "bill",
@@ -4066,7 +4066,7 @@
     "ja": "ビル",
     "tr": "fatura",
     "is": "reikningur",
-    "it": "conto"
+    "it": "il conto"
   },
   {
     "en": "message",
@@ -4079,7 +4079,7 @@
     "ja": "メッセージ",
     "tr": "mesaj",
     "is": "skilaboð",
-    "it": "Messaggio"
+    "it": "il messaggio"
   },
   {
     "en": "analysis",
@@ -4092,7 +4092,7 @@
     "ja": "分析",
     "tr": "analiz",
     "is": "greining",
-    "it": "analisi"
+    "it": "le analisi"
   },
   {
     "en": "benefit",
@@ -4105,7 +4105,7 @@
     "ja": "利益",
     "tr": "yarar",
     "is": "gagn",
-    "it": "vantaggio"
+    "it": "il vantaggio"
   },
   {
     "en": "lawyer",
@@ -4118,7 +4118,7 @@
     "ja": "弁護士",
     "tr": "avukat",
     "is": "lögfræðingur",
-    "it": "avvocato"
+    "it": "L'avvocato"
   },
   {
     "en": "section",
@@ -4131,7 +4131,7 @@
     "ja": "セクション",
     "tr": "Bölüm",
     "is": "kafla",
-    "it": "sezione"
+    "it": "la sezione"
   },
   {
     "en": "glass",
@@ -4144,7 +4144,7 @@
     "ja": "ガラス",
     "tr": "bardak",
     "is": "gler",
-    "it": "bicchiere"
+    "it": "il vetro"
   },
   {
     "en": "skill",
@@ -4157,7 +4157,7 @@
     "ja": "スキル",
     "tr": "beceri",
     "is": "hæfni",
-    "it": "abilità"
+    "it": "l'abilità"
   },
   {
     "en": "sister",
@@ -4170,7 +4170,7 @@
     "ja": "シスター",
     "tr": "kız kardeş",
     "is": "systir",
-    "it": "sorella"
+    "it": "la sorella"
   },
   {
     "en": "professor",
@@ -4183,7 +4183,7 @@
     "ja": "教授",
     "tr": "profesör",
     "is": "prófessor",
-    "it": "Professore"
+    "it": "il professore"
   },
   {
     "en": "operation",
@@ -4196,7 +4196,7 @@
     "ja": "操作",
     "tr": "operasyon",
     "is": "aðgerð",
-    "it": "operazione"
+    "it": "l'operazione"
   },
   {
     "en": "crime",
@@ -4209,7 +4209,7 @@
     "ja": "犯罪",
     "tr": "suç",
     "is": "glæpur",
-    "it": "crimine"
+    "it": "il crimine"
   },
   {
     "en": "stage",
@@ -4222,7 +4222,7 @@
     "ja": "ステージ",
     "tr": "evre",
     "is": "stigi",
-    "it": "palcoscenico"
+    "it": "il palco"
   },
   {
     "en": "authority",
@@ -4235,7 +4235,7 @@
     "ja": "権限",
     "tr": "yetki",
     "is": "vald",
-    "it": "autorità"
+    "it": "l'Autorità"
   },
   {
     "en": "design",
@@ -4248,7 +4248,7 @@
     "ja": "設計",
     "tr": "dizayn",
     "is": "hönnun",
-    "it": "design"
+    "it": "il design"
   },
   {
     "en": "sort",
@@ -4261,7 +4261,7 @@
     "ja": "ソート",
     "tr": "çeşit",
     "is": "tegund",
-    "it": "ordinare"
+    "it": "il tipo"
   },
   {
     "en": "one",
@@ -4274,7 +4274,7 @@
     "ja": "1",
     "tr": "bir",
     "is": "einn",
-    "it": "uno"
+    "it": "l'unico"
   },
   {
     "en": "knowledge",
@@ -4287,7 +4287,7 @@
     "ja": "知識",
     "tr": "bilgi",
     "is": "þekkingu",
-    "it": "conoscenza"
+    "it": "la conoscenza"
   },
   {
     "en": "gun",
@@ -4300,7 +4300,7 @@
     "ja": "銃",
     "tr": "tabanca",
     "is": "byssu",
-    "it": "pistola"
+    "it": "la pistola"
   },
   {
     "en": "station",
@@ -4313,7 +4313,7 @@
     "ja": "駅",
     "tr": "istasyon",
     "is": "stöð",
-    "it": "stazione"
+    "it": "la stazione"
   },
   {
     "en": "strategy",
@@ -4326,7 +4326,7 @@
     "ja": "戦略",
     "tr": "strateji",
     "is": "stefnu",
-    "it": "strategia"
+    "it": "la strategia"
   },
   {
     "en": "truth",
@@ -4339,7 +4339,7 @@
     "ja": "真実",
     "tr": "hakikat",
     "is": "sannleikur",
-    "it": "verità"
+    "it": "la verità"
   },
   {
     "en": "song",
@@ -4352,7 +4352,7 @@
     "ja": "歌",
     "tr": "şarkı",
     "is": "lag",
-    "it": "canzone"
+    "it": "la canzone"
   },
   {
     "en": "example",
@@ -4365,7 +4365,7 @@
     "ja": "例",
     "tr": "örnek",
     "is": "dæmi",
-    "it": "esempio"
+    "it": "l'esempio"
   },
   {
     "en": "environment",
@@ -4378,7 +4378,7 @@
     "ja": "環境",
     "tr": "çevre",
     "is": "umhverfi",
-    "it": "ambiente"
+    "it": "l'ambiente"
   },
   {
     "en": "leg",
@@ -4391,7 +4391,7 @@
     "ja": "脚",
     "tr": "bacak",
     "is": "fótur",
-    "it": "gamba"
+    "it": "la gamba"
   },
   {
     "en": "public",
@@ -4404,7 +4404,7 @@
     "ja": "パブリック",
     "tr": "halka açık",
     "is": "opinber",
-    "it": "pubblico"
+    "it": "il pubblico"
   },
   {
     "en": "executive",
@@ -4417,7 +4417,7 @@
     "ja": "エグゼクティブ",
     "tr": "yönetici",
     "is": "framkvæmdastjóri",
-    "it": "esecutivo"
+    "it": "L'esecutivo"
   },
   {
     "en": "set",
@@ -4430,7 +4430,7 @@
     "ja": "セット",
     "tr": "set",
     "is": "sett",
-    "it": "impostato"
+    "it": "il set"
   },
   {
     "en": "rock",
@@ -4443,7 +4443,7 @@
     "ja": "岩",
     "tr": "Kaya",
     "is": "Berg",
-    "it": "roccia"
+    "it": "la roccia"
   },
   {
     "en": "note",
@@ -4456,7 +4456,7 @@
     "ja": "注意",
     "tr": "Not",
     "is": "athugasemd",
-    "it": "Nota"
+    "it": "la nota"
   },
   {
     "en": "manager",
@@ -4469,7 +4469,7 @@
     "ja": "マネージャー",
     "tr": "müdür",
     "is": "framkvæmdastjóri",
-    "it": "manager"
+    "it": "il responsabile"
   },
   {
     "en": "help",
@@ -4482,7 +4482,7 @@
     "ja": "助けて",
     "tr": "yardım et",
     "is": "hjálp",
-    "it": "Aiuto"
+    "it": "l'aiuto"
   },
   {
     "en": "network",
@@ -4495,7 +4495,7 @@
     "ja": "ネットワーク",
     "tr": "ağ",
     "is": "net",
-    "it": "Rete"
+    "it": "il network"
   },
   {
     "en": "science",
@@ -4508,7 +4508,7 @@
     "ja": "科学",
     "tr": "Bilim",
     "is": "vísindi",
-    "it": "scienza"
+    "it": "la scienza"
   },
   {
     "en": "memory",
@@ -4521,7 +4521,7 @@
     "ja": "記憶",
     "tr": "bellek",
     "is": "minni",
-    "it": "memoria"
+    "it": "la memoria"
   },
   {
     "en": "card",
@@ -4534,7 +4534,7 @@
     "ja": "カード",
     "tr": "kart",
     "is": "kort",
-    "it": "carta"
+    "it": "la carta"
   },
   {
     "en": "seat",
@@ -4547,7 +4547,7 @@
     "ja": "シート",
     "tr": "oturma yeri",
     "is": "sæti",
-    "it": "posto a sedere"
+    "it": "il posto a sedere"
   },
   {
     "en": "cell",
@@ -4560,7 +4560,7 @@
     "ja": "細胞",
     "tr": "hücre",
     "is": "klefi",
-    "it": "cellula"
+    "it": "la cellula"
   },
   {
     "en": "trial",
@@ -4573,7 +4573,7 @@
     "ja": "試行",
     "tr": "Deneme",
     "is": "rannsókn",
-    "it": "prova"
+    "it": "il processo"
   },
   {
     "en": "expert",
@@ -4586,7 +4586,7 @@
     "ja": "専門家",
     "tr": "uzman",
     "is": "sérfræðingur",
-    "it": "esperto"
+    "it": "l'esperto"
   },
   {
     "en": "spring",
@@ -4599,7 +4599,7 @@
     "ja": "春",
     "tr": "bahar",
     "is": "vor",
-    "it": "primavera"
+    "it": "la primavera"
   },
   {
     "en": "firm",
@@ -4612,7 +4612,7 @@
     "ja": "当社",
     "tr": "firma",
     "is": "fyrirtæki",
-    "it": "azienda"
+    "it": "l'azienda"
   },
   {
     "en": "radio",
@@ -4625,7 +4625,7 @@
     "ja": "無線",
     "tr": "radyo",
     "is": "útvarp",
-    "it": "Radio"
+    "it": "la radio"
   },
   {
     "en": "management",
@@ -4638,7 +4638,7 @@
     "ja": "管理",
     "tr": "yönetim",
     "is": "stjórnun",
-    "it": "gestione"
+    "it": "l'amministrazione"
   },
   {
     "en": "ball",
@@ -4651,7 +4651,7 @@
     "ja": "玉",
     "tr": "top",
     "is": "bolti",
-    "it": "palla"
+    "it": "la palla"
   },
   {
     "en": "talk",
@@ -4664,7 +4664,7 @@
     "ja": "トーク",
     "tr": "konuşma",
     "is": "tala",
-    "it": "parlare"
+    "it": "il discorso"
   },
   {
     "en": "theory",
@@ -4677,7 +4677,7 @@
     "ja": "理論",
     "tr": "teori",
     "is": "kenning",
-    "it": "teoria"
+    "it": "la teoria"
   },
   {
     "en": "impact",
@@ -4690,7 +4690,7 @@
     "ja": "影響",
     "tr": "darbe",
     "is": "áhrif",
-    "it": "urto"
+    "it": "l'impatto"
   },
   {
     "en": "statement",
@@ -4703,7 +4703,7 @@
     "ja": "ステートメント",
     "tr": "Beyan",
     "is": "yfirlýsing",
-    "it": "dichiarazione"
+    "it": "la dichiarazione"
   },
   {
     "en": "charge",
@@ -4716,7 +4716,7 @@
     "ja": "電荷",
     "tr": "şarj etmek",
     "is": "ákæra",
-    "it": "carica"
+    "it": "la carica"
   },
   {
     "en": "direction",
@@ -4729,7 +4729,7 @@
     "ja": "方向",
     "tr": "yön",
     "is": "átt",
-    "it": "direzione"
+    "it": "la direzione"
   },
   {
     "en": "weapon",
@@ -4742,7 +4742,7 @@
     "ja": "武器",
     "tr": "silah",
     "is": "vopn",
-    "it": "arma"
+    "it": "L'arma"
   },
   {
     "en": "employee",
@@ -4755,7 +4755,7 @@
     "ja": "従業員",
     "tr": "işçi",
     "is": "starfsmaður",
-    "it": "dipendente"
+    "it": "il dipendente"
   },
   {
     "en": "peace",
@@ -4768,7 +4768,7 @@
     "ja": "平和",
     "tr": "Barış",
     "is": "friður",
-    "it": "pace"
+    "it": "la pace"
   },
   {
     "en": "base",
@@ -4781,7 +4781,7 @@
     "ja": "ベース",
     "tr": "baz",
     "is": "grunnur",
-    "it": "base"
+    "it": "la base"
   },
   {
     "en": "pain",
@@ -4794,7 +4794,7 @@
     "ja": "痛み",
     "tr": "Ağrı",
     "is": "sársauki",
-    "it": "dolore"
+    "it": "il dolore"
   },
   {
     "en": "play",
@@ -4807,7 +4807,7 @@
     "ja": "遊びます",
     "tr": "oyun",
     "is": "leika",
-    "it": "giocare"
+    "it": "il gioco"
   },
   {
     "en": "measure",
@@ -4820,7 +4820,7 @@
     "ja": "測定",
     "tr": "ölçmek",
     "is": "mæla",
-    "it": "misurare"
+    "it": "la misura"
   },
   {
     "en": "interview",
@@ -4833,7 +4833,7 @@
     "ja": "インタビュー",
     "tr": "röportaj",
     "is": "viðtal",
-    "it": "colloquio"
+    "it": "l'intervista"
   },
   {
     "en": "chair",
@@ -4846,7 +4846,7 @@
     "ja": "椅子",
     "tr": "sandalye",
     "is": "stól",
-    "it": "sedia"
+    "it": "la sedia"
   },
   {
     "en": "fish",
@@ -4859,7 +4859,7 @@
     "ja": "魚",
     "tr": "balık",
     "is": "fiskur",
-    "it": "pesce"
+    "it": "il pesce"
   },
   {
     "en": "camera",
@@ -4872,7 +4872,7 @@
     "ja": "カメラ",
     "tr": "kamera",
     "is": "myndavél",
-    "it": "telecamera"
+    "it": "la fotocamera"
   },
   {
     "en": "structure",
@@ -4885,7 +4885,7 @@
     "ja": "構造",
     "tr": "yapı",
     "is": "uppbygging",
-    "it": "struttura"
+    "it": "la struttura"
   },
   {
     "en": "politics",
@@ -4898,7 +4898,7 @@
     "ja": "政治",
     "tr": "siyaset",
     "is": "stjórnmál",
-    "it": "politica"
+    "it": "i politici"
   },
   {
     "en": "bit",
@@ -4911,7 +4911,7 @@
     "ja": "ビット",
     "tr": "bit",
     "is": "hluti",
-    "it": "po"
+    "it": "il bit"
   },
   {
     "en": "weight",
@@ -4924,7 +4924,7 @@
     "ja": "重量",
     "tr": "ağırlık",
     "is": "þyngd",
-    "it": "peso"
+    "it": "il peso"
   },
   {
     "en": "candidate",
@@ -4937,7 +4937,7 @@
     "ja": "候補者",
     "tr": "aday",
     "is": "frambjóðandi",
-    "it": "candidato"
+    "it": "il candidato"
   },
   {
     "en": "production",
@@ -4950,7 +4950,7 @@
     "ja": "製造",
     "tr": "üretim",
     "is": "framleiðslu",
-    "it": "produzione"
+    "it": "la produzione"
   },
   {
     "en": "trip",
@@ -4963,7 +4963,7 @@
     "ja": "旅行",
     "tr": "gezi",
     "is": "ferð",
-    "it": "viaggio"
+    "it": "il viaggio"
   },
   {
     "en": "evening",
@@ -4976,7 +4976,7 @@
     "ja": "イブニング",
     "tr": "akşam",
     "is": "kvöld",
-    "it": "sera"
+    "it": "la sera"
   },
   {
     "en": "conference",
@@ -4989,7 +4989,7 @@
     "ja": "会議",
     "tr": "konferans",
     "is": "ráðstefna",
-    "it": "conferenza"
+    "it": "la conferenza"
   },
   {
     "en": "unit",
@@ -5002,7 +5002,7 @@
     "ja": "単位",
     "tr": "birim",
     "is": "eining",
-    "it": "unità"
+    "it": "l'unità"
   },
   {
     "en": "style",
@@ -5015,7 +5015,7 @@
     "ja": "スタイル",
     "tr": "stil",
     "is": "stíl",
-    "it": "stile"
+    "it": "lo stile"
   },
   {
     "en": "adult",
@@ -5028,7 +5028,7 @@
     "ja": "大人",
     "tr": "yetişkin",
     "is": "fullorðinn",
-    "it": "adulto"
+    "it": "l'adulto"
   },
   {
     "en": "range",
@@ -5041,7 +5041,7 @@
     "ja": "範囲",
     "tr": "menzil",
     "is": "svið",
-    "it": "gamma"
+    "it": "la gamma"
   },
   {
     "en": "past",
@@ -5054,7 +5054,7 @@
     "ja": "過去",
     "tr": "geçmiş",
     "is": "áður",
-    "it": "passato"
+    "it": "il passato"
   },
   {
     "en": "edge",
@@ -5067,7 +5067,7 @@
     "ja": "エッジ",
     "tr": "kenar",
     "is": "brún",
-    "it": "bordo"
+    "it": "il bordo"
   },
   {
     "en": "writer",
@@ -5080,7 +5080,7 @@
     "ja": "ライター",
     "tr": "yazar",
     "is": "rithöfundur",
-    "it": "scrittore"
+    "it": "lo scrittore"
   },
   {
     "en": "trouble",
@@ -5093,7 +5093,7 @@
     "ja": "トラブル",
     "tr": "sorun",
     "is": "vandræði",
-    "it": "guaio"
+    "it": "il problema"
   },
   {
     "en": "challenge",
@@ -5106,7 +5106,7 @@
     "ja": "チャレンジ",
     "tr": "meydan okuma",
     "is": "áskorun",
-    "it": "sfida"
+    "it": "la sfida"
   },
   {
     "en": "fear",
@@ -5119,7 +5119,7 @@
     "ja": "恐れ",
     "tr": "korku",
     "is": "ótti",
-    "it": "paura"
+    "it": "il timore"
   },
   {
     "en": "shoulder",
@@ -5132,7 +5132,7 @@
     "ja": "ショルダー",
     "tr": "omuz",
     "is": "öxl",
-    "it": "spalla"
+    "it": "la spalla"
   },
   {
     "en": "institution",
@@ -5145,7 +5145,7 @@
     "ja": "機関",
     "tr": "kurum",
     "is": "stofnun",
-    "it": "istituzione"
+    "it": "l'istituzione"
   },
   {
     "en": "sea",
@@ -5158,7 +5158,7 @@
     "ja": "海",
     "tr": "deniz",
     "is": "sjó",
-    "it": "mare"
+    "it": "il mare"
   },
   {
     "en": "dream",
@@ -5171,7 +5171,7 @@
     "ja": "夢",
     "tr": "rüya",
     "is": "draumur",
-    "it": "sognare"
+    "it": "il sogno"
   },
   {
     "en": "bar",
@@ -5184,7 +5184,7 @@
     "ja": "バー",
     "tr": "bar",
     "is": "bar",
-    "it": "bar"
+    "it": "il bar"
   },
   {
     "en": "property",
@@ -5197,7 +5197,7 @@
     "ja": "プロパティ",
     "tr": "özellik",
     "is": "eign",
-    "it": "proprietà"
+    "it": "la proprietà"
   },
   {
     "en": "stuff",
@@ -5210,7 +5210,7 @@
     "ja": "もの",
     "tr": "şey",
     "is": "efni",
-    "it": "cose"
+    "it": "le cose"
   },
   {
     "en": "detail",
@@ -5223,7 +5223,7 @@
     "ja": "詳細",
     "tr": "detay",
     "is": "smáatriði",
-    "it": "dettaglio"
+    "it": "il dettaglio"
   },
   {
     "en": "method",
@@ -5236,7 +5236,7 @@
     "ja": "方法",
     "tr": "yöntem",
     "is": "aðferð",
-    "it": "metodo"
+    "it": "il metodo"
   },
   {
     "en": "magazine",
@@ -5249,7 +5249,7 @@
     "ja": "マガジン",
     "tr": "dergi",
     "is": "tímaritið",
-    "it": "rivista"
+    "it": "la rivista"
   },
   {
     "en": "hotel",
@@ -5262,7 +5262,7 @@
     "ja": "ホテル",
     "tr": "otel",
     "is": "hótel",
-    "it": "Hotel"
+    "it": "l'albergo"
   },
   {
     "en": "soldier",
@@ -5275,7 +5275,7 @@
     "ja": "兵士",
     "tr": "asker",
     "is": "hermaður",
-    "it": "soldato"
+    "it": "Il soldato"
   },
   {
     "en": "cause",
@@ -5288,7 +5288,7 @@
     "ja": "原因",
     "tr": "sebeb olmak",
     "is": "orsök",
-    "it": "causa"
+    "it": "la causa"
   },
   {
     "en": "bag",
@@ -5301,7 +5301,7 @@
     "ja": "バッグ",
     "tr": "sırt çantası",
     "is": "taska",
-    "it": "Borsa"
+    "it": "la borsa"
   },
   {
     "en": "heat",
@@ -5314,7 +5314,7 @@
     "ja": "熱",
     "tr": "sıcaklık",
     "is": "hita",
-    "it": "calore"
+    "it": "il calore"
   },
   {
     "en": "fall",
@@ -5327,7 +5327,7 @@
     "ja": "秋",
     "tr": "düşmek",
     "is": "falla",
-    "it": "autunno"
+    "it": "la caduta"
   },
   {
     "en": "marriage",
@@ -5340,7 +5340,7 @@
     "ja": "結婚",
     "tr": "evlilik",
     "is": "hjónaband",
-    "it": "matrimonio"
+    "it": "il matrimonio"
   },
   {
     "en": "surface",
@@ -5353,7 +5353,7 @@
     "ja": "表面",
     "tr": "yüzey",
     "is": "yfirborð",
-    "it": "superficie"
+    "it": "la superficie"
   },
   {
     "en": "purpose",
@@ -5366,7 +5366,7 @@
     "ja": "目的",
     "tr": "amaç",
     "is": "Tilgangur",
-    "it": "scopo"
+    "it": "la proposta"
   },
   {
     "en": "pattern",
@@ -5379,7 +5379,7 @@
     "ja": "パターン",
     "tr": "Desen",
     "is": "mynstur",
-    "it": "modello"
+    "it": "Il modello"
   },
   {
     "en": "skin",
@@ -5392,7 +5392,7 @@
     "ja": "肌",
     "tr": "cilt",
     "is": "húð",
-    "it": "pelle"
+    "it": "la pelle"
   },
   {
     "en": "agent",
@@ -5405,7 +5405,7 @@
     "ja": "エージェント",
     "tr": "ajan",
     "is": "umboðsmaður",
-    "it": "agente"
+    "it": "l'agente"
   },
   {
     "en": "owner",
@@ -5418,7 +5418,7 @@
     "ja": "オーナー",
     "tr": "sahip",
     "is": "eigandi",
-    "it": "proprietario"
+    "it": "il proprietario"
   },
   {
     "en": "machine",
@@ -5431,7 +5431,7 @@
     "ja": "機械",
     "tr": "makine",
     "is": "vél",
-    "it": "macchina"
+    "it": "la macchina"
   },
   {
     "en": "gas",
@@ -5444,7 +5444,7 @@
     "ja": "ガス",
     "tr": "gaz",
     "is": "gas",
-    "it": "gas"
+    "it": "il gas"
   },
   {
     "en": "generation",
@@ -5457,7 +5457,7 @@
     "ja": "世代",
     "tr": "nesil",
     "is": "kynslóð",
-    "it": "generazione"
+    "it": "la generazione"
   },
   {
     "en": "cancer",
@@ -5470,7 +5470,7 @@
     "ja": "癌",
     "tr": "kanser",
     "is": "krabbamein",
-    "it": "cancro"
+    "it": "il cancro"
   },
   {
     "en": "item",
@@ -5483,7 +5483,7 @@
     "ja": "項目",
     "tr": "madde",
     "is": "atriði",
-    "it": "articolo"
+    "it": "l'oggetto"
   },
   {
     "en": "reality",
@@ -5509,7 +5509,7 @@
     "ja": "コーチ",
     "tr": "Koç",
     "is": "þjálfari",
-    "it": "allenatore"
+    "it": "l'allenatore"
   },
   {
     "en": "yard",
@@ -5522,7 +5522,7 @@
     "ja": "ヤード",
     "tr": "avlu",
     "is": "garð",
-    "it": "cortile"
+    "it": "il cortile"
   },
   {
     "en": "violence",
@@ -5535,7 +5535,7 @@
     "ja": "暴力",
     "tr": "şiddet",
     "is": "ofbeldi",
-    "it": "violenza"
+    "it": "la violenza"
   },
   {
     "en": "investment",
@@ -5548,7 +5548,7 @@
     "ja": "投資",
     "tr": "yatırım",
     "is": "fjárfesting",
-    "it": "investimento"
+    "it": "l'investimento"
   },
   {
     "en": "discussion",
@@ -5561,7 +5561,7 @@
     "ja": "討論",
     "tr": "tartışma",
     "is": "umræðu",
-    "it": "discussione"
+    "it": "la discussione"
   },
   {
     "en": "finger",
@@ -5574,7 +5574,7 @@
     "ja": "指",
     "tr": "parmak",
     "is": "fingur",
-    "it": "dito"
+    "it": "il dito"
   },
   {
     "en": "garden",
@@ -5587,7 +5587,7 @@
     "ja": "庭園",
     "tr": "Bahçe",
     "is": "garður",
-    "it": "giardino"
+    "it": "il giardino"
   },
   {
     "en": "collection",
@@ -5600,7 +5600,7 @@
     "ja": "コレクション",
     "tr": "Toplamak",
     "is": "safn",
-    "it": "collezione"
+    "it": "la collezione"
   },
   {
     "en": "task",
@@ -5613,7 +5613,7 @@
     "ja": "仕事",
     "tr": "görev",
     "is": "verkefni",
-    "it": "compito"
+    "it": "l'obiettivo"
   },
   {
     "en": "partner",
@@ -5626,7 +5626,7 @@
     "ja": "パートナー",
     "tr": "ortak",
     "is": "samstarfsaðili",
-    "it": "compagno"
+    "it": "il partner"
   },
   {
     "en": "kitchen",
@@ -5639,7 +5639,7 @@
     "ja": "キッチン",
     "tr": "mutfak",
     "is": "eldhús",
-    "it": "cucina"
+    "it": "la cucina"
   },
   {
     "en": "consumer",
@@ -5652,7 +5652,7 @@
     "ja": "消費者",
     "tr": "tüketici",
     "is": "neytandi",
-    "it": "consumatore"
+    "it": "il consumatore"
   },
   {
     "en": "shot",
@@ -5665,7 +5665,7 @@
     "ja": "ショット",
     "tr": "atış",
     "is": "skot",
-    "it": "tiro"
+    "it": "lo sparo"
   },
   {
     "en": "budget",
@@ -5678,7 +5678,7 @@
     "ja": "予算",
     "tr": "bütçe",
     "is": "fjárhagsáætlun",
-    "it": "bilancio"
+    "it": "il budget"
   },
   {
     "en": "painting",
@@ -5691,7 +5691,7 @@
     "ja": "ペインティング",
     "tr": "boyama",
     "is": "málverk",
-    "it": "la pittura"
+    "it": "il dipinto"
   },
   {
     "en": "scientist",
@@ -5704,7 +5704,7 @@
     "ja": "科学者",
     "tr": "Bilim insanı",
     "is": "vísindamaður",
-    "it": "scienziato"
+    "it": "Lo scienziato"
   },
   {
     "en": "agreement",
@@ -5717,7 +5717,7 @@
     "ja": "契約",
     "tr": "anlaşma",
     "is": "samningur",
-    "it": "accordo"
+    "it": "l'accordo"
   },
   {
     "en": "capital",
@@ -5730,7 +5730,7 @@
     "ja": "資本",
     "tr": "Başkent",
     "is": "höfuðborg",
-    "it": "capitale"
+    "it": "la capitale"
   },
   {
     "en": "mouth",
@@ -5743,7 +5743,7 @@
     "ja": "口",
     "tr": "ağız",
     "is": "munni",
-    "it": "bocca"
+    "it": "la bocca"
   },
   {
     "en": "victim",
@@ -5756,7 +5756,7 @@
     "ja": "犠牲者",
     "tr": "kurban",
     "is": "fórnarlamb",
-    "it": "vittima"
+    "it": "la vittima"
   },
   {
     "en": "newspaper",
@@ -5769,7 +5769,7 @@
     "ja": "新聞",
     "tr": "gazete",
     "is": "dagblað",
-    "it": "giornale"
+    "it": "il giornale"
   },
   {
     "en": "threat",
@@ -5782,7 +5782,7 @@
     "ja": "脅威",
     "tr": "tehdit",
     "is": "ógn",
-    "it": "minaccia"
+    "it": "la minaccia"
   },
   {
     "en": "responsibility",
@@ -5795,7 +5795,7 @@
     "ja": "責任",
     "tr": "sorumluluk",
     "is": "ábyrgð",
-    "it": "responsabilità"
+    "it": "la responsabilità"
   },
   {
     "en": "attorney",
@@ -5808,7 +5808,7 @@
     "ja": "弁護士",
     "tr": "avukat",
     "is": "lögfræðingur",
-    "it": "procuratore"
+    "it": "il procuratore"
   },
   {
     "en": "score",
@@ -5821,7 +5821,7 @@
     "ja": "スコア",
     "tr": "Gol",
     "is": "mark",
-    "it": "Punto"
+    "it": "il punteggio"
   },
   {
     "en": "account",
@@ -5834,7 +5834,7 @@
     "ja": "アカウント",
     "tr": "hesap",
     "is": "reikningur",
-    "it": "account"
+    "it": "l'account"
   },
   {
     "en": "break",
@@ -5847,7 +5847,7 @@
     "ja": "ブレーク",
     "tr": "mola",
     "is": "brjóta",
-    "it": "rompere"
+    "it": "la pausa"
   },
   {
     "en": "audience",
@@ -5860,7 +5860,7 @@
     "ja": "聴衆",
     "tr": "seyirci",
     "is": "áhorfendur",
-    "it": "pubblico"
+    "it": "il pubblico"
   },
   {
     "en": "dinner",
@@ -5873,7 +5873,7 @@
     "ja": "ディナー",
     "tr": "akşam yemegi",
     "is": "kvöldmatur",
-    "it": "cena"
+    "it": "la cena"
   },
   {
     "en": "vote",
@@ -5886,7 +5886,7 @@
     "ja": "投票",
     "tr": "oy",
     "is": "atkvæði",
-    "it": "votazione"
+    "it": "il voto"
   },
   {
     "en": "debate",
@@ -5899,7 +5899,7 @@
     "ja": "ディベート",
     "tr": "tartışma",
     "is": "umræðu",
-    "it": "discussione"
+    "it": "il dibattito"
   },
   {
     "en": "citizen",
@@ -5912,7 +5912,7 @@
     "ja": "市民",
     "tr": "vatandaş",
     "is": "ríkisborgari",
-    "it": "cittadino"
+    "it": "il cittadino"
   },
   {
     "en": "majority",
@@ -5925,7 +5925,7 @@
     "ja": "多数",
     "tr": "çoğunluk",
     "is": "Meirihluti",
-    "it": "maggioranza"
+    "it": "la maggioranza"
   },
   {
     "en": "wind",
@@ -5938,7 +5938,7 @@
     "ja": "風",
     "tr": "rüzgar",
     "is": "vindur",
-    "it": "vento"
+    "it": "il vento"
   },
   {
     "en": "mission",
@@ -5951,7 +5951,7 @@
     "ja": "ミッション",
     "tr": "misyon",
     "is": "verkefni",
-    "it": "missione"
+    "it": "la missione"
   },
   {
     "en": "customer",
@@ -5964,7 +5964,7 @@
     "ja": "顧客",
     "tr": "müşteri",
     "is": "viðskiptavinur",
-    "it": "cliente"
+    "it": "il cliente"
   },
   {
     "en": "speech",
@@ -5977,7 +5977,7 @@
     "ja": "スピーチ",
     "tr": "konuşma",
     "is": "ræðu",
-    "it": "discorso"
+    "it": "il discorso"
   },
   {
     "en": "option",
@@ -5990,7 +5990,7 @@
     "ja": "オプション",
     "tr": "seçenek",
     "is": "valkostur",
-    "it": "opzione"
+    "it": "l'opzione"
   },
   {
     "en": "participant",
@@ -6003,7 +6003,7 @@
     "ja": "参加者",
     "tr": "katılımcı",
     "is": "þátttakandi",
-    "it": "partecipante"
+    "it": "il partecipante"
   },
   {
     "en": "forest",
@@ -6016,7 +6016,7 @@
     "ja": "森林",
     "tr": "orman",
     "is": "skógur",
-    "it": "foresta"
+    "it": "la foresta"
   },
   {
     "en": "video",
@@ -6029,7 +6029,7 @@
     "ja": "ビデオ",
     "tr": "video",
     "is": "myndband",
-    "it": "video"
+    "it": "il video"
   },
   {
     "en": "access",
@@ -6042,7 +6042,7 @@
     "ja": "アクセス",
     "tr": "erişim",
     "is": "aðgang",
-    "it": "accesso"
+    "it": "l'accesso"
   },
   {
     "en": "restaurant",
@@ -6055,7 +6055,7 @@
     "ja": "レストラン",
     "tr": "restoran",
     "is": "veitingastaður",
-    "it": "ristorante"
+    "it": "il ristorante"
   },
   {
     "en": "judge",
@@ -6068,7 +6068,7 @@
     "ja": "裁判官",
     "tr": "hakim",
     "is": "dómari",
-    "it": "giudice"
+    "it": "il giudice"
   },
   {
     "en": "relation",
@@ -6081,7 +6081,7 @@
     "ja": "関係",
     "tr": "ilişki",
     "is": "samband",
-    "it": "relazione"
+    "it": "la relazione"
   },
   {
     "en": "bird",
@@ -6094,7 +6094,7 @@
     "ja": "鳥",
     "tr": "kuş",
     "is": "fugl",
-    "it": "uccello"
+    "it": "l'uccello"
   },
   {
     "en": "opinion",
@@ -6107,7 +6107,7 @@
     "ja": "意見",
     "tr": "görüş",
     "is": "skoðun",
-    "it": "opinione"
+    "it": "l'opinione"
   },
   {
     "en": "credit",
@@ -6120,7 +6120,7 @@
     "ja": "クレジット",
     "tr": "kredi",
     "is": "lánsfé",
-    "it": "credito"
+    "it": "il credito"
   },
   {
     "en": "corner",
@@ -6133,7 +6133,7 @@
     "ja": "コーナー",
     "tr": "köşe",
     "is": "horn",
-    "it": "angolo"
+    "it": "l'angolo"
   },
   {
     "en": "version",
@@ -6146,7 +6146,7 @@
     "ja": "バージョン",
     "tr": "versiyon",
     "is": "útgáfa",
-    "it": "versione"
+    "it": "la versione"
   },
   {
     "en": "safety",
@@ -6159,7 +6159,7 @@
     "ja": "安全性",
     "tr": "Emniyet",
     "is": "öryggi",
-    "it": "sicurezza"
+    "it": "la sicurezza"
   },
   {
     "en": "neighborhood",
@@ -6172,7 +6172,7 @@
     "ja": "ご近所",
     "tr": "Komşuluk",
     "is": "hverfinu",
-    "it": "Quartiere"
+    "it": "il vicinato"
   },
   {
     "en": "act",
@@ -6185,7 +6185,7 @@
     "ja": "行為",
     "tr": "davranmak",
     "is": "athöfn",
-    "it": "atto"
+    "it": "l'atto"
   },
   {
     "en": "troop",
@@ -6198,7 +6198,7 @@
     "ja": "部隊",
     "tr": "birlik",
     "is": "herlið",
-    "it": "truppe"
+    "it": "la truppa"
   },
   {
     "en": "income",
@@ -6211,7 +6211,7 @@
     "ja": "所得",
     "tr": "Gelir",
     "is": "tekjur",
-    "it": "reddito"
+    "it": "Il reddito"
   },
   {
     "en": "species",
@@ -6224,7 +6224,7 @@
     "ja": "種",
     "tr": "Türler",
     "is": "tegundir",
-    "it": "specie"
+    "it": "le specie"
   },
   {
     "en": "track",
@@ -6237,7 +6237,7 @@
     "ja": "トラック",
     "tr": "Izlemek",
     "is": "fylgjast með",
-    "it": "traccia"
+    "it": "la traccia"
   },
   {
     "en": "hope",
@@ -6250,7 +6250,7 @@
     "ja": "希望",
     "tr": "umut",
     "is": "von",
-    "it": "speranza"
+    "it": "la speranza"
   },
   {
     "en": "sky",
@@ -6263,7 +6263,7 @@
     "ja": "空",
     "tr": "gökyüzü",
     "is": "himinn",
-    "it": "cielo"
+    "it": "il cielo"
   },
   {
     "en": "freedom",
@@ -6289,7 +6289,7 @@
     "ja": "飛行機",
     "tr": "uçak",
     "is": "flugvél",
-    "it": "aereo"
+    "it": "l'aereo"
   },
   {
     "en": "object",
@@ -6302,7 +6302,7 @@
     "ja": "オブジェクト",
     "tr": "nesne",
     "is": "mótmæla",
-    "it": "oggetto"
+    "it": "l'oggetto"
   },
   {
     "en": "attitude",
@@ -6315,7 +6315,7 @@
     "ja": "姿勢",
     "tr": "tutum",
     "is": "viðhorf",
-    "it": "atteggiamento"
+    "it": "l'attitudine"
   },
   {
     "en": "labor",
@@ -6328,7 +6328,7 @@
     "ja": "労働",
     "tr": "emek",
     "is": "vinnuafl",
-    "it": "lavoro"
+    "it": "il lavoro"
   },
   {
     "en": "concept",
@@ -6341,7 +6341,7 @@
     "ja": "概念",
     "tr": "kavram",
     "is": "hugtak",
-    "it": "concetto"
+    "it": "il concetto"
   },
   {
     "en": "client",
@@ -6354,7 +6354,7 @@
     "ja": "クライアント",
     "tr": "müşteri",
     "is": "viðskiptavinur",
-    "it": "cliente"
+    "it": "il cliente"
   },
   {
     "en": "conversation",
@@ -6367,7 +6367,7 @@
     "ja": "会話",
     "tr": "konuşma",
     "is": "samtal",
-    "it": "conversazione"
+    "it": "la conversazione"
   },
   {
     "en": "variety",
@@ -6380,7 +6380,7 @@
     "ja": "品種",
     "tr": "Çeşitlilik",
     "is": "fjölbreytni",
-    "it": "varietà"
+    "it": "la varietà"
   },
   {
     "en": "turn",
@@ -6393,7 +6393,7 @@
     "ja": "順番",
     "tr": "dönüş",
     "is": "snúa",
-    "it": "turno"
+    "it": "la svolta"
   },
   {
     "en": "investigation",
@@ -6406,7 +6406,7 @@
     "ja": "調査",
     "tr": "soruşturma",
     "is": "rannsókn",
-    "it": "indagine"
+    "it": "l'investigazione"
   },
   {
     "en": "researcher",
@@ -6419,7 +6419,7 @@
     "ja": "研究者",
     "tr": "araştırmacı",
     "is": "rannsóknir",
-    "it": "ricercatore"
+    "it": "il ricercatore"
   },
   {
     "en": "press",
@@ -6432,7 +6432,7 @@
     "ja": "押す",
     "tr": "basın",
     "is": "ýttu á",
-    "it": "stampa"
+    "it": "la stampa"
   },
   {
     "en": "conflict",
@@ -6445,7 +6445,7 @@
     "ja": "紛争",
     "tr": "fikir ayrılığı",
     "is": "átök",
-    "it": "conflitto"
+    "it": "il conflitto"
   },
   {
     "en": "spirit",
@@ -6458,7 +6458,7 @@
     "ja": "精神",
     "tr": "ruh",
     "is": "andi",
-    "it": "spirito"
+    "it": "lo spirito"
   },
   {
     "en": "argument",
@@ -6471,7 +6471,7 @@
     "ja": "引数",
     "tr": "tartışma",
     "is": "rök",
-    "it": "discussione"
+    "it": "l'argomento"
   },
   {
     "en": "camp",
@@ -6484,7 +6484,7 @@
     "ja": "キャンプ",
     "tr": "kamp",
     "is": "Tjaldvagnar",
-    "it": "campo"
+    "it": "il campo"
   },
   {
     "en": "brain",
@@ -6497,7 +6497,7 @@
     "ja": "脳",
     "tr": "beyin",
     "is": "heila",
-    "it": "cervello"
+    "it": "il cervello"
   },
   {
     "en": "feature",
@@ -6510,7 +6510,7 @@
     "ja": "特徴",
     "tr": "özellik",
     "is": "lögun",
-    "it": "caratteristica"
+    "it": "la caratteristica"
   },
   {
     "en": "afternoon",
@@ -6523,7 +6523,7 @@
     "ja": "午後",
     "tr": "öğleden sonra",
     "is": "síðdegis",
-    "it": "pomeriggio"
+    "it": "il pomeriggio"
   },
   {
     "en": "weekend",
@@ -6536,7 +6536,7 @@
     "ja": "週末",
     "tr": "hafta sonu",
     "is": "helgi",
-    "it": "fine settimana"
+    "it": "il fine settimana"
   },
   {
     "en": "possibility",
@@ -6549,7 +6549,7 @@
     "ja": "可能性",
     "tr": "olasılık",
     "is": "möguleiki",
-    "it": "possibilità"
+    "it": "la possibilità"
   },
   {
     "en": "insurance",
@@ -6562,7 +6562,7 @@
     "ja": "保険",
     "tr": "sigorta",
     "is": "tryggingar",
-    "it": "assicurazione"
+    "it": "L'assicurazione"
   },
   {
     "en": "department",
@@ -6575,7 +6575,7 @@
     "ja": "部門",
     "tr": "Bölüm",
     "is": "deild",
-    "it": "Dipartimento"
+    "it": "il Dipartimento"
   },
   {
     "en": "battle",
@@ -6588,7 +6588,7 @@
     "ja": "戦い",
     "tr": "savaş",
     "is": "bardaga",
-    "it": "battaglia"
+    "it": "la battaglia"
   },
   {
     "en": "beginning",
@@ -6601,7 +6601,7 @@
     "ja": "始まり",
     "tr": "başlangıç",
     "is": "byrjun",
-    "it": "inizio"
+    "it": "l'inizio"
   },
   {
     "en": "date",
@@ -6614,7 +6614,7 @@
     "ja": "日付",
     "tr": "tarih",
     "is": "dagsetning",
-    "it": "Data"
+    "it": "l'appuntamento"
   },
   {
     "en": "crisis",
@@ -6627,7 +6627,7 @@
     "ja": "危機",
     "tr": "kriz",
     "is": "kreppu",
-    "it": "crisi"
+    "it": "la crisi"
   },
   {
     "en": "fan",
@@ -6640,7 +6640,7 @@
     "ja": "ファン",
     "tr": "yelpaze",
     "is": "aðdáandi",
-    "it": "fan"
+    "it": "il fan"
   },
   {
     "en": "hole",
@@ -6653,7 +6653,7 @@
     "ja": "穴",
     "tr": "delik",
     "is": "holu",
-    "it": "buco"
+    "it": "il buco"
   },
   {
     "en": "element",
@@ -6666,7 +6666,7 @@
     "ja": "素子",
     "tr": "eleman",
     "is": "þáttur",
-    "it": "elemento"
+    "it": "l'elemento"
   },
   {
     "en": "vision",
@@ -6679,7 +6679,7 @@
     "ja": "ビジョン",
     "tr": "vizyon",
     "is": "sýn",
-    "it": "visione"
+    "it": "la visione"
   },
   {
     "en": "status",
@@ -6692,7 +6692,7 @@
     "ja": "状態",
     "tr": "durum",
     "is": "stöðu",
-    "it": "stato"
+    "it": "lo stato"
   },
   {
     "en": "ship",
@@ -6705,7 +6705,7 @@
     "ja": "船",
     "tr": "gemi",
     "is": "skip",
-    "it": "nave"
+    "it": "la nave"
   },
   {
     "en": "solution",
@@ -6718,7 +6718,7 @@
     "ja": "溶液",
     "tr": "çözüm",
     "is": "lausn",
-    "it": "soluzione"
+    "it": "la soluzione"
   },
   {
     "en": "stone",
@@ -6731,7 +6731,7 @@
     "ja": "石",
     "tr": "taş",
     "is": "steinn",
-    "it": "pietra"
+    "it": "la pietra"
   },
   {
     "en": "scale",
@@ -6744,7 +6744,7 @@
     "ja": "規模",
     "tr": "ölçek",
     "is": "mælikvarða",
-    "it": "scala"
+    "it": "la scala"
   },
   {
     "en": "university",
@@ -6757,7 +6757,7 @@
     "ja": "大学",
     "tr": "Üniversite",
     "is": "háskóli",
-    "it": "Università"
+    "it": "l'Università"
   },
   {
     "en": "driver",
@@ -6770,7 +6770,7 @@
     "ja": "ドライバ",
     "tr": "sürücü",
     "is": "ökumaður",
-    "it": "autista"
+    "it": "l'autista"
   },
   {
     "en": "attempt",
@@ -6783,7 +6783,7 @@
     "ja": "試みる",
     "tr": "girişim",
     "is": "tilraun",
-    "it": "tentativo"
+    "it": "il tentativo"
   },
   {
     "en": "park",
@@ -6796,7 +6796,7 @@
     "ja": "パーク",
     "tr": "park",
     "is": "garður",
-    "it": "parco"
+    "it": "il parco"
   },
   {
     "en": "spot",
@@ -6809,7 +6809,7 @@
     "ja": "スポット",
     "tr": "yer",
     "is": "blettur",
-    "it": "individuare"
+    "it": "il punto"
   },
   {
     "en": "lack",
@@ -6822,7 +6822,7 @@
     "ja": "欠如",
     "tr": "eksiklik",
     "is": "skortur",
-    "it": "mancanza"
+    "it": "la mancanza"
   },
   {
     "en": "ice",
@@ -6835,7 +6835,7 @@
     "ja": "氷",
     "tr": "buz",
     "is": "ís",
-    "it": "ghiaccio"
+    "it": "il ghiaccio"
   },
   {
     "en": "boat",
@@ -6848,7 +6848,7 @@
     "ja": "ボート",
     "tr": "tekne",
     "is": "bátur",
-    "it": "barca"
+    "it": "la barca"
   },
   {
     "en": "sun",
@@ -6861,7 +6861,7 @@
     "ja": "太陽",
     "tr": "Güneş",
     "is": "sól",
-    "it": "sole"
+    "it": "il Sole"
   },
   {
     "en": "distance",
@@ -6874,7 +6874,7 @@
     "ja": "距離",
     "tr": "mesafe",
     "is": "fjarlægð",
-    "it": "distanza"
+    "it": "la distanza"
   },
   {
     "en": "wood",
@@ -6887,7 +6887,7 @@
     "ja": "木材",
     "tr": "ahşap",
     "is": "tré",
-    "it": "legna"
+    "it": "il legno"
   },
   {
     "en": "truck",
@@ -6900,7 +6900,7 @@
     "ja": "トラック",
     "tr": "kamyon",
     "is": "vörubíll",
-    "it": "camion"
+    "it": "il camion"
   },
   {
     "en": "return",
@@ -6913,7 +6913,7 @@
     "ja": "リターン",
     "tr": "dönüş",
     "is": "aftur",
-    "it": "ritorno"
+    "it": "il ritorno"
   },
   {
     "en": "mountain",
@@ -6926,7 +6926,7 @@
     "ja": "山",
     "tr": "dağ",
     "is": "fjall",
-    "it": "montagna"
+    "it": "la montagna"
   },
   {
     "en": "survey",
@@ -6939,7 +6939,7 @@
     "ja": "調査",
     "tr": "anket",
     "is": "könnun",
-    "it": "sondaggio"
+    "it": "il sondaggio"
   },
   {
     "en": "tradition",
@@ -6952,7 +6952,7 @@
     "ja": "伝統",
     "tr": "gelenek",
     "is": "hefð",
-    "it": "tradizione"
+    "it": "la tradizione"
   },
   {
     "en": "winter",
@@ -6978,7 +6978,7 @@
     "ja": "村",
     "tr": "köy",
     "is": "þorp",
-    "it": "villaggio"
+    "it": "il villaggio"
   },
   {
     "en": "sales",
@@ -6991,7 +6991,7 @@
     "ja": "販売",
     "tr": "satış",
     "is": "sölu",
-    "it": "i saldi"
+    "it": "I saldi"
   },
   {
     "en": "communication",
@@ -7004,7 +7004,7 @@
     "ja": "コミュニケーション",
     "tr": "iletişim",
     "is": "samskipti",
-    "it": "comunicazione"
+    "it": "la comunicazione"
   },
   {
     "en": "run",
@@ -7017,7 +7017,7 @@
     "ja": "走る",
     "tr": "koşmak",
     "is": "hlaupa",
-    "it": "correre"
+    "it": "la corsa"
   },
   {
     "en": "screen",
@@ -7030,7 +7030,7 @@
     "ja": "画面",
     "tr": "ekran",
     "is": "skjár",
-    "it": "schermo"
+    "it": "lo schermo"
   },
   {
     "en": "resident",
@@ -7043,7 +7043,7 @@
     "ja": "居住者",
     "tr": "oturan",
     "is": "heimilisfastur",
-    "it": "residente"
+    "it": "il residente"
   },
   {
     "en": "gold",
@@ -7056,7 +7056,7 @@
     "ja": "ゴールド",
     "tr": "altın",
     "is": "gull",
-    "it": "oro"
+    "it": "l'oro"
   },
   {
     "en": "club",
@@ -7069,7 +7069,7 @@
     "ja": "クラブ",
     "tr": "kulüp",
     "is": "klúbburinn",
-    "it": "club"
+    "it": "il club"
   },
   {
     "en": "farm",
@@ -7082,7 +7082,7 @@
     "ja": "ファーム",
     "tr": "Çiftlik",
     "is": "bænum",
-    "it": "azienda agricola"
+    "it": "la Fattoria"
   },
   {
     "en": "increase",
@@ -7095,7 +7095,7 @@
     "ja": "増加する",
     "tr": "artırmak",
     "is": "auka",
-    "it": "aumentare"
+    "it": "l'aumento"
   },
   {
     "en": "middle",
@@ -7108,7 +7108,7 @@
     "ja": "中間",
     "tr": "orta",
     "is": "miðjan",
-    "it": "mezzo"
+    "it": "la metà"
   },
   {
     "en": "presence",
@@ -7121,7 +7121,7 @@
     "ja": "存在",
     "tr": "varlık",
     "is": "viðveru",
-    "it": "presenza"
+    "it": "la presenza"
   },
   {
     "en": "district",
@@ -7134,7 +7134,7 @@
     "ja": "地区",
     "tr": "ilçe",
     "is": "Umdæmi",
-    "it": "quartiere"
+    "it": "il distretto"
   },
   {
     "en": "shape",
@@ -7147,7 +7147,7 @@
     "ja": "形状",
     "tr": "şekil",
     "is": "móta",
-    "it": "forma"
+    "it": "la forma"
   },
   {
     "en": "reader",
@@ -7160,7 +7160,7 @@
     "ja": "リーダー",
     "tr": "okuyucu",
     "is": "lesandi",
-    "it": "lettore"
+    "it": "il lettore"
   },
   {
     "en": "contract",
@@ -7173,7 +7173,7 @@
     "ja": "契約する",
     "tr": "sözleşme",
     "is": "samningur",
-    "it": "contrarre"
+    "it": "il contratto"
   },
   {
     "en": "crowd",
@@ -7186,7 +7186,7 @@
     "ja": "群集",
     "tr": "kalabalık",
     "is": "mannfjöldi",
-    "it": "folla"
+    "it": "la folla"
   },
   {
     "en": "apartment",
@@ -7199,7 +7199,7 @@
     "ja": "アパート",
     "tr": "apartman",
     "is": "íbúð",
-    "it": "appartamento"
+    "it": "l'appartamento"
   },
   {
     "en": "strength",
@@ -7212,7 +7212,7 @@
     "ja": "力",
     "tr": "kuvvet",
     "is": "styrkur",
-    "it": "forza"
+    "it": "la forza"
   },
   {
     "en": "band",
@@ -7225,7 +7225,7 @@
     "ja": "バンド",
     "tr": "grup",
     "is": "hljómsveit",
-    "it": "gruppo musicale"
+    "it": "la banda"
   },
   {
     "en": "horse",
@@ -7238,7 +7238,7 @@
     "ja": "うま",
     "tr": "at",
     "is": "hestur",
-    "it": "cavallo"
+    "it": "il cavallo"
   },
   {
     "en": "target",
@@ -7251,7 +7251,7 @@
     "ja": "ターゲット",
     "tr": "hedef",
     "is": "skotmark",
-    "it": "bersaglio"
+    "it": "il bersaglio"
   },
   {
     "en": "prison",
@@ -7264,7 +7264,7 @@
     "ja": "刑務所",
     "tr": "hapis",
     "is": "fangelsi",
-    "it": "prigione"
+    "it": "la prigione"
   },
   {
     "en": "guard",
@@ -7277,7 +7277,7 @@
     "ja": "ガード",
     "tr": "bekçi",
     "is": "vörður",
-    "it": "guardia"
+    "it": "la guardia"
   },
   {
     "en": "demand",
@@ -7290,7 +7290,7 @@
     "ja": "デマンド",
     "tr": "talep",
     "is": "eftirspurn",
-    "it": "richiesta"
+    "it": "la richiesta"
   },
   {
     "en": "reporter",
@@ -7303,7 +7303,7 @@
     "ja": "レポーター",
     "tr": "muhabir",
     "is": "blaðamaður",
-    "it": "reporter"
+    "it": "il giornalista"
   },
   {
     "en": "text",
@@ -7316,7 +7316,7 @@
     "ja": "テキスト",
     "tr": "Metin",
     "is": "texti",
-    "it": "testo"
+    "it": "il testo"
   },
   {
     "en": "share",
@@ -7329,7 +7329,7 @@
     "ja": "シェア",
     "tr": "pay",
     "is": "deila",
-    "it": "Condividere"
+    "it": "la condivisione"
   },
   {
     "en": "tool",
@@ -7342,7 +7342,7 @@
     "ja": "ツール",
     "tr": "araç",
     "is": "tól",
-    "it": "strumento"
+    "it": "lo strumento"
   },
   {
     "en": "vehicle",
@@ -7355,7 +7355,7 @@
     "ja": "車両",
     "tr": "araç",
     "is": "ökutæki",
-    "it": "veicolo"
+    "it": "il veicolo"
   },
   {
     "en": "flight",
@@ -7368,7 +7368,7 @@
     "ja": "フライト",
     "tr": "uçuş",
     "is": "flug",
-    "it": "volo"
+    "it": "il volo"
   },
   {
     "en": "facility",
@@ -7381,7 +7381,7 @@
     "ja": "施設",
     "tr": "tesis",
     "is": "leikni",
-    "it": "servizio, struttura"
+    "it": "la struttura"
   },
   {
     "en": "understanding",
@@ -7394,7 +7394,7 @@
     "ja": "理解",
     "tr": "anlayış",
     "is": "skilningur",
-    "it": "comprensione"
+    "it": "La comprensione"
   },
   {
     "en": "advantage",
@@ -7407,7 +7407,7 @@
     "ja": "利点",
     "tr": "avantaj",
     "is": "kostur",
-    "it": "vantaggio"
+    "it": "il vantaggio"
   },
   {
     "en": "leadership",
@@ -7420,7 +7420,7 @@
     "ja": "リーダーシップ",
     "tr": "liderlik",
     "is": "forystu",
-    "it": "comando"
+    "it": "la leadership"
   },
   {
     "en": "pound",
@@ -7433,7 +7433,7 @@
     "ja": "ポンド",
     "tr": "pound",
     "is": "pund",
-    "it": "libbra"
+    "it": "la sterlina"
   },
   {
     "en": "basis",
@@ -7446,7 +7446,7 @@
     "ja": "基礎",
     "tr": "temel",
     "is": "grundvöllur",
-    "it": "base"
+    "it": "la base"
   },
   {
     "en": "guest",
@@ -7459,7 +7459,7 @@
     "ja": "ゲスト",
     "tr": "konuk",
     "is": "gestur",
-    "it": "ospite"
+    "it": "l'ospite"
   },
   {
     "en": "sample",
@@ -7472,7 +7472,7 @@
     "ja": "サンプル",
     "tr": "Numune",
     "is": "sýnishorn",
-    "it": "campione"
+    "it": "il campione"
   },
   {
     "en": "block",
@@ -7485,7 +7485,7 @@
     "ja": "ブロック",
     "tr": "blok",
     "is": "blokk",
-    "it": "bloccare"
+    "it": "il blocco"
   },
   {
     "en": "protection",
@@ -7498,7 +7498,7 @@
     "ja": "保護",
     "tr": "koruma",
     "is": "vernd",
-    "it": "protezione"
+    "it": "la protezione"
   },
   {
     "en": "while",
@@ -7511,7 +7511,7 @@
     "ja": "while",
     "tr": "süre",
     "is": "meðan",
-    "it": "mentre"
+    "it": "nel frattempo"
   },
   {
     "en": "identity",
@@ -7524,7 +7524,7 @@
     "ja": "身元",
     "tr": "Kimlik",
     "is": "sjálfsmynd",
-    "it": "identità"
+    "it": "l'identità"
   },
   {
     "en": "title",
@@ -7537,7 +7537,7 @@
     "ja": "タイトル",
     "tr": "Başlık",
     "is": "titill",
-    "it": "titolo"
+    "it": "il titolo"
   },
   {
     "en": "lesson",
@@ -7550,7 +7550,7 @@
     "ja": "レッスン",
     "tr": "ders",
     "is": "lexía",
-    "it": "lezione"
+    "it": "la lezione"
   },
   {
     "en": "faith",
@@ -7563,7 +7563,7 @@
     "ja": "信仰",
     "tr": "inanç",
     "is": "trú",
-    "it": "fede"
+    "it": "la fede"
   },
   {
     "en": "river",
@@ -7576,7 +7576,7 @@
     "ja": "川",
     "tr": "nehir",
     "is": "áin",
-    "it": "fiume"
+    "it": "il fiume"
   },
   {
     "en": "living",
@@ -7589,7 +7589,7 @@
     "ja": "生活",
     "tr": "yaşam",
     "is": "lifandi",
-    "it": "vita"
+    "it": "il vivente"
   },
   {
     "en": "technique",
@@ -7602,7 +7602,7 @@
     "ja": "技術",
     "tr": "teknik",
     "is": "tækni",
-    "it": "tecnica"
+    "it": "la tecnica"
   },
   {
     "en": "path",
@@ -7615,7 +7615,7 @@
     "ja": "パス",
     "tr": "yol",
     "is": "leið",
-    "it": "sentiero"
+    "it": "il sentiero"
   },
   {
     "en": "ear",
@@ -7628,7 +7628,7 @@
     "ja": "耳",
     "tr": "kulak",
     "is": "eyra",
-    "it": "orecchio"
+    "it": "l'orecchio"
   },
   {
     "en": "shop",
@@ -7641,7 +7641,7 @@
     "ja": "ショップ",
     "tr": "Dükkan",
     "is": "verslun",
-    "it": "negozio"
+    "it": "il negozio"
   },
   {
     "en": "folk",
@@ -7654,7 +7654,7 @@
     "ja": "フォーク",
     "tr": "halk",
     "is": "fólk",
-    "it": "popolare"
+    "it": "la gente"
   },
   {
     "en": "principle",
@@ -7667,7 +7667,7 @@
     "ja": "原理",
     "tr": "prensip",
     "is": "meginreglan",
-    "it": "principio"
+    "it": "il principio"
   },
   {
     "en": "border",
@@ -7680,7 +7680,7 @@
     "ja": "境界",
     "tr": "sınır",
     "is": "landamæri",
-    "it": "confine"
+    "it": "il confine"
   },
   {
     "en": "competition",
@@ -7693,7 +7693,7 @@
     "ja": "コンペ",
     "tr": "yarışma",
     "is": "samkeppni",
-    "it": "concorrenza"
+    "it": "la competizione"
   },
   {
     "en": "claim",
@@ -7706,7 +7706,7 @@
     "ja": "請求",
     "tr": "İddia",
     "is": "krafa",
-    "it": "Richiesta"
+    "it": "il reclamo"
   },
   {
     "en": "equipment",
@@ -7719,7 +7719,7 @@
     "ja": "装置",
     "tr": "ekipman",
     "is": "búnaður",
-    "it": "attrezzatura"
+    "it": "l'equipaggiamento"
   },
   {
     "en": "critic",
@@ -7732,7 +7732,7 @@
     "ja": "評論家",
     "tr": "eleştirmen",
     "is": "gagnrýnandi",
-    "it": "critico"
+    "it": "il critico"
   },
   {
     "en": "aspect",
@@ -7745,7 +7745,7 @@
     "ja": "アスペクト",
     "tr": "Görünüş",
     "is": "þætti",
-    "it": "aspetto"
+    "it": "l'aspetto"
   },
   {
     "en": "failure",
@@ -7758,7 +7758,7 @@
     "ja": "失敗",
     "tr": "başarısızlık",
     "is": "bilun",
-    "it": "fallimento"
+    "it": "il fallimento"
   },
   {
     "en": "Christmas",
@@ -7771,7 +7771,7 @@
     "ja": "クリスマス",
     "tr": "Noel",
     "is": "Jól",
-    "it": "Natale"
+    "it": "il Natale"
   },
   {
     "en": "comment",
@@ -7784,7 +7784,7 @@
     "ja": "コメント",
     "tr": "yorum Yap",
     "is": "athugasemd",
-    "it": "commento"
+    "it": "il commento"
   },
   {
     "en": "affair",
@@ -7797,7 +7797,7 @@
     "ja": "事件",
     "tr": "mesele",
     "is": "mál",
-    "it": "affare"
+    "it": "la relazione"
   },
   {
     "en": "procedure",
@@ -7810,7 +7810,7 @@
     "ja": "手順",
     "tr": "prosedür",
     "is": "málsmeðferð",
-    "it": "procedura"
+    "it": "la procedura"
   },
   {
     "en": "chairman",
@@ -7823,7 +7823,7 @@
     "ja": "会長",
     "tr": "başkan",
     "is": "formaður",
-    "it": "presidente"
+    "it": "il presidente"
   },
   {
     "en": "baseball",
@@ -7836,7 +7836,7 @@
     "ja": "野球",
     "tr": "beyzbol",
     "is": "baseball",
-    "it": "baseball"
+    "it": "il baseball"
   },
   {
     "en": "egg",
@@ -7849,7 +7849,7 @@
     "ja": "卵",
     "tr": "Yumurta",
     "is": "egg",
-    "it": "uovo"
+    "it": "l'uovo"
   },
   {
     "en": "belief",
@@ -7862,7 +7862,7 @@
     "ja": "信念",
     "tr": "inanç",
     "is": "trú",
-    "it": "credenza"
+    "it": "la credenza"
   },
   {
     "en": "murder",
@@ -7875,7 +7875,7 @@
     "ja": "殺人",
     "tr": "cinayet",
     "is": "morð",
-    "it": "omicidio"
+    "it": "l'omicidio"
   },
   {
     "en": "gift",
@@ -7888,7 +7888,7 @@
     "ja": "贈り物",
     "tr": "hediye",
     "is": "gjöf",
-    "it": "regalo"
+    "it": "il regalo"
   },
   {
     "en": "religion",
@@ -7901,7 +7901,7 @@
     "ja": "宗教",
     "tr": "din",
     "is": "trúarbrögð",
-    "it": "religione"
+    "it": "la religione"
   },
   {
     "en": "review",
@@ -7914,7 +7914,7 @@
     "ja": "レビュー",
     "tr": "gözden geçirmek",
     "is": "endurskoðun",
-    "it": "revisione"
+    "it": "la recensione"
   },
   {
     "en": "editor",
@@ -7927,7 +7927,7 @@
     "ja": "編集者",
     "tr": "editör",
     "is": "ritstjóri",
-    "it": "editore"
+    "it": "l'editore"
   },
   {
     "en": "coffee",
@@ -7940,7 +7940,7 @@
     "ja": "コーヒー",
     "tr": "Kahve",
     "is": "kaffi",
-    "it": "caffè"
+    "it": "il caffè"
   },
   {
     "en": "document",
@@ -7953,7 +7953,7 @@
     "ja": "資料",
     "tr": "belge",
     "is": "skjal",
-    "it": "documento"
+    "it": "il documento"
   },
   {
     "en": "speed",
@@ -7966,7 +7966,7 @@
     "ja": "速度",
     "tr": "hız",
     "is": "hraði",
-    "it": "velocità"
+    "it": "la velocità"
   },
   {
     "en": "influence",
@@ -7979,7 +7979,7 @@
     "ja": "影響",
     "tr": "etki",
     "is": "áhrif",
-    "it": "influenza"
+    "it": "l'influenza"
   },
   {
     "en": "youth",
@@ -7992,7 +7992,7 @@
     "ja": "若者",
     "tr": "gençlik",
     "is": "æsku",
-    "it": "gioventù"
+    "it": "la gioventù"
   },
   {
     "en": "wave",
@@ -8005,7 +8005,7 @@
     "ja": "波",
     "tr": "dalga",
     "is": "bylgja",
-    "it": "onda"
+    "it": "l'onda"
   },
   {
     "en": "move",
@@ -8018,7 +8018,7 @@
     "ja": "動く",
     "tr": "hareket",
     "is": "færa",
-    "it": "mossa"
+    "it": "la mossa"
   },
   {
     "en": "quarter",
@@ -8031,7 +8031,7 @@
     "ja": "四半期",
     "tr": "çeyrek",
     "is": "fjórðungur",
-    "it": "trimestre"
+    "it": "il quartiere"
   },
   {
     "en": "background",
@@ -8044,7 +8044,7 @@
     "ja": "バックグラウンド",
     "tr": "arka fon",
     "is": "bakgrunnur",
-    "it": "sfondo"
+    "it": "lo sfondo"
   },
   {
     "en": "reaction",
@@ -8057,7 +8057,7 @@
     "ja": "反応",
     "tr": "reaksiyon",
     "is": "viðbrögð",
-    "it": "reazione"
+    "it": "la reazione"
   },
   {
     "en": "suit",
@@ -8070,7 +8070,7 @@
     "ja": "スーツ",
     "tr": "takım elbise",
     "is": "jakkaföt",
-    "it": "completo da uomo"
+    "it": "l'abito"
   },
   {
     "en": "perspective",
@@ -8083,7 +8083,7 @@
     "ja": "視点",
     "tr": "perspektif",
     "is": "sjónarhorn",
-    "it": "prospettiva"
+    "it": "la prospettiva"
   },
   {
     "en": "construction",
@@ -8096,7 +8096,7 @@
     "ja": "建設",
     "tr": "inşaat",
     "is": "byggingu",
-    "it": "costruzione"
+    "it": "la costruzione"
   },
   {
     "en": "intelligence",
@@ -8109,7 +8109,7 @@
     "ja": "インテリジェンス",
     "tr": "zeka",
     "is": "upplýsingaöflun",
-    "it": "intelligenza"
+    "it": "l'intelligenza"
   },
   {
     "en": "connection",
@@ -8122,7 +8122,7 @@
     "ja": "接続",
     "tr": "bağ",
     "is": "Tenging",
-    "it": "connessione"
+    "it": "la connessione"
   },
   {
     "en": "shoe",
@@ -8135,7 +8135,7 @@
     "ja": "靴",
     "tr": "ayakkabı",
     "is": "skór",
-    "it": "scarpa"
+    "it": "la scarpa"
   },
   {
     "en": "grade",
@@ -8148,7 +8148,7 @@
     "ja": "グレード",
     "tr": "sınıf",
     "is": "bekk",
-    "it": "grado"
+    "it": "il voto"
   },
   {
     "en": "context",
@@ -8161,7 +8161,7 @@
     "ja": "コンテキスト",
     "tr": "bağlam",
     "is": "samhengi",
-    "it": "contesto"
+    "it": "il contesto"
   },
   {
     "en": "committee",
@@ -8174,7 +8174,7 @@
     "ja": "委員会",
     "tr": "Kurul",
     "is": "nefndin",
-    "it": "Comitato"
+    "it": "il Comitato"
   },
   {
     "en": "mistake",
@@ -8187,7 +8187,7 @@
     "ja": "間違い",
     "tr": "hata",
     "is": "mistök",
-    "it": "sbaglio"
+    "it": "l'errore"
   },
   {
     "en": "focus",
@@ -8200,7 +8200,7 @@
     "ja": "フォーカス",
     "tr": "odak",
     "is": "áhersla",
-    "it": "messa a fuoco"
+    "it": "l'attenzione"
   },
   {
     "en": "smile",
@@ -8213,7 +8213,7 @@
     "ja": "スマイル",
     "tr": "gülümseme",
     "is": "bros",
-    "it": "Sorriso"
+    "it": "il sorriso"
   },
   {
     "en": "location",
@@ -8226,7 +8226,7 @@
     "ja": "ロケーション",
     "tr": "yer",
     "is": "staðsetning",
-    "it": "Posizione"
+    "it": "la posizione"
   },
   {
     "en": "clothes",
@@ -8239,7 +8239,7 @@
     "ja": "服",
     "tr": "çamaşırlar",
     "is": "föt",
-    "it": "Abiti"
+    "it": "i vestiti"
   },
   {
     "en": "neighbor",
@@ -8252,7 +8252,7 @@
     "ja": "隣人",
     "tr": "komşu",
     "is": "nágranni",
-    "it": "vicino"
+    "it": "il vicino"
   },
   {
     "en": "drive",
@@ -8265,7 +8265,7 @@
     "ja": "ドライブ",
     "tr": "sürücü",
     "is": "keyra",
-    "it": "guidare"
+    "it": "la guida"
   },
   {
     "en": "function",
@@ -8278,7 +8278,7 @@
     "ja": "関数",
     "tr": "fonksiyon",
     "is": "virka",
-    "it": "funzione"
+    "it": "la funzione"
   },
   {
     "en": "bone",
@@ -8291,7 +8291,7 @@
     "ja": "骨",
     "tr": "kemik",
     "is": "bein",
-    "it": "osso"
+    "it": "l'osso"
   },
   {
     "en": "average",
@@ -8304,7 +8304,7 @@
     "ja": "平均",
     "tr": "ortalama",
     "is": "meðaltal",
-    "it": "media"
+    "it": "la media"
   },
   {
     "en": "wine",
@@ -8317,7 +8317,7 @@
     "ja": "ワイン",
     "tr": "şarap",
     "is": "vín",
-    "it": "vino"
+    "it": "il vino"
   },
   {
     "en": "voter",
@@ -8330,7 +8330,7 @@
     "ja": "有権者",
     "tr": "seçmen",
     "is": "kjósandi",
-    "it": "elettore"
+    "it": "l'elettore"
   },
   {
     "en": "mean",
@@ -8343,7 +8343,7 @@
     "ja": "平均",
     "tr": "anlamına gelmek",
     "is": "vondur",
-    "it": "significare"
+    "it": "il mezzo"
   },
   {
     "en": "learning",
@@ -8356,7 +8356,7 @@
     "ja": "学習",
     "tr": "öğrenme",
     "is": "læra",
-    "it": "apprendimento"
+    "it": "l'apprendimento"
   },
   {
     "en": "bus",
@@ -8369,7 +8369,7 @@
     "ja": "バス",
     "tr": "otobüs",
     "is": "rútu",
-    "it": "autobus"
+    "it": "il bus"
   },
   {
     "en": "hell",
@@ -8382,7 +8382,7 @@
     "ja": "地獄",
     "tr": "cehennem",
     "is": "helvíti",
-    "it": "inferno"
+    "it": "l'inferno"
   },
   {
     "en": "category",
@@ -8395,7 +8395,7 @@
     "ja": "カテゴリー",
     "tr": "kategori",
     "is": "flokki",
-    "it": "categoria"
+    "it": "la categoria"
   },
   {
     "en": "victory",
@@ -8408,7 +8408,7 @@
     "ja": "勝利",
     "tr": "zafer",
     "is": "sigur",
-    "it": "vittoria"
+    "it": "la vittoria"
   },
   {
     "en": "key",
@@ -8421,7 +8421,7 @@
     "ja": "キー",
     "tr": "anahtar",
     "is": "lykillinn",
-    "it": "chiave"
+    "it": "il tasto"
   },
   {
     "en": "visit",
@@ -8434,7 +8434,7 @@
     "ja": "訪問",
     "tr": "ziyaret etmek",
     "is": "heimsækja",
-    "it": "visita"
+    "it": "la visita"
   },
   {
     "en": "Internet",
@@ -8447,7 +8447,7 @@
     "ja": "インターネット",
     "tr": "Internet",
     "is": "Internet",
-    "it": "Internet"
+    "it": "la rete"
   },
   {
     "en": "medicine",
@@ -8460,7 +8460,7 @@
     "ja": "医学",
     "tr": "tıp",
     "is": "lyf",
-    "it": "medicina"
+    "it": "la medicina"
   },
   {
     "en": "tour",
@@ -8473,7 +8473,7 @@
     "ja": "ツアー",
     "tr": "tur",
     "is": "ferð",
-    "it": "giro"
+    "it": "il tour"
   },
   {
     "en": "photo",
@@ -8486,7 +8486,7 @@
     "ja": "写真",
     "tr": "Fotoğraf",
     "is": "mynd",
-    "it": "foto"
+    "it": "la foto"
   },
   {
     "en": "finding",
@@ -8499,7 +8499,7 @@
     "ja": "所見",
     "tr": "bulgu",
     "is": "finna",
-    "it": "scoperta"
+    "it": "il ritrovamento"
   },
   {
     "en": "classroom",
@@ -8512,7 +8512,7 @@
     "ja": "教室",
     "tr": "sınıf",
     "is": "kennslustofunni",
-    "it": "aula"
+    "it": "l'aula"
   },
   {
     "en": "contact",
@@ -8525,7 +8525,7 @@
     "ja": "接触",
     "tr": "temas",
     "is": "hafðu samband",
-    "it": "contatto"
+    "it": "il contatto"
   },
   {
     "en": "justice",
@@ -8538,7 +8538,7 @@
     "ja": "正義",
     "tr": "adalet",
     "is": "réttlæti",
-    "it": "giustizia"
+    "it": "la giustizia"
   },
   {
     "en": "pair",
@@ -8551,7 +8551,7 @@
     "ja": "ペア",
     "tr": "çift",
     "is": "par",
-    "it": "paio"
+    "it": "il paio"
   },
   {
     "en": "exercise",
@@ -8564,7 +8564,7 @@
     "ja": "運動",
     "tr": "egzersiz",
     "is": "æfa",
-    "it": "esercizio"
+    "it": "l'esercizio"
   },
   {
     "en": "knee",
@@ -8577,7 +8577,7 @@
     "ja": "膝",
     "tr": "diz",
     "is": "hné",
-    "it": "ginocchio"
+    "it": "il ginocchio"
   },
   {
     "en": "flower",
@@ -8590,7 +8590,7 @@
     "ja": "花",
     "tr": "çiçek",
     "is": "blóm",
-    "it": "fiore"
+    "it": "il fiore"
   },
   {
     "en": "tape",
@@ -8603,7 +8603,7 @@
     "ja": "テープ",
     "tr": "bant",
     "is": "borði",
-    "it": "nastro"
+    "it": "il nastro"
   },
   {
     "en": "supply",
@@ -8616,7 +8616,7 @@
     "ja": "供給",
     "tr": "arz",
     "is": "framboð",
-    "it": "fornitura"
+    "it": "la fornitura"
   },
   {
     "en": "cut",
@@ -8629,7 +8629,7 @@
     "ja": "カット",
     "tr": "kesmek",
     "is": "skera",
-    "it": "tagliare"
+    "it": "il taglio"
   },
   {
     "en": "will",
@@ -8642,7 +8642,7 @@
     "ja": "意志",
     "tr": "irade",
     "is": "mun",
-    "it": "volere"
+    "it": "la volontà"
   },
   {
     "en": "actor",
@@ -8655,7 +8655,7 @@
     "ja": "俳優",
     "tr": "aktör",
     "is": "leikari",
-    "it": "attore"
+    "it": "l'attore"
   },
   {
     "en": "birth",
@@ -8668,7 +8668,7 @@
     "ja": "誕生",
     "tr": "doğum",
     "is": "fæðing",
-    "it": "nascita"
+    "it": "la nascita"
   },
   {
     "en": "search",
@@ -8681,7 +8681,7 @@
     "ja": "サーチ",
     "tr": "arama",
     "is": "leit",
-    "it": "ricerca"
+    "it": "la ricerca"
   },
   {
     "en": "democracy",
@@ -8694,7 +8694,7 @@
     "ja": "民主主義",
     "tr": "demokrasi",
     "is": "lýðræði",
-    "it": "democrazia"
+    "it": "la democrazia"
   },
   {
     "en": "circle",
@@ -8707,7 +8707,7 @@
     "ja": "サークル",
     "tr": "daire",
     "is": "hringur",
-    "it": "cerchio"
+    "it": "il cerchio"
   },
   {
     "en": "device",
@@ -8720,7 +8720,7 @@
     "ja": "デバイス",
     "tr": "cihaz",
     "is": "tæki",
-    "it": "dispositivo"
+    "it": "il dispositivo"
   },
   {
     "en": "progress",
@@ -8733,7 +8733,7 @@
     "ja": "進捗",
     "tr": "ilerleme",
     "is": "framfarir",
-    "it": "progresso"
+    "it": "il progresso"
   },
   {
     "en": "front",
@@ -8746,7 +8746,7 @@
     "ja": "フロント",
     "tr": "ön",
     "is": "framan",
-    "it": "davanti"
+    "it": "la parte anteriore"
   },
   {
     "en": "bottom",
@@ -8759,7 +8759,7 @@
     "ja": "下",
     "tr": "alt",
     "is": "neðst",
-    "it": "parte inferiore"
+    "it": "il fondo"
   },
   {
     "en": "island",
@@ -8772,7 +8772,7 @@
     "ja": "島",
     "tr": "ada",
     "is": "eyja",
-    "it": "isola"
+    "it": "l'isola"
   },
   {
     "en": "exchange",
@@ -8785,7 +8785,7 @@
     "ja": "交換",
     "tr": "değiş tokuş",
     "is": "skipti",
-    "it": "scambio"
+    "it": "lo scambio"
   },
   {
     "en": "studio",
@@ -8798,7 +8798,7 @@
     "ja": "スタジオ",
     "tr": "stüdyo",
     "is": "stúdíó",
-    "it": "studio"
+    "it": "lo studio"
   },
   {
     "en": "lady",
@@ -8811,7 +8811,7 @@
     "ja": "レディ",
     "tr": "bayan",
     "is": "kona",
-    "it": "signora"
+    "it": "la signora"
   },
   {
     "en": "colleague",
@@ -8824,7 +8824,7 @@
     "ja": "同僚",
     "tr": "çalışma arkadaşı",
     "is": "samstarfsmaður",
-    "it": "collega"
+    "it": "il collega"
   },
   {
     "en": "application",
@@ -8837,7 +8837,7 @@
     "ja": "応用",
     "tr": "uygulama",
     "is": "umsókn",
-    "it": "applicazione"
+    "it": "l'applicazione"
   },
   {
     "en": "neck",
@@ -8850,7 +8850,7 @@
     "ja": "ネック",
     "tr": "boyun",
     "is": "háls",
-    "it": "collo"
+    "it": "il collo"
   },
   {
     "en": "damage",
@@ -8863,7 +8863,7 @@
     "ja": "損傷",
     "tr": "hasar",
     "is": "tjón",
-    "it": "danno"
+    "it": "il danno"
   },
   {
     "en": "plastic",
@@ -8876,7 +8876,7 @@
     "ja": "プラスチック",
     "tr": "plastik",
     "is": "plast",
-    "it": "plastica"
+    "it": "la plastica"
   },
   {
     "en": "plate",
@@ -8889,7 +8889,7 @@
     "ja": "プレート",
     "tr": "plaka",
     "is": "diskur",
-    "it": "piatto"
+    "it": "il piatto"
   },
   {
     "en": "writing",
@@ -8902,7 +8902,7 @@
     "ja": "書き込み",
     "tr": "yazı",
     "is": "skrifa",
-    "it": "scrittura"
+    "it": "la scrittura"
   },
   {
     "en": "start",
@@ -8915,7 +8915,7 @@
     "ja": "開始",
     "tr": "başla",
     "is": "byrja",
-    "it": "inizio"
+    "it": "la partenza"
   },
   {
     "en": "expression",
@@ -8928,7 +8928,7 @@
     "ja": "表現",
     "tr": "ifade",
     "is": "tjáning",
-    "it": "espressione"
+    "it": "l'espressione"
   },
   {
     "en": "football",
@@ -8941,7 +8941,7 @@
     "ja": "フットボール",
     "tr": "Futbol",
     "is": "fótbolti",
-    "it": "calcio"
+    "it": "il calcio"
   },
   {
     "en": "chicken",
@@ -8954,7 +8954,7 @@
     "ja": "チキン",
     "tr": "tavuk",
     "is": "kjúklingur",
-    "it": "pollo"
+    "it": "il pollo"
   },
   {
     "en": "army",
@@ -8967,7 +8967,7 @@
     "ja": "軍",
     "tr": "ordu",
     "is": "her",
-    "it": "esercito"
+    "it": "l'esercito"
   },
   {
     "en": "abuse",
@@ -8980,7 +8980,7 @@
     "ja": "乱用",
     "tr": "taciz",
     "is": "misnotkun",
-    "it": "abuso"
+    "it": "l'abuso"
   },
   {
     "en": "theater",
@@ -8993,7 +8993,7 @@
     "ja": "劇場",
     "tr": "tiyatro",
     "is": "leikhús",
-    "it": "Teatro"
+    "it": "il teatro"
   },
   {
     "en": "map",
@@ -9006,7 +9006,7 @@
     "ja": "地図",
     "tr": "harita",
     "is": "kort",
-    "it": "carta geografica"
+    "it": "la mappa"
   },
   {
     "en": "session",
@@ -9019,7 +9019,7 @@
     "ja": "セッション",
     "tr": "oturum, toplantı, celse",
     "is": "fundur",
-    "it": "sessione"
+    "it": "la sessione"
   },
   {
     "en": "danger",
@@ -9032,7 +9032,7 @@
     "ja": "危険",
     "tr": "Tehlike",
     "is": "hætta",
-    "it": "Pericolo"
+    "it": "il pericolo"
   },
   {
     "en": "literature",
@@ -9045,7 +9045,7 @@
     "ja": "文献",
     "tr": "Edebiyat",
     "is": "bókmenntir",
-    "it": "letteratura"
+    "it": "la letteratura"
   },
   {
     "en": "rain",
@@ -9058,7 +9058,7 @@
     "ja": "雨",
     "tr": "yağmur",
     "is": "rigning",
-    "it": "pioggia"
+    "it": "la pioggia"
   },
   {
     "en": "desire",
@@ -9071,7 +9071,7 @@
     "ja": "慾望",
     "tr": "arzu etmek",
     "is": "löngun",
-    "it": "desiderio"
+    "it": "il desiderio"
   },
   {
     "en": "assessment",
@@ -9084,7 +9084,7 @@
     "ja": "評価",
     "tr": "değerlendirme",
     "is": "mat",
-    "it": "valutazione"
+    "it": "la valutazione"
   },
   {
     "en": "injury",
@@ -9097,7 +9097,7 @@
     "ja": "損傷",
     "tr": "hasar",
     "is": "meiðsli",
-    "it": "ferita"
+    "it": "la ferita"
   },
   {
     "en": "respect",
@@ -9110,7 +9110,7 @@
     "ja": "尊敬",
     "tr": "saygı",
     "is": "virðingu",
-    "it": "rispetto"
+    "it": "il rispetto"
   },
   {
     "en": "fuel",
@@ -9123,7 +9123,7 @@
     "ja": "燃料",
     "tr": "yakıt",
     "is": "eldsneyti",
-    "it": "carburante"
+    "it": "il carburante"
   },
   {
     "en": "leaf",
@@ -9136,7 +9136,7 @@
     "ja": "葉",
     "tr": "Yaprak",
     "is": "blaða",
-    "it": "foglia"
+    "it": "la foglia"
   },
   {
     "en": "instruction",
@@ -9149,7 +9149,7 @@
     "ja": "命令",
     "tr": "talimat",
     "is": "kennsla",
-    "it": "istruzione"
+    "it": "le istruzioni"
   },
   {
     "en": "fight",
@@ -9162,7 +9162,7 @@
     "ja": "戦い",
     "tr": "kavga",
     "is": "bardagi",
-    "it": "combattimento"
+    "it": "la lotta"
   },
   {
     "en": "pool",
@@ -9175,7 +9175,7 @@
     "ja": "プール",
     "tr": "havuz",
     "is": "sundlaug",
-    "it": "piscina"
+    "it": "la piscina"
   },
   {
     "en": "lead",
@@ -9188,7 +9188,7 @@
     "ja": "鉛",
     "tr": "öncülük etmek",
     "is": "leiða",
-    "it": "condurre"
+    "it": "la guida"
   },
   {
     "en": "engine",
@@ -9201,7 +9201,7 @@
     "ja": "エンジン",
     "tr": "motor",
     "is": "vél",
-    "it": "motore"
+    "it": "il motore"
   },
   {
     "en": "salt",
@@ -9214,7 +9214,7 @@
     "ja": "塩",
     "tr": "tuz",
     "is": "salt",
-    "it": "sale"
+    "it": "il sale"
   },
   {
     "en": "importance",
@@ -9227,7 +9227,7 @@
     "ja": "重要度",
     "tr": "önem",
     "is": "mikilvægi",
-    "it": "importanza"
+    "it": "l'importanza"
   },
   {
     "en": "metal",
@@ -9240,7 +9240,7 @@
     "ja": "金属",
     "tr": "metal",
     "is": "málmur",
-    "it": "metallo"
+    "it": "il metallo"
   },
   {
     "en": "fat",
@@ -9253,7 +9253,7 @@
     "ja": "脂肪",
     "tr": "şişman",
     "is": "fitu",
-    "it": "Grasso"
+    "it": "il grasso"
   },
   {
     "en": "ticket",
@@ -9266,7 +9266,7 @@
     "ja": "チケット",
     "tr": "bilet",
     "is": "miða",
-    "it": "biglietto"
+    "it": "il biglietto"
   },
   {
     "en": "software",
@@ -9279,7 +9279,7 @@
     "ja": "ソフトウェア",
     "tr": "yazılım",
     "is": "hugbúnaður",
-    "it": "Software"
+    "it": "il software"
   },
   {
     "en": "lip",
@@ -9292,7 +9292,7 @@
     "ja": "リップ",
     "tr": "dudak",
     "is": "vör",
-    "it": "labbro"
+    "it": "il labbro"
   },
   {
     "en": "reading",
@@ -9305,7 +9305,7 @@
     "ja": "読書",
     "tr": "okuma",
     "is": "lestur",
-    "it": "lettura"
+    "it": "la lettura"
   },
   {
     "en": "lunch",
@@ -9318,7 +9318,7 @@
     "ja": "ランチ",
     "tr": "öğle yemeği",
     "is": "hádegismatur",
-    "it": "pranzo"
+    "it": "il pranzo"
   },
   {
     "en": "farmer",
@@ -9331,7 +9331,7 @@
     "ja": "農家",
     "tr": "çiftçi",
     "is": "bóndi",
-    "it": "contadino"
+    "it": "il contadino"
   },
   {
     "en": "sugar",
@@ -9344,7 +9344,7 @@
     "ja": "シュガー",
     "tr": "şeker",
     "is": "sykur",
-    "it": "zucchero"
+    "it": "lo zucchero"
   },
   {
     "en": "planet",
@@ -9357,7 +9357,7 @@
     "ja": "惑星",
     "tr": "gezegen",
     "is": "reikistjarna",
-    "it": "pianeta"
+    "it": "il pianeta"
   },
   {
     "en": "enemy",
@@ -9370,7 +9370,7 @@
     "ja": "敵",
     "tr": "düşman",
     "is": "óvinur",
-    "it": "nemico"
+    "it": "il nemico"
   },
   {
     "en": "athlete",
@@ -9383,7 +9383,7 @@
     "ja": "アスリート",
     "tr": "atlet",
     "is": "íþróttamaður",
-    "it": "atleta"
+    "it": "l'atleta"
   },
   {
     "en": "soul",
@@ -9396,7 +9396,7 @@
     "ja": "魂",
     "tr": "ruh",
     "is": "sál",
-    "it": "anima"
+    "it": "l'anima"
   },
   {
     "en": "panel",
@@ -9409,7 +9409,7 @@
     "ja": "パネル",
     "tr": "panel",
     "is": "spjaldið",
-    "it": "pannello"
+    "it": "il pannello"
   },
   {
     "en": "meaning",
@@ -9422,7 +9422,7 @@
     "ja": "意味",
     "tr": "anlam",
     "is": "merkingu",
-    "it": "senso"
+    "it": "il significato"
   },
   {
     "en": "mom",
@@ -9435,7 +9435,7 @@
     "ja": "ママ",
     "tr": "anne",
     "is": "mamma",
-    "it": "mamma"
+    "it": "la mamma"
   },
   {
     "en": "instrument",
@@ -9448,7 +9448,7 @@
     "ja": "計器",
     "tr": "enstrüman",
     "is": "tæki",
-    "it": "strumento"
+    "it": "lo strumento"
   },
   {
     "en": "weather",
@@ -9461,7 +9461,7 @@
     "ja": "天気",
     "tr": "hava",
     "is": "veður",
-    "it": "tempo metereologico"
+    "it": "il tempo"
   },
   {
     "en": "commitment",
@@ -9474,7 +9474,7 @@
     "ja": "コミットメント",
     "tr": "taahhüt",
     "is": "skuldbinding",
-    "it": "impegno"
+    "it": "L'impegno"
   },
   {
     "en": "pocket",
@@ -9487,7 +9487,7 @@
     "ja": "ポケット",
     "tr": "cep",
     "is": "vasa",
-    "it": "tasca"
+    "it": "la tasca"
   },
   {
     "en": "temperature",
@@ -9500,7 +9500,7 @@
     "ja": "温度",
     "tr": "sıcaklık",
     "is": "hitastig",
-    "it": "temperatura"
+    "it": "la temperatura"
   },
   {
     "en": "surprise",
@@ -9513,7 +9513,7 @@
     "ja": "驚き",
     "tr": "sürpriz",
     "is": "óvart",
-    "it": "sorpresa"
+    "it": "la sorpresa"
   },
   {
     "en": "poll",
@@ -9526,7 +9526,7 @@
     "ja": "投票",
     "tr": "anket",
     "is": "könnun",
-    "it": "sondaggio"
+    "it": "il sondaggio"
   },
   {
     "en": "proposal",
@@ -9539,7 +9539,7 @@
     "ja": "提案",
     "tr": "öneri",
     "is": "tillaga",
-    "it": "proposta"
+    "it": "la proposta"
   },
   {
     "en": "consequence",
@@ -9552,7 +9552,7 @@
     "ja": "結果",
     "tr": "sonuç",
     "is": "afleiðing",
-    "it": "conseguenza"
+    "it": "la conseguenza"
   },
   {
     "en": "half",
@@ -9565,7 +9565,7 @@
     "ja": "ハーフ",
     "tr": "yarım",
     "is": "hálft",
-    "it": "metà"
+    "it": "la metà"
   },
   {
     "en": "breath",
@@ -9578,7 +9578,7 @@
     "ja": "呼吸",
     "tr": "nefes",
     "is": "andardráttur",
-    "it": "respiro"
+    "it": "il respiro"
   },
   {
     "en": "sight",
@@ -9591,7 +9591,7 @@
     "ja": "視力",
     "tr": "görme",
     "is": "sjón",
-    "it": "vista"
+    "it": "la vista"
   },
   {
     "en": "cover",
@@ -9604,7 +9604,7 @@
     "ja": "カバー",
     "tr": "kapak",
     "is": "kápa",
-    "it": "copertina"
+    "it": "la copertina"
   },
   {
     "en": "balance",
@@ -9617,7 +9617,7 @@
     "ja": "バランス",
     "tr": "denge",
     "is": "jafnvægi",
-    "it": "equilibrio"
+    "it": "l'equilibrio"
   },
   {
     "en": "minority",
@@ -9630,7 +9630,7 @@
     "ja": "少数",
     "tr": "azınlık",
     "is": "minnihluti",
-    "it": "minoranza"
+    "it": "la minoranza"
   },
   {
     "en": "works",
@@ -9643,7 +9643,7 @@
     "ja": "作品",
     "tr": "Eserleri",
     "is": "virkar",
-    "it": "lavori"
+    "it": "i lavori"
   },
   {
     "en": "teaching",
@@ -9656,7 +9656,7 @@
     "ja": "教える",
     "tr": "öğretim",
     "is": "kennslu",
-    "it": "insegnamento"
+    "it": "l'insegnamento"
   },
   {
     "en": "aid",
@@ -9669,7 +9669,7 @@
     "ja": "援助",
     "tr": "yardım",
     "is": "aðstoð",
-    "it": "aiuto"
+    "it": "l'aiuto"
   },
   {
     "en": "advice",
@@ -9682,7 +9682,7 @@
     "ja": "助言",
     "tr": "tavsiye",
     "is": "ráðgjöf",
-    "it": "consigli"
+    "it": "il Consiglio"
   },
   {
     "en": "photograph",
@@ -9695,7 +9695,7 @@
     "ja": "写真",
     "tr": "fotoğraf",
     "is": "ljósmynd",
-    "it": "fotografia"
+    "it": "la fotografia"
   },
   {
     "en": "trail",
@@ -9708,7 +9708,7 @@
     "ja": "トレイル",
     "tr": "iz",
     "is": "slóð",
-    "it": "pista"
+    "it": "la traccia"
   },
   {
     "en": "novel",
@@ -9721,7 +9721,7 @@
     "ja": "小説",
     "tr": "yeni",
     "is": "skáldsaga",
-    "it": "romanzo"
+    "it": "il romanzo"
   },
   {
     "en": "code",
@@ -9734,7 +9734,7 @@
     "ja": "コード",
     "tr": "kod",
     "is": "kóða",
-    "it": "codice"
+    "it": "il codice"
   },
   {
     "en": "jury",
@@ -9747,7 +9747,7 @@
     "ja": "陪審",
     "tr": "jüri",
     "is": "kviðdómur",
-    "it": "giuria"
+    "it": "la giuria"
   },
   {
     "en": "breast",
@@ -9760,7 +9760,7 @@
     "ja": "乳",
     "tr": "meme",
     "is": "brjóst",
-    "it": "Seno"
+    "it": "il petto"
   },
   {
     "en": "human",
@@ -9773,7 +9773,7 @@
     "ja": "人間",
     "tr": "insan",
     "is": "manna",
-    "it": "umano"
+    "it": "l'umano"
   },
   {
     "en": "theme",
@@ -9786,7 +9786,7 @@
     "ja": "テーマ",
     "tr": "tema",
     "is": "þema",
-    "it": "tema"
+    "it": "il tema"
   },
   {
     "en": "storm",
@@ -9799,7 +9799,7 @@
     "ja": "嵐",
     "tr": "fırtına",
     "is": "stormur",
-    "it": "tempesta"
+    "it": "la tempesta"
   },
   {
     "en": "union",
@@ -9812,7 +9812,7 @@
     "ja": "連合",
     "tr": "Birlik",
     "is": "Verkalýðsfélag",
-    "it": "unione"
+    "it": "l'Unione"
   },
   {
     "en": "desk",
@@ -9825,7 +9825,7 @@
     "ja": "机",
     "tr": "büro",
     "is": "skrifborð",
-    "it": "scrivania"
+    "it": "la scrivania"
   },
   {
     "en": "thanks",
@@ -9838,7 +9838,7 @@
     "ja": "ありがとう",
     "tr": "Teşekkürler",
     "is": "takk",
-    "it": "Grazie"
+    "it": "il grazie"
   },
   {
     "en": "fruit",
@@ -9851,7 +9851,7 @@
     "ja": "フルーツ",
     "tr": "meyve",
     "is": "ávöxtur",
-    "it": "frutta"
+    "it": "il frutto"
   },
   {
     "en": "conclusion",
@@ -9864,7 +9864,7 @@
     "ja": "結論",
     "tr": "Sonuç",
     "is": "Niðurstaða",
-    "it": "conclusione"
+    "it": "la conclusione"
   },
   {
     "en": "shadow",
@@ -9877,7 +9877,7 @@
     "ja": "影",
     "tr": "gölge",
     "is": "skuggi",
-    "it": "ombra"
+    "it": "l'ombra"
   },
   {
     "en": "analyst",
@@ -9890,7 +9890,7 @@
     "ja": "アナリスト",
     "tr": "analist",
     "is": "sérfræðingur",
-    "it": "analista"
+    "it": "l'analista"
   },
   {
     "en": "dance",
@@ -9903,7 +9903,7 @@
     "ja": "ダンス",
     "tr": "dans",
     "is": "dans",
-    "it": "danza"
+    "it": "la danza"
   },
   {
     "en": "limit",
@@ -9916,7 +9916,7 @@
     "ja": "限界",
     "tr": "sınır",
     "is": "takmörk",
-    "it": "limite"
+    "it": "il limite"
   },
   {
     "en": "regulation",
@@ -9929,7 +9929,7 @@
     "ja": "規制",
     "tr": "düzenleme",
     "is": "reglugerð",
-    "it": "regolamento"
+    "it": "il regolamento"
   },
   {
     "en": "being",
@@ -9942,7 +9942,7 @@
     "ja": "であること",
     "tr": "olmak",
     "is": "vera",
-    "it": "essere"
+    "it": "l'essere"
   },
   {
     "en": "ring",
@@ -9955,7 +9955,7 @@
     "ja": "リング",
     "tr": "halka",
     "is": "hringur",
-    "it": "squillare"
+    "it": "l'anello"
   },
   {
     "en": "revenue",
@@ -9968,7 +9968,7 @@
     "ja": "収入",
     "tr": "gelir",
     "is": "tekjur",
-    "it": "reddito"
+    "it": "le entrate"
   },
   {
     "en": "county",
@@ -9981,7 +9981,7 @@
     "ja": "郡",
     "tr": "kontluk",
     "is": "sýsla",
-    "it": "contea"
+    "it": "la contea"
   },
   {
     "en": "appearance",
@@ -9994,7 +9994,7 @@
     "ja": "外観",
     "tr": "görünüm",
     "is": "útlit",
-    "it": "aspetto"
+    "it": "l'apparenza"
   },
   {
     "en": "package",
@@ -10007,7 +10007,7 @@
     "ja": "パッケージ",
     "tr": "paket",
     "is": "pakki",
-    "it": "pacchetto"
+    "it": "il pacchetto"
   },
   {
     "en": "difficulty",
@@ -10020,7 +10020,7 @@
     "ja": "困難",
     "tr": "zorluk",
     "is": "erfiðleikar",
-    "it": "difficoltà"
+    "it": "la difficoltà"
   },
   {
     "en": "bridge",
@@ -10033,7 +10033,7 @@
     "ja": "ブリッジ",
     "tr": "köprü",
     "is": "brú",
-    "it": "ponte"
+    "it": "il ponte"
   },
   {
     "en": "train",
@@ -10046,7 +10046,7 @@
     "ja": "列車",
     "tr": "tren",
     "is": "lest",
-    "it": "treno"
+    "it": "il treno"
   },
   {
     "en": "e-mail",
@@ -10059,7 +10059,7 @@
     "ja": "Eメール",
     "tr": "e-mail",
     "is": "tölvupóstur",
-    "it": "e-mail"
+    "it": "l'email"
   },
   {
     "en": "thinking",
@@ -10072,7 +10072,7 @@
     "ja": "考え",
     "tr": "düşünme",
     "is": "hugsa",
-    "it": "pensiero"
+    "it": "il pensiero"
   },
   {
     "en": "trend",
@@ -10085,7 +10085,7 @@
     "ja": "傾向",
     "tr": "akım",
     "is": "stefna",
-    "it": "tendenza"
+    "it": "la moda"
   },
   {
     "en": "visitor",
@@ -10098,7 +10098,7 @@
     "ja": "ビジター",
     "tr": "ziyaretçi",
     "is": "gestur",
-    "it": "visitatore"
+    "it": "il visitatore"
   },
   {
     "en": "loan",
@@ -10111,7 +10111,7 @@
     "ja": "ローン",
     "tr": "borç",
     "is": "lán",
-    "it": "prestito"
+    "it": "il prestito"
   },
   {
     "en": "investor",
@@ -10124,7 +10124,7 @@
     "ja": "投資家",
     "tr": "yatırımcı",
     "is": "fjárfestir",
-    "it": "investitore"
+    "it": "l'investitore"
   },
   {
     "en": "profit",
@@ -10137,7 +10137,7 @@
     "ja": "利益",
     "tr": "kâr",
     "is": "hagnaður",
-    "it": "profitto"
+    "it": "il profitto"
   },
   {
     "en": "crew",
@@ -10150,7 +10150,7 @@
     "ja": "クルー",
     "tr": "mürettebat",
     "is": "áhöfn",
-    "it": "equipaggio"
+    "it": "l 'equipaggio"
   },
   {
     "en": "accident",
@@ -10163,7 +10163,7 @@
     "ja": "事故",
     "tr": "kaza",
     "is": "slys",
-    "it": "incidente"
+    "it": "l'incidente"
   },
   {
     "en": "male",
@@ -10176,7 +10176,7 @@
     "ja": "男性",
     "tr": "erkek",
     "is": "karlkyns",
-    "it": "maschio"
+    "it": "il maschio"
   },
   {
     "en": "meal",
@@ -10189,7 +10189,7 @@
     "ja": "お食事",
     "tr": "yemek",
     "is": "máltíð",
-    "it": "pasto"
+    "it": "il pasto"
   },
   {
     "en": "hearing",
@@ -10202,7 +10202,7 @@
     "ja": "聴覚",
     "tr": "işitme",
     "is": "heyrn",
-    "it": "udito"
+    "it": "l'udito"
   },
   {
     "en": "traffic",
@@ -10215,7 +10215,7 @@
     "ja": "トラフィック",
     "tr": "trafik",
     "is": "umferð",
-    "it": "traffico"
+    "it": "il traffico"
   },
   {
     "en": "muscle",
@@ -10228,7 +10228,7 @@
     "ja": "筋",
     "tr": "kas",
     "is": "vöðva",
-    "it": "muscolo"
+    "it": "il muscolo"
   },
   {
     "en": "notion",
@@ -10241,7 +10241,7 @@
     "ja": "概念",
     "tr": "kavram",
     "is": "hugmynd",
-    "it": "nozione"
+    "it": "la nozione"
   },
   {
     "en": "earth",
@@ -10254,7 +10254,7 @@
     "ja": "地球",
     "tr": "toprak",
     "is": "jörð",
-    "it": "terra"
+    "it": "la terra"
   },
   {
     "en": "chest",
@@ -10280,7 +10280,7 @@
     "ja": "現金",
     "tr": "nakit",
     "is": "reiðufé",
-    "it": "Contanti"
+    "it": "il denaro"
   },
   {
     "en": "museum",
@@ -10293,7 +10293,7 @@
     "ja": "博物館",
     "tr": "müze",
     "is": "safn",
-    "it": "Museo"
+    "it": "il Museo"
   },
   {
     "en": "beauty",
@@ -10306,7 +10306,7 @@
     "ja": "美しさ",
     "tr": "güzellik",
     "is": "fegurð",
-    "it": "bellezza"
+    "it": "la bellezza"
   },
   {
     "en": "emergency",
@@ -10319,7 +10319,7 @@
     "ja": "緊急",
     "tr": "acil Durum",
     "is": "neyðarástand",
-    "it": "emergenza"
+    "it": "l'emergenza"
   },
   {
     "en": "stress",
@@ -10332,7 +10332,7 @@
     "ja": "応力",
     "tr": "stres",
     "is": "streita",
-    "it": "stress"
+    "it": "lo stress"
   },
   {
     "en": "content",
@@ -10345,7 +10345,7 @@
     "ja": "コンテンツ",
     "tr": "içerik",
     "is": "efni",
-    "it": "soddisfare"
+    "it": "il contenuto"
   },
   {
     "en": "root",
@@ -10358,7 +10358,7 @@
     "ja": "ルート",
     "tr": "kök",
     "is": "rót",
-    "it": "radice"
+    "it": "la radice"
   },
   {
     "en": "nose",
@@ -10371,7 +10371,7 @@
     "ja": "鼻",
     "tr": "burun",
     "is": "nef",
-    "it": "naso"
+    "it": "il naso"
   },
   {
     "en": "bottle",
@@ -10384,7 +10384,7 @@
     "ja": "ボトル",
     "tr": "şişe",
     "is": "flösku",
-    "it": "bottiglia"
+    "it": "la bottiglia"
   },
   {
     "en": "setting",
@@ -10397,7 +10397,7 @@
     "ja": "設定",
     "tr": "ayar",
     "is": "stilling",
-    "it": "ambientazione"
+    "it": "le impostazioni"
   },
   {
     "en": "dress",
@@ -10410,7 +10410,7 @@
     "ja": "ドレス",
     "tr": "elbise",
     "is": "kjóll",
-    "it": "vestito"
+    "it": "il vestito"
   },
   {
     "en": "file",
@@ -10423,7 +10423,7 @@
     "ja": "ファイル",
     "tr": "dosya",
     "is": "skrá",
-    "it": "file"
+    "it": "il file"
   },
   {
     "en": "outcome",
@@ -10436,7 +10436,7 @@
     "ja": "結果",
     "tr": "sonuç",
     "is": "útkoma",
-    "it": "risultato"
+    "it": "il risultato"
   },
   {
     "en": "ad",
@@ -10449,7 +10449,7 @@
     "ja": "広告",
     "tr": "ilan",
     "is": "auglýsing",
-    "it": "anno Domini"
+    "it": "l'annuncio"
   },
   {
     "en": "duty",
@@ -10462,7 +10462,7 @@
     "ja": "義務",
     "tr": "görev",
     "is": "skylda",
-    "it": "dovere"
+    "it": "il dovere"
   },
   {
     "en": "sheet",
@@ -10475,7 +10475,7 @@
     "ja": "シート",
     "tr": "tabaka",
     "is": "lak",
-    "it": "foglio"
+    "it": "il foglio"
   },
   {
     "en": "extent",
@@ -10488,7 +10488,7 @@
     "ja": "エクステント",
     "tr": "derece",
     "is": "umfang",
-    "it": "estensione"
+    "it": "l'estensione"
   },
   {
     "en": "component",
@@ -10501,7 +10501,7 @@
     "ja": "成分",
     "tr": "bileşen",
     "is": "hluti",
-    "it": "componente"
+    "it": "il componente"
   },
   {
     "en": "contrast",
@@ -10514,7 +10514,7 @@
     "ja": "コントラスト",
     "tr": "kontrast",
     "is": "andstæða",
-    "it": "contrasto"
+    "it": "il contrasto"
   },
   {
     "en": "zone",
@@ -10527,7 +10527,7 @@
     "ja": "ゾーン",
     "tr": "bölge",
     "is": "svæði",
-    "it": "zona"
+    "it": "la zona"
   },
   {
     "en": "airport",
@@ -10540,7 +10540,7 @@
     "ja": "空港",
     "tr": "havalimanı",
     "is": "flugvöllur",
-    "it": "aeroporto"
+    "it": "l'aeroporto"
   },
   {
     "en": "chief",
@@ -10553,7 +10553,7 @@
     "ja": "チーフ",
     "tr": "şef",
     "is": "höfðingi",
-    "it": "capo"
+    "it": "il capo"
   },
   {
     "en": "shirt",
@@ -10566,7 +10566,7 @@
     "ja": "シャツ",
     "tr": "gömlek",
     "is": "skyrtu",
-    "it": "camicia"
+    "it": "la camicia"
   },
   {
     "en": "pilot",
@@ -10579,7 +10579,7 @@
     "ja": "パイロット",
     "tr": "pilot",
     "is": "flugmaður",
-    "it": "pilota"
+    "it": "il pilota"
   },
   {
     "en": "cat",
@@ -10592,7 +10592,7 @@
     "ja": "ネコ",
     "tr": "kedi",
     "is": "köttur",
-    "it": "gatto"
+    "it": "il gatto"
   },
   {
     "en": "contribution",
@@ -10605,7 +10605,7 @@
     "ja": "貢献",
     "tr": "katkı",
     "is": "framlag",
-    "it": "contributo"
+    "it": "il contributo"
   },
   {
     "en": "capacity",
@@ -10618,7 +10618,7 @@
     "ja": "容量",
     "tr": "kapasite",
     "is": "getu",
-    "it": "capacità"
+    "it": "la capacità"
   },
   {
     "en": "estate",
@@ -10631,7 +10631,7 @@
     "ja": "エステート",
     "tr": "arazi",
     "is": "búi",
-    "it": "tenuta"
+    "it": "la tenuta"
   },
   {
     "en": "guide",
@@ -10644,7 +10644,7 @@
     "ja": "ガイド",
     "tr": "kılavuz",
     "is": "fylgja",
-    "it": "guida"
+    "it": "la guida"
   },
   {
     "en": "circumstance",
@@ -10657,7 +10657,7 @@
     "ja": "状況",
     "tr": "durum",
     "is": "aðstæður",
-    "it": "circostanza"
+    "it": "la circostanza"
   },
   {
     "en": "snow",
@@ -10683,7 +10683,7 @@
     "ja": "政治家",
     "tr": "politikacı",
     "is": "stjórnmálamaður",
-    "it": "politico"
+    "it": "il politico"
   },
   {
     "en": "percentage",
@@ -10696,7 +10696,7 @@
     "ja": "パーセンテージ",
     "tr": "yüzde",
     "is": "hlutfall",
-    "it": "percentuale"
+    "it": "la percentuale"
   },
   {
     "en": "meat",
@@ -10709,7 +10709,7 @@
     "ja": "お肉",
     "tr": "et",
     "is": "kjöt",
-    "it": "carne"
+    "it": "la carne"
   },
   {
     "en": "soil",
@@ -10722,7 +10722,7 @@
     "ja": "土壌",
     "tr": "toprak",
     "is": "jarðvegur",
-    "it": "suolo"
+    "it": "il suolo"
   },
   {
     "en": "surgery",
@@ -10735,7 +10735,7 @@
     "ja": "手術",
     "tr": "cerrahlık",
     "is": "skurðaðgerð",
-    "it": "chirurgia"
+    "it": "la chirurgia"
   },
   {
     "en": "basketball",
@@ -10748,7 +10748,7 @@
     "ja": "バスケットボール",
     "tr": "Basketbol",
     "is": "körfubolti",
-    "it": "pallacanestro"
+    "it": "La pallacanestro"
   },
   {
     "en": "golf",
@@ -10761,7 +10761,7 @@
     "ja": "ゴルフ",
     "tr": "golf",
     "is": "golf",
-    "it": "golf"
+    "it": "il golf"
   },
   {
     "en": "chain",
@@ -10774,7 +10774,7 @@
     "ja": "鎖",
     "tr": "Zincir",
     "is": "keðja",
-    "it": "catena"
+    "it": "la catena"
   },
   {
     "en": "address",
@@ -10787,7 +10787,7 @@
     "ja": "住所",
     "tr": "adres",
     "is": "heimilisfang",
-    "it": "indirizzo"
+    "it": "l'indirizzo"
   },
   {
     "en": "branch",
@@ -10800,7 +10800,7 @@
     "ja": "ブランチ",
     "tr": "şube",
     "is": "útibú",
-    "it": "ramo"
+    "it": "il ramo"
   },
   {
     "en": "combination",
@@ -10813,7 +10813,7 @@
     "ja": "組み合わせ",
     "tr": "kombinasyon",
     "is": "samsetning",
-    "it": "combinazione"
+    "it": "la combinazione"
   },
   {
     "en": "governor",
@@ -10826,7 +10826,7 @@
     "ja": "知事",
     "tr": "Vali",
     "is": "landstjóra",
-    "it": "governatore"
+    "it": "il governatore"
   },
   {
     "en": "relief",
@@ -10839,7 +10839,7 @@
     "ja": "救済",
     "tr": "kabartma",
     "is": "léttir",
-    "it": "sollievo"
+    "it": "il sollievo"
   },
   {
     "en": "user",
@@ -10852,7 +10852,7 @@
     "ja": "ユーザー",
     "tr": "kullanıcı",
     "is": "notandi",
-    "it": "utente"
+    "it": "l'utente"
   },
   {
     "en": "dad",
@@ -10865,7 +10865,7 @@
     "ja": "パパ",
     "tr": "baba",
     "is": "pabbi",
-    "it": "papà"
+    "it": "il papà"
   },
   {
     "en": "manner",
@@ -10878,7 +10878,7 @@
     "ja": "方法",
     "tr": "tavır",
     "is": "hátt",
-    "it": "maniera"
+    "it": "Il modo"
   },
   {
     "en": "silence",
@@ -10891,7 +10891,7 @@
     "ja": "沈黙",
     "tr": "Sessizlik",
     "is": "þögn",
-    "it": "silenzio"
+    "it": "il silenzio"
   },
   {
     "en": "rating",
@@ -10904,7 +10904,7 @@
     "ja": "評価",
     "tr": "değerlendirme",
     "is": "einkunn",
-    "it": "valutazione"
+    "it": "la valutazione"
   },
   {
     "en": "motion",
@@ -10917,7 +10917,7 @@
     "ja": "モーション",
     "tr": "hareket",
     "is": "hreyfing",
-    "it": "movimento"
+    "it": "la mozione"
   },
   {
     "en": "gender",
@@ -10930,7 +10930,7 @@
     "ja": "性別",
     "tr": "Cinsiyet",
     "is": "kyn",
-    "it": "Genere"
+    "it": "il genere"
   },
   {
     "en": "fee",
@@ -10943,7 +10943,7 @@
     "ja": "費用",
     "tr": "ücret",
     "is": "gjald",
-    "it": "tassa"
+    "it": "la tassa"
   },
   {
     "en": "landscape",
@@ -10956,7 +10956,7 @@
     "ja": "風景",
     "tr": "peyzaj",
     "is": "landslag",
-    "it": "paesaggio"
+    "it": "il paesaggio"
   },
   {
     "en": "bowl",
@@ -10969,7 +10969,7 @@
     "ja": "ボウル",
     "tr": "çanak",
     "is": "skál",
-    "it": "ciotola"
+    "it": "la ciotola"
   },
   {
     "en": "frame",
@@ -10982,7 +10982,7 @@
     "ja": "フレーム",
     "tr": "çerçeve",
     "is": "ramma",
-    "it": "telaio"
+    "it": "la cornice"
   },
   {
     "en": "host",
@@ -10995,7 +10995,7 @@
     "ja": "ホスト",
     "tr": "evsahibi",
     "is": "gestgjafi",
-    "it": "ospite"
+    "it": "il padrone di casa"
   },
   {
     "en": "hall",
@@ -11008,7 +11008,7 @@
     "ja": "ホール",
     "tr": "salon",
     "is": "sal",
-    "it": "sala"
+    "it": "l'entrata"
   },
   {
     "en": "ocean",
@@ -11021,7 +11021,7 @@
     "ja": "海洋",
     "tr": "okyanus",
     "is": "haf",
-    "it": "oceano"
+    "it": "l'oceano"
   },
   {
     "en": "row",
@@ -11034,7 +11034,7 @@
     "ja": "行",
     "tr": "kürek çekmek",
     "is": "röð",
-    "it": "riga"
+    "it": "la riga"
   },
   {
     "en": "producer",
@@ -11047,7 +11047,7 @@
     "ja": "プロデューサー",
     "tr": "yapımcı",
     "is": "framleiðandi",
-    "it": "produttore"
+    "it": "il produttore"
   },
   {
     "en": "regime",
@@ -11060,7 +11060,7 @@
     "ja": "体制",
     "tr": "rejim",
     "is": "stjórn",
-    "it": "regime"
+    "it": "il regime"
   },
   {
     "en": "division",
@@ -11073,7 +11073,7 @@
     "ja": "分割",
     "tr": "bölünme",
     "is": "deild",
-    "it": "divisione"
+    "it": "la divisione"
   },
   {
     "en": "appeal",
@@ -11086,7 +11086,7 @@
     "ja": "アピール",
     "tr": "temyiz",
     "is": "höfða",
-    "it": "appello"
+    "it": "l'appello"
   },
   {
     "en": "mirror",
@@ -11099,7 +11099,7 @@
     "ja": "鏡",
     "tr": "ayna",
     "is": "spegill",
-    "it": "specchio"
+    "it": "lo specchio"
   },
   {
     "en": "tooth",
@@ -11112,7 +11112,7 @@
     "ja": "歯",
     "tr": "diş",
     "is": "tönn",
-    "it": "dente"
+    "it": "il dente"
   },
   {
     "en": "length",
@@ -11125,7 +11125,7 @@
     "ja": "長さ",
     "tr": "uzunluk",
     "is": "lengd",
-    "it": "lunghezza"
+    "it": "la lunghezza"
   },
   {
     "en": "topic",
@@ -11138,7 +11138,7 @@
     "ja": "トピック",
     "tr": "konu",
     "is": "efni",
-    "it": "argomento"
+    "it": "il tema"
   },
   {
     "en": "variable",
@@ -11151,7 +11151,7 @@
     "ja": "変数",
     "tr": "değişken",
     "is": "breytu",
-    "it": "variabile"
+    "it": "la variabile"
   },
   {
     "en": "telephone",
@@ -11164,7 +11164,7 @@
     "ja": "電話",
     "tr": "telefon",
     "is": "Sími",
-    "it": "telefono"
+    "it": "il telefono"
   },
   {
     "en": "perception",
@@ -11177,7 +11177,7 @@
     "ja": "知覚",
     "tr": "algı",
     "is": "skynjun",
-    "it": "percezione"
+    "it": "la percezione"
   },
   {
     "en": "confidence",
@@ -11190,7 +11190,7 @@
     "ja": "信頼",
     "tr": "güven",
     "is": "sjálfstraust",
-    "it": "fiducia"
+    "it": "la confidenza"
   },
   {
     "en": "bedroom",
@@ -11203,7 +11203,7 @@
     "ja": "寝室",
     "tr": "yatak odası",
     "is": "svefnherbergi",
-    "it": "Camera da letto"
+    "it": "la Camera da letto"
   },
   {
     "en": "secret",
@@ -11216,7 +11216,7 @@
     "ja": "秘密",
     "tr": "gizli",
     "is": "leyndarmál",
-    "it": "segreto"
+    "it": "il segreto"
   },
   {
     "en": "debt",
@@ -11229,7 +11229,7 @@
     "ja": "債務",
     "tr": "borç",
     "is": "skuld",
-    "it": "debito"
+    "it": "il debito"
   },
   {
     "en": "tank",
@@ -11242,7 +11242,7 @@
     "ja": "タンク",
     "tr": "tank",
     "is": "tankur",
-    "it": "carro armato"
+    "it": "il serbatoio"
   },
   {
     "en": "nurse",
@@ -11255,7 +11255,7 @@
     "ja": "ナース",
     "tr": "hemşire",
     "is": "hjúkrunarfræðingur",
-    "it": "infermiera"
+    "it": "l'infermiera"
   },
   {
     "en": "coverage",
@@ -11268,7 +11268,7 @@
     "ja": "カバレッジ",
     "tr": "kapsama",
     "is": "umfjöllun",
-    "it": "copertura"
+    "it": "la copertura"
   },
   {
     "en": "opposition",
@@ -11281,7 +11281,7 @@
     "ja": "反対",
     "tr": "muhalefet",
     "is": "andstöðu",
-    "it": "opposizione"
+    "it": "l'opposizione"
   },
   {
     "en": "bond",
@@ -11294,7 +11294,7 @@
     "ja": "ボンド",
     "tr": "bağ",
     "is": "tengsl",
-    "it": "legame"
+    "it": "il legame"
   },
   {
     "en": "pleasure",
@@ -11307,7 +11307,7 @@
     "ja": "喜び",
     "tr": "Zevk",
     "is": "ánægju",
-    "it": "piacere"
+    "it": "il piacere"
   },
   {
     "en": "master",
@@ -11320,7 +11320,7 @@
     "ja": "マスター",
     "tr": "ana",
     "is": "húsbóndi",
-    "it": "maestro"
+    "it": "Il capo"
   },
   {
     "en": "era",
@@ -11333,7 +11333,7 @@
     "ja": "時代",
     "tr": "çağ",
     "is": "Tímabil",
-    "it": "era"
+    "it": "L'era"
   },
   {
     "en": "requirement",
@@ -11346,7 +11346,7 @@
     "ja": "要件",
     "tr": "gereklilik",
     "is": "kröfu",
-    "it": "Requisiti"
+    "it": "il requisito"
   },
   {
     "en": "check",
@@ -11359,7 +11359,7 @@
     "ja": "チェック",
     "tr": "Kontrol",
     "is": "athuga",
-    "it": "dai un'occhiata"
+    "it": "il controllo"
   },
   {
     "en": "stand",
@@ -11372,7 +11372,7 @@
     "ja": "スタンド",
     "tr": "durmak",
     "is": "standa",
-    "it": "stare in piedi"
+    "it": "la posizione"
   },
   {
     "en": "fun",
@@ -11385,7 +11385,7 @@
     "ja": "楽しい",
     "tr": "eğlence",
     "is": "gaman",
-    "it": "divertimento"
+    "it": "il divertimento"
   },
   {
     "en": "expectation",
@@ -11398,7 +11398,7 @@
     "ja": "期待",
     "tr": "beklenti",
     "is": "væntingar",
-    "it": "aspettativa"
+    "it": "l'aspettativa"
   },
   {
     "en": "wing",
@@ -11411,7 +11411,7 @@
     "ja": "翼",
     "tr": "kanat",
     "is": "vængur",
-    "it": "ala"
+    "it": "l'ala"
   },
   {
     "en": "struggle",
@@ -11424,7 +11424,7 @@
     "ja": "闘争",
     "tr": "mücadele",
     "is": "baráttu",
-    "it": "lotta"
+    "it": "la lotta"
   },
   {
     "en": "judgment",
@@ -11437,7 +11437,7 @@
     "ja": "判定",
     "tr": "yargı",
     "is": "dómur",
-    "it": "giudizio"
+    "it": "il giudizio"
   },
   {
     "en": "beer",
@@ -11450,7 +11450,7 @@
     "ja": "ビール",
     "tr": "bira",
     "is": "bjór",
-    "it": "birra"
+    "it": "la birra"
   },
   {
     "en": "English",
@@ -11463,7 +11463,7 @@
     "ja": "英語",
     "tr": "ingilizce",
     "is": "Enska",
-    "it": "Inglese"
+    "it": "l'inglese"
   },
   {
     "en": "reference",
@@ -11476,7 +11476,7 @@
     "ja": "参照",
     "tr": "referans",
     "is": "tilvísun",
-    "it": "riferimento"
+    "it": "il riferimento"
   },
   {
     "en": "tear",
@@ -11489,7 +11489,7 @@
     "ja": "涙",
     "tr": "gözyaşı",
     "is": "tár",
-    "it": "lacrima"
+    "it": "la lacrima"
   },
   {
     "en": "doubt",
@@ -11502,7 +11502,7 @@
     "ja": "疑問に思う",
     "tr": "şüphe",
     "is": "efa",
-    "it": "dubbio"
+    "it": "il dubbio"
   },
   {
     "en": "minister",
@@ -11515,7 +11515,7 @@
     "ja": "大臣",
     "tr": "bakan",
     "is": "ráðherra",
-    "it": "ministro"
+    "it": "il ministro"
   },
   {
     "en": "hero",
@@ -11528,7 +11528,7 @@
     "ja": "ヒーロー",
     "tr": "kahraman",
     "is": "hetja",
-    "it": "eroe"
+    "it": "l'eroe"
   },
   {
     "en": "cloud",
@@ -11541,7 +11541,7 @@
     "ja": "雲",
     "tr": "bulut",
     "is": "ský",
-    "it": "nube"
+    "it": "la nuvola"
   },
   {
     "en": "winner",
@@ -11554,7 +11554,7 @@
     "ja": "勝者",
     "tr": "kazanan",
     "is": "Sigurvegari",
-    "it": "vincitore"
+    "it": "il vincitore"
   },
   {
     "en": "volume",
@@ -11567,7 +11567,7 @@
     "ja": "ボリューム",
     "tr": "hacim",
     "is": "rúmmál",
-    "it": "volume"
+    "it": "il volume"
   },
   {
     "en": "travel",
@@ -11580,7 +11580,7 @@
     "ja": "旅行",
     "tr": "seyahat",
     "is": "ferðast",
-    "it": "viaggio"
+    "it": "il viaggio"
   },
   {
     "en": "seed",
@@ -11593,7 +11593,7 @@
     "ja": "シード",
     "tr": "tohum",
     "is": "fræ",
-    "it": "seme"
+    "it": "il seme"
   },
   {
     "en": "fashion",
@@ -11606,7 +11606,7 @@
     "ja": "ファッション",
     "tr": "moda",
     "is": "tíska",
-    "it": "moda"
+    "it": "la moda"
   },
   {
     "en": "pepper",
@@ -11619,7 +11619,7 @@
     "ja": "コショウ",
     "tr": "biber",
     "is": "pipar",
-    "it": "Pepe"
+    "it": "il pepe"
   },
   {
     "en": "intervention",
@@ -11632,7 +11632,7 @@
     "ja": "介入",
     "tr": "müdahale",
     "is": "inngrip",
-    "it": "intervento"
+    "it": "l'intervento"
   },
   {
     "en": "copy",
@@ -11645,7 +11645,7 @@
     "ja": "コピー",
     "tr": "kopya",
     "is": "afrita",
-    "it": "copia"
+    "it": "la copia"
   },
   {
     "en": "tip",
@@ -11658,7 +11658,7 @@
     "ja": "先端",
     "tr": "bahşiş",
     "is": "þjórfé",
-    "it": "mancia"
+    "it": "La mancia"
   },
   {
     "en": "welfare",
@@ -11671,7 +11671,7 @@
     "ja": "福祉",
     "tr": "refah",
     "is": "velferð",
-    "it": "benessere"
+    "it": "il benessere"
   },
   {
     "en": "vegetable",
@@ -11684,7 +11684,7 @@
     "ja": "野菜",
     "tr": "sebze",
     "is": "grænmeti",
-    "it": "verdura"
+    "it": "la verdura"
   },
   {
     "en": "dish",
@@ -11697,7 +11697,7 @@
     "ja": "皿",
     "tr": "tabak",
     "is": "fat",
-    "it": "piatto"
+    "it": "il piatto"
   },
   {
     "en": "beach",
@@ -11710,7 +11710,7 @@
     "ja": "ビーチ",
     "tr": "plaj",
     "is": "fjara",
-    "it": "spiaggia"
+    "it": "la spiaggia"
   },
   {
     "en": "improvement",
@@ -11723,7 +11723,7 @@
     "ja": "改善",
     "tr": "gelişme iyilesme duzelme ilerleme",
     "is": "framför",
-    "it": "miglioramento"
+    "it": "il miglioramento"
   },
   {
     "en": "opening",
@@ -11736,7 +11736,7 @@
     "ja": "開ける",
     "tr": "açılış",
     "is": "opnun",
-    "it": "apertura"
+    "it": "l'apertura"
   },
   {
     "en": "route",
@@ -11749,7 +11749,7 @@
     "ja": "ルート",
     "tr": "rota",
     "is": "leið",
-    "it": "itinerario"
+    "it": "la strada"
   },
   {
     "en": "league",
@@ -11762,7 +11762,7 @@
     "ja": "リーグ",
     "tr": "lig",
     "is": "deildinni",
-    "it": "lega"
+    "it": "la Lega"
   },
   {
     "en": "core",
@@ -11775,7 +11775,7 @@
     "ja": "コア",
     "tr": "çekirdek",
     "is": "kjarni",
-    "it": "nucleo"
+    "it": "il centro"
   },
   {
     "en": "rise",
@@ -11788,7 +11788,7 @@
     "ja": "上昇",
     "tr": "yükselmek",
     "is": "hækka",
-    "it": "salire"
+    "it": "l'aumento"
   },
   {
     "en": "tie",
@@ -11801,7 +11801,7 @@
     "ja": "ネクタイ",
     "tr": "kravat",
     "is": "binda",
-    "it": "cravatta"
+    "it": "la cravatta"
   },
   {
     "en": "holiday",
@@ -11814,7 +11814,7 @@
     "ja": "休日",
     "tr": "tatil",
     "is": "frí",
-    "it": "vacanza"
+    "it": "la vacanza"
   },
   {
     "en": "resolution",
@@ -11827,7 +11827,7 @@
     "ja": "解決",
     "tr": "çözüm",
     "is": "upplausn",
-    "it": "risoluzione"
+    "it": "la risoluzione"
   },
   {
     "en": "household",
@@ -11840,7 +11840,7 @@
     "ja": "家庭",
     "tr": "ev halkı",
     "is": "heimilishald",
-    "it": "domestico"
+    "it": "la famiglia"
   },
   {
     "en": "abortion",
@@ -11853,7 +11853,7 @@
     "ja": "中絶",
     "tr": "kürtaj",
     "is": "fóstureyðingu",
-    "it": "aborto"
+    "it": "l'aborto"
   },
   {
     "en": "witness",
@@ -11866,7 +11866,7 @@
     "ja": "証人",
     "tr": "tanık",
     "is": "vitni",
-    "it": "testimone"
+    "it": "il testimone"
   },
   {
     "en": "sector",
@@ -11879,7 +11879,7 @@
     "ja": "セクタ",
     "tr": "sektör",
     "is": "geiranum",
-    "it": "settore"
+    "it": "il settore"
   },
   {
     "en": "representative",
@@ -11892,7 +11892,7 @@
     "ja": "代表",
     "tr": "temsilci",
     "is": "fulltrúi",
-    "it": "rappresentante"
+    "it": "il rappresentante"
   },
   {
     "en": "black",
@@ -11905,7 +11905,7 @@
     "ja": "黒",
     "tr": "siyah",
     "is": "svartur",
-    "it": "nero"
+    "it": "il nero"
   },
   {
     "en": "incident",
@@ -11918,7 +11918,7 @@
     "ja": "入射",
     "tr": "olay",
     "is": "atvik",
-    "it": "incidente"
+    "it": "l'incidente"
   },
   {
     "en": "flow",
@@ -11931,7 +11931,7 @@
     "ja": "フロー",
     "tr": "akış",
     "is": "flæði",
-    "it": "flusso"
+    "it": "il flusso"
   },
   {
     "en": "faculty",
@@ -11944,7 +11944,7 @@
     "ja": "学部",
     "tr": "Fakülte",
     "is": "deildarinnar",
-    "it": "facoltà"
+    "it": "la facoltà"
   },
   {
     "en": "waste",
@@ -11957,7 +11957,7 @@
     "ja": "廃棄物",
     "tr": "atık",
     "is": "sóun",
-    "it": "rifiuto"
+    "it": "lo spreco"
   },
   {
     "en": "mass",
@@ -11970,7 +11970,7 @@
     "ja": "質量",
     "tr": "kitle",
     "is": "massa",
-    "it": "massa"
+    "it": "la massa"
   },
   {
     "en": "experiment",
@@ -11983,7 +11983,7 @@
     "ja": "実験",
     "tr": "deney",
     "is": "tilraun",
-    "it": "sperimentare"
+    "it": "l'esperimento"
   },
   {
     "en": "bomb",
@@ -11996,7 +11996,7 @@
     "ja": "爆弾",
     "tr": "bomba",
     "is": "sprengju",
-    "it": "bomba"
+    "it": "la bomba"
   },
   {
     "en": "tone",
@@ -12009,7 +12009,7 @@
     "ja": "トーン",
     "tr": "ton",
     "is": "tónn",
-    "it": "tono"
+    "it": "il tono"
   },
   {
     "en": "engineer",
@@ -12022,7 +12022,7 @@
     "ja": "エンジニア",
     "tr": "mühendis",
     "is": "verkfræðingur",
-    "it": "ingegnere"
+    "it": "l'ingegnere"
   },
   {
     "en": "wheel",
@@ -12035,7 +12035,7 @@
     "ja": "ホイール",
     "tr": "tekerlek",
     "is": "hjól",
-    "it": "ruota"
+    "it": "la ruota"
   },
   {
     "en": "female",
@@ -12048,7 +12048,7 @@
     "ja": "女性",
     "tr": "kadın",
     "is": "kvenkyns",
-    "it": "femmina"
+    "it": "la femmina"
   },
   {
     "en": "promise",
@@ -12061,7 +12061,7 @@
     "ja": "約束する",
     "tr": "söz vermek",
     "is": "lofa",
-    "it": "promettere"
+    "it": "la promessa"
   },
   {
     "en": "cable",
@@ -12074,7 +12074,7 @@
     "ja": "ケーブル",
     "tr": "kablo",
     "is": "kaðall",
-    "it": "cavo"
+    "it": "il cavo"
   },
   {
     "en": "cream",
@@ -12087,7 +12087,7 @@
     "ja": "クリーム",
     "tr": "krem",
     "is": "krem",
-    "it": "crema"
+    "it": "la crema"
   },
   {
     "en": "secretary",
@@ -12100,7 +12100,7 @@
     "ja": "秘書",
     "tr": "Sekreter",
     "is": "ritari",
-    "it": "segretario"
+    "it": "la segretaria"
   },
   {
     "en": "gate",
@@ -12113,7 +12113,7 @@
     "ja": "ゲート",
     "tr": "kapı",
     "is": "hliðið",
-    "it": "cancello"
+    "it": "il cancello"
   },
   {
     "en": "hill",
@@ -12126,7 +12126,7 @@
     "ja": "丘",
     "tr": "Tepe",
     "is": "hæð",
-    "it": "collina"
+    "it": "la collina"
   },
   {
     "en": "noise",
@@ -12139,7 +12139,7 @@
     "ja": "ノイズ",
     "tr": "gürültü, ses",
     "is": "hávaði",
-    "it": "rumore"
+    "it": "il rumore"
   },
   {
     "en": "grass",
@@ -12152,7 +12152,7 @@
     "ja": "草",
     "tr": "çimen",
     "is": "gras",
-    "it": "erba"
+    "it": "l'erba"
   },
   {
     "en": "hat",
@@ -12165,7 +12165,7 @@
     "ja": "帽子",
     "tr": "şapka",
     "is": "hattur",
-    "it": "cappello"
+    "it": "il cappello"
   },
   {
     "en": "legislation",
@@ -12178,7 +12178,7 @@
     "ja": "立法",
     "tr": "mevzuat",
     "is": "löggjöf",
-    "it": "legislazione"
+    "it": "la legislazione"
   },
   {
     "en": "achievement",
@@ -12191,7 +12191,7 @@
     "ja": "成果",
     "tr": "başarı",
     "is": "afrek",
-    "it": "realizzazione"
+    "it": "il risultato"
   },
   {
     "en": "fishing",
@@ -12204,7 +12204,7 @@
     "ja": "釣り",
     "tr": "Balık tutma",
     "is": "veiði",
-    "it": "pesca"
+    "it": "la pesca"
   },
   {
     "en": "drink",
@@ -12217,7 +12217,7 @@
     "ja": "ドリンク",
     "tr": "içki",
     "is": "Drykkur",
-    "it": "bere"
+    "it": "la bevanda"
   },
   {
     "en": "talent",
@@ -12230,7 +12230,7 @@
     "ja": "才能",
     "tr": "yetenek",
     "is": "hæfileika",
-    "it": "talento"
+    "it": "il talento"
   },
   {
     "en": "taste",
@@ -12243,7 +12243,7 @@
     "ja": "味",
     "tr": "damak zevki",
     "is": "bragð",
-    "it": "gusto"
+    "it": "il sapore"
   },
   {
     "en": "characteristic",
@@ -12256,7 +12256,7 @@
     "ja": "特性",
     "tr": "karakteristik",
     "is": "einkennandi",
-    "it": "caratteristica"
+    "it": "la caratteristica"
   },
   {
     "en": "milk",
@@ -12269,7 +12269,7 @@
     "ja": "ミルク",
     "tr": "Süt",
     "is": "mjólk",
-    "it": "latte"
+    "it": "il latte"
   },
   {
     "en": "sentence",
@@ -12282,7 +12282,7 @@
     "ja": "文",
     "tr": "cümle",
     "is": "setning",
-    "it": "condanna, frase"
+    "it": "la frase"
   },
   {
     "en": "height",
@@ -12295,7 +12295,7 @@
     "ja": "高さ",
     "tr": "yükseklik",
     "is": "hæð",
-    "it": "altezza"
+    "it": "l'altezza"
   },
   {
     "en": "physician",
@@ -12308,7 +12308,7 @@
     "ja": "医師",
     "tr": "doktor",
     "is": "læknir",
-    "it": "medico"
+    "it": "il medico"
   },
   {
     "en": "sleep",
@@ -12321,7 +12321,7 @@
     "ja": "睡眠",
     "tr": "uyku",
     "is": "sofa",
-    "it": "dormire"
+    "it": "il sonno"
   },
   {
     "en": "ride",
@@ -12334,7 +12334,7 @@
     "ja": "ライド",
     "tr": "binmek",
     "is": "ríða",
-    "it": "cavalcata"
+    "it": "la corsa"
   },
   {
     "en": "explanation",
@@ -12347,7 +12347,7 @@
     "ja": "説明",
     "tr": "açıklama",
     "is": "útskýring",
-    "it": "spiegazione"
+    "it": "la spiegazione"
   },
   {
     "en": "campus",
@@ -12360,7 +12360,7 @@
     "ja": "キャンパス",
     "tr": "kampus",
     "is": "háskólasvæðinu",
-    "it": "città universitaria"
+    "it": "il campus"
   },
   {
     "en": "potential",
@@ -12373,7 +12373,7 @@
     "ja": "潜在的な",
     "tr": "potansiyel",
     "is": "möguleiki",
-    "it": "potenziale"
+    "it": "il potenziale"
   },
   {
     "en": "immigrant",
@@ -12386,7 +12386,7 @@
     "ja": "移民",
     "tr": "göçmen",
     "is": "innflytjandi",
-    "it": "immigrante"
+    "it": "l'immigrato"
   },
   {
     "en": "alternative",
@@ -12399,7 +12399,7 @@
     "ja": "代替",
     "tr": "alternatif",
     "is": "val",
-    "it": "alternativa"
+    "it": "l'alternativa"
   },
   {
     "en": "interaction",
@@ -12412,7 +12412,7 @@
     "ja": "インタラクション",
     "tr": "etkileşim",
     "is": "samskipti",
-    "it": "interazione"
+    "it": "l'interazione"
   },
   {
     "en": "column",
@@ -12425,7 +12425,7 @@
     "ja": "カラム",
     "tr": "kolon",
     "is": "dálki",
-    "it": "colonna"
+    "it": "la colonna"
   },
   {
     "en": "personality",
@@ -12438,7 +12438,7 @@
     "ja": "人",
     "tr": "kişilik",
     "is": "persónuleika",
-    "it": "personalità"
+    "it": "la personalità"
   },
   {
     "en": "signal",
@@ -12451,7 +12451,7 @@
     "ja": "信号",
     "tr": "işaret",
     "is": "merki",
-    "it": "segnale"
+    "it": "il segnale"
   },
   {
     "en": "curriculum",
@@ -12464,7 +12464,7 @@
     "ja": "カリキュラム",
     "tr": "Müfredat",
     "is": "námskrá",
-    "it": "programma scolastico"
+    "it": "il curriculum"
   },
   {
     "en": "honor",
@@ -12477,7 +12477,7 @@
     "ja": "名誉",
     "tr": "Onur",
     "is": "heiður",
-    "it": "onore"
+    "it": "l'onore"
   },
   {
     "en": "passenger",
@@ -12490,7 +12490,7 @@
     "ja": "旅客",
     "tr": "yolcu",
     "is": "farþegi",
-    "it": "passeggeri"
+    "it": "il passeggero"
   },
   {
     "en": "assistance",
@@ -12503,7 +12503,7 @@
     "ja": "支援",
     "tr": "yardım",
     "is": "aðstoð",
-    "it": "assistenza"
+    "it": "l'assistenza"
   },
   {
     "en": "association",
@@ -12516,7 +12516,7 @@
     "ja": "協会",
     "tr": "birleşme",
     "is": "samtök",
-    "it": "associazione"
+    "it": "l'associazione"
   },
   {
     "en": "lab",
@@ -12529,7 +12529,7 @@
     "ja": "研究室",
     "tr": "laboratuvar",
     "is": "Lab",
-    "it": "laboratorio"
+    "it": "il laboratorio"
   },
   {
     "en": "offer",
@@ -12542,7 +12542,7 @@
     "ja": "提供",
     "tr": "teklif",
     "is": "bjóða",
-    "it": "offrire"
+    "it": "l'offerta"
   },
   {
     "en": "criticism",
@@ -12555,7 +12555,7 @@
     "ja": "批判",
     "tr": "eleştiri",
     "is": "gagnrýni",
-    "it": "critica"
+    "it": "la critica"
   },
   {
     "en": "asset",
@@ -12568,7 +12568,7 @@
     "ja": "資産",
     "tr": "varlık",
     "is": "eign",
-    "it": "bene"
+    "it": "il bene"
   },
   {
     "en": "depression",
@@ -12581,7 +12581,7 @@
     "ja": "うつ病",
     "tr": "depresyon",
     "is": "þunglyndi",
-    "it": "depressione"
+    "it": "la depressione"
   },
   {
     "en": "journalist",
@@ -12594,7 +12594,7 @@
     "ja": "ジャーナリスト",
     "tr": "gazeteci",
     "is": "blaðamaður",
-    "it": "giornalista"
+    "it": "il giornalista"
   },
   {
     "en": "prayer",
@@ -12607,7 +12607,7 @@
     "ja": "祈り",
     "tr": "namaz",
     "is": "bæn",
-    "it": "preghiera"
+    "it": "la preghiera"
   },
   {
     "en": "scholar",
@@ -12620,7 +12620,7 @@
     "ja": "学者",
     "tr": "akademisyen",
     "is": "fræðimaður",
-    "it": "studioso"
+    "it": "lo studioso"
   },
   {
     "en": "warning",
@@ -12633,7 +12633,7 @@
     "ja": "警告",
     "tr": "uyarı",
     "is": "viðvörun",
-    "it": "avvertimento"
+    "it": "L'avviso"
   },
   {
     "en": "climate",
@@ -12646,7 +12646,7 @@
     "ja": "気候",
     "tr": "iklim",
     "is": "veðurfar",
-    "it": "clima"
+    "it": "il clima"
   },
   {
     "en": "cheese",
@@ -12659,7 +12659,7 @@
     "ja": "チーズ",
     "tr": "peynir",
     "is": "osti",
-    "it": "formaggio"
+    "it": "il formaggio"
   },
   {
     "en": "observation",
@@ -12672,7 +12672,7 @@
     "ja": "観察",
     "tr": "gözlem",
     "is": "athugun",
-    "it": "osservazione"
+    "it": "l'osservazione"
   },
   {
     "en": "childhood",
@@ -12685,7 +12685,7 @@
     "ja": "子供時代",
     "tr": "çocukluk",
     "is": "æsku",
-    "it": "infanzia"
+    "it": "l'infanzia"
   },
   {
     "en": "payment",
@@ -12698,7 +12698,7 @@
     "ja": "支払い",
     "tr": "ödeme",
     "is": "greiðslu",
-    "it": "pagamento"
+    "it": "il pagamento"
   },
   {
     "en": "sir",
@@ -12711,7 +12711,7 @@
     "ja": "サー",
     "tr": "Bayım",
     "is": "herra",
-    "it": "signore"
+    "it": "il signore"
   },
   {
     "en": "cigarette",
@@ -12724,7 +12724,7 @@
     "ja": "シガレット",
     "tr": "sigara",
     "is": "sígarettu",
-    "it": "sigaretta"
+    "it": "la sigaretta"
   },
   {
     "en": "definition",
@@ -12737,7 +12737,7 @@
     "ja": "定義",
     "tr": "tanım",
     "is": "skilgreining",
-    "it": "definizione"
+    "it": "la definizione"
   },
   {
     "en": "priority",
@@ -12750,7 +12750,7 @@
     "ja": "優先",
     "tr": "öncelik",
     "is": "forgang",
-    "it": "priorità"
+    "it": "la priorità"
   },
   {
     "en": "bread",
@@ -12763,7 +12763,7 @@
     "ja": "パン",
     "tr": "ekmek",
     "is": "brauð",
-    "it": "pane"
+    "it": "il pane"
   },
   {
     "en": "creation",
@@ -12776,7 +12776,7 @@
     "ja": "創造",
     "tr": "oluşturma",
     "is": "sköpun",
-    "it": "creazione"
+    "it": "la creazione"
   },
   {
     "en": "graduate",
@@ -12789,7 +12789,7 @@
     "ja": "卒業",
     "tr": "mezun olmak",
     "is": "útskrifast",
-    "it": "diplomato"
+    "it": "la laurea"
   },
   {
     "en": "request",
@@ -12802,7 +12802,7 @@
     "ja": "要求",
     "tr": "istek",
     "is": "beiðni",
-    "it": "richiesta"
+    "it": "la richiesta"
   },
   {
     "en": "emotion",
@@ -12815,6 +12815,6 @@
     "ja": "感情",
     "tr": "duygu",
     "is": "tilfinning",
-    "it": "emozione"
+    "it": "l'emozione"
   }
 ]

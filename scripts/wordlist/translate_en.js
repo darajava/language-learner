@@ -12,12 +12,12 @@ let numberTranslated = 0;
 
 let toLang = process.argv[2];
 
-let articleLangs = ['fr', 'es', 'de']
+let articleLangs = ['it', 'fr', 'es', 'de']
 
 for (let i = 0; i < nounMap.length; i++) {
   if (nounMap[i][toLang]) {
     if (numberTranslated++ === nounMap.length - 1) done();
-    continue; 
+    //continue; 
   }
 
   translate((articleLangs.includes(toLang) ? 'the ' : '')  + nounMap[i].en, {from: 'en', to: toLang}).then(res => {
