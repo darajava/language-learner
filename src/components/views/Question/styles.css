@@ -212,24 +212,3 @@
     margin: 4vw;
   }
 }
-
-
-.spin {
-  position: absolute;
-  animation-name: mungus;
-  animation-timing-function: ease-in;
-  animation-duration: 3s;
-  transform: scale(2);
-}
-
-
-@keyframes mungus {
-  0% {
-    opacity: 0;
-    transform: scale(0) rotate(0deg)
-  }
-  100% {
-    opacity: 1;
-    transform: scale(2) rotate(360deg);
-  }
-}
