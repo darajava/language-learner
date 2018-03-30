@@ -274,6 +274,7 @@ let correct = this.isCorrect();
       let audio = document.getElementById('main-audio2');
       audio.play();
       e.stopPropagation();
+      e.gesture.stopPropagation()
     }
 
 
