@@ -1,7 +1,7 @@
 import React from 'react';
-import CSSModules from 'react-css-modules';
 
-import styles from './styles.css';
+
+
 
 const Progress = (props) => {
   
@@ -9,18 +9,18 @@ const Progress = (props) => {
 
   for (let i = 0; i < props.threshold; i++) {
     if (i < props.score) {
-      dots.push(<span key={i} styleName={'complete' + Math.min(props.score, props.threshold)}><span styleName='shadow'></span></span>);
+      dots.push(<span key={i} klass={'complete' + Math.min(props.score, props.threshold)}><span klass='shadow'></span></span>);
     } else {
-      dots.push(<span key={i} styleName='incomplete'><span styleName='shadow'></span></span>);
+      dots.push(<span key={i} klass='incomplete'><span klass='shadow'></span></span>);
     }
   }
 
   console.log(props.score)
 
   return (
-    <div styleName='container'>
+    <div klass='container'>
 
-      <div styleName='dots'>
+      <div klass='dots'>
         {dots}
       </div>
     </div>
@@ -28,5 +28,5 @@ const Progress = (props) => {
         
 }
 
-export default CSSModules(Progress, styles);
+export default Progress;
  
