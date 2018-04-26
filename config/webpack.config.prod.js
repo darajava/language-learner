@@ -147,11 +147,21 @@ module.exports = {
           {
             test: /\.(js|jsx|mjs)$/,
             include: paths.appSrc,
-            loader: require.resolve('babel-loader'),
-            options: {
-              
-              compact: true,
-            },
+            use: [
+              {
+                loader: path.resolve('/home/dara/klass/index.js'),
+                options: {
+                  todo: "todo",
+                },
+              },
+              {
+                loader: require.resolve('babel-loader'),
+                options: {
+                  compact: true,
+                  // cacheDirectory: true,
+                },
+              },
+            ],
           },
           // The notation here is somewhat confusing.
           // "postcss" loader applies autoprefixer to our CSS.
