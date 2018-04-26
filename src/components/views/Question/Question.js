@@ -1,8 +1,8 @@
 import React from 'react';
-import CSSModules from 'react-css-modules';
+
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 
-import styles from './styles.css';
+
 import Timer from '../Timer/Timer';
 import Progress from '../Progress/Progress';
 
@@ -18,15 +18,15 @@ let mungus = false;
 
 const Question = (props) => {
   
-  let styleName = 'container';
+  let klass = 'container';
   if (props.error) {
-    styleName = 'container-error'
+    klass = 'container-error'
   }
   if (props.close) {
-    styleName = 'container-close';
+    klass = 'container-close';
   }
   if (props.correct) {
-    styleName = 'container-correct'
+    klass = 'container-correct'
   }
 
   if (props.newAnimation !== oldprops) {
@@ -40,14 +40,16 @@ const Question = (props) => {
   if (props.answer)
     answer = props.answer.split('|')[0];
 
+  let x = 'container';
+
   return (
-    <div styleName={styleName} onClick={props.error || props.correct ? () => props.startNextRound() : undefined}>
-      <span id="animated" styleName='animate'>
+    <div klass={x} onClick={props.error || props.correct ? () => props.startNextRound() : undefined}>
+      <span id="animated" klass='animate'>
         <span>score: {props.words}</span>  
       </span>
-      <span styleName='total'>score: {props.words}</span>
+      <span klass='total'>score: {props.words}</span>
 
-      <div styleName='question'>
+      <div klass='question'>
         <div>{question}</div>
         <Progress 
           score={props.score}
@@ -57,22 +59,21 @@ const Question = (props) => {
       </div>
 
       
-
-      <div styleName='answer'>
+        <div klass='answer'>
         {props.error || props.correct ? answer : props.currentAnswer}
-        <span styleName='underscore'>_</span>
-        <div styleName='wrong-answer'>
+        <span klass='underscore'>_</span>
+        <div klass='wrong-answer'>
           {props.error ? props.currentAnswer : ' '}
         </div>
       </div>
 
-      <div styleName={props.error || props.correct ? '' : 'hidden'}>
-        <div onClick={props.repeatAudio} styleName='repeat'>
+      <div klass={props.error || props.correct ? '' : 'hidden'}>
+        <div onClick={props.repeatAudio} klass='repeat'>
           <Glyphicon glyph="repeat" />
         </div>
       </div>
       
-      <div styleName="timer" onClick={props.loseRound}>
+      <div klass="timer" onClick={props.loseRound}>
       </div>
 
     </div>
@@ -80,5 +81,5 @@ const Question = (props) => {
         
 }
 
-export default CSSModules(Question, styles);
+export default Question;
  
